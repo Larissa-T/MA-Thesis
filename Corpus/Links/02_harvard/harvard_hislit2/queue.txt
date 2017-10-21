@@ -1,0 +1,4 @@
+https://histlit.fas.harvard.edu/calendar?day=2016-04-11&type=day
+https://histlit.fas.harvard.edu/calendar?day=2019-09-10&type=day
+https://histlit.fas.harvard.edu/calendar?type=day&day=2016-04-12
+https://histlit.fas.harvard.edu/calendar?type=day&day=2019-09-09
