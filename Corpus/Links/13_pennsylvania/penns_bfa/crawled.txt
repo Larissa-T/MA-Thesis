@@ -1,0 +1,12 @@
+http://www.sas.upenn.edu/lps/undergraduate/bfa
+http://www.sas.upenn.edu/lps/undergraduate/bfa#main-content
+http://www.sas.upenn.edu/lps/undergraduate/bfa/admissions
+http://www.sas.upenn.edu/lps/undergraduate/bfa/admissions/application
+http://www.sas.upenn.edu/lps/undergraduate/bfa/contact
+http://www.sas.upenn.edu/lps/undergraduate/bfa/curriculum
+http://www.sas.upenn.edu/lps/undergraduate/bfa/resources
+http://www.sas.upenn.edu/lps/undergraduate/bfa/stories
+http://www.sas.upenn.edu/lps/undergraduate/bfa/stories/jennifer-hall
+http://www.sas.upenn.edu/lps/undergraduate/bfa/stories/sean-williams
+http://www.sas.upenn.edu/lps/undergraduate/bfa/tuition
+http://www.sas.upenn.edu/lps/undergraduate/bfa/tuition/financial-aid
