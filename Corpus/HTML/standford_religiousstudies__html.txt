@@ -1,0 +1,1426 @@
+http://religiousstudies.stanford.edu/courses/ /n<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link rel="shortcut icon" href="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://religiousstudies.stanford.edu/courses" />
+<link rel="shortlink" href="https://religiousstudies.stanford.edu/courses" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Current Courses | Religious Studies</title>
+  <link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_JsNupfpWENtZl3PsbtMoRvOBlo9YKAdVhAdHLPsR8FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_9tSZ0nPz-1H4xvY-ur8aWaAgaF4oAzsrLDvWf6KvPSU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_IPsJXOlJWjS4CAmDc3huZyG7ypPn2guuZz9gDqMe2pg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_ozrFWUvdoWJciNtSljXR0GqAIIHP_SZGK6Hbo8SU_h8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_9KS0YkXLUn0ix6J7X7YFYPwlhvljt3hlWvT2RkUfDhk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_6JC8TYxeRjJ05TL_Er7OhhTiRnKgKmOym-6lJHXzBDc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_nGZ0EUi6HATidAf3pITrpLdyTGtTsmfVAzXLpUp2gr4.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_1ua6Bjl-dsKwVHqLq6CxRo6pJAesuOhleOi6G5-RbyI.css" media="all" />
+  <script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_ZDOaep6HA5A0eriyiN-YaNv7MHsjd-FIuFyilZ2o5cw.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_g98Ekqvuj1mMaUqTkLdcrMmJymw4aFC5YyzBQBviahY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_V1ZuwJK9uzfm6fFffOcHHubfxnimoxnbgG58pvTQdpY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_Ija-ztQiUW9R6JC8pQZy2TX-5GfPrbXDyVkg8MPdlMA.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_dcvUqFT39D9nfx5s1jzy0SWmeKIHhbbkaLjntGWmVkY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_iDWlPmTyzOjuyz3-g0MT0zf-aQMwoFt4P76WwVv3jYI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-56056001-47", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_PJhTnkxydMuVbMTmxqAHkqjfBvIpFssfwf4u5a-Jteg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_9cK0ID99e4vgND5XBb3ButI-3Cx3e37QuFo8f7KyqAg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_6lEiBKPgYd0J4j7bMPiKzKQR5ow6mo0LR6Gtg_UkEpo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stanford_framework","theme_token":"zOXf8PamLhYNogU-jm-ZyIdU2-cJ_EMLicPw0mXlU8Y","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/default\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/default\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/social-media.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/icon-block.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/full-width-banner.css":1,"sites\/all\/modules\/stanford\/stanford_carousel\/css\/stanford_carousel.css":1,"sites\/default\/modules\/stanford\/stanford_conference\/css\/stanford-conference.css":1,"sites\/all\/modules\/stanford\/stanford_gallery\/css\/stanford_gallery.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart-theme-fixes.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_academic\/css\/jumpstart-academic.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_shortcuts\/css\/shortcuts.css":1,"sites\/default\/modules\/stanford\/stanford_landing_page\/css\/stanford_landing_page.css":1,"sites\/default\/modules\/stanford\/stanford_news\/css\/stanford_news.css":1,"sites\/default\/modules\/stanford\/stanford_news\/modules\/stanford_news_views\/css\/stanford_news_views.css":1,"sites\/default\/modules\/stanford\/stanford_person\/css\/stanford_person.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_wysiwyg\/node_modules\/tablesaw\/dist\/tablesaw.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_wysiwyg\/css\/stanford_jumpstart_wysiwyg.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/modules\/stanford_events_views\/css\/stanford_events_views.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/stanford_bean_types.css":1,"sites\/default\/modules\/stanford\/stanford_field_formatters\/css\/stanford_field_formatters.css":1,"sites\/default\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home_typography.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-3.2.1\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford-framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/ie.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/fonts-sans.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/stanford-light.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/styles-light.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_9.css":1,"public:\/\/css_injector\/css_injector_11.css":1},"js":{"misc\/jquery.js":1,"sites\/all\/themes\/open_framework\/js\/jquery-migrate-1.2.1.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.slider.min.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-sliderAccess.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.js":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/js\/stanford-bean-types.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_event_nodes.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_events_calendar.js":1,"sites\/default\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.js":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_wysiwyg\/js\/stanford_jumpstart_wysiwyg.js":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_wysiwyg\/node_modules\/tablesaw\/dist\/tablesaw.js":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_wysiwyg\/node_modules\/tablesaw\/dist\/tablesaw-init.js":1,"sites\/default\/modules\/contrib\/views_selective_filters\/js\/attachBehaviours.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/modules\/stanford_events_views\/js\/stanford_events_views.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/stanford\/stanford_date_timepicker\/js\/stanford_date_timepicker.js":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/default\/themes\/stanford_framework\/js\/stanford-framework.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel_aria.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"stanford_jumpstart_wysiwyg":{"default":0},"urlIsAjaxTrusted":{"\/courses\/search":true,"\/courses":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"field_group":{"div":"default"},"stanford_date_timepicker":{"classes":"","default_date_format":"yy-mm-dd","default_time_format":"hh:mm","default_separator":" "}});
+//--><!]]>
+</script>
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/sites/all/themes/open_framework/packages/font-awesome-3.2.1/css/font-awesome-ie7.min.css" />  <![endif]-->
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-courses stanford-jumpstart-home-panama active-home-context        style-custom  header-bkg-image header-bkg-text-light style-custom-styles-light style-custom-fonts-sans" >
+    <div id="wrap"><a href="#main" class="element-invisible element-focusable">Skip to content</a>
+    <a href="#main-nav" class="element-invisible element-focusable">Skip to navigation</a>
+    <!-- /#skipnav -->
+    <!-- /#admin-shortcuts -->
+  <div id="global-header">
+    <div class="container">
+      <div class="row-fluid">
+        <div id="top-logo" class="span4"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/header-stanford-logo@2x.png" alt="Stanford University"></a></div>
+              </div>
+    </div>
+  </div>
+  <!-- /#global-header -->
+  <div id="header" class="clearfix header" role="banner">
+    <div class="container">
+      <div class="row">
+        <div class="span9">
+                    <div id="logo" class=" "> <a href="/" title="Home" rel="home"> <img src="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/logo.png" alt="Stanford" role="presentation"> </a>
+                      </div>
+                    <!-- /#logo -->
+                    <div id="name-and-slogan"  class="with-logo">
+                        <div id="site-name" class="site-name"><a href="/" title="Home" rel="home">Religious Studies</a></div>
+                                                                      </div>
+                                        <!-- /#name-and-slogan -->
+                    <!-- /#header-content -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /#header -->
+    <div id="main-menu" class="clearfix site-main-menu">
+    <div class="container">
+      <div class="navbar">
+                <div class="navbar-inner">
+                              <div id="nav-search" class="nav-search"> <div class="region region-search-box clearfix">
+  <div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/courses" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Search" type="image" id="edit-submit" name="submit" src="https://religiousstudies.stanford.edu/sites/all/themes/open_framework/images/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-g_iEX_aPD505H4yDI2Kv1UFQZ8aCKXqxGPUYbVx064E" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                              <button aria-label="Navigation menu" class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse"> <span class="hide">Navigation menu</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <div class="nav-collapse collapse">
+            <nav id="main-nav" role="navigation">
+                                          <div class="region region-navigation clearfix">
+  <div id="block-menu-block-stanford-jsa-layouts-3" class="clearfix block block-menu-block">     <h2>Main menu</h2>
+      <div class="content"> <div class="menu-block-wrapper menu-block-stanford_jsa_layouts-3 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first expanded menu-mlid-1221 dropdown"><a href="/about" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1223"><a href="/about/mission">Mission</a></li>
+<li class="leaf menu-mlid-1209"><a href="/news/recent-news/masonry" title="">Recent News</a></li>
+<li class="leaf menu-mlid-1885"><a href="/about/history">History</a></li>
+<li class="leaf menu-mlid-1229"><a href="/about/affiliates">Affiliates</a></li>
+<li class="last leaf menu-mlid-1227"><a href="/about/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1153 dropdown"><a href="/academics/undergraduate-program" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Undergraduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1887"><a href="/undergraduate/future-paths">Future Paths</a></li>
+<li class="leaf menu-mlid-2319"><a href="/undergraduate/why-study-religion">Why Religious Studies</a></li>
+<li class="leaf has-children menu-mlid-1171"><a href="/undergraduate/degrees-overview">Degrees</a></li>
+<li class="leaf menu-mlid-1167"><a href="/undergraduate/how-declare">How to Declare</a></li>
+<li class="leaf has-children menu-mlid-1883"><a href="/undergraduate/student-awards">Awards</a></li>
+<li class="last leaf menu-mlid-2415"><a href="/undergraduate/meet-your-peer-advisor">Peer Advisor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1173 dropdown"><a href="/academics/graduate-programs" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Graduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1191"><a href="/graduate/co-term-program">Co-term Program</a></li>
+<li class="leaf menu-mlid-1865"><a href="/graduate/doctoral-program">Doctoral Program</a></li>
+<li class="leaf has-children menu-mlid-1891"><a href="/graduate/fields-study">Fields of Study</a></li>
+<li class="leaf menu-mlid-1177"><a href="/graduate-programs/admissions">Admissions</a></li>
+<li class="leaf menu-mlid-1183"><a href="/graduate-programs/requirements">Requirements</a></li>
+<li class="leaf menu-mlid-1867"><a href="/graduate-programs/funding">Funding</a></li>
+<li class="leaf menu-mlid-1889"><a href="/graduate/doctoral-program/exchanges">Exchanges</a></li>
+<li class="last leaf menu-mlid-1179"><a href="/graduate-programs/forms">Handbook</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1197 dropdown"><a href="/people" class="dropdown-toggle" data-toggle="dropdown" data-target="#">People <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf has-children menu-mlid-2381"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf menu-mlid-1203"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf menu-mlid-2383"><a href="/people/students" title="">Graduate Students</a></li>
+<li class="last leaf has-children menu-mlid-1851"><a href="/people/alumni" title="">Alumni</a></li>
+</ul></li>
+<li class="leaf active-trail active menu-mlid-1195"><a href="/courses" title="" class="active-trail active">Courses</a></li>
+<li class="leaf menu-mlid-1205"><a href="/publications" title="">Publications</a></li>
+<li class="last expanded menu-mlid-1215 dropdown"><a href="/events" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Events <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1217"><a href="/events/upcoming-events">Upcoming Events</a></li>
+<li class="leaf menu-mlid-2203"><a href="/events/series/colloquium-series">Colloquium Series</a></li>
+<li class="leaf menu-mlid-1219"><a href="/events/past-events">Past Events</a></li>
+<li class="last leaf has-children menu-mlid-2327"><a href="/conferences" title="">Grad Student Conferences</a></li>
+</ul></li>
+</ul></div>
+ </div>
+</div></div>
+ <!-- /.region -->
+                          </nav>
+          </div>
+                                      </div>
+              </div>
+    </div>
+  </div>
+  <!-- /#main-menu -->
+  
+  
+  <div id="main" class="clearfix main" role="main">
+  	        <div class="container">
+            <div id="main-content" class="row main-content">
+                <div id="sidebar-first" class="sidebar site-sidebar-first span3">
+          <div class="row-fluid"><div class="region region-sidebar-first clearfix">
+  <div id="block-views-85c57f65aa0dee37d8aa5a5031e564bc" class="clearfix block block-views well">     <h2>Search All Courses</h2>
+      <div class="content"> <form action="/courses/search" method="get" id="views-exposed-form-courses-reference-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-combine-wrapper" class="views-exposed-widget views-widget-filter-combine">
+                  <label for="edit-combine">
+            By Keyword          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-combine">
+ <input type="text" id="edit-combine" name="combine" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-field-s-course-section-year-value-selective-wrapper" class="views-exposed-widget views-widget-filter-field_s_course_section_year_value_selective">
+                  <label for="edit-field-s-course-section-year-value-selective">
+            Academic year          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-s-course-section-year-value-selective">
+ <select id="edit-field-s-course-section-year-value-selective" name="field_s_course_section_year_value_selective" class="form-select"><option value="All" selected="selected">- Any -</option><option value="2017">2017-2018</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-field-s-course-term-value-wrapper" class="views-exposed-widget views-widget-filter-field_s_course_term_value">
+                  <label for="edit-field-s-course-term-value">
+            Quarter          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-s-course-term-value">
+ <select id="edit-field-s-course-term-value" name="field_s_course_term_value" class="form-select"><option value="All" selected="selected">- Any -</option><option value="Autumn">Autumn</option><option value="Winter">Winter</option><option value="Spring">Spring</option><option value="Summer">Summer</option></select>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-courses-reference" name="" value="Go" class="form-submit" />    </div>
+          <div class="views-exposed-widget views-reset-button">
+        <input type="submit" id="edit-reset" name="op" value="Reset" class="form-submit" />      </div>
+      </div>
+</div>
+</div></form> </div>
+</div>
+<div id="block-bean-jumpstart-featured-course" class="clearfix block block-bean well">     <h2>RELIGST 32: Spiritualism and the Occult</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-postcard clearfix" about="/block/jumpstart-featured-course" typeof="">
+
+  <div class="content">
+    <div class="postcard"><div class="postcard"><div class="field-collection-container clearfix"><div class="field field-name-field-s-image-info field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-stanford-4-col-header field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-s-image-info clearfix" about="/field-collection/field-s-image-info/59" typeof="">
+  <div class="content">
+    <div class="border-simple-nowidth border-shadow"><div class="field field-name-field-s-image-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="image-style-4-col-header" typeof="foaf:Image" src="https://religiousstudies.stanford.edu/sites/default/files/styles/4-col-header/public/screen_shot_2017-07-18_at_3.54.50_pm.png?itok=yF37j0a8" width="370" height="140" alt="" /></div></div></div></div>  </div>
+</div>
+</div></div></div></div></div></div><div class="postcard-content"><div class="field field-name-field-s-postcard-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>What is the relationship between seen and unseen? How can the living communicate with the dead? What technologies apply to our inner lives? <span>Examine the popular mystical practices of the nineteenth and early twentieth centuries.</span></p>
+</div></div></div><div class="field field-name-field-s-postcard-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://religiousstudies.stanford.edu/courses/2017-2018-religst-32" class="more-link">Read more about the course here</a></div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+</div>
+ <!-- /.region -->
+</div>
+        </div>
+        <!-- /#sidebar-first -->
+                <div id="content" class="mc-content span9">
+          <div id="content-wrapper" class="content-wrapper">
+            <div id="content-head" class="row-fluid content-head">
+                                                        <h1 class="title" id="page-title"> Current Courses </h1>
+                                                                                                </div>
+                                                <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <div class="view view-courses-reference view-id-courses_reference view-display-id-current_courses_page view-dom-id-51380512ec7134a31b82aab548c89518">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-4" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-title"  scope="col">
+            <a href="/courses?order=title&amp;sort=asc" title="sort by Title" class="active">Title</a>          </th>
+                  <th class="views-field views-field-field-s-course-person"  scope="col">
+            Instructor          </th>
+                  <th class="views-field views-field-field-s-course-section-year"  scope="col">
+            Quarter          </th>
+                  <th class="views-field views-field-field-s-course-dow"  scope="col">
+            Day, Time, Location          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title" >
+            RELIGST 115X<br /><a href="/courses/2017-2018-religst-115x">Europe in the Middle Ages, 300-1500 (HISTORY 15D, HISTORY 115D)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Griffiths, F., Lilje, N.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>9:00am - 10:20am</div> <div>School of Education 313</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 126<br /><a href="/courses/2017-2018-religst-126">Protestant Reformation (HISTORY 126B)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Pitkin, B.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>10:30am - 11:50am</div> <div>School of Education 313</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title" >
+            RELIGST 12N<br /><a href="/courses/2017-2018-religst-12n">Perspectives on the Good Life</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Yearley, L.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>1:30pm - 2:50pm</div> <div>110-101</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 180<br /><a href="/courses/2017-2018-religst-180">Gender Relations in Islam (FEMGEN 180)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Najafian, A.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Monday Wednesday</div> <div>10:30am - 11:50am</div> <div>420-050</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title" >
+            RELIGST 218X<br /><a href="/courses/2017-2018-religst-218x">The Holy Dead: Saints and Spiritual Power in Medieval Europe (HISTORY 218, HISTORY 318, RELIGST 318X)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Griffiths, F.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>12:00pm - 1:20pm</div> <div>200-202</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 228<br /><a href="/courses/2017-2018-religst-228">The Buddha&#039;s Word at Stanford (RELIGST 328)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Mross, M., Harrison, P.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Friday</div> <div>2:30pm - 5:20pm</div> <div>Cantor Arts Center</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title" >
+            RELIGST 262<br /><a href="/courses/2017-2018-religst-262">Sex and the Early Church (FEMGEN 262, RELIGST 362)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Penn, M.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>3:00pm - 4:20pm</div> <div>90-92Q</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 304B<br /><a href="/courses/2017-2018-religst-304b">Theories and Methods</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Yearley, L.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Monday</div> <div>1:30pm - 4:20pm</div> <div>240-201</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title" >
+            RELIGST 313X<br /><a href="/courses/2017-2018-religst-313x">The Education of American Jews (EDUC 313, JEWISHST 393X)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Kelman, A.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Monday</div> <div>9:30am - 11:20am</div> <div>50-52H</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 318X<br /><a href="/courses/2017-2018-religst-318x">The Holy Dead: Saints and Spiritual Power in Medieval Europe (HISTORY 218, HISTORY 318, RELIGST 218X)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Griffiths, F.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>12:00pm - 1:20pm</div> <div>200-202</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title" >
+            RELIGST 32<br /><a href="/courses/2017-2018-religst-32">Spiritualism and the Occult</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Willburn, S.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Monday Wednesday</div> <div>1:30pm - 2:50pm</div> <div>School of Education 210</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 328<br /><a href="/courses/2017-2018-religst-328">The Buddha&#039;s Word at Stanford (RELIGST 228)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Mross, M., Harrison, P.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Friday</div> <div>2:30pm - 5:20pm</div> <div>Cantor Arts Center</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title" >
+            RELIGST 333X<br /><a href="/courses/2017-2018-religst-333x">Workshop in Religion and Education (EDUC 412)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Kelman, A.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Friday</div> <div>9:30am - 10:50am</div> <div>160-331</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 362<br /><a href="/courses/2017-2018-religst-362">Sex and the Early Church (FEMGEN 262, RELIGST 262)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Penn, M.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>3:00pm - 4:20pm</div> <div>90-92Q</div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title" >
+            RELIGST 71<br /><a href="/courses/2017-2018-religst-71">Jews and Christians: Conflict and Coexistence (JEWISHST 71)</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Duarte de Oliveira, M.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>1:30pm - 2:50pm</div> <div>90-92Q</div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title" >
+            RELIGST 9N<br /><a href="/courses/2017-2018-religst-9n">What Didn&#039;t Make it into the Bible</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Penn, M.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>10:30am - 11:50am</div> <div>460-334</div>          </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-title" >
+            THINK 50<br /><a href="/courses/2017-2018-think-50">Empathy</a><br /><div></div>          </td>
+                  <td class="views-field views-field-field-s-course-person" >
+            Shaw, J.          </td>
+                  <td class="views-field views-field-field-s-course-section-year" >
+            2017-2018 Autumn          </td>
+                  <td class="views-field views-field-field-s-course-dow descriptor" >
+            <div>Tuesday Thursday</div> <div>10:30am - 11:20am</div> <div>420-040</div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+ <!-- /.region -->
+  </div>
+                                                                                                                        <div id="content-bottom" class="row-fluid content-bottom"> <div class="region region-content-bottom clearfix">
+  <div id="block-bean-courses-disclaimer-block" class="clearfix block block-bean well">     <h2>Important note</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-postcard clearfix" about="/block/courses-disclaimer-block" typeof="">
+
+  <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-field-s-postcard-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>When in doubt, please check <a href="http://explorecourses.stanford.edu/search?q=RELIGST&amp;view=catalog&amp;academicYear=&amp;collapse=&amp;filter-departmentcode-RELIGST=on&amp;filter-catalognumber-RELIGST=on&amp;filter-coursestatus-Active=on&amp;filter-catalognumber-RELIGST=on&amp;filter-term-Autumn=off&amp;filter-term-Winter=off&amp;filter-term-Spring=off&amp;filter-term-Summer=off&amp;page=0">Explore Courses</a> to verify our course offerings.</p>
+<p>Other useful links: <a href="https://web.stanford.edu/group/canvas/discovery/">Canvas</a> &amp; <a href="https://axess.stanford.edu/">Axess</a></p>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                      </div>
+          <!-- /#content-wrap -->
+        </div>
+        <!-- /#content -->
+              </div>
+                </div>
+  </div>
+  <!-- /#main, /#main-wrapper -->
+    <div id="push"></div>
+  <!-- /#push -->
+</div>
+<!-- /#wrap -->
+<div id="footer" class="clearfix footer site-footer">
+  <div class="container">
+        <div id="footer-content" class="row-fluid footer-content"> <div class="region region-footer clearfix">
+  <div id="block-menu-menu-footer-about-menu" class="clearfix block block-menu span2">     <h2>About</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/about">About Us</a></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="/about/affiliates">Affiliated Programs</a></li>
+<li class="last leaf"><a href="/about/contact-us">Contact</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-academics-menu" class="clearfix block block-menu span2">     <h2>Academics</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/undergraduate/why-study-religion" title="">Why Religious Studies</a></li>
+<li class="leaf"><a href="/academics/undergraduate-program">Undergraduate Program</a></li>
+<li class="leaf"><a href="/academics/graduate-programs">Graduate Programs</a></li>
+<li class="last leaf active-trail"><a href="/courses" class="active-trail active">Courses</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-people-menu" class="clearfix block block-menu span2">     <h2>People</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf"><a href="/people/students" title="">Students</a></li>
+<li class="last leaf"><a href="/people/alumni" title="">Alumni</a></li>
+</ul> </div>
+</div>
+<div id="block-bean-support-footer-block" class="clearfix block block-bean span3">     <h2>Support</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-postcard clearfix" about="/block/support-footer-block" typeof="">
+
+  <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-field-s-postcard-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Your contribution can further our academic and outreach programs.</p>
+<p><a class="btn" href="http://makeagift.stanford.edu">MAKE A GIFT</a></p>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-contact-block" class="clearfix block block-bean span3">     <h2>Contact Us</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-contact clearfix" about="/block/jumpstart-footer-contact-block" typeof="">
+
+  <div class="content">
+    <div><div class="field field-name-field-s-contact-address-line-1 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Department of Religious Studies</div></div></div><div class="field field-name-field-s-contact-address-line-2 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">450 Serra Mall</div></div></div><div class="field field-name-field-s-contact-address-line-3 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bldg 70 | main quad</div></div></div><div class="field field-name-field-s-contact-city-state-zip field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stanford, CA 94305-2165</div></div></div></div><div class="field field-name-field-s-contact-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(650)723-3322</div></div></div><div class="field field-name-field-s-contact-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:religst-info@stanford.edu">religst-info@stanford.edu</a></div></div></div><div class="field field-name-field-s-contact-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://campus-map.stanford.edu/?id=01-070&amp;lat=37.42724339&amp;lng=-122.17124819&amp;zoom=17&amp;srch=building%2070">Campus Map</a></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-social-media-0" class="clearfix block block-bean span3 pull-right">       <div class="content"> <div class="entity entity-bean bean-stanford-social-media-connect clearfix" about="/block/jumpstart-footer-social-media--0" typeof="">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-s-smc-links field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-s-smc-links clearfix" about="/field-collection/field-s-smc-links/991" typeof="">
+  <div class="content">
+    <div class="field field-name-field-s-smc-icon field-type-fontawesome-icon field-label-hidden color-facebook"><div class="field-items"><div class="field-item even"><a href="http://www.facebook.com/pages/Religious-Studies-at-Stanford/117518751602665?ref=ts" title="Facebook"><i class="fa fa-facebook-official"><span class="visually-hidden">Facebook</span></i>
+</a></div></div></div>  </div>
+</div>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+</div>
+ <!-- /.region -->
+ </div>
+      </div>
+</div>
+<!-- /#footer -->
+<div id="global-footer" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div id="bottom-logo" class="span2"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/footer-stanford-logo@2x.png" alt="Stanford University"></a></div>
+      <div id="bottom-menu" class="span10">
+        <ul>
+          <li><a href="http://www.stanford.edu">SU Home</a></li>
+          <li><a href="http://visit.stanford.edu/plan/maps.html">Maps &amp; Directions</a></li>
+          <li><a href="http://www.stanford.edu/search/">Search Stanford</a></li>
+          <li><a href="http://www.stanford.edu/site/terms.html">Terms of Use</a></li>
+          <li><a href="http://emergency.stanford.edu/">Emergency Info</a></li>
+        </ul>
+      </div>
+      <div id="copyright" class="span10 offset2">
+        <p class="vcard">&copy; <span class="fn org">Stanford University</span>, <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span></span>. <span class="copyright-links"><a href="http://www.stanford.edu/site/copyright.html">Copyright Complaints</a></span></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /#global-footer -->
+  </body>
+
+</html>http://religiousstudies.stanford.edu/event/interdepartmental-tea-choosing-courses-choosing-programs/ /n<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+<link rel="shortcut icon" href="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://religiousstudies.stanford.edu/" />
+<link rel="shortlink" href="https://religiousstudies.stanford.edu/" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found | Religious Studies</title>
+  <link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_JsNupfpWENtZl3PsbtMoRvOBlo9YKAdVhAdHLPsR8FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_9tSZ0nPz-1H4xvY-ur8aWaAgaF4oAzsrLDvWf6KvPSU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_IPsJXOlJWjS4CAmDc3huZyG7ypPn2guuZz9gDqMe2pg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_ZcSVIefEmR42p8Xo2elTLXPHjbD0vHwgxVmOaKEaMDE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_FqXBiktFUAbGDICSnfdPube2HRJGQ5WE3rT-IE5o3KI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_6JC8TYxeRjJ05TL_Er7OhhTiRnKgKmOym-6lJHXzBDc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_nGZ0EUi6HATidAf3pITrpLdyTGtTsmfVAzXLpUp2gr4.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_1ua6Bjl-dsKwVHqLq6CxRo6pJAesuOhleOi6G5-RbyI.css" media="all" />
+  <script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_ZDOaep6HA5A0eriyiN-YaNv7MHsjd-FIuFyilZ2o5cw.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_g98Ekqvuj1mMaUqTkLdcrMmJymw4aFC5YyzBQBviahY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_V1ZuwJK9uzfm6fFffOcHHubfxnimoxnbgG58pvTQdpY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_Ija-ztQiUW9R6JC8pQZy2TX-5GfPrbXDyVkg8MPdlMA.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_dcvUqFT39D9nfx5s1jzy0SWmeKIHhbbkaLjntGWmVkY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_e8_xAlUO33NVzjX6ub-uiUhNHOgN4LRpnjVGDoOL6h4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-56056001-47", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_PJhTnkxydMuVbMTmxqAHkqjfBvIpFssfwf4u5a-Jteg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_9cK0ID99e4vgND5XBb3ButI-3Cx3e37QuFo8f7KyqAg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_6lEiBKPgYd0J4j7bMPiKzKQR5ow6mo0LR6Gtg_UkEpo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stanford_framework","theme_token":"iDXC20h-FmOyN_IWdycS8YCKHQS-Ewl6-GAjc8WmeLg","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/default\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/default\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/social-media.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/icon-block.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/full-width-banner.css":1,"sites\/all\/modules\/stanford\/stanford_carousel\/css\/stanford_carousel.css":1,"sites\/default\/modules\/stanford\/stanford_conference\/css\/stanford-conference.css":1,"sites\/all\/modules\/stanford\/stanford_gallery\/css\/stanford_gallery.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart-theme-fixes.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_academic\/css\/jumpstart-academic.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_shortcuts\/css\/shortcuts.css":1,"sites\/default\/modules\/stanford\/stanford_landing_page\/css\/stanford_landing_page.css":1,"sites\/default\/modules\/stanford\/stanford_news\/css\/stanford_news.css":1,"sites\/default\/modules\/stanford\/stanford_news\/modules\/stanford_news_views\/css\/stanford_news_views.css":1,"sites\/default\/modules\/stanford\/stanford_person\/css\/stanford_person.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/stanford_bean_types.css":1,"sites\/default\/modules\/stanford\/stanford_field_formatters\/css\/stanford_field_formatters.css":1,"sites\/default\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home_typography.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-3.2.1\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford-framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/ie.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/fonts-sans.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/stanford-light.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/styles-light.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_9.css":1,"public:\/\/css_injector\/css_injector_11.css":1},"js":{"misc\/jquery.js":1,"sites\/all\/themes\/open_framework\/js\/jquery-migrate-1.2.1.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.slider.min.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-sliderAccess.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.js":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/js\/stanford-bean-types.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_event_nodes.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_events_calendar.js":1,"sites\/default\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/stanford\/stanford_date_timepicker\/js\/stanford_date_timepicker.js":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/default\/themes\/stanford_framework\/js\/stanford-framework.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel_aria.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/event\/interdepartmental-tea-choosing-courses-choosing-programs":true},"field_group":{"div":"default"},"stanford_date_timepicker":{"classes":"","default_date_format":"yy-mm-dd","default_time_format":"hh:mm","default_separator":" "}});
+//--><!]]>
+</script>
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/sites/all/themes/open_framework/packages/font-awesome-3.2.1/css/font-awesome-ie7.min.css" />  <![endif]-->
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-367 node-type-stanford-page stanford-jumpstart-home-panama active-home-context        style-custom  header-bkg-image header-bkg-text-light style-custom-styles-light style-custom-fonts-sans" >
+    <div id="wrap"><a href="#main" class="element-invisible element-focusable">Skip to content</a>
+    <a href="#main-nav" class="element-invisible element-focusable">Skip to navigation</a>
+    <!-- /#skipnav -->
+    <!-- /#admin-shortcuts -->
+  <div id="global-header">
+    <div class="container">
+      <div class="row-fluid">
+        <div id="top-logo" class="span4"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/header-stanford-logo@2x.png" alt="Stanford University"></a></div>
+              </div>
+    </div>
+  </div>
+  <!-- /#global-header -->
+  <div id="header" class="clearfix header" role="banner">
+    <div class="container">
+      <div class="row">
+        <div class="span9">
+                    <div id="logo" class=" "> <a href="/" title="Home" rel="home"> <img src="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/logo.png" alt="Stanford" role="presentation"> </a>
+                      </div>
+                    <!-- /#logo -->
+                    <div id="name-and-slogan"  class="with-logo">
+                        <div id="site-name" class="site-name"><a href="/" title="Home" rel="home">Religious Studies</a></div>
+                                                                      </div>
+                                        <!-- /#name-and-slogan -->
+                    <!-- /#header-content -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /#header -->
+    <div id="main-menu" class="clearfix site-main-menu">
+    <div class="container">
+      <div class="navbar">
+                <div class="navbar-inner">
+                              <div id="nav-search" class="nav-search"> <div class="region region-search-box clearfix">
+  <div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/event/interdepartmental-tea-choosing-courses-choosing-programs" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Search" type="image" id="edit-submit" name="submit" src="https://religiousstudies.stanford.edu/sites/all/themes/open_framework/images/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-Taef-Q29szIKNVmrmQ9uzMoXpBkpsA1HIC9sPOSqXOs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                              <button aria-label="Navigation menu" class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse"> <span class="hide">Navigation menu</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <div class="nav-collapse collapse">
+            <nav id="main-nav" role="navigation">
+                                          <div class="region region-navigation clearfix">
+  <div id="block-menu-block-stanford-jsa-layouts-3" class="clearfix block block-menu-block">     <h2>Main menu</h2>
+      <div class="content"> <div class="menu-block-wrapper menu-block-stanford_jsa_layouts-3 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first expanded menu-mlid-1221 dropdown"><a href="/about" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1223"><a href="/about/mission">Mission</a></li>
+<li class="leaf menu-mlid-1209"><a href="/news/recent-news/masonry" title="">Recent News</a></li>
+<li class="leaf menu-mlid-1885"><a href="/about/history">History</a></li>
+<li class="leaf menu-mlid-1229"><a href="/about/affiliates">Affiliates</a></li>
+<li class="last leaf menu-mlid-1227"><a href="/about/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1153 dropdown"><a href="/academics/undergraduate-program" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Undergraduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1887"><a href="/undergraduate/future-paths">Future Paths</a></li>
+<li class="leaf menu-mlid-2319"><a href="/undergraduate/why-study-religion">Why Religious Studies</a></li>
+<li class="leaf has-children menu-mlid-1171"><a href="/undergraduate/degrees-overview">Degrees</a></li>
+<li class="leaf menu-mlid-1167"><a href="/undergraduate/how-declare">How to Declare</a></li>
+<li class="leaf has-children menu-mlid-1883"><a href="/undergraduate/student-awards">Awards</a></li>
+<li class="last leaf menu-mlid-2415"><a href="/undergraduate/meet-your-peer-advisor">Peer Advisor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1173 dropdown"><a href="/academics/graduate-programs" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Graduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1191"><a href="/graduate/co-term-program">Co-term Program</a></li>
+<li class="leaf menu-mlid-1865"><a href="/graduate/doctoral-program">Doctoral Program</a></li>
+<li class="leaf has-children menu-mlid-1891"><a href="/graduate/fields-study">Fields of Study</a></li>
+<li class="leaf menu-mlid-1177"><a href="/graduate-programs/admissions">Admissions</a></li>
+<li class="leaf menu-mlid-1183"><a href="/graduate-programs/requirements">Requirements</a></li>
+<li class="leaf menu-mlid-1867"><a href="/graduate-programs/funding">Funding</a></li>
+<li class="leaf menu-mlid-1889"><a href="/graduate/doctoral-program/exchanges">Exchanges</a></li>
+<li class="last leaf menu-mlid-1179"><a href="/graduate-programs/forms">Handbook</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1197 dropdown"><a href="/people" class="dropdown-toggle" data-toggle="dropdown" data-target="#">People <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf has-children menu-mlid-2381"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf menu-mlid-1203"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf menu-mlid-2383"><a href="/people/students" title="">Graduate Students</a></li>
+<li class="last leaf has-children menu-mlid-1851"><a href="/people/alumni" title="">Alumni</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1195"><a href="/courses" title="">Courses</a></li>
+<li class="leaf menu-mlid-1205"><a href="/publications" title="">Publications</a></li>
+<li class="last expanded menu-mlid-1215 dropdown"><a href="/events" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Events <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1217"><a href="/events/upcoming-events">Upcoming Events</a></li>
+<li class="leaf menu-mlid-2203"><a href="/events/series/colloquium-series">Colloquium Series</a></li>
+<li class="leaf menu-mlid-1219"><a href="/events/past-events">Past Events</a></li>
+<li class="last leaf has-children menu-mlid-2327"><a href="/conferences" title="">Grad Student Conferences</a></li>
+</ul></li>
+</ul></div>
+ </div>
+</div></div>
+ <!-- /.region -->
+                          </nav>
+          </div>
+                                      </div>
+              </div>
+    </div>
+  </div>
+  <!-- /#main-menu -->
+  
+  
+  <div id="main" class="clearfix main" role="main">
+  	        <div class="container">
+            <div id="main-content" class="row main-content">
+                <div id="content" class="mc-content span12">
+          <div id="content-wrapper" class="content-wrapper">
+            <div id="content-head" class="row-fluid content-head">
+                                                        <h1 class="title" id="page-title"> Page Not Found </h1>
+                                                                                                </div>
+                                                <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <article id="node-367" class="node node-stanford-page clearfix" about="/page-not-found" typeof="sioc:Item foaf:Document">      <span property="dc:title" content="Page Not Found" class="rdf-meta element-hidden"></span>    <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="float-right"><img alt="Picture of statue grabbing head" src="https://religiousstudies.stanford.edu/sites/default/files/styles/large-scaled/public/img_3071_3.jpg?itok=oJLBQS69" /></p>
+<p class="summary">Oops! We can't find that page! </p>
+<p class="summary">We have a new site and things have moved around a bit. Here are some good places to start:</p>
+<p><a class="btn" href="https://religiousstudies.stanford.edu/home" rel="nofollow">Homepage</a></p>
+<p><a class="btn" href="https://religiousstudies.stanford.edu/search" rel="nofollow">Search this site... </a></p>
+</div></div></div></div></div>  </div>
+    </article> </div>
+</div></div>
+ <!-- /.region -->
+  </div>
+                                                                                                                      </div>
+          <!-- /#content-wrap -->
+        </div>
+        <!-- /#content -->
+              </div>
+                </div>
+  </div>
+  <!-- /#main, /#main-wrapper -->
+    <div id="push"></div>
+  <!-- /#push -->
+</div>
+<!-- /#wrap -->
+<div id="footer" class="clearfix footer site-footer">
+  <div class="container">
+        <div id="footer-content" class="row-fluid footer-content"> <div class="region region-footer clearfix">
+  <div id="block-menu-menu-footer-about-menu" class="clearfix block block-menu span2">     <h2>About</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/about">About Us</a></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="/about/affiliates">Affiliated Programs</a></li>
+<li class="last leaf"><a href="/about/contact-us">Contact</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-academics-menu" class="clearfix block block-menu span2">     <h2>Academics</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/undergraduate/why-study-religion" title="">Why Religious Studies</a></li>
+<li class="leaf"><a href="/academics/undergraduate-program">Undergraduate Program</a></li>
+<li class="leaf"><a href="/academics/graduate-programs">Graduate Programs</a></li>
+<li class="last leaf"><a href="/courses">Courses</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-people-menu" class="clearfix block block-menu span2">     <h2>People</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf"><a href="/people/students" title="">Students</a></li>
+<li class="last leaf"><a href="/people/alumni" title="">Alumni</a></li>
+</ul> </div>
+</div>
+<div id="block-bean-support-footer-block" class="clearfix block block-bean span3">     <h2>Support</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-postcard clearfix" about="/block/support-footer-block" typeof="">
+
+  <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-field-s-postcard-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Your contribution can further our academic and outreach programs.</p>
+<p><a class="btn" href="http://makeagift.stanford.edu">MAKE A GIFT</a></p>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-contact-block" class="clearfix block block-bean span3">     <h2>Contact Us</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-contact clearfix" about="/block/jumpstart-footer-contact-block" typeof="">
+
+  <div class="content">
+    <div><div class="field field-name-field-s-contact-address-line-1 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Department of Religious Studies</div></div></div><div class="field field-name-field-s-contact-address-line-2 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">450 Serra Mall</div></div></div><div class="field field-name-field-s-contact-address-line-3 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bldg 70 | main quad</div></div></div><div class="field field-name-field-s-contact-city-state-zip field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stanford, CA 94305-2165</div></div></div></div><div class="field field-name-field-s-contact-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(650)723-3322</div></div></div><div class="field field-name-field-s-contact-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:religst-info@stanford.edu">religst-info@stanford.edu</a></div></div></div><div class="field field-name-field-s-contact-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://campus-map.stanford.edu/?id=01-070&amp;lat=37.42724339&amp;lng=-122.17124819&amp;zoom=17&amp;srch=building%2070">Campus Map</a></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-social-media-0" class="clearfix block block-bean span3 pull-right">       <div class="content"> <div class="entity entity-bean bean-stanford-social-media-connect clearfix" about="/block/jumpstart-footer-social-media--0" typeof="">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-s-smc-links field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-s-smc-links clearfix" about="/field-collection/field-s-smc-links/991" typeof="">
+  <div class="content">
+    <div class="field field-name-field-s-smc-icon field-type-fontawesome-icon field-label-hidden color-facebook"><div class="field-items"><div class="field-item even"><a href="http://www.facebook.com/pages/Religious-Studies-at-Stanford/117518751602665?ref=ts" title="Facebook"><i class="fa fa-facebook-official"><span class="visually-hidden">Facebook</span></i>
+</a></div></div></div>  </div>
+</div>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+</div>
+ <!-- /.region -->
+ </div>
+      </div>
+</div>
+<!-- /#footer -->
+<div id="global-footer" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div id="bottom-logo" class="span2"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/footer-stanford-logo@2x.png" alt="Stanford University"></a></div>
+      <div id="bottom-menu" class="span10">
+        <ul>
+          <li><a href="http://www.stanford.edu">SU Home</a></li>
+          <li><a href="http://visit.stanford.edu/plan/maps.html">Maps &amp; Directions</a></li>
+          <li><a href="http://www.stanford.edu/search/">Search Stanford</a></li>
+          <li><a href="http://www.stanford.edu/site/terms.html">Terms of Use</a></li>
+          <li><a href="http://emergency.stanford.edu/">Emergency Info</a></li>
+        </ul>
+      </div>
+      <div id="copyright" class="span10 offset2">
+        <p class="vcard">&copy; <span class="fn org">Stanford University</span>, <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span></span>. <span class="copyright-links"><a href="http://www.stanford.edu/site/copyright.html">Copyright Complaints</a></span></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /#global-footer -->
+  </body>
+
+</html>http://religiousstudies.stanford.edu/event/interdepartmental-tea-choosing-courses-choosing-programs/?ical=1 /n<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+<link rel="shortcut icon" href="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://religiousstudies.stanford.edu/" />
+<link rel="shortlink" href="https://religiousstudies.stanford.edu/" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found | Religious Studies</title>
+  <link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_JsNupfpWENtZl3PsbtMoRvOBlo9YKAdVhAdHLPsR8FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_9tSZ0nPz-1H4xvY-ur8aWaAgaF4oAzsrLDvWf6KvPSU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_IPsJXOlJWjS4CAmDc3huZyG7ypPn2guuZz9gDqMe2pg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_ZcSVIefEmR42p8Xo2elTLXPHjbD0vHwgxVmOaKEaMDE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_FqXBiktFUAbGDICSnfdPube2HRJGQ5WE3rT-IE5o3KI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_6JC8TYxeRjJ05TL_Er7OhhTiRnKgKmOym-6lJHXzBDc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_nGZ0EUi6HATidAf3pITrpLdyTGtTsmfVAzXLpUp2gr4.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_1ua6Bjl-dsKwVHqLq6CxRo6pJAesuOhleOi6G5-RbyI.css" media="all" />
+  <script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_ZDOaep6HA5A0eriyiN-YaNv7MHsjd-FIuFyilZ2o5cw.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_g98Ekqvuj1mMaUqTkLdcrMmJymw4aFC5YyzBQBviahY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_V1ZuwJK9uzfm6fFffOcHHubfxnimoxnbgG58pvTQdpY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_Ija-ztQiUW9R6JC8pQZy2TX-5GfPrbXDyVkg8MPdlMA.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_dcvUqFT39D9nfx5s1jzy0SWmeKIHhbbkaLjntGWmVkY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_e8_xAlUO33NVzjX6ub-uiUhNHOgN4LRpnjVGDoOL6h4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-56056001-47", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_PJhTnkxydMuVbMTmxqAHkqjfBvIpFssfwf4u5a-Jteg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_9cK0ID99e4vgND5XBb3ButI-3Cx3e37QuFo8f7KyqAg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_6lEiBKPgYd0J4j7bMPiKzKQR5ow6mo0LR6Gtg_UkEpo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stanford_framework","theme_token":"ZRRmPzKEVlfuJMMAhh_8mTNyw_3UCLmA7WOtKyUuccU","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/default\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/default\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/social-media.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/icon-block.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/full-width-banner.css":1,"sites\/all\/modules\/stanford\/stanford_carousel\/css\/stanford_carousel.css":1,"sites\/default\/modules\/stanford\/stanford_conference\/css\/stanford-conference.css":1,"sites\/all\/modules\/stanford\/stanford_gallery\/css\/stanford_gallery.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart-theme-fixes.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_academic\/css\/jumpstart-academic.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_shortcuts\/css\/shortcuts.css":1,"sites\/default\/modules\/stanford\/stanford_landing_page\/css\/stanford_landing_page.css":1,"sites\/default\/modules\/stanford\/stanford_news\/css\/stanford_news.css":1,"sites\/default\/modules\/stanford\/stanford_news\/modules\/stanford_news_views\/css\/stanford_news_views.css":1,"sites\/default\/modules\/stanford\/stanford_person\/css\/stanford_person.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/stanford_bean_types.css":1,"sites\/default\/modules\/stanford\/stanford_field_formatters\/css\/stanford_field_formatters.css":1,"sites\/default\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home_typography.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-3.2.1\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford-framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/ie.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/fonts-sans.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/stanford-light.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/styles-light.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_9.css":1,"public:\/\/css_injector\/css_injector_11.css":1},"js":{"misc\/jquery.js":1,"sites\/all\/themes\/open_framework\/js\/jquery-migrate-1.2.1.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.slider.min.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-sliderAccess.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.js":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/js\/stanford-bean-types.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_event_nodes.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_events_calendar.js":1,"sites\/default\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/stanford\/stanford_date_timepicker\/js\/stanford_date_timepicker.js":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/default\/themes\/stanford_framework\/js\/stanford-framework.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel_aria.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/event\/interdepartmental-tea-choosing-courses-choosing-programs?ical=1":true},"field_group":{"div":"default"},"stanford_date_timepicker":{"classes":"","default_date_format":"yy-mm-dd","default_time_format":"hh:mm","default_separator":" "}});
+//--><!]]>
+</script>
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/sites/all/themes/open_framework/packages/font-awesome-3.2.1/css/font-awesome-ie7.min.css" />  <![endif]-->
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-367 node-type-stanford-page stanford-jumpstart-home-panama active-home-context        style-custom  header-bkg-image header-bkg-text-light style-custom-styles-light style-custom-fonts-sans" >
+    <div id="wrap"><a href="#main" class="element-invisible element-focusable">Skip to content</a>
+    <a href="#main-nav" class="element-invisible element-focusable">Skip to navigation</a>
+    <!-- /#skipnav -->
+    <!-- /#admin-shortcuts -->
+  <div id="global-header">
+    <div class="container">
+      <div class="row-fluid">
+        <div id="top-logo" class="span4"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/header-stanford-logo@2x.png" alt="Stanford University"></a></div>
+              </div>
+    </div>
+  </div>
+  <!-- /#global-header -->
+  <div id="header" class="clearfix header" role="banner">
+    <div class="container">
+      <div class="row">
+        <div class="span9">
+                    <div id="logo" class=" "> <a href="/" title="Home" rel="home"> <img src="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/logo.png" alt="Stanford" role="presentation"> </a>
+                      </div>
+                    <!-- /#logo -->
+                    <div id="name-and-slogan"  class="with-logo">
+                        <div id="site-name" class="site-name"><a href="/" title="Home" rel="home">Religious Studies</a></div>
+                                                                      </div>
+                                        <!-- /#name-and-slogan -->
+                    <!-- /#header-content -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /#header -->
+    <div id="main-menu" class="clearfix site-main-menu">
+    <div class="container">
+      <div class="navbar">
+                <div class="navbar-inner">
+                              <div id="nav-search" class="nav-search"> <div class="region region-search-box clearfix">
+  <div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/event/interdepartmental-tea-choosing-courses-choosing-programs?ical=1" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Search" type="image" id="edit-submit" name="submit" src="https://religiousstudies.stanford.edu/sites/all/themes/open_framework/images/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-0w0hIX5qIX-TmpK-SD6BvJ4e36uOMi_acWim9d46-xM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                              <button aria-label="Navigation menu" class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse"> <span class="hide">Navigation menu</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <div class="nav-collapse collapse">
+            <nav id="main-nav" role="navigation">
+                                          <div class="region region-navigation clearfix">
+  <div id="block-menu-block-stanford-jsa-layouts-3" class="clearfix block block-menu-block">     <h2>Main menu</h2>
+      <div class="content"> <div class="menu-block-wrapper menu-block-stanford_jsa_layouts-3 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first expanded menu-mlid-1221 dropdown"><a href="/about" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1223"><a href="/about/mission">Mission</a></li>
+<li class="leaf menu-mlid-1209"><a href="/news/recent-news/masonry" title="">Recent News</a></li>
+<li class="leaf menu-mlid-1885"><a href="/about/history">History</a></li>
+<li class="leaf menu-mlid-1229"><a href="/about/affiliates">Affiliates</a></li>
+<li class="last leaf menu-mlid-1227"><a href="/about/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1153 dropdown"><a href="/academics/undergraduate-program" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Undergraduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1887"><a href="/undergraduate/future-paths">Future Paths</a></li>
+<li class="leaf menu-mlid-2319"><a href="/undergraduate/why-study-religion">Why Religious Studies</a></li>
+<li class="leaf has-children menu-mlid-1171"><a href="/undergraduate/degrees-overview">Degrees</a></li>
+<li class="leaf menu-mlid-1167"><a href="/undergraduate/how-declare">How to Declare</a></li>
+<li class="leaf has-children menu-mlid-1883"><a href="/undergraduate/student-awards">Awards</a></li>
+<li class="last leaf menu-mlid-2415"><a href="/undergraduate/meet-your-peer-advisor">Peer Advisor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1173 dropdown"><a href="/academics/graduate-programs" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Graduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1191"><a href="/graduate/co-term-program">Co-term Program</a></li>
+<li class="leaf menu-mlid-1865"><a href="/graduate/doctoral-program">Doctoral Program</a></li>
+<li class="leaf has-children menu-mlid-1891"><a href="/graduate/fields-study">Fields of Study</a></li>
+<li class="leaf menu-mlid-1177"><a href="/graduate-programs/admissions">Admissions</a></li>
+<li class="leaf menu-mlid-1183"><a href="/graduate-programs/requirements">Requirements</a></li>
+<li class="leaf menu-mlid-1867"><a href="/graduate-programs/funding">Funding</a></li>
+<li class="leaf menu-mlid-1889"><a href="/graduate/doctoral-program/exchanges">Exchanges</a></li>
+<li class="last leaf menu-mlid-1179"><a href="/graduate-programs/forms">Handbook</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1197 dropdown"><a href="/people" class="dropdown-toggle" data-toggle="dropdown" data-target="#">People <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf has-children menu-mlid-2381"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf menu-mlid-1203"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf menu-mlid-2383"><a href="/people/students" title="">Graduate Students</a></li>
+<li class="last leaf has-children menu-mlid-1851"><a href="/people/alumni" title="">Alumni</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1195"><a href="/courses" title="">Courses</a></li>
+<li class="leaf menu-mlid-1205"><a href="/publications" title="">Publications</a></li>
+<li class="last expanded menu-mlid-1215 dropdown"><a href="/events" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Events <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1217"><a href="/events/upcoming-events">Upcoming Events</a></li>
+<li class="leaf menu-mlid-2203"><a href="/events/series/colloquium-series">Colloquium Series</a></li>
+<li class="leaf menu-mlid-1219"><a href="/events/past-events">Past Events</a></li>
+<li class="last leaf has-children menu-mlid-2327"><a href="/conferences" title="">Grad Student Conferences</a></li>
+</ul></li>
+</ul></div>
+ </div>
+</div></div>
+ <!-- /.region -->
+                          </nav>
+          </div>
+                                      </div>
+              </div>
+    </div>
+  </div>
+  <!-- /#main-menu -->
+  
+  
+  <div id="main" class="clearfix main" role="main">
+  	        <div class="container">
+            <div id="main-content" class="row main-content">
+                <div id="content" class="mc-content span12">
+          <div id="content-wrapper" class="content-wrapper">
+            <div id="content-head" class="row-fluid content-head">
+                                                        <h1 class="title" id="page-title"> Page Not Found </h1>
+                                                                                                </div>
+                                                <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <article id="node-367" class="node node-stanford-page clearfix" about="/page-not-found" typeof="sioc:Item foaf:Document">      <span property="dc:title" content="Page Not Found" class="rdf-meta element-hidden"></span>    <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="float-right"><img alt="Picture of statue grabbing head" src="https://religiousstudies.stanford.edu/sites/default/files/styles/large-scaled/public/img_3071_3.jpg?itok=oJLBQS69" /></p>
+<p class="summary">Oops! We can't find that page! </p>
+<p class="summary">We have a new site and things have moved around a bit. Here are some good places to start:</p>
+<p><a class="btn" href="https://religiousstudies.stanford.edu/home" rel="nofollow">Homepage</a></p>
+<p><a class="btn" href="https://religiousstudies.stanford.edu/search" rel="nofollow">Search this site... </a></p>
+</div></div></div></div></div>  </div>
+    </article> </div>
+</div></div>
+ <!-- /.region -->
+  </div>
+                                                                                                                      </div>
+          <!-- /#content-wrap -->
+        </div>
+        <!-- /#content -->
+              </div>
+                </div>
+  </div>
+  <!-- /#main, /#main-wrapper -->
+    <div id="push"></div>
+  <!-- /#push -->
+</div>
+<!-- /#wrap -->
+<div id="footer" class="clearfix footer site-footer">
+  <div class="container">
+        <div id="footer-content" class="row-fluid footer-content"> <div class="region region-footer clearfix">
+  <div id="block-menu-menu-footer-about-menu" class="clearfix block block-menu span2">     <h2>About</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/about">About Us</a></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="/about/affiliates">Affiliated Programs</a></li>
+<li class="last leaf"><a href="/about/contact-us">Contact</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-academics-menu" class="clearfix block block-menu span2">     <h2>Academics</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/undergraduate/why-study-religion" title="">Why Religious Studies</a></li>
+<li class="leaf"><a href="/academics/undergraduate-program">Undergraduate Program</a></li>
+<li class="leaf"><a href="/academics/graduate-programs">Graduate Programs</a></li>
+<li class="last leaf"><a href="/courses">Courses</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-people-menu" class="clearfix block block-menu span2">     <h2>People</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf"><a href="/people/students" title="">Students</a></li>
+<li class="last leaf"><a href="/people/alumni" title="">Alumni</a></li>
+</ul> </div>
+</div>
+<div id="block-bean-support-footer-block" class="clearfix block block-bean span3">     <h2>Support</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-postcard clearfix" about="/block/support-footer-block" typeof="">
+
+  <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-field-s-postcard-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Your contribution can further our academic and outreach programs.</p>
+<p><a class="btn" href="http://makeagift.stanford.edu">MAKE A GIFT</a></p>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-contact-block" class="clearfix block block-bean span3">     <h2>Contact Us</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-contact clearfix" about="/block/jumpstart-footer-contact-block" typeof="">
+
+  <div class="content">
+    <div><div class="field field-name-field-s-contact-address-line-1 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Department of Religious Studies</div></div></div><div class="field field-name-field-s-contact-address-line-2 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">450 Serra Mall</div></div></div><div class="field field-name-field-s-contact-address-line-3 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bldg 70 | main quad</div></div></div><div class="field field-name-field-s-contact-city-state-zip field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stanford, CA 94305-2165</div></div></div></div><div class="field field-name-field-s-contact-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(650)723-3322</div></div></div><div class="field field-name-field-s-contact-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:religst-info@stanford.edu">religst-info@stanford.edu</a></div></div></div><div class="field field-name-field-s-contact-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://campus-map.stanford.edu/?id=01-070&amp;lat=37.42724339&amp;lng=-122.17124819&amp;zoom=17&amp;srch=building%2070">Campus Map</a></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-social-media-0" class="clearfix block block-bean span3 pull-right">       <div class="content"> <div class="entity entity-bean bean-stanford-social-media-connect clearfix" about="/block/jumpstart-footer-social-media--0" typeof="">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-s-smc-links field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-s-smc-links clearfix" about="/field-collection/field-s-smc-links/991" typeof="">
+  <div class="content">
+    <div class="field field-name-field-s-smc-icon field-type-fontawesome-icon field-label-hidden color-facebook"><div class="field-items"><div class="field-item even"><a href="http://www.facebook.com/pages/Religious-Studies-at-Stanford/117518751602665?ref=ts" title="Facebook"><i class="fa fa-facebook-official"><span class="visually-hidden">Facebook</span></i>
+</a></div></div></div>  </div>
+</div>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+</div>
+ <!-- /.region -->
+ </div>
+      </div>
+</div>
+<!-- /#footer -->
+<div id="global-footer" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div id="bottom-logo" class="span2"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/footer-stanford-logo@2x.png" alt="Stanford University"></a></div>
+      <div id="bottom-menu" class="span10">
+        <ul>
+          <li><a href="http://www.stanford.edu">SU Home</a></li>
+          <li><a href="http://visit.stanford.edu/plan/maps.html">Maps &amp; Directions</a></li>
+          <li><a href="http://www.stanford.edu/search/">Search Stanford</a></li>
+          <li><a href="http://www.stanford.edu/site/terms.html">Terms of Use</a></li>
+          <li><a href="http://emergency.stanford.edu/">Emergency Info</a></li>
+        </ul>
+      </div>
+      <div id="copyright" class="span10 offset2">
+        <p class="vcard">&copy; <span class="fn org">Stanford University</span>, <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span></span>. <span class="copyright-links"><a href="http://www.stanford.edu/site/copyright.html">Copyright Complaints</a></span></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /#global-footer -->
+  </body>
+
+</html>http://religiousstudies.stanford.edu/undergraduate-program-requirements-prior-to-june-2013/ /n<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+<link href="/sites/default/themes/stanford_framework/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+<link rel="shortcut icon" href="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Prior to June 2013: Major in Religious Studies A Bachelor of Arts in Religious Studies requires 60 units of course work. At least 44 units are taken in courses numbered above 100. Ten units out of the 60 may be taken for the grade of ‘CR/NC.’" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://religiousstudies.stanford.edu/undergraduate/degrees/undergraduate-program-requirements-prior-june-2013" />
+<link rel="shortlink" href="https://religiousstudies.stanford.edu/node/369" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Undergraduate Program Requirements Prior to June 2013 | Religious Studies</title>
+  <link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_JsNupfpWENtZl3PsbtMoRvOBlo9YKAdVhAdHLPsR8FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_9tSZ0nPz-1H4xvY-ur8aWaAgaF4oAzsrLDvWf6KvPSU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_IPsJXOlJWjS4CAmDc3huZyG7ypPn2guuZz9gDqMe2pg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_ZcSVIefEmR42p8Xo2elTLXPHjbD0vHwgxVmOaKEaMDE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_FqXBiktFUAbGDICSnfdPube2HRJGQ5WE3rT-IE5o3KI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_6JC8TYxeRjJ05TL_Er7OhhTiRnKgKmOym-6lJHXzBDc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_nGZ0EUi6HATidAf3pITrpLdyTGtTsmfVAzXLpUp2gr4.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://religiousstudies.stanford.edu/sites/default/files/css/css_1ua6Bjl-dsKwVHqLq6CxRo6pJAesuOhleOi6G5-RbyI.css" media="all" />
+  <script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_ZDOaep6HA5A0eriyiN-YaNv7MHsjd-FIuFyilZ2o5cw.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_g98Ekqvuj1mMaUqTkLdcrMmJymw4aFC5YyzBQBviahY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_V1ZuwJK9uzfm6fFffOcHHubfxnimoxnbgG58pvTQdpY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_Ija-ztQiUW9R6JC8pQZy2TX-5GfPrbXDyVkg8MPdlMA.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_dcvUqFT39D9nfx5s1jzy0SWmeKIHhbbkaLjntGWmVkY.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_e8_xAlUO33NVzjX6ub-uiUhNHOgN4LRpnjVGDoOL6h4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-56056001-47", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_PJhTnkxydMuVbMTmxqAHkqjfBvIpFssfwf4u5a-Jteg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_9cK0ID99e4vgND5XBb3ButI-3Cx3e37QuFo8f7KyqAg.js"></script>
+<script type="text/javascript" src="https://religiousstudies.stanford.edu/sites/default/files/js/js_6lEiBKPgYd0J4j7bMPiKzKQR5ow6mo0LR6Gtg_UkEpo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stanford_framework","theme_token":"djkW02s15awxSDirtk39imLTsAQh-ejQVaJcgQ4GtyQ","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/default\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/default\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/social-media.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/icon-block.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/full-width-banner.css":1,"sites\/all\/modules\/stanford\/stanford_carousel\/css\/stanford_carousel.css":1,"sites\/default\/modules\/stanford\/stanford_conference\/css\/stanford-conference.css":1,"sites\/all\/modules\/stanford\/stanford_gallery\/css\/stanford_gallery.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart-theme-fixes.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_academic\/css\/jumpstart-academic.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/modules\/stanford_jumpstart_shortcuts\/css\/shortcuts.css":1,"sites\/default\/modules\/stanford\/stanford_landing_page\/css\/stanford_landing_page.css":1,"sites\/default\/modules\/stanford\/stanford_news\/css\/stanford_news.css":1,"sites\/default\/modules\/stanford\/stanford_news\/modules\/stanford_news_views\/css\/stanford_news_views.css":1,"sites\/default\/modules\/stanford\/stanford_person\/css\/stanford_person.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/css\/stanford_bean_types.css":1,"sites\/default\/modules\/stanford\/stanford_field_formatters\/css\/stanford_field_formatters.css":1,"sites\/default\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart_home\/css\/stanford_jumpstart_home_typography.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-3.2.1\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford-framework.css":1,"sites\/default\/themes\/stanford_framework\/css\/ie.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/fonts-sans.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/stanford-light.css":1,"sites\/default\/themes\/stanford_framework\/css\/stanford_light\/styles-light.css":1,"sites\/default\/modules\/stanford\/stanford_jumpstart\/css\/jumpstart.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_9.css":1,"public:\/\/css_injector\/css_injector_11.css":1},"js":{"misc\/jquery.js":1,"sites\/all\/themes\/open_framework\/js\/jquery-migrate-1.2.1.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.slider.min.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-sliderAccess.js":1,"sites\/default\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.js":1,"sites\/default\/modules\/stanford\/stanford_bean_types\/js\/stanford-bean-types.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_event_nodes.js":1,"sites\/default\/modules\/stanford\/stanford_events_importer\/js\/stanford_events_calendar.js":1,"sites\/default\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/context_accordion\/context_accordion.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/stanford\/stanford_date_timepicker\/js\/stanford_date_timepicker.js":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/default\/themes\/stanford_framework\/js\/stanford-framework.js":1,"sites\/all\/modules\/stanford\/stanford_carousel\/js\/stanford_carousel_aria.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/undergraduate\/degrees\/undergraduate-program-requirements-prior-june-2013":true},"field_group":{"div":"default"},"stanford_date_timepicker":{"classes":"","default_date_format":"yy-mm-dd","default_time_format":"hh:mm","default_separator":" "}});
+//--><!]]>
+</script>
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/sites/all/themes/open_framework/packages/font-awesome-3.2.1/css/font-awesome-ie7.min.css" />  <![endif]-->
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-369 node-type-stanford-page stanford-jumpstart-home-panama active-home-context        style-custom  header-bkg-image header-bkg-text-light style-custom-styles-light style-custom-fonts-sans" >
+    <div id="wrap"><a href="#main" class="element-invisible element-focusable">Skip to content</a>
+    <a href="#main-nav" class="element-invisible element-focusable">Skip to navigation</a>
+    <!-- /#skipnav -->
+    <!-- /#admin-shortcuts -->
+  <div id="global-header">
+    <div class="container">
+      <div class="row-fluid">
+        <div id="top-logo" class="span4"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/header-stanford-logo@2x.png" alt="Stanford University"></a></div>
+              </div>
+    </div>
+  </div>
+  <!-- /#global-header -->
+  <div id="header" class="clearfix header" role="banner">
+    <div class="container">
+      <div class="row">
+        <div class="span9">
+                    <div id="logo" class=" "> <a href="/" title="Home" rel="home"> <img src="https://religiousstudies.stanford.edu/sites/default/themes/stanford_framework/logo.png" alt="Stanford" role="presentation"> </a>
+                      </div>
+                    <!-- /#logo -->
+                    <div id="name-and-slogan"  class="with-logo">
+                        <div id="site-name" class="site-name"><a href="/" title="Home" rel="home">Religious Studies</a></div>
+                                                                      </div>
+                                        <!-- /#name-and-slogan -->
+                    <!-- /#header-content -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /#header -->
+    <div id="main-menu" class="clearfix site-main-menu">
+    <div class="container">
+      <div class="navbar">
+                <div class="navbar-inner">
+                              <div id="nav-search" class="nav-search"> <div class="region region-search-box clearfix">
+  <div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/undergraduate/degrees/undergraduate-program-requirements-prior-june-2013" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Search" type="image" id="edit-submit" name="submit" src="https://religiousstudies.stanford.edu/sites/all/themes/open_framework/images/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-d-LiJx81e3Mfp8HcPOQy4a6LJgiOxPly1aqvabNt0yI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                              <button aria-label="Navigation menu" class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse"> <span class="hide">Navigation menu</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <div class="nav-collapse collapse">
+            <nav id="main-nav" role="navigation">
+                                          <div class="region region-navigation clearfix">
+  <div id="block-menu-block-stanford-jsa-layouts-3" class="clearfix block block-menu-block">     <h2>Main menu</h2>
+      <div class="content"> <div class="menu-block-wrapper menu-block-stanford_jsa_layouts-3 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first expanded menu-mlid-1221 dropdown"><a href="/about" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1223"><a href="/about/mission">Mission</a></li>
+<li class="leaf menu-mlid-1209"><a href="/news/recent-news/masonry" title="">Recent News</a></li>
+<li class="leaf menu-mlid-1885"><a href="/about/history">History</a></li>
+<li class="leaf menu-mlid-1229"><a href="/about/affiliates">Affiliates</a></li>
+<li class="last leaf menu-mlid-1227"><a href="/about/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1153 dropdown"><a href="/academics/undergraduate-program" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Undergraduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1887"><a href="/undergraduate/future-paths">Future Paths</a></li>
+<li class="leaf menu-mlid-2319"><a href="/undergraduate/why-study-religion">Why Religious Studies</a></li>
+<li class="leaf has-children menu-mlid-1171"><a href="/undergraduate/degrees-overview">Degrees</a></li>
+<li class="leaf menu-mlid-1167"><a href="/undergraduate/how-declare">How to Declare</a></li>
+<li class="leaf has-children menu-mlid-1883"><a href="/undergraduate/student-awards">Awards</a></li>
+<li class="last leaf menu-mlid-2415"><a href="/undergraduate/meet-your-peer-advisor">Peer Advisor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1173 dropdown"><a href="/academics/graduate-programs" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Graduate <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1191"><a href="/graduate/co-term-program">Co-term Program</a></li>
+<li class="leaf menu-mlid-1865"><a href="/graduate/doctoral-program">Doctoral Program</a></li>
+<li class="leaf has-children menu-mlid-1891"><a href="/graduate/fields-study">Fields of Study</a></li>
+<li class="leaf menu-mlid-1177"><a href="/graduate-programs/admissions">Admissions</a></li>
+<li class="leaf menu-mlid-1183"><a href="/graduate-programs/requirements">Requirements</a></li>
+<li class="leaf menu-mlid-1867"><a href="/graduate-programs/funding">Funding</a></li>
+<li class="leaf menu-mlid-1889"><a href="/graduate/doctoral-program/exchanges">Exchanges</a></li>
+<li class="last leaf menu-mlid-1179"><a href="/graduate-programs/forms">Handbook</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1197 dropdown"><a href="/people" class="dropdown-toggle" data-toggle="dropdown" data-target="#">People <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf has-children menu-mlid-2381"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf menu-mlid-1203"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf menu-mlid-2383"><a href="/people/students" title="">Graduate Students</a></li>
+<li class="last leaf has-children menu-mlid-1851"><a href="/people/alumni" title="">Alumni</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1195"><a href="/courses" title="">Courses</a></li>
+<li class="leaf menu-mlid-1205"><a href="/publications" title="">Publications</a></li>
+<li class="last expanded menu-mlid-1215 dropdown"><a href="/events" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Events <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-1217"><a href="/events/upcoming-events">Upcoming Events</a></li>
+<li class="leaf menu-mlid-2203"><a href="/events/series/colloquium-series">Colloquium Series</a></li>
+<li class="leaf menu-mlid-1219"><a href="/events/past-events">Past Events</a></li>
+<li class="last leaf has-children menu-mlid-2327"><a href="/conferences" title="">Grad Student Conferences</a></li>
+</ul></li>
+</ul></div>
+ </div>
+</div></div>
+ <!-- /.region -->
+                          </nav>
+          </div>
+                                      </div>
+              </div>
+    </div>
+  </div>
+  <!-- /#main-menu -->
+  
+  
+  <div id="main" class="clearfix main" role="main">
+  	        <div class="container">
+            <div id="main-content" class="row main-content">
+                <div id="content" class="mc-content span12">
+          <div id="content-wrapper" class="content-wrapper">
+            <div id="content-head" class="row-fluid content-head">
+                                                        <h1 class="title" id="page-title"> Undergraduate Program Requirements Prior to June 2013 </h1>
+                                                                                                </div>
+                                                <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <article id="node-369" class="node node-stanford-page clearfix" about="/undergraduate/degrees/undergraduate-program-requirements-prior-june-2013" typeof="sioc:Item foaf:Document">      <span property="dc:title" content="Undergraduate Program Requirements Prior to June 2013" class="rdf-meta element-hidden"></span>    <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Prior to June 2013: Major in Religious Studies</h2>
+<p><span>A Bachelor of Arts in Religious Studies requires <strong>60 units </strong>of course work. <strong>At least 44 units </strong>are taken in courses numbered above 100. <strong>Ten units</strong> out of the 60 may be taken for the grade of ‘CR/NC.’</span></p>
+<ol><li><strong>At least 8 </strong>of the 60 units must be courses <strong>at the introductory level</strong>. Students may satisfy this requirement from any courses in the following categories:
+		<ol><li>Religious Studies Thinking Matters courses.</li>
+			<li>Prior IHUM courses (Winter/Spring sequence) in Religious Studies, e.g., IHUM 73A,B: Ultimate Meanings. IHUM courses are no longer offered.</li>
+			<li>Introduction to religious traditions (courses numbered 11-50).</li>
+			<li>Introductory topics in the study of religion (courses numbered 51-99).</li>
+			<li>Introductory Seminars in Religious Studies.</li>
+		</ol></li>
+	<li><strong>At least 29 units </strong>are to be taken in <strong>intermediate lecture and seminar courses </strong>numbered 100-289. Of these, at least two seminars are required from courses numbered above 200. With approval of the Undergraduate Director, language courses relating to the students’ program of study (such as Arabic, Biblical Hebrew, New Testament Greek, Chinese, or Japanese), but not counted towards the University language requirement, may be counted among these 29 units.</li>
+	<li><strong>Fifteen units in integrative courses</strong>:
+		<ol><li>Majors’ Seminar: RELIGST 290, Theories of Religion (5 units; Winter Quarter of junior year; fulfills WIM requirement; letter grade only)</li>
+			<li>Senior Essay or Honors Thesis Research: RELIGST 297 (3-5 units; minimum 5 units; up to 10 units over two quarters; graded ‘N’ until completion of essay or thesis)</li>
+			<li>Senior Majors’ Colloquium: RELIGST 298 (5 units; Spring Quarter; grading option S/NC)</li>
+			<li>Completion of either a senior essay or honors thesis. See below concerning the difference between these options.</li>
+		</ol></li>
+	<li>Each student, in consultation with his/her advisor, works out a <strong>focus of study </strong>centering either on a particular religious tradition or on a theme or problem which cuts across traditions such as ritual, ethics, scripture, or gender.</li>
+	<li>Students focusing on one religious tradition must take at least 8 units in one or more religious traditions outside their concentration.</li>
+</ol><h3>Senior Essay</h3>
+<p>A 25-30 page essay on a topic chosen by the student and approved by the advisor upon receipt of a student’s proposal by the end of the third quarter prior to expected graduation. The character and content of the essay, which is meant to allow the student to call into play knowledge and skills learned in the course of the major, may take several forms. For example, a student may return to a subject studied earlier but now pursued with more questions or from a new perspective, or research a recent or new topic of interest in the field, or offer a carefully framed critical assessment of what has been learned in the major based on review of influential sources, theories, and methods of studying religion. The senior essay is read and graded by the student’s advisor and one other member of the Religious Studies faculty.</p>
+<h3>Honors Thesis</h3>
+<p>A 40-80 page research paper on a topic chosen by the student and approved by the advisor upon receipt of a proposal in the fourth quarter prior to expected graduation. The paper, supported by mastery of primary and secondary scholarship, advances a well-reasoned, supportable thesis. Writers of honors theses must have a grade point average (GPA) of 3.5 in Religious Studies courses, and at least 3.2 overall, and are expected to have already demonstrated success in writing research papers. The honors thesis is read and graded by the student’s advisor and one other member of the Religious Studies faculty. Theses earning a grade of ‘B+’ or above receive honors.</p>
+<hr /><h2>Prior to June 2013: Minor in Religious Studies</h2>
+<p>A minor in Religious Studies requires a <strong>minimum of 30 graded units</strong> (S/NC or CR/NCR not permitted). Students are encouraged to focus their program of study either in a religious tradition or in a theme that cuts across traditions. Requirements for the minor are:</p>
+<ol><li><strong>Two introductory courses</strong>. Students may satisfy this requirement from any courses in the following categories:
+		<ol><li>Religious Studies Thinking Matters courses.</li>
+			<li>Prior IHUM courses (Winter/Spring sequence) in Religious Studies, e.g. 73A,B: Ultimate Meanings. IHUM courses are no longer offered.</li>
+			<li>Introduction to religious traditions (courses numbered 11-50).</li>
+			<li>Introductory topics in the study of religion (courses numbered 51-99).</li>
+			<li>Introductory Seminars in Religious Studies.</li>
+		</ol></li>
+	<li><strong>At least 22 units </strong>in courses at the intermediate and advanced level (above 100), including at least one 200-level seminar.</li>
+	<li><strong>Diversity requirement: </strong>Students may not take all courses in one religious tradition.</li>
+	<li>One course in directed reading (RELIGST 199) may count towards the minor.</li>
+	<li>With approval of the Undergraduate Director, one language course related to the student’s program of study (such as Arabic, Biblical Hebrew, New Testament Greek, Chinese, or Japanese), but not counted towards the University language requirement, may be counted toward the minor.</li>
+	<li>Courses from other departments may not count towards the minor. (Exception: language courses covered by point 5.)</li>
+</ol><hr /><h2>Prior to June 2013: Joint Major with Philosophy</h2>
+<p>The joint major in Philosophy and Religious Studies consists of <strong>60 units </strong>of course work with approximately one third of them in the philosophy core, one third in the religious studies core, and one third as further coursework (either general major or special concentration). Affiliated courses cannot be used to satisfy any of these requirements. Students pursuing a joint major in Philosophy and Religious Studies may also apply for honors by following the procedure for honors in either of the departments.</p>
+<p>1. Core Requirements for Philosophy: <span>Philosophy (PHIL) courses:</span></p>
+<ol><li>PHIL 80</li>
+	<li>16 units, including at least one Philosophy course from each of the following areas:
+		<ol><li>Logic and philosophy of science: 50, 60, 61, 150, 151, 154, 156, 162-168;</li>
+			<li>Ethics and value theory: 170-173</li>
+			<li>Epistemology, metaphysics, and philosophy of language: 180-189</li>
+			<li>History of philosophy: 100-103</li>
+		</ol></li>
+</ol><p>2. Core Requirements for Religous Studies: <span>Religious Studies (RELIGST) courses: 20 units, chosen in consultation with the student’s advisor, including:</span></p>
+<ol><li>RELIGST 290. Majors Seminar (5 units; Winter Quarter; recommended junior year; fulfills WIM requirement);</li>
+	<li>At least one course in philosophy of religion, broadly construed: 54, 62, 101, 174E, 183, 212, 220, 226, 238, 240, 242, 244, 245, 271A, 271B, 273 274, 275, 278, 279, 280.</li>
+</ol><p>Rules relating to core requirements:</p>
+<ul><li>No courses in either the philosophy or religious studies core may be taken satisfactory/no credit or credit/no credit.</li>
+	<li>In general, transfer units cannot be used to satisfy the core requirements. Transfer units and substitutions must be approved by the director of undergraduate studies in the appropriate department.</li>
+	<li>In Religious Studies students may not take all their religion courses in one religious tradition.</li>
+</ul><p>3. Further Coursework (Choose either General Major or Specific Concentration):</p>
+<p>General Major – Five additional courses (approximately 20 units) divided between the two departments. No more than five of these units may come from courses numbered under 99 in either department. Each student must also take at least one undergraduate seminar in religious studies and one undergraduate seminar in philosophy.</p>
+<p>Special Concentration – With the aid of an advisor, students pursue a specialized form of inquiry in which the combined departments have strength; for example, American philosophy and religious thought, philosophical and religious theories of human nature and action, philosophy of religion. Courses for this concentration must be approved in writing by the advisor.</p>
+<p>Rules relating to further coursework:</p>
+<ul><li>Units of directed reading for fulfilling requirements of the joint major are allowed only with special permission. No more than 10 units of work with a grade of ‘satisfactory’ may be counted toward the joint major under the rubric of Further Coursework.</li>
+	<li>Honors Program – Students pursuing a joint major in Philosophy and Religious Studies may also apply for honors by following the procedure for honors in either of the departments.</li>
+</ul></div></div></div></div></div>  </div>
+    </article> </div>
+</div></div>
+ <!-- /.region -->
+  </div>
+                                                                                                                      </div>
+          <!-- /#content-wrap -->
+        </div>
+        <!-- /#content -->
+              </div>
+                </div>
+  </div>
+  <!-- /#main, /#main-wrapper -->
+    <div id="push"></div>
+  <!-- /#push -->
+</div>
+<!-- /#wrap -->
+<div id="footer" class="clearfix footer site-footer">
+  <div class="container">
+        <div id="footer-content" class="row-fluid footer-content"> <div class="region region-footer clearfix">
+  <div id="block-menu-menu-footer-about-menu" class="clearfix block block-menu span2">     <h2>About</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/about">About Us</a></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="/about/affiliates">Affiliated Programs</a></li>
+<li class="last leaf"><a href="/about/contact-us">Contact</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-academics-menu" class="clearfix block block-menu span2">     <h2>Academics</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/undergraduate/why-study-religion" title="">Why Religious Studies</a></li>
+<li class="leaf"><a href="/academics/undergraduate-program">Undergraduate Program</a></li>
+<li class="leaf"><a href="/academics/graduate-programs">Graduate Programs</a></li>
+<li class="last leaf"><a href="/courses">Courses</a></li>
+</ul> </div>
+</div>
+<div id="block-menu-menu-footer-people-menu" class="clearfix block block-menu span2">     <h2>People</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="leaf"><a href="/people/staff" title="">Staff</a></li>
+<li class="leaf"><a href="/people/students" title="">Students</a></li>
+<li class="last leaf"><a href="/people/alumni" title="">Alumni</a></li>
+</ul> </div>
+</div>
+<div id="block-bean-support-footer-block" class="clearfix block block-bean span3">     <h2>Support</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-postcard clearfix" about="/block/support-footer-block" typeof="">
+
+  <div class="content">
+    <div class="postcard"><div class="postcard-content"><div class="field field-name-field-s-postcard-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Your contribution can further our academic and outreach programs.</p>
+<p><a class="btn" href="http://makeagift.stanford.edu">MAKE A GIFT</a></p>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-contact-block" class="clearfix block block-bean span3">     <h2>Contact Us</h2>
+      <div class="content"> <div class="entity entity-bean bean-stanford-contact clearfix" about="/block/jumpstart-footer-contact-block" typeof="">
+
+  <div class="content">
+    <div><div class="field field-name-field-s-contact-address-line-1 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Department of Religious Studies</div></div></div><div class="field field-name-field-s-contact-address-line-2 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">450 Serra Mall</div></div></div><div class="field field-name-field-s-contact-address-line-3 field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bldg 70 | main quad</div></div></div><div class="field field-name-field-s-contact-city-state-zip field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stanford, CA 94305-2165</div></div></div></div><div class="field field-name-field-s-contact-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(650)723-3322</div></div></div><div class="field field-name-field-s-contact-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:religst-info@stanford.edu">religst-info@stanford.edu</a></div></div></div><div class="field field-name-field-s-contact-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://campus-map.stanford.edu/?id=01-070&amp;lat=37.42724339&amp;lng=-122.17124819&amp;zoom=17&amp;srch=building%2070">Campus Map</a></div></div></div>  </div>
+</div>
+ </div>
+</div>
+<div id="block-bean-jumpstart-footer-social-media-0" class="clearfix block block-bean span3 pull-right">       <div class="content"> <div class="entity entity-bean bean-stanford-social-media-connect clearfix" about="/block/jumpstart-footer-social-media--0" typeof="">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-s-smc-links field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-s-smc-links clearfix" about="/field-collection/field-s-smc-links/991" typeof="">
+  <div class="content">
+    <div class="field field-name-field-s-smc-icon field-type-fontawesome-icon field-label-hidden color-facebook"><div class="field-items"><div class="field-item even"><a href="http://www.facebook.com/pages/Religious-Studies-at-Stanford/117518751602665?ref=ts" title="Facebook"><i class="fa fa-facebook-official"><span class="visually-hidden">Facebook</span></i>
+</a></div></div></div>  </div>
+</div>
+</div></div></div></div></div>  </div>
+</div>
+ </div>
+</div>
+</div>
+ <!-- /.region -->
+ </div>
+      </div>
+</div>
+<!-- /#footer -->
+<div id="global-footer" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div id="bottom-logo" class="span2"><a href="http://www.stanford.edu"><img src="/sites/default/themes/stanford_framework/images/footer-stanford-logo@2x.png" alt="Stanford University"></a></div>
+      <div id="bottom-menu" class="span10">
+        <ul>
+          <li><a href="http://www.stanford.edu">SU Home</a></li>
+          <li><a href="http://visit.stanford.edu/plan/maps.html">Maps &amp; Directions</a></li>
+          <li><a href="http://www.stanford.edu/search/">Search Stanford</a></li>
+          <li><a href="http://www.stanford.edu/site/terms.html">Terms of Use</a></li>
+          <li><a href="http://emergency.stanford.edu/">Emergency Info</a></li>
+        </ul>
+      </div>
+      <div id="copyright" class="span10 offset2">
+        <p class="vcard">&copy; <span class="fn org">Stanford University</span>, <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span></span>. <span class="copyright-links"><a href="http://www.stanford.edu/site/copyright.html">Copyright Complaints</a></span></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /#global-footer -->
+  </body>
+
+</html>

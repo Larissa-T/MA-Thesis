@@ -1,0 +1,1635 @@
+http://www.brown.edu/academics/visual-art/undergraduate/resources /n<!doctype html>
+
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"  lang="en" dir="ltr">
+<!--<![endif]-->
+ 
+<head>
+<title>Page not found | Visual Art | Brown University</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal Mothership" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="114x114" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-startup.png">
+ 
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<style>
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.base.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.menus.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.messages.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.theme.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/date/date_api/date.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/fences/field.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/node/node.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture_wysiwyg.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/search/search.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/user/user.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/views/css/views.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ckeditor/css/ckeditor.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/calwidget-lite/theme/calwidget_lite.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ctools/css/ctools.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/shib_auth/shib_auth.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/contact_info/theme/contact_info.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/node_embed/plugins/node_embed/node_embed.css?owj8hn");
+</style>
+<link rel="stylesheet" href="//cloud.typography.com/793622/644668/css/fonts.css" />
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/bucket.css?owj8hn");
+</style>
+<style media="print">
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/print.css?owj8hn");
+</style>
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/html5.js"></script>
+<![endif]-->
+</head>
+<body class="not-front no-sidebars page-undergraduate page-undergraduate-resources path-undergraduate-resources bucket-nav-black" >
+<ul class="element-invisible element-focusable">
+  <li><a href="#main-content" onclick="ga('send','event','Accessibility','Click','Click Skip to Main Content')" > Skip to main content</a></li>
+  <li><a href="#site-nav" onclick="ga('send','event','Accessibility','Click','Click Skip to Primary Site Menu')" >Skip to primary site menu</a></li>
+  <li><a href="#___gcse_0" onclick="ga('send','event','Accessibility','Click','Click Skip to Site Search')" >Skip to primary site search</a></li>
+</ul>
+
+      
+ 
+<div id="shell">
+  <header id="site-header">
+ 
+           <section id="banner"  class="banner-image">
+      <div class="marginator">
+
+          <a href="/academics/visual-art/"><img src="https://www.brown.edu/academics/visual-art/sites/visual-art/files/bucket_robust_banner_image.jpg"></a>
+          <h1 class="site-title"><a href="/academics/visual-art/">Visual Art</a></h1>
+   
+        	<span class="toggle-site"><a href="#" id="site-menu-button">Show/Hide</a></span> 
+      </div>
+    </section>
+        	
+    <!-- /banner --> 
+    
+  </header>
+  <nav id="site-nav">
+    <div class="marginator">
+		        
+    </div>
+    <!-- /.marginator --> 
+  </nav>
+  <main>
+    <div class="marginator">
+      <header id="content-header"> 
+
+                <h1>404 Error</h1>
+
+      </header>
+      <div role="main" id="content">
+        <section id="main-content">
+         
+
+
+  
+
+  
+
+    
+   <article id="error-404">
+	<div class="content">
+
+
+
+    <h2>Page Not Found</h2>
+
+<p>Try these:</p>
+	 <ul>
+      <li><a href="//www.brown.edu/a-to-z/academics/depts">A-Z Directory</a></li>
+      <li><a href="//directory.brown.edu/">People Directory</a></li>
+     </ul>
+
+   
+ 
+               <form action="//www.brown.edu/search/google" accept-charset="UTF-8" method="get" class="google-cse-searchbox-form">
+                <input type="hidden" name="cx" class="edit-cx" value="001311030293454891064:lwlrsw9qt3o"  />
+                <input type="hidden" name="cof" class="edit-cof" value="FORID:11"  />
+                <input type="text" name="query" id="" accesskey="4" placeholder="Search brown.edu" class="form-text search-field edit-query" />
+                <input type="image" name="Search" id=""  alt="Search" class="edit-sa form-submit form-submit search-submit" src="http://www.brown.edu/errors/img/search-button.png" />
+                <input type="hidden" name="form_id" class="edit-brown-google-cse-searchbox-form" value="brown_google_cse_searchbox_form"  />
+          </form>
+      </div>
+  </article>
+
+         </section>
+              </div>
+          </div>
+  </main>
+    
+  
+  <section id="brown-nav">
+    <div class="marginator">
+    
+      <div id="brown-header">
+        <h1><a href="//www.brown.edu">Explore Brown University</a></h1>
+        <span class="search-brown"><a href="https://www.brown.edu/academics/visual-art/search/brown" id="search-brown-button">Search Brown</a></span> 
+         <span class="toggle-brown"><a href="#" id="brown-menu-button" onclick="ga('send','event','Brown Menu','Click','Click Brown Hamburger')">Show/Hide</a></span> 
+        </div>
+        
+      <nav id="u-nav">
+        <div class="item-list" id="learn-list">
+          <h3>Learn More</h3>
+          <ul>
+            <li><a href="//www.brown.edu/about">About Brown</a></li>
+            <li><a href="//www.brown.edu/academics">Academics</a></li>
+            <li><a href="//www.brown.edu/admission">Admission</a></li>
+            <li><a href="//www.brown.edu/research">Research</a></li>
+            <li class="last"><a href="//www.brown.edu/campus-life">Campus Life</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="find-list">
+          <h3>Find</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/a-to-z">A to Z Index</a></li>
+            <li class="last"><a href="//directory.brown.edu">People Directory</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="information-list">
+          <h3>Information for</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/gateway/current-students">Students</a></li>
+            <li><a href="//www.brown.edu/gateway/faculty">Faculty</a></li>
+            <li><a href="//www.brown.edu/gateway/staff">Staff</a></li>
+            <li><a href="//www.brown.edu/gateway/families">Families</a></li>
+            <li><a href="//brunonia.brown.edu/alumni">Alumni</a></li>
+            <li class="last"><a href="//www.brown.edu/gateway/friends-and-neighbors">Friends &amp; Neighbors</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="destination-list">
+          <h3>Top Destinations</h3>
+          <ul>
+            <li><a href="http://www.brown.edu/about/administration/global-engagement/">Global Brown</a></li>
+            <li><a href="http://watson.brown.edu/">Watson Institute</a></li>
+            <li><a href="http://www.brown.edu/gradschool">Graduate School</a></li>
+            <li><a href="http://med.brown.edu">Alpert Medical School</a></li>
+            <li><a href="http://www.brown.edu/academics/public-health/">School of Public Health</a></li>
+            <li><a href="http://brown.edu/academics/engineering/">School of Engineering</a></li>
+          </ul>
+        </div>
+      </nav>
+      
+
+ 
+  
+   
+            
+  
+      
+            
+    </div>
+  </section>
+  
+  <footer id="site-footer">
+    <div class="marginator">
+	
+    
+<div  class="block block-contact-info block-contact-info-contact-info ">
+	<div class="width content">
+ 	 
+  	 	   	
+ 	 
+ 	       <h2>Visual Art</h2>
+    
+	<address class="h-card">
+      <span class="p-name ghost">Visual Art</span>
+  
+      <span class="p-org">Brown University</span>
+  
+      <span class="p-post-office-box">Box&nbsp;1861</span>
+  
+      <span class="p-street-address">List Art Building</span>
+      
+      <span class="p-extended-address">64 College St</span>
+  
+  
+      <span class="p-locality">Providence</span>, 
+  
+      <span class="p-region">RI</span>
+  
+      <span class="p-postal-code">02912</span><br>
+  </address>
+
+<dl class="contact">
+      <dt>Phone:</dt>
+    <dd><span class="p-tel">
+      401-863-1563    </span></dd>
+  
+    <dt>Fax:</dt>
+    <dd><span class="p-tel">
+      401-863-1680    </span></dd>
+  
+    <dt class="ghost">Email</dt>
+  <dd>
+    <a class="u-email" href="mailto:visual-art-dept@brown.edu">
+      visual-art-dept
+@brown.edu    </a></dd>
+  </dl>
+
+<dl class="social">
+    <dt class="ghost">Twitter</dt>
+    <dd><span class="p-twitter social"><a href="https://twitter.com/BrownVisualArt">Twitter</a></span></dd>
+      <dt class="ghost">Facebook</dt>
+    <dd><span class="p-facebook social"><a href="https://www.facebook.com/BrownVISA/">Facebook</a></span></dd>
+      <dt class="ghost">Instagram</dt>
+    <dd><span class="p-instagram social"><a href="https://www.instagram.com/brownvisualart/">Instagram</a></span></dd>
+  </dl>
+
+
+ 	 	</div>
+</div>
+  
+    </div>
+  </footer>
+  
+  <footer id="brown-footer">
+    <div class="marginator">
+      <section>
+                <div id="give-to-brown">
+       	 <a class="giving-footer" href="http://giving.brown.edu">Giving to Brown</a>
+        </div>
+      </section>
+      <div id="brown-contact">
+        <h1>Brown University</h1>
+        <p><span class="city-state-country">Providence, Rhode Island 02912, USA</span><br>
+          <span class="telephone">Phone: 401-863-1000</span><br>
+          <span class="maps-contact"><a href="http://www.brown.edu/Facilities/Facilities_Management/maps/#building/" tabindex="220">Maps</a> &amp; <a href="http://www.brown.edu/about/visit/driving-directions" tabindex="221">Directions</a> / <a href="http://www.brown.edu/contact" accesskey="9" tabindex="222">Contact Us</a></span><br>
+          <span class="copyright">© 2017 Brown University</span></p>
+        <p class="social-links">Connect: <a href="http://www.brown.edu/about/social-media/" title="Get Connected to the Brown Community">Social@Brown</a></p>
+        <ul class="social-media">
+          <li><a href="https://www.facebook.com/BrownUniversity" title="Facebook" id="footer-facebook">Facebook</a></li>
+          <li><a href="https://twitter.com/BrownUniversity" id="footer-twitter">Twitter</a></li>
+          <li><a href="http://www.youtube.com/brownuniversity" id="footer-youtube">YouTube</a></li>
+          <li><a href="http://instagram.com/brownu" id="footer-instagram">Instagram</a></li>
+          <li><a href="http://itunes.apple.com/institution/brown-university/id381076688#ls=1"  id="footer-itunesu">iTunes U</a></li>
+          <li><a href="https://plus.google.com/100931085598361161047/posts" id="footer-google-plus">Google+</a></li>
+          <li><a href="https://www.linkedin.com/edu/school?id=19348&amp;trk=tyah" id="footer-linkedin">LinkedIn</a></li>
+          <li><a href="https://www.snapchat.com/add/brown-u" id="footer-snapchat">SnapChat</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  
+</div>
+
+
+
+
+
+    
+  
+
+   <script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/drupal.js?owj8hn"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jcaption/jcaption.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/google_analytics/googleanalytics.js?owj8hn"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-34495025-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/contextual.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/js/bucket.js?owj8hn"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/academics\/visual-art\/","pathPrefix":"","ajaxPageState":{"theme":"bucket","theme_token":"VNFrMfox1BFeKzHVmpT2FklbUWCK5YJUz_SpkDR0eGE","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/custom\/bs2-search\/js\/bs2-search.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/js\/contextual.js":1,"sites\/all\/themes\/custom\/bucket\/js\/bucket.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css;":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/custom\/contact_info\/theme\/contact_info.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"\/\/cloud.typography.com\/793622\/644668\/css\/fonts.css":1,"sites\/all\/themes\/custom\/bucket\/css\/bucket.css":1,"sites\/all\/themes\/custom\/bucket\/css\/print.css":1}},"bs2_search":{"cse_id":"001311030293454891064:lwlrsw9qt3o","show_autocomplete":0},"jcaption":{"jcaption_selectors":[".content img"],"jcaption_alt_title":"title","jcaption_requireText":true,"jcaption_copyStyle":false,"jcaption_removeStyle":true,"jcaption_removeClass":true,"jcaption_removeAlign":true,"jcaption_copyAlignmentToClass":false,"jcaption_copyFloatToClass":true,"jcaption_copyClassToClass":true,"jcaption_autoWidth":true,"jcaption_keepLink":false,"jcaption_styleMarkup":"","jcaption_animate":false,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"currentPath":"undergraduate\/resources","currentPathIsAdmin":false});</script>
+
+      
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture.min.js?v=7.54"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/custom/bs2-search/js/bs2-search.js?owj8hn"></script>
+
+</body>
+</html>
+https://www.brown.edu/academics/visual-art/undergraduate /n<!doctype html>
+
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"  lang="en" dir="ltr">
+<!--<![endif]-->
+ 
+<head>
+<title>Page not found | Visual Art | Brown University</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal Mothership" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="114x114" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-startup.png">
+ 
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<style>
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.base.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.menus.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.messages.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.theme.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/date/date_api/date.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/fences/field.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/node/node.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture_wysiwyg.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/search/search.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/user/user.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/views/css/views.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ckeditor/css/ckeditor.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/calwidget-lite/theme/calwidget_lite.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ctools/css/ctools.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/shib_auth/shib_auth.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/contact_info/theme/contact_info.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/node_embed/plugins/node_embed/node_embed.css?owj8hn");
+</style>
+<link rel="stylesheet" href="//cloud.typography.com/793622/644668/css/fonts.css" />
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/bucket.css?owj8hn");
+</style>
+<style media="print">
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/print.css?owj8hn");
+</style>
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/html5.js"></script>
+<![endif]-->
+</head>
+<body class="not-front no-sidebars page-undergraduate path-undergraduate bucket-nav-black" >
+<ul class="element-invisible element-focusable">
+  <li><a href="#main-content" onclick="ga('send','event','Accessibility','Click','Click Skip to Main Content')" > Skip to main content</a></li>
+  <li><a href="#site-nav" onclick="ga('send','event','Accessibility','Click','Click Skip to Primary Site Menu')" >Skip to primary site menu</a></li>
+  <li><a href="#___gcse_0" onclick="ga('send','event','Accessibility','Click','Click Skip to Site Search')" >Skip to primary site search</a></li>
+</ul>
+
+      
+ 
+<div id="shell">
+  <header id="site-header">
+ 
+           <section id="banner"  class="banner-image">
+      <div class="marginator">
+
+          <a href="/academics/visual-art/"><img src="https://www.brown.edu/academics/visual-art/sites/visual-art/files/bucket_robust_banner_image.jpg"></a>
+          <h1 class="site-title"><a href="/academics/visual-art/">Visual Art</a></h1>
+   
+        	<span class="toggle-site"><a href="#" id="site-menu-button">Show/Hide</a></span> 
+      </div>
+    </section>
+        	
+    <!-- /banner --> 
+    
+  </header>
+  <nav id="site-nav">
+    <div class="marginator">
+		        
+    </div>
+    <!-- /.marginator --> 
+  </nav>
+  <main>
+    <div class="marginator">
+      <header id="content-header"> 
+
+                <h1>404 Error</h1>
+
+      </header>
+      <div role="main" id="content">
+        <section id="main-content">
+         
+
+
+  
+
+  
+
+    
+   <article id="error-404">
+	<div class="content">
+
+
+
+    <h2>Page Not Found</h2>
+
+<p>Try these:</p>
+	 <ul>
+      <li><a href="//www.brown.edu/a-to-z/academics/depts">A-Z Directory</a></li>
+      <li><a href="//directory.brown.edu/">People Directory</a></li>
+     </ul>
+
+   
+ 
+               <form action="//www.brown.edu/search/google" accept-charset="UTF-8" method="get" class="google-cse-searchbox-form">
+                <input type="hidden" name="cx" class="edit-cx" value="001311030293454891064:lwlrsw9qt3o"  />
+                <input type="hidden" name="cof" class="edit-cof" value="FORID:11"  />
+                <input type="text" name="query" id="" accesskey="4" placeholder="Search brown.edu" class="form-text search-field edit-query" />
+                <input type="image" name="Search" id=""  alt="Search" class="edit-sa form-submit form-submit search-submit" src="http://www.brown.edu/errors/img/search-button.png" />
+                <input type="hidden" name="form_id" class="edit-brown-google-cse-searchbox-form" value="brown_google_cse_searchbox_form"  />
+          </form>
+      </div>
+  </article>
+
+         </section>
+              </div>
+          </div>
+  </main>
+    
+  
+  <section id="brown-nav">
+    <div class="marginator">
+    
+      <div id="brown-header">
+        <h1><a href="//www.brown.edu">Explore Brown University</a></h1>
+        <span class="search-brown"><a href="https://www.brown.edu/academics/visual-art/search/brown" id="search-brown-button">Search Brown</a></span> 
+         <span class="toggle-brown"><a href="#" id="brown-menu-button" onclick="ga('send','event','Brown Menu','Click','Click Brown Hamburger')">Show/Hide</a></span> 
+        </div>
+        
+      <nav id="u-nav">
+        <div class="item-list" id="learn-list">
+          <h3>Learn More</h3>
+          <ul>
+            <li><a href="//www.brown.edu/about">About Brown</a></li>
+            <li><a href="//www.brown.edu/academics">Academics</a></li>
+            <li><a href="//www.brown.edu/admission">Admission</a></li>
+            <li><a href="//www.brown.edu/research">Research</a></li>
+            <li class="last"><a href="//www.brown.edu/campus-life">Campus Life</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="find-list">
+          <h3>Find</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/a-to-z">A to Z Index</a></li>
+            <li class="last"><a href="//directory.brown.edu">People Directory</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="information-list">
+          <h3>Information for</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/gateway/current-students">Students</a></li>
+            <li><a href="//www.brown.edu/gateway/faculty">Faculty</a></li>
+            <li><a href="//www.brown.edu/gateway/staff">Staff</a></li>
+            <li><a href="//www.brown.edu/gateway/families">Families</a></li>
+            <li><a href="//brunonia.brown.edu/alumni">Alumni</a></li>
+            <li class="last"><a href="//www.brown.edu/gateway/friends-and-neighbors">Friends &amp; Neighbors</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="destination-list">
+          <h3>Top Destinations</h3>
+          <ul>
+            <li><a href="http://www.brown.edu/about/administration/global-engagement/">Global Brown</a></li>
+            <li><a href="http://watson.brown.edu/">Watson Institute</a></li>
+            <li><a href="http://www.brown.edu/gradschool">Graduate School</a></li>
+            <li><a href="http://med.brown.edu">Alpert Medical School</a></li>
+            <li><a href="http://www.brown.edu/academics/public-health/">School of Public Health</a></li>
+            <li><a href="http://brown.edu/academics/engineering/">School of Engineering</a></li>
+          </ul>
+        </div>
+      </nav>
+      
+
+ 
+  
+   
+            
+  
+      
+            
+    </div>
+  </section>
+  
+  <footer id="site-footer">
+    <div class="marginator">
+	
+    
+<div  class="block block-contact-info block-contact-info-contact-info ">
+	<div class="width content">
+ 	 
+  	 	   	
+ 	 
+ 	       <h2>Visual Art</h2>
+    
+	<address class="h-card">
+      <span class="p-name ghost">Visual Art</span>
+  
+      <span class="p-org">Brown University</span>
+  
+      <span class="p-post-office-box">Box&nbsp;1861</span>
+  
+      <span class="p-street-address">List Art Building</span>
+      
+      <span class="p-extended-address">64 College St</span>
+  
+  
+      <span class="p-locality">Providence</span>, 
+  
+      <span class="p-region">RI</span>
+  
+      <span class="p-postal-code">02912</span><br>
+  </address>
+
+<dl class="contact">
+      <dt>Phone:</dt>
+    <dd><span class="p-tel">
+      401-863-1563    </span></dd>
+  
+    <dt>Fax:</dt>
+    <dd><span class="p-tel">
+      401-863-1680    </span></dd>
+  
+    <dt class="ghost">Email</dt>
+  <dd>
+    <a class="u-email" href="mailto:visual-art-dept@brown.edu">
+      visual-art-dept
+@brown.edu    </a></dd>
+  </dl>
+
+<dl class="social">
+    <dt class="ghost">Twitter</dt>
+    <dd><span class="p-twitter social"><a href="https://twitter.com/BrownVisualArt">Twitter</a></span></dd>
+      <dt class="ghost">Facebook</dt>
+    <dd><span class="p-facebook social"><a href="https://www.facebook.com/BrownVISA/">Facebook</a></span></dd>
+      <dt class="ghost">Instagram</dt>
+    <dd><span class="p-instagram social"><a href="https://www.instagram.com/brownvisualart/">Instagram</a></span></dd>
+  </dl>
+
+
+ 	 	</div>
+</div>
+  
+    </div>
+  </footer>
+  
+  <footer id="brown-footer">
+    <div class="marginator">
+      <section>
+                <div id="give-to-brown">
+       	 <a class="giving-footer" href="http://giving.brown.edu">Giving to Brown</a>
+        </div>
+      </section>
+      <div id="brown-contact">
+        <h1>Brown University</h1>
+        <p><span class="city-state-country">Providence, Rhode Island 02912, USA</span><br>
+          <span class="telephone">Phone: 401-863-1000</span><br>
+          <span class="maps-contact"><a href="http://www.brown.edu/Facilities/Facilities_Management/maps/#building/" tabindex="220">Maps</a> &amp; <a href="http://www.brown.edu/about/visit/driving-directions" tabindex="221">Directions</a> / <a href="http://www.brown.edu/contact" accesskey="9" tabindex="222">Contact Us</a></span><br>
+          <span class="copyright">© 2017 Brown University</span></p>
+        <p class="social-links">Connect: <a href="http://www.brown.edu/about/social-media/" title="Get Connected to the Brown Community">Social@Brown</a></p>
+        <ul class="social-media">
+          <li><a href="https://www.facebook.com/BrownUniversity" title="Facebook" id="footer-facebook">Facebook</a></li>
+          <li><a href="https://twitter.com/BrownUniversity" id="footer-twitter">Twitter</a></li>
+          <li><a href="http://www.youtube.com/brownuniversity" id="footer-youtube">YouTube</a></li>
+          <li><a href="http://instagram.com/brownu" id="footer-instagram">Instagram</a></li>
+          <li><a href="http://itunes.apple.com/institution/brown-university/id381076688#ls=1"  id="footer-itunesu">iTunes U</a></li>
+          <li><a href="https://plus.google.com/100931085598361161047/posts" id="footer-google-plus">Google+</a></li>
+          <li><a href="https://www.linkedin.com/edu/school?id=19348&amp;trk=tyah" id="footer-linkedin">LinkedIn</a></li>
+          <li><a href="https://www.snapchat.com/add/brown-u" id="footer-snapchat">SnapChat</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  
+</div>
+
+
+
+
+
+    
+  
+
+   <script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/drupal.js?owj8hn"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jcaption/jcaption.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/google_analytics/googleanalytics.js?owj8hn"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-34495025-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/contextual.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/js/bucket.js?owj8hn"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/academics\/visual-art\/","pathPrefix":"","ajaxPageState":{"theme":"bucket","theme_token":"srnBqIEeYcqcoLBRNn3fJ7aa7ebyA4OrqbK6juVyjhY","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/custom\/bs2-search\/js\/bs2-search.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/js\/contextual.js":1,"sites\/all\/themes\/custom\/bucket\/js\/bucket.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css;":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/custom\/contact_info\/theme\/contact_info.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"\/\/cloud.typography.com\/793622\/644668\/css\/fonts.css":1,"sites\/all\/themes\/custom\/bucket\/css\/bucket.css":1,"sites\/all\/themes\/custom\/bucket\/css\/print.css":1}},"bs2_search":{"cse_id":"001311030293454891064:lwlrsw9qt3o","show_autocomplete":0},"jcaption":{"jcaption_selectors":[".content img"],"jcaption_alt_title":"title","jcaption_requireText":true,"jcaption_copyStyle":false,"jcaption_removeStyle":true,"jcaption_removeClass":true,"jcaption_removeAlign":true,"jcaption_copyAlignmentToClass":false,"jcaption_copyFloatToClass":true,"jcaption_copyClassToClass":true,"jcaption_autoWidth":true,"jcaption_keepLink":false,"jcaption_styleMarkup":"","jcaption_animate":false,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"currentPath":"undergraduate","currentPathIsAdmin":false});</script>
+
+      
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture.min.js?v=7.54"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/custom/bs2-search/js/bs2-search.js?owj8hn"></script>
+
+</body>
+</html>
+https://www.brown.edu/academics/visual-art/undergraduate/fall-2016-2017-visa0110-advanced-studio-foundation-application /n<!doctype html>
+
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"  lang="en" dir="ltr">
+<!--<![endif]-->
+ 
+<head>
+<title>Page not found | Visual Art | Brown University</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal Mothership" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="114x114" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-startup.png">
+ 
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<style>
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.base.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.menus.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.messages.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.theme.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/date/date_api/date.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/fences/field.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/node/node.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture_wysiwyg.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/search/search.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/user/user.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/views/css/views.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ckeditor/css/ckeditor.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/calwidget-lite/theme/calwidget_lite.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ctools/css/ctools.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/shib_auth/shib_auth.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/contact_info/theme/contact_info.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/node_embed/plugins/node_embed/node_embed.css?owj8hn");
+</style>
+<link rel="stylesheet" href="//cloud.typography.com/793622/644668/css/fonts.css" />
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/bucket.css?owj8hn");
+</style>
+<style media="print">
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/print.css?owj8hn");
+</style>
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/html5.js"></script>
+<![endif]-->
+</head>
+<body class="not-front no-sidebars page-undergraduate page-undergraduate-fall-2016-2017-visa0110-advanced-studio-foundation-application path-undergraduate-fall-2016-2017-visa0110-advanced-studio-foundation-application bucket-nav-black" >
+<ul class="element-invisible element-focusable">
+  <li><a href="#main-content" onclick="ga('send','event','Accessibility','Click','Click Skip to Main Content')" > Skip to main content</a></li>
+  <li><a href="#site-nav" onclick="ga('send','event','Accessibility','Click','Click Skip to Primary Site Menu')" >Skip to primary site menu</a></li>
+  <li><a href="#___gcse_0" onclick="ga('send','event','Accessibility','Click','Click Skip to Site Search')" >Skip to primary site search</a></li>
+</ul>
+
+      
+ 
+<div id="shell">
+  <header id="site-header">
+ 
+           <section id="banner"  class="banner-image">
+      <div class="marginator">
+
+          <a href="/academics/visual-art/"><img src="https://www.brown.edu/academics/visual-art/sites/visual-art/files/bucket_robust_banner_image.jpg"></a>
+          <h1 class="site-title"><a href="/academics/visual-art/">Visual Art</a></h1>
+   
+        	<span class="toggle-site"><a href="#" id="site-menu-button">Show/Hide</a></span> 
+      </div>
+    </section>
+        	
+    <!-- /banner --> 
+    
+  </header>
+  <nav id="site-nav">
+    <div class="marginator">
+		        
+    </div>
+    <!-- /.marginator --> 
+  </nav>
+  <main>
+    <div class="marginator">
+      <header id="content-header"> 
+
+                <h1>404 Error</h1>
+
+      </header>
+      <div role="main" id="content">
+        <section id="main-content">
+         
+
+
+  
+
+  
+
+    
+   <article id="error-404">
+	<div class="content">
+
+
+
+    <h2>Page Not Found</h2>
+
+<p>Try these:</p>
+	 <ul>
+      <li><a href="//www.brown.edu/a-to-z/academics/depts">A-Z Directory</a></li>
+      <li><a href="//directory.brown.edu/">People Directory</a></li>
+     </ul>
+
+   
+ 
+               <form action="//www.brown.edu/search/google" accept-charset="UTF-8" method="get" class="google-cse-searchbox-form">
+                <input type="hidden" name="cx" class="edit-cx" value="001311030293454891064:lwlrsw9qt3o"  />
+                <input type="hidden" name="cof" class="edit-cof" value="FORID:11"  />
+                <input type="text" name="query" id="" accesskey="4" placeholder="Search brown.edu" class="form-text search-field edit-query" />
+                <input type="image" name="Search" id=""  alt="Search" class="edit-sa form-submit form-submit search-submit" src="http://www.brown.edu/errors/img/search-button.png" />
+                <input type="hidden" name="form_id" class="edit-brown-google-cse-searchbox-form" value="brown_google_cse_searchbox_form"  />
+          </form>
+      </div>
+  </article>
+
+         </section>
+              </div>
+          </div>
+  </main>
+    
+  
+  <section id="brown-nav">
+    <div class="marginator">
+    
+      <div id="brown-header">
+        <h1><a href="//www.brown.edu">Explore Brown University</a></h1>
+        <span class="search-brown"><a href="https://www.brown.edu/academics/visual-art/search/brown" id="search-brown-button">Search Brown</a></span> 
+         <span class="toggle-brown"><a href="#" id="brown-menu-button" onclick="ga('send','event','Brown Menu','Click','Click Brown Hamburger')">Show/Hide</a></span> 
+        </div>
+        
+      <nav id="u-nav">
+        <div class="item-list" id="learn-list">
+          <h3>Learn More</h3>
+          <ul>
+            <li><a href="//www.brown.edu/about">About Brown</a></li>
+            <li><a href="//www.brown.edu/academics">Academics</a></li>
+            <li><a href="//www.brown.edu/admission">Admission</a></li>
+            <li><a href="//www.brown.edu/research">Research</a></li>
+            <li class="last"><a href="//www.brown.edu/campus-life">Campus Life</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="find-list">
+          <h3>Find</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/a-to-z">A to Z Index</a></li>
+            <li class="last"><a href="//directory.brown.edu">People Directory</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="information-list">
+          <h3>Information for</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/gateway/current-students">Students</a></li>
+            <li><a href="//www.brown.edu/gateway/faculty">Faculty</a></li>
+            <li><a href="//www.brown.edu/gateway/staff">Staff</a></li>
+            <li><a href="//www.brown.edu/gateway/families">Families</a></li>
+            <li><a href="//brunonia.brown.edu/alumni">Alumni</a></li>
+            <li class="last"><a href="//www.brown.edu/gateway/friends-and-neighbors">Friends &amp; Neighbors</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="destination-list">
+          <h3>Top Destinations</h3>
+          <ul>
+            <li><a href="http://www.brown.edu/about/administration/global-engagement/">Global Brown</a></li>
+            <li><a href="http://watson.brown.edu/">Watson Institute</a></li>
+            <li><a href="http://www.brown.edu/gradschool">Graduate School</a></li>
+            <li><a href="http://med.brown.edu">Alpert Medical School</a></li>
+            <li><a href="http://www.brown.edu/academics/public-health/">School of Public Health</a></li>
+            <li><a href="http://brown.edu/academics/engineering/">School of Engineering</a></li>
+          </ul>
+        </div>
+      </nav>
+      
+
+ 
+  
+   
+            
+  
+      
+            
+    </div>
+  </section>
+  
+  <footer id="site-footer">
+    <div class="marginator">
+	
+    
+<div  class="block block-contact-info block-contact-info-contact-info ">
+	<div class="width content">
+ 	 
+  	 	   	
+ 	 
+ 	       <h2>Visual Art</h2>
+    
+	<address class="h-card">
+      <span class="p-name ghost">Visual Art</span>
+  
+      <span class="p-org">Brown University</span>
+  
+      <span class="p-post-office-box">Box&nbsp;1861</span>
+  
+      <span class="p-street-address">List Art Building</span>
+      
+      <span class="p-extended-address">64 College St</span>
+  
+  
+      <span class="p-locality">Providence</span>, 
+  
+      <span class="p-region">RI</span>
+  
+      <span class="p-postal-code">02912</span><br>
+  </address>
+
+<dl class="contact">
+      <dt>Phone:</dt>
+    <dd><span class="p-tel">
+      401-863-1563    </span></dd>
+  
+    <dt>Fax:</dt>
+    <dd><span class="p-tel">
+      401-863-1680    </span></dd>
+  
+    <dt class="ghost">Email</dt>
+  <dd>
+    <a class="u-email" href="mailto:visual-art-dept@brown.edu">
+      visual-art-dept
+@brown.edu    </a></dd>
+  </dl>
+
+<dl class="social">
+    <dt class="ghost">Twitter</dt>
+    <dd><span class="p-twitter social"><a href="https://twitter.com/BrownVisualArt">Twitter</a></span></dd>
+      <dt class="ghost">Facebook</dt>
+    <dd><span class="p-facebook social"><a href="https://www.facebook.com/BrownVISA/">Facebook</a></span></dd>
+      <dt class="ghost">Instagram</dt>
+    <dd><span class="p-instagram social"><a href="https://www.instagram.com/brownvisualart/">Instagram</a></span></dd>
+  </dl>
+
+
+ 	 	</div>
+</div>
+  
+    </div>
+  </footer>
+  
+  <footer id="brown-footer">
+    <div class="marginator">
+      <section>
+                <div id="give-to-brown">
+       	 <a class="giving-footer" href="http://giving.brown.edu">Giving to Brown</a>
+        </div>
+      </section>
+      <div id="brown-contact">
+        <h1>Brown University</h1>
+        <p><span class="city-state-country">Providence, Rhode Island 02912, USA</span><br>
+          <span class="telephone">Phone: 401-863-1000</span><br>
+          <span class="maps-contact"><a href="http://www.brown.edu/Facilities/Facilities_Management/maps/#building/" tabindex="220">Maps</a> &amp; <a href="http://www.brown.edu/about/visit/driving-directions" tabindex="221">Directions</a> / <a href="http://www.brown.edu/contact" accesskey="9" tabindex="222">Contact Us</a></span><br>
+          <span class="copyright">© 2017 Brown University</span></p>
+        <p class="social-links">Connect: <a href="http://www.brown.edu/about/social-media/" title="Get Connected to the Brown Community">Social@Brown</a></p>
+        <ul class="social-media">
+          <li><a href="https://www.facebook.com/BrownUniversity" title="Facebook" id="footer-facebook">Facebook</a></li>
+          <li><a href="https://twitter.com/BrownUniversity" id="footer-twitter">Twitter</a></li>
+          <li><a href="http://www.youtube.com/brownuniversity" id="footer-youtube">YouTube</a></li>
+          <li><a href="http://instagram.com/brownu" id="footer-instagram">Instagram</a></li>
+          <li><a href="http://itunes.apple.com/institution/brown-university/id381076688#ls=1"  id="footer-itunesu">iTunes U</a></li>
+          <li><a href="https://plus.google.com/100931085598361161047/posts" id="footer-google-plus">Google+</a></li>
+          <li><a href="https://www.linkedin.com/edu/school?id=19348&amp;trk=tyah" id="footer-linkedin">LinkedIn</a></li>
+          <li><a href="https://www.snapchat.com/add/brown-u" id="footer-snapchat">SnapChat</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  
+</div>
+
+
+
+
+
+    
+  
+
+   <script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/drupal.js?owj8hn"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jcaption/jcaption.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/google_analytics/googleanalytics.js?owj8hn"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-34495025-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/contextual.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/js/bucket.js?owj8hn"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/academics\/visual-art\/","pathPrefix":"","ajaxPageState":{"theme":"bucket","theme_token":"63jfZDEwt5rCNq4H6-_ecSvhuk_03V1XFSMjnK9615g","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/custom\/bs2-search\/js\/bs2-search.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/js\/contextual.js":1,"sites\/all\/themes\/custom\/bucket\/js\/bucket.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css;":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/custom\/contact_info\/theme\/contact_info.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"\/\/cloud.typography.com\/793622\/644668\/css\/fonts.css":1,"sites\/all\/themes\/custom\/bucket\/css\/bucket.css":1,"sites\/all\/themes\/custom\/bucket\/css\/print.css":1}},"bs2_search":{"cse_id":"001311030293454891064:lwlrsw9qt3o","show_autocomplete":0},"jcaption":{"jcaption_selectors":[".content img"],"jcaption_alt_title":"title","jcaption_requireText":true,"jcaption_copyStyle":false,"jcaption_removeStyle":true,"jcaption_removeClass":true,"jcaption_removeAlign":true,"jcaption_copyAlignmentToClass":false,"jcaption_copyFloatToClass":true,"jcaption_copyClassToClass":true,"jcaption_autoWidth":true,"jcaption_keepLink":false,"jcaption_styleMarkup":"","jcaption_animate":false,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"currentPath":"undergraduate\/fall-2016-2017-visa0110-advanced-studio-foundation-application","currentPathIsAdmin":false});</script>
+
+      
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture.min.js?v=7.54"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/custom/bs2-search/js/bs2-search.js?owj8hn"></script>
+
+</body>
+</html>
+https://www.brown.edu/academics/visual-art/undergraduate/independent-studies /n<!doctype html>
+
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"  lang="en" dir="ltr">
+<!--<![endif]-->
+ 
+<head>
+<title>Page not found | Visual Art | Brown University</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal Mothership" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="114x114" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-startup.png">
+ 
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<style>
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.base.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.menus.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.messages.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.theme.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/date/date_api/date.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/fences/field.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/node/node.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture_wysiwyg.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/search/search.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/user/user.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/views/css/views.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ckeditor/css/ckeditor.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/calwidget-lite/theme/calwidget_lite.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ctools/css/ctools.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/shib_auth/shib_auth.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/contact_info/theme/contact_info.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/node_embed/plugins/node_embed/node_embed.css?owj8hn");
+</style>
+<link rel="stylesheet" href="//cloud.typography.com/793622/644668/css/fonts.css" />
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/bucket.css?owj8hn");
+</style>
+<style media="print">
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/print.css?owj8hn");
+</style>
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/html5.js"></script>
+<![endif]-->
+</head>
+<body class="not-front no-sidebars page-undergraduate page-undergraduate-independent-studies path-undergraduate-independent-studies bucket-nav-black" >
+<ul class="element-invisible element-focusable">
+  <li><a href="#main-content" onclick="ga('send','event','Accessibility','Click','Click Skip to Main Content')" > Skip to main content</a></li>
+  <li><a href="#site-nav" onclick="ga('send','event','Accessibility','Click','Click Skip to Primary Site Menu')" >Skip to primary site menu</a></li>
+  <li><a href="#___gcse_0" onclick="ga('send','event','Accessibility','Click','Click Skip to Site Search')" >Skip to primary site search</a></li>
+</ul>
+
+      
+ 
+<div id="shell">
+  <header id="site-header">
+ 
+           <section id="banner"  class="banner-image">
+      <div class="marginator">
+
+          <a href="/academics/visual-art/"><img src="https://www.brown.edu/academics/visual-art/sites/visual-art/files/bucket_robust_banner_image.jpg"></a>
+          <h1 class="site-title"><a href="/academics/visual-art/">Visual Art</a></h1>
+   
+        	<span class="toggle-site"><a href="#" id="site-menu-button">Show/Hide</a></span> 
+      </div>
+    </section>
+        	
+    <!-- /banner --> 
+    
+  </header>
+  <nav id="site-nav">
+    <div class="marginator">
+		        
+    </div>
+    <!-- /.marginator --> 
+  </nav>
+  <main>
+    <div class="marginator">
+      <header id="content-header"> 
+
+                <h1>404 Error</h1>
+
+      </header>
+      <div role="main" id="content">
+        <section id="main-content">
+         
+
+
+  
+
+  
+
+    
+   <article id="error-404">
+	<div class="content">
+
+
+
+    <h2>Page Not Found</h2>
+
+<p>Try these:</p>
+	 <ul>
+      <li><a href="//www.brown.edu/a-to-z/academics/depts">A-Z Directory</a></li>
+      <li><a href="//directory.brown.edu/">People Directory</a></li>
+     </ul>
+
+   
+ 
+               <form action="//www.brown.edu/search/google" accept-charset="UTF-8" method="get" class="google-cse-searchbox-form">
+                <input type="hidden" name="cx" class="edit-cx" value="001311030293454891064:lwlrsw9qt3o"  />
+                <input type="hidden" name="cof" class="edit-cof" value="FORID:11"  />
+                <input type="text" name="query" id="" accesskey="4" placeholder="Search brown.edu" class="form-text search-field edit-query" />
+                <input type="image" name="Search" id=""  alt="Search" class="edit-sa form-submit form-submit search-submit" src="http://www.brown.edu/errors/img/search-button.png" />
+                <input type="hidden" name="form_id" class="edit-brown-google-cse-searchbox-form" value="brown_google_cse_searchbox_form"  />
+          </form>
+      </div>
+  </article>
+
+         </section>
+              </div>
+          </div>
+  </main>
+    
+  
+  <section id="brown-nav">
+    <div class="marginator">
+    
+      <div id="brown-header">
+        <h1><a href="//www.brown.edu">Explore Brown University</a></h1>
+        <span class="search-brown"><a href="https://www.brown.edu/academics/visual-art/search/brown" id="search-brown-button">Search Brown</a></span> 
+         <span class="toggle-brown"><a href="#" id="brown-menu-button" onclick="ga('send','event','Brown Menu','Click','Click Brown Hamburger')">Show/Hide</a></span> 
+        </div>
+        
+      <nav id="u-nav">
+        <div class="item-list" id="learn-list">
+          <h3>Learn More</h3>
+          <ul>
+            <li><a href="//www.brown.edu/about">About Brown</a></li>
+            <li><a href="//www.brown.edu/academics">Academics</a></li>
+            <li><a href="//www.brown.edu/admission">Admission</a></li>
+            <li><a href="//www.brown.edu/research">Research</a></li>
+            <li class="last"><a href="//www.brown.edu/campus-life">Campus Life</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="find-list">
+          <h3>Find</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/a-to-z">A to Z Index</a></li>
+            <li class="last"><a href="//directory.brown.edu">People Directory</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="information-list">
+          <h3>Information for</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/gateway/current-students">Students</a></li>
+            <li><a href="//www.brown.edu/gateway/faculty">Faculty</a></li>
+            <li><a href="//www.brown.edu/gateway/staff">Staff</a></li>
+            <li><a href="//www.brown.edu/gateway/families">Families</a></li>
+            <li><a href="//brunonia.brown.edu/alumni">Alumni</a></li>
+            <li class="last"><a href="//www.brown.edu/gateway/friends-and-neighbors">Friends &amp; Neighbors</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="destination-list">
+          <h3>Top Destinations</h3>
+          <ul>
+            <li><a href="http://www.brown.edu/about/administration/global-engagement/">Global Brown</a></li>
+            <li><a href="http://watson.brown.edu/">Watson Institute</a></li>
+            <li><a href="http://www.brown.edu/gradschool">Graduate School</a></li>
+            <li><a href="http://med.brown.edu">Alpert Medical School</a></li>
+            <li><a href="http://www.brown.edu/academics/public-health/">School of Public Health</a></li>
+            <li><a href="http://brown.edu/academics/engineering/">School of Engineering</a></li>
+          </ul>
+        </div>
+      </nav>
+      
+
+ 
+  
+   
+            
+  
+      
+            
+    </div>
+  </section>
+  
+  <footer id="site-footer">
+    <div class="marginator">
+	
+    
+<div  class="block block-contact-info block-contact-info-contact-info ">
+	<div class="width content">
+ 	 
+  	 	   	
+ 	 
+ 	       <h2>Visual Art</h2>
+    
+	<address class="h-card">
+      <span class="p-name ghost">Visual Art</span>
+  
+      <span class="p-org">Brown University</span>
+  
+      <span class="p-post-office-box">Box&nbsp;1861</span>
+  
+      <span class="p-street-address">List Art Building</span>
+      
+      <span class="p-extended-address">64 College St</span>
+  
+  
+      <span class="p-locality">Providence</span>, 
+  
+      <span class="p-region">RI</span>
+  
+      <span class="p-postal-code">02912</span><br>
+  </address>
+
+<dl class="contact">
+      <dt>Phone:</dt>
+    <dd><span class="p-tel">
+      401-863-1563    </span></dd>
+  
+    <dt>Fax:</dt>
+    <dd><span class="p-tel">
+      401-863-1680    </span></dd>
+  
+    <dt class="ghost">Email</dt>
+  <dd>
+    <a class="u-email" href="mailto:visual-art-dept@brown.edu">
+      visual-art-dept
+@brown.edu    </a></dd>
+  </dl>
+
+<dl class="social">
+    <dt class="ghost">Twitter</dt>
+    <dd><span class="p-twitter social"><a href="https://twitter.com/BrownVisualArt">Twitter</a></span></dd>
+      <dt class="ghost">Facebook</dt>
+    <dd><span class="p-facebook social"><a href="https://www.facebook.com/BrownVISA/">Facebook</a></span></dd>
+      <dt class="ghost">Instagram</dt>
+    <dd><span class="p-instagram social"><a href="https://www.instagram.com/brownvisualart/">Instagram</a></span></dd>
+  </dl>
+
+
+ 	 	</div>
+</div>
+  
+    </div>
+  </footer>
+  
+  <footer id="brown-footer">
+    <div class="marginator">
+      <section>
+                <div id="give-to-brown">
+       	 <a class="giving-footer" href="http://giving.brown.edu">Giving to Brown</a>
+        </div>
+      </section>
+      <div id="brown-contact">
+        <h1>Brown University</h1>
+        <p><span class="city-state-country">Providence, Rhode Island 02912, USA</span><br>
+          <span class="telephone">Phone: 401-863-1000</span><br>
+          <span class="maps-contact"><a href="http://www.brown.edu/Facilities/Facilities_Management/maps/#building/" tabindex="220">Maps</a> &amp; <a href="http://www.brown.edu/about/visit/driving-directions" tabindex="221">Directions</a> / <a href="http://www.brown.edu/contact" accesskey="9" tabindex="222">Contact Us</a></span><br>
+          <span class="copyright">© 2017 Brown University</span></p>
+        <p class="social-links">Connect: <a href="http://www.brown.edu/about/social-media/" title="Get Connected to the Brown Community">Social@Brown</a></p>
+        <ul class="social-media">
+          <li><a href="https://www.facebook.com/BrownUniversity" title="Facebook" id="footer-facebook">Facebook</a></li>
+          <li><a href="https://twitter.com/BrownUniversity" id="footer-twitter">Twitter</a></li>
+          <li><a href="http://www.youtube.com/brownuniversity" id="footer-youtube">YouTube</a></li>
+          <li><a href="http://instagram.com/brownu" id="footer-instagram">Instagram</a></li>
+          <li><a href="http://itunes.apple.com/institution/brown-university/id381076688#ls=1"  id="footer-itunesu">iTunes U</a></li>
+          <li><a href="https://plus.google.com/100931085598361161047/posts" id="footer-google-plus">Google+</a></li>
+          <li><a href="https://www.linkedin.com/edu/school?id=19348&amp;trk=tyah" id="footer-linkedin">LinkedIn</a></li>
+          <li><a href="https://www.snapchat.com/add/brown-u" id="footer-snapchat">SnapChat</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  
+</div>
+
+
+
+
+
+    
+  
+
+   <script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/drupal.js?owj8hn"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jcaption/jcaption.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/google_analytics/googleanalytics.js?owj8hn"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-34495025-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/contextual.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/js/bucket.js?owj8hn"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/academics\/visual-art\/","pathPrefix":"","ajaxPageState":{"theme":"bucket","theme_token":"WXBlInba2UdMlhIBug8Mpe6qCI9yxL_Jpr-esSZwGOA","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/custom\/bs2-search\/js\/bs2-search.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/js\/contextual.js":1,"sites\/all\/themes\/custom\/bucket\/js\/bucket.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css;":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/custom\/contact_info\/theme\/contact_info.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"\/\/cloud.typography.com\/793622\/644668\/css\/fonts.css":1,"sites\/all\/themes\/custom\/bucket\/css\/bucket.css":1,"sites\/all\/themes\/custom\/bucket\/css\/print.css":1}},"bs2_search":{"cse_id":"001311030293454891064:lwlrsw9qt3o","show_autocomplete":0},"jcaption":{"jcaption_selectors":[".content img"],"jcaption_alt_title":"title","jcaption_requireText":true,"jcaption_copyStyle":false,"jcaption_removeStyle":true,"jcaption_removeClass":true,"jcaption_removeAlign":true,"jcaption_copyAlignmentToClass":false,"jcaption_copyFloatToClass":true,"jcaption_copyClassToClass":true,"jcaption_autoWidth":true,"jcaption_keepLink":false,"jcaption_styleMarkup":"","jcaption_animate":false,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"currentPath":"undergraduate\/independent-studies","currentPathIsAdmin":false});</script>
+
+      
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture.min.js?v=7.54"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/custom/bs2-search/js/bs2-search.js?owj8hn"></script>
+
+</body>
+</html>
+https://www.brown.edu/academics/visual-art/undergraduate/program /n<!doctype html>
+
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"  lang="en" dir="ltr">
+<!--<![endif]-->
+ 
+<head>
+<title>Page not found | Visual Art | Brown University</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal Mothership" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="114x114" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/apple-startup.png">
+ 
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<style>
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.base.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.menus.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.messages.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/system/system.theme.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/date/date_api/date.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/fences/field.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/node/node.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture_wysiwyg.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/search/search.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/modules/user/user.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/views/css/views.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ckeditor/css/ckeditor.css?owj8hn");
+</style>
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/calwidget-lite/theme/calwidget_lite.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/ctools/css/ctools.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/shib_auth/shib_auth.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/custom/contact_info/theme/contact_info.css?owj8hn");
+@import url("https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/node_embed/plugins/node_embed/node_embed.css?owj8hn");
+</style>
+<link rel="stylesheet" href="//cloud.typography.com/793622/644668/css/fonts.css" />
+<style>
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/bucket.css?owj8hn");
+</style>
+<style media="print">
+@import url("https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/css/print.css?owj8hn");
+</style>
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+  <script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/html5.js"></script>
+<![endif]-->
+</head>
+<body class="not-front no-sidebars page-undergraduate page-undergraduate-program path-undergraduate-program bucket-nav-black" >
+<ul class="element-invisible element-focusable">
+  <li><a href="#main-content" onclick="ga('send','event','Accessibility','Click','Click Skip to Main Content')" > Skip to main content</a></li>
+  <li><a href="#site-nav" onclick="ga('send','event','Accessibility','Click','Click Skip to Primary Site Menu')" >Skip to primary site menu</a></li>
+  <li><a href="#___gcse_0" onclick="ga('send','event','Accessibility','Click','Click Skip to Site Search')" >Skip to primary site search</a></li>
+</ul>
+
+      
+ 
+<div id="shell">
+  <header id="site-header">
+ 
+           <section id="banner"  class="banner-image">
+      <div class="marginator">
+
+          <a href="/academics/visual-art/"><img src="https://www.brown.edu/academics/visual-art/sites/visual-art/files/bucket_robust_banner_image.jpg"></a>
+          <h1 class="site-title"><a href="/academics/visual-art/">Visual Art</a></h1>
+   
+        	<span class="toggle-site"><a href="#" id="site-menu-button">Show/Hide</a></span> 
+      </div>
+    </section>
+        	
+    <!-- /banner --> 
+    
+  </header>
+  <nav id="site-nav">
+    <div class="marginator">
+		        
+    </div>
+    <!-- /.marginator --> 
+  </nav>
+  <main>
+    <div class="marginator">
+      <header id="content-header"> 
+
+                <h1>404 Error</h1>
+
+      </header>
+      <div role="main" id="content">
+        <section id="main-content">
+         
+
+
+  
+
+  
+
+    
+   <article id="error-404">
+	<div class="content">
+
+
+
+    <h2>Page Not Found</h2>
+
+<p>Try these:</p>
+	 <ul>
+      <li><a href="//www.brown.edu/a-to-z/academics/depts">A-Z Directory</a></li>
+      <li><a href="//directory.brown.edu/">People Directory</a></li>
+     </ul>
+
+   
+ 
+               <form action="//www.brown.edu/search/google" accept-charset="UTF-8" method="get" class="google-cse-searchbox-form">
+                <input type="hidden" name="cx" class="edit-cx" value="001311030293454891064:lwlrsw9qt3o"  />
+                <input type="hidden" name="cof" class="edit-cof" value="FORID:11"  />
+                <input type="text" name="query" id="" accesskey="4" placeholder="Search brown.edu" class="form-text search-field edit-query" />
+                <input type="image" name="Search" id=""  alt="Search" class="edit-sa form-submit form-submit search-submit" src="http://www.brown.edu/errors/img/search-button.png" />
+                <input type="hidden" name="form_id" class="edit-brown-google-cse-searchbox-form" value="brown_google_cse_searchbox_form"  />
+          </form>
+      </div>
+  </article>
+
+         </section>
+              </div>
+          </div>
+  </main>
+    
+  
+  <section id="brown-nav">
+    <div class="marginator">
+    
+      <div id="brown-header">
+        <h1><a href="//www.brown.edu">Explore Brown University</a></h1>
+        <span class="search-brown"><a href="https://www.brown.edu/academics/visual-art/search/brown" id="search-brown-button">Search Brown</a></span> 
+         <span class="toggle-brown"><a href="#" id="brown-menu-button" onclick="ga('send','event','Brown Menu','Click','Click Brown Hamburger')">Show/Hide</a></span> 
+        </div>
+        
+      <nav id="u-nav">
+        <div class="item-list" id="learn-list">
+          <h3>Learn More</h3>
+          <ul>
+            <li><a href="//www.brown.edu/about">About Brown</a></li>
+            <li><a href="//www.brown.edu/academics">Academics</a></li>
+            <li><a href="//www.brown.edu/admission">Admission</a></li>
+            <li><a href="//www.brown.edu/research">Research</a></li>
+            <li class="last"><a href="//www.brown.edu/campus-life">Campus Life</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="find-list">
+          <h3>Find</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/a-to-z">A to Z Index</a></li>
+            <li class="last"><a href="//directory.brown.edu">People Directory</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="information-list">
+          <h3>Information for</h3>
+          <ul>
+            <li class="first"><a href="//www.brown.edu/gateway/current-students">Students</a></li>
+            <li><a href="//www.brown.edu/gateway/faculty">Faculty</a></li>
+            <li><a href="//www.brown.edu/gateway/staff">Staff</a></li>
+            <li><a href="//www.brown.edu/gateway/families">Families</a></li>
+            <li><a href="//brunonia.brown.edu/alumni">Alumni</a></li>
+            <li class="last"><a href="//www.brown.edu/gateway/friends-and-neighbors">Friends &amp; Neighbors</a></li>
+          </ul>
+        </div>
+        <div class="item-list" id="destination-list">
+          <h3>Top Destinations</h3>
+          <ul>
+            <li><a href="http://www.brown.edu/about/administration/global-engagement/">Global Brown</a></li>
+            <li><a href="http://watson.brown.edu/">Watson Institute</a></li>
+            <li><a href="http://www.brown.edu/gradschool">Graduate School</a></li>
+            <li><a href="http://med.brown.edu">Alpert Medical School</a></li>
+            <li><a href="http://www.brown.edu/academics/public-health/">School of Public Health</a></li>
+            <li><a href="http://brown.edu/academics/engineering/">School of Engineering</a></li>
+          </ul>
+        </div>
+      </nav>
+      
+
+ 
+  
+   
+            
+  
+      
+            
+    </div>
+  </section>
+  
+  <footer id="site-footer">
+    <div class="marginator">
+	
+    
+<div  class="block block-contact-info block-contact-info-contact-info ">
+	<div class="width content">
+ 	 
+  	 	   	
+ 	 
+ 	       <h2>Visual Art</h2>
+    
+	<address class="h-card">
+      <span class="p-name ghost">Visual Art</span>
+  
+      <span class="p-org">Brown University</span>
+  
+      <span class="p-post-office-box">Box&nbsp;1861</span>
+  
+      <span class="p-street-address">List Art Building</span>
+      
+      <span class="p-extended-address">64 College St</span>
+  
+  
+      <span class="p-locality">Providence</span>, 
+  
+      <span class="p-region">RI</span>
+  
+      <span class="p-postal-code">02912</span><br>
+  </address>
+
+<dl class="contact">
+      <dt>Phone:</dt>
+    <dd><span class="p-tel">
+      401-863-1563    </span></dd>
+  
+    <dt>Fax:</dt>
+    <dd><span class="p-tel">
+      401-863-1680    </span></dd>
+  
+    <dt class="ghost">Email</dt>
+  <dd>
+    <a class="u-email" href="mailto:visual-art-dept@brown.edu">
+      visual-art-dept
+@brown.edu    </a></dd>
+  </dl>
+
+<dl class="social">
+    <dt class="ghost">Twitter</dt>
+    <dd><span class="p-twitter social"><a href="https://twitter.com/BrownVisualArt">Twitter</a></span></dd>
+      <dt class="ghost">Facebook</dt>
+    <dd><span class="p-facebook social"><a href="https://www.facebook.com/BrownVISA/">Facebook</a></span></dd>
+      <dt class="ghost">Instagram</dt>
+    <dd><span class="p-instagram social"><a href="https://www.instagram.com/brownvisualart/">Instagram</a></span></dd>
+  </dl>
+
+
+ 	 	</div>
+</div>
+  
+    </div>
+  </footer>
+  
+  <footer id="brown-footer">
+    <div class="marginator">
+      <section>
+                <div id="give-to-brown">
+       	 <a class="giving-footer" href="http://giving.brown.edu">Giving to Brown</a>
+        </div>
+      </section>
+      <div id="brown-contact">
+        <h1>Brown University</h1>
+        <p><span class="city-state-country">Providence, Rhode Island 02912, USA</span><br>
+          <span class="telephone">Phone: 401-863-1000</span><br>
+          <span class="maps-contact"><a href="http://www.brown.edu/Facilities/Facilities_Management/maps/#building/" tabindex="220">Maps</a> &amp; <a href="http://www.brown.edu/about/visit/driving-directions" tabindex="221">Directions</a> / <a href="http://www.brown.edu/contact" accesskey="9" tabindex="222">Contact Us</a></span><br>
+          <span class="copyright">© 2017 Brown University</span></p>
+        <p class="social-links">Connect: <a href="http://www.brown.edu/about/social-media/" title="Get Connected to the Brown Community">Social@Brown</a></p>
+        <ul class="social-media">
+          <li><a href="https://www.facebook.com/BrownUniversity" title="Facebook" id="footer-facebook">Facebook</a></li>
+          <li><a href="https://twitter.com/BrownUniversity" id="footer-twitter">Twitter</a></li>
+          <li><a href="http://www.youtube.com/brownuniversity" id="footer-youtube">YouTube</a></li>
+          <li><a href="http://instagram.com/brownu" id="footer-instagram">Instagram</a></li>
+          <li><a href="http://itunes.apple.com/institution/brown-university/id381076688#ls=1"  id="footer-itunesu">iTunes U</a></li>
+          <li><a href="https://plus.google.com/100931085598361161047/posts" id="footer-google-plus">Google+</a></li>
+          <li><a href="https://www.linkedin.com/edu/school?id=19348&amp;trk=tyah" id="footer-linkedin">LinkedIn</a></li>
+          <li><a href="https://www.snapchat.com/add/brown-u" id="footer-snapchat">SnapChat</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  
+</div>
+
+
+
+
+
+    
+  
+
+   <script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.brown.edu/academics/visual-art/misc/drupal.js?owj8hn"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/jcaption/jcaption.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/google_analytics/googleanalytics.js?owj8hn"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-34495025-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/contrib/mothership/mothership/js/contextual.js?owj8hn"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/themes/custom/bucket/js/bucket.js?owj8hn"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/academics\/visual-art\/","pathPrefix":"","ajaxPageState":{"theme":"bucket","theme_token":"cDlCR7oBT329ySnxb3j23cihwj1X7FTqpWCzCk8zbm4","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/custom\/bs2-search\/js\/bs2-search.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/contrib\/mothership\/mothership\/js\/contextual.js":1,"sites\/all\/themes\/custom\/bucket\/js\/bucket.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css;":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/calwidget-lite\/theme\/calwidget_lite.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/custom\/contact_info\/theme\/contact_info.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"\/\/cloud.typography.com\/793622\/644668\/css\/fonts.css":1,"sites\/all\/themes\/custom\/bucket\/css\/bucket.css":1,"sites\/all\/themes\/custom\/bucket\/css\/print.css":1}},"bs2_search":{"cse_id":"001311030293454891064:lwlrsw9qt3o","show_autocomplete":0},"jcaption":{"jcaption_selectors":[".content img"],"jcaption_alt_title":"title","jcaption_requireText":true,"jcaption_copyStyle":false,"jcaption_removeStyle":true,"jcaption_removeClass":true,"jcaption_removeAlign":true,"jcaption_copyAlignmentToClass":false,"jcaption_copyFloatToClass":true,"jcaption_copyClassToClass":true,"jcaption_autoWidth":true,"jcaption_keepLink":false,"jcaption_styleMarkup":"","jcaption_animate":false,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"currentPath":"undergraduate\/program","currentPathIsAdmin":false});</script>
+
+      
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/contrib/picture/picture.min.js?v=7.54"></script>
+<script src="https://www.brown.edu/academics/visual-art/sites/all/modules/custom/bs2-search/js/bs2-search.js?owj8hn"></script>
+
+</body>
+</html>

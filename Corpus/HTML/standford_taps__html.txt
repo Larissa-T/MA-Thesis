@@ -1,0 +1,662 @@
+http://taps.stanford.edu/courses.html /n<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+
+<script>
+window.onpageshow = function(event) {
+    if (event.persisted) {
+        window.location.reload() 
+    }
+};
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+</script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- ========== VIEWPORT META ========== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    <!-- ========== PAGE TITLE ========== -->
+    <title>Stanford TAPS | Department Courses</title>
+
+    
+
+    <!-- ========== FAVICON & APPLE ICONS ========== -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+    <!-- ========== MINIFIED VENDOR CSS ========== -->
+    <link rel="stylesheet" href="styles/vendor.css">
+
+    <!-- ========== MAIN CSS ========== -->
+    <link rel="stylesheet" href="styles/main.css">
+    <link href="explorecoursescustom.css" rel="stylesheet" type="text/css">
+    <link href="styles/custom.css" rel="stylesheet" type="text/css">
+    <script src="scripts/vendor/modernizr.js"></script>
+</head>
+
+<!-- ==================================================
+Body: Classes
+header-shadow - Set shadow for header & menu
+dark-menu - Change menu to dark [Don't use with light-header]
+light-header - Set light background to header [Don't use with dark-menu]
+dark-header - Set dark background to header
+bold-menu - For bolder links
+semi-trans-header - set transparency to header [Use with 'light-header' or 'dark-header']
+center-logo - Logo at center
+small-header - For lesser height
+nav-hidden - Open nav on icon click
+================================================== -->
+<body class="header-shadow semi-trans-header light-header bold-menu">
+
+    <!-- ========== HEADER ========== -->
+    <div class="header menu-style-9">
+    
+        <!-- ========== top menu ========== -->
+        <div class="top-menu">
+            <div class="container-fluid">
+                <div class="right-div pull-right">
+                    	<a href="https://www.facebook.com/StanfordTAPS/" class="trans"><i class="fa fa-facebook"></i> facebook</a>
+                        <a href="https://www.instagram.com/stanfordtaps/" class="trans"><i class="fa fa-instagram"></i> instagram</a>
+                        <a href="https://vimeo.com/stanfordtaps" class="trans"><i class="fa fa-vimeo"></i> vimeo</a>
+                        <a href="https://twitter.com/stanfordtaps?lang=en" class="trans"><i class="fa fa-twitter"></i> twitter</a>
+                    	<a href="https://stanford.box.com/s/vyaxzga0nb41aezj2tucgh3tauimk5rl" class="trans"><i class="fa fa-lock"></i> login</a>
+                </div>
+            </div> <!-- end container-fluid -->
+        </div> <!-- end top-menu -->
+        
+        
+        <div class="container-fluid">
+        
+            <!-- ========== MENU ========== -->
+            <nav class="menu">
+            
+                <div class="logo">
+                    <a href="index.html"><img src="images/taps/tapslogo.png" alt="TAPS" class="logo-img"></a>
+                </div> <!-- end logo -->
+                
+                <!-- ========== MAIN MENU ========== -->
+                <ul class="main-menu">
+                  <li class="menu-item">
+                        <a href="#"><i class="menu-icon fa fa-star"></i> About<span class="text-muted">Who + Where</span></a>
+                        <!-- Sub Menu -->
+                        <ul class="mega-submenu normal-sub">
+                        <li class="">
+               <a href="mission.html" class="hidden-sm hidden-xs"><i class="fa fa-bullseye"></i> Our Vision + Mission</a>
+                          <li class="has-subsubmenu">
+                                <a href="#"><i class="fa fa-users"></i> People</a>
+                                <ul class="sub-submenu">
+                                    <li><a href="professors.html"><i class="fa fa-user"></i> Professors</a></li>
+                                    <li><a href="lecturers.html"><i class="fa fa-user"></i> Lecturers</a></li>
+                                    <li><a href="artists.html"><i class="fa fa-user"></i> Artists-in-Residence</a></li>
+                                    <li><a href="visiting.html"><i class="fa fa-user"></i> Visiting Faculty</a></li>
+                                    <li><a href="staff.html"><i class="fa fa-user"></i> Staff</a></li>
+                                    <li><a href="students.html"><i class="fa fa-user"></i> Graduate Students</a></li>
+                                </ul>
+                            </li> <!-- end has-subsubmenu -->
+                          <li class="has-subsubmenu">
+                                <a href="#"><i class="fa fa-building-o"></i> Facilities</a>
+                                <ul class="sub-submenu">
+                                    <li><a href="facilities.html"><i class="fa fa-building-o"></i> Main Buildings</a></li>
+                                    <li><a href="rehearsalspaces.html"><i class="fa fa-child"></i> Rehearsal Spaces</a></li>
+                                    <li><a href="performancespaces.html"><i class="fa fa-ticket "></i> Performance Spaces</a></li>
+                                    <li><a href="sceneshop.html"><i class="ion ion-hammer"></i> Scene Shops</a></li>
+                                    <li><a href="costumeshop.html"><i class="ion ion-bowtie"></i> Costume Shop</a></li>
+                                    <li><a href="spacepolicies.html"><i class="fa fa-exclamation-circle"></i> Usage Policies</a></li>
+                                </ul>
+                            </li> <!-- end has-subsubmenu -->
+						  <li class="">
+               <a href="niterystudio.html" class="hidden-sm hidden-xs"><i class="ion ion-ios-flask"></i> Experimental Nitery Studio</a>
+               <a href="history.html" class="hidden-sm hidden-xs"><i class="fa fa-history"></i> Department History</a> 
+               <a href="contact.html" class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> Contact Us</a>      
+                    </ul> <!-- end mega-submenu -->
+                  </li> <!-- end menu-item -->
+
+                  <li class="menu-item">
+                        <a href="#"><em class="menu-icon fa fa-graduation-cap"></em> ACADEMICS<span class="text-muted">Degree Programs</span></a>
+           <ul class="mega-submenu no-image">
+                            <li class="submenu-column">
+                                <ul>
+                                    <li><h6 class="underline mt10 ml20"> Doctoral</h6></li>
+                                    <li><a href="phd.html"><i class="fa fa-bullseye"></i> Mission</a></li>
+                                    <li><a href="phd-apply.html"><i class="fa fa-pencil"></i> Applying</a></li>
+                                    <li><a href="phd-requirements.html"><i class="fa fa-check-square-o"></i> Requirements</a></li>
+                                    <li><a href="placement.html"><i class="fa fa-certificate"></i> Placement History</a></li>
+                                </ul>
+                            </li> <!-- end submenu-column -->
+                            <li class="submenu-column">
+                                <ul>
+                                  <li><h6 class="underline mt10 ml20"> UNDERGRADUATE</h6></li>
+                                    <li><a href="ba.html"><i class="fa fa-bullseye"></i> Mission & Concentrations</a></li>
+                                    <li><a href="ba-apply.html"><i class="fa fa-pencil"></i> Arts Portfolio Instructions</a></li>
+                                    <li><a href="ba-requirements.html"><i class="fa fa-check-square-o"></i> Bachelor's Program</a></li>
+                                    <li><a href="minor-requirements.html"><i class="fa fa-check-square"></i> Minor Program</a></li>
+									<li><a href="honors.html"><i class="ion ion-ribbon-b"></i> Honors Program</a></li>   
+                            </ul>
+                            </li> <!-- end submenu-column -->     
+                            <li class="submenu-column">
+             </li> <!-- end submenu-column -->
+                    </ul> <!-- end mega-submenu -->
+                    </li> 
+ <!-- end menu-item -->
+                  <li class="menu-item">
+                        <a href="#"><i class="fa fa-calendar"></i> TICKETS + EVENTS<span class="text-muted">Box Office + Calendars</span></a>
+                        <!-- Sub Menu -->
+                    <ul class="mega-submenu normal-sub">
+                          <li class="">
+                       <a href="season2018.html"><i class="fa fa-ticket"></i> Season + Tickets</a>
+                        <li class="">
+                          <a href="calendar.html"><i class="fa fa-calendar"></i> See All TAPS Events</a>
+                        <li class="">
+                          <a href="visit.html"><i class="ion ion-information-circled"></i> Plan Your Visit</a>
+                            </li>
+                      <li class="">
+                        <a href="#" onClick="MM_openBrWindow('https://docs.google.com/forms/d/e/1FAIpQLSe4D41fzCO9FiOhVYp8xPQIa6Ws9o0UQZEb67CjuyuuNQNrkw/viewform','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=700,height=500')"><i class="fa fa-send"></i> Join Mailing List</a>
+                            </li>
+                    </ul> <!-- end mega-submenu -->
+                  </li> <!-- end menu-item -->      
+                <li class="menu-item">    
+				<a href="#"><i class="ion ion-settings"></i> RESOURCES<span class="text-muted">Helpful Info</span></a>
+   <ul class="mega-submenu no-image-2">
+                            <li class="submenu-column">
+                                <ul>
+                                    <li><h6 class="underline mt10 ml20"> POLICIES</h6></li>
+                                    <li><a href="spacepolicies.html"><i class="fa fa-building-o"></i> Space Usage</a></li>
+                                    <li><a href="rentals.html"><i class="fa fa-pencil"></i> Rentals</a></li>
+                                    <li><a href="productionpolicies.html"><i class="ion ion-clipboard"></i> Production Management</a></li>
+                                </ul>
+                            </li> <!-- end submenu-column -->
+                            <li class="submenu-column">
+                                <ul>
+                                  <li><h6 class="underline mt10 ml20"> RESOURCES</h6></li>
+                                    <li><a href="#" onClick="MM_openBrWindow('https://go.activecalendar.com/stanfordtaps','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=1200,height=900')"><i class="fa fa-star"></i> Production Calendar</a></li>
+                                  <li><a href="lighting.html"><i class="ion ion-lightbulb"></i> Lighting Design</a></li>
+                                    <li><a href="set_projection_sound.html"><i class="ion ion-headphone"></i> Set/Projection/Sound Design</a></li>
+                                    <li><a href="housemanagement.html"><i class="ion ion-pin"></i> Event Management</a></li>
+									<li><a href="plans.html"><i class="ion ion-android-map"></i> Groundplans</a></li>
+                            </ul>
+                            </li> <!-- end submenu-column -->                              
+                  </ul> <!-- end mega-submenu -->
+                    </li> 
+ 			<!-- end menu-item -->
+                  <li class="menu-item">
+                      <a href="#"><i class="menu-icon fa fa-bullhorn"></i> Get Involved!<span class="text-muted">Auditions + Opportunities</span></a>
+                        <!-- Sub Menu -->
+                        <ul class="mega-submenu normal-sub">
+                            <li class="has-subsubmenu">
+                                <a href="#"><i class="fa fa-child"></i> Students</a>
+                                <ul class="sub-submenu on-left">
+                                    <li><a href="auditions.html"><i class="fa fa-cubes"></i> Auditions</a></li>
+                                    <li><a href="crew.html"><i class="fa fa-sliders"></i> Design/Crew</a></li>
+                                    <li><a href="apprenticeships.html"><i class="fa fa-briefcase"></i> Apprenticeships</a></li>
+                                    <li><a href="employment.html"><i class="fa fa-user-plus"></i> Employment</a></li>
+                              </ul> <!-- end sub-submenu -->
+                            </li> <!-- end has-subsubmenu -->
+                            <li class="">
+                                <a href="careers.html"><i class="fa fa-user-plus"></i> Employment</a>
+                            </li>  
+                    </ul> <!-- end mega-submenu -->
+                    </li> <!-- end menu-item -->
+                          </li> <!-- end menu-item -->
+                            <li class="menu-item">
+                      <a href="courses.html"><i class="menu-icon fa fa-book"></i> COURSES<span class="text-muted">Browse Listings</span></a>
+                           </li> <!-- end menu-item -->
+              </ul> <!-- end main-menu -->
+            </nav> <!-- end menu -->
+        </div> <!-- end container-fluid -->
+    </div> <!-- end header -->
+
+    <!-- ========== MAIN ========== -->
+    <div class="main">
+    <br><br><br>
+
+ <!-- ========== STYLE 1 ========== -->
+		<section class="content-section">
+            <div class="container">
+                <div class="row">
+                	<div class="col-md-12">
+                    
+                    <div class="col-md-12 section-header text-center mb60">
+                        <h1 class="section-title underline">DEPARTMENT COURSES</h1>
+                        <p class="section-subtitle">2016/17 TAPS + Dance Courses | via the Stanford Bulletin</p>
+                    </div> <!-- end section-header -->
+                        
+                        <div class="tab-style-1">
+                            <ul class="nav nav-tabs" role="tablist">
+                                <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><h5>THEATER + PERFORMANCE STUDIES COURSES</h5></a></li>
+                                <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><h5>DANCE COURSES</h5></a></li>
+                            </ul> <!-- end nav-tabs -->
+
+                            <!-- Tab panes -->
+                            <div class="tab-content">
+                                <div role="tabpanel" class="tab-pane fade in active" id="home">
+                                    <iframe width="100%" frameborder="0" src="https://explorecourses.stanford.edu/search?view=catalog&academicYear=&q=TAPS&filter-departmentcode-TAPS=on&filter-coursestatus-Active=on&filter-term-Autumn=on&filter-term-Winter=on&filter-term-Spring=on&filter-term-Summer=on&page=0" height="2400"></iframe>
+                                </div>
+                                <div role="tabpanel" class="tab-pane fade" id="profile">
+                                    <iframe width="100%" frameborder="0" src="https://explorecourses.stanford.edu/search?view=catalog&academicYear=&q=dance&filter-departmentcode-dance=on&filter-coursestatus-Active=on&filter-term-Autumn=on&filter-term-Winter=on&filter-term-Spring=on&filter-term-Summer=on&page=0" height="2400"></iframe>
+                                </div>
+                               
+                            </div> <!-- end tab-content -->
+                        </div> <!-- end tab-style-1 -->
+                        </div>
+                    </div> <!-- end col-md-6 -->
+
+
+
+
+    </div> <!-- end main -->
+
+    <!-- ==================================================
+    Footer: Classes
+    footer - Default footer
+    dark-footer - Dark footer [Use with .footer]
+    sticky-footer - Reveal footer on scroll
+    ================================================== -->
+ <!-- ==================================================
+    Footer: Classes
+    footer - Default footer
+    dark-footer - Dark footer [Use with .footer]
+    sticky-footer - Reveal footer on scroll
+    ================================================== -->
+    <footer class="footer dark-footer" id="footer">
+
+        <!-- ========== top footer ========== -->
+        <div class="container footer-top">
+            <div class="row">
+               
+                
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <h5 class="footer-title underline">CONNECT</h5>
+                  <ul class="ul">
+                        <li><a href="https://www.facebook.com/StanfordTAPS/" class="trans"><i class="fa fa-facebook"></i> facebook</a></li>
+                        <li><a href="https://www.instagram.com/stanfordtaps/" class="trans"><i class="fa fa-instagram"></i> instagram</a></li>
+                        <li><a href="https://vimeo.com/stanfordtaps" class="trans"><i class="fa fa-vimeo"></i> vimeo</a></li>
+                        <li><a href="https://twitter.com/stanfordtaps?lang=en" class="trans"><i class="fa fa-twitter"></i> twitter</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <h5 class="footer-title underline">join us</h5>
+                  <ul class="ul">
+                    <li><a href="calendar.html" class="trans">events calendar</a></li>
+                        <li><a href="season2018.html" class="trans">season + tickets</a></li>
+                        <li><a href="auditions.html" class="trans">auditions</a></li>
+                        <li><a href="visit.html" class="trans">plan your visit</a></li>
+                    </ul>
+                </div>
+
+                <!-- ========== right side ========== -->
+                <div class="col-md-6 vcenter text-right">
+                    <img src="images/taps/logo-light.png" alt="Stanford TAPS" class="img-responsive mb20 pull-right" width="200">
+                    <div class=" clearfix">
+                      <p class="footer-desc"><em class="fa fa-map-marker"></em> 375 santa teresa st stanford ca 94305<br>
+                        <em class="fa fa-envelope-o"></em> tapsinformation@stanford.edu<br>
+                        <em class="fa fa-phone"></em> (650) 723-2576</p>
+                    </div>
+                </div>
+
+            </div> <!-- end row -->
+        </div> <!-- end footer-top -->
+
+        <!-- ========== footer-middle ========== -->
+        <div class="container footer-middle">
+            <div class="row">
+                <div class="col-md-12 text-right">
+                  <h6 class="footer-title uppercase">&copy; 2016 &nbsp;Stanford University</h6>
+                </div>
+            </div> <!-- end row -->
+        </div> <!-- end footer-middle -->
+
+        
+        <!-- ========== Scroll to top button ========== -->
+        <div class="scroll-to-top trans"><i class="fa fa-angle-up"></i></div>
+    </footer>
+    
+    <!-- ========== LOADER ========== -->
+    <div class="page-loader">
+        <div class="spinner"></div>
+    </div>
+
+	<script src="scripts/vendor.js"></script>
+
+	<script src="scripts/plugins.js"></script>
+
+	<script src="scripts/main.js"></script>
+</body>
+
+</html>
+http://taps.stanford.edu/courses.html /n<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+
+<script>
+window.onpageshow = function(event) {
+    if (event.persisted) {
+        window.location.reload() 
+    }
+};
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+</script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- ========== VIEWPORT META ========== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    <!-- ========== PAGE TITLE ========== -->
+    <title>Stanford TAPS | Department Courses</title>
+
+    
+
+    <!-- ========== FAVICON & APPLE ICONS ========== -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+    <!-- ========== MINIFIED VENDOR CSS ========== -->
+    <link rel="stylesheet" href="styles/vendor.css">
+
+    <!-- ========== MAIN CSS ========== -->
+    <link rel="stylesheet" href="styles/main.css">
+    <link href="explorecoursescustom.css" rel="stylesheet" type="text/css">
+    <link href="styles/custom.css" rel="stylesheet" type="text/css">
+    <script src="scripts/vendor/modernizr.js"></script>
+</head>
+
+<!-- ==================================================
+Body: Classes
+header-shadow - Set shadow for header & menu
+dark-menu - Change menu to dark [Don't use with light-header]
+light-header - Set light background to header [Don't use with dark-menu]
+dark-header - Set dark background to header
+bold-menu - For bolder links
+semi-trans-header - set transparency to header [Use with 'light-header' or 'dark-header']
+center-logo - Logo at center
+small-header - For lesser height
+nav-hidden - Open nav on icon click
+================================================== -->
+<body class="header-shadow semi-trans-header light-header bold-menu">
+
+    <!-- ========== HEADER ========== -->
+    <div class="header menu-style-9">
+    
+        <!-- ========== top menu ========== -->
+        <div class="top-menu">
+            <div class="container-fluid">
+                <div class="right-div pull-right">
+                    	<a href="https://www.facebook.com/StanfordTAPS/" class="trans"><i class="fa fa-facebook"></i> facebook</a>
+                        <a href="https://www.instagram.com/stanfordtaps/" class="trans"><i class="fa fa-instagram"></i> instagram</a>
+                        <a href="https://vimeo.com/stanfordtaps" class="trans"><i class="fa fa-vimeo"></i> vimeo</a>
+                        <a href="https://twitter.com/stanfordtaps?lang=en" class="trans"><i class="fa fa-twitter"></i> twitter</a>
+                    	<a href="https://stanford.box.com/s/vyaxzga0nb41aezj2tucgh3tauimk5rl" class="trans"><i class="fa fa-lock"></i> login</a>
+                </div>
+            </div> <!-- end container-fluid -->
+        </div> <!-- end top-menu -->
+        
+        
+        <div class="container-fluid">
+        
+            <!-- ========== MENU ========== -->
+            <nav class="menu">
+            
+                <div class="logo">
+                    <a href="index.html"><img src="images/taps/tapslogo.png" alt="TAPS" class="logo-img"></a>
+                </div> <!-- end logo -->
+                
+                <!-- ========== MAIN MENU ========== -->
+                <ul class="main-menu">
+                  <li class="menu-item">
+                        <a href="#"><i class="menu-icon fa fa-star"></i> About<span class="text-muted">Who + Where</span></a>
+                        <!-- Sub Menu -->
+                        <ul class="mega-submenu normal-sub">
+                        <li class="">
+               <a href="mission.html" class="hidden-sm hidden-xs"><i class="fa fa-bullseye"></i> Our Vision + Mission</a>
+                          <li class="has-subsubmenu">
+                                <a href="#"><i class="fa fa-users"></i> People</a>
+                                <ul class="sub-submenu">
+                                    <li><a href="professors.html"><i class="fa fa-user"></i> Professors</a></li>
+                                    <li><a href="lecturers.html"><i class="fa fa-user"></i> Lecturers</a></li>
+                                    <li><a href="artists.html"><i class="fa fa-user"></i> Artists-in-Residence</a></li>
+                                    <li><a href="visiting.html"><i class="fa fa-user"></i> Visiting Faculty</a></li>
+                                    <li><a href="staff.html"><i class="fa fa-user"></i> Staff</a></li>
+                                    <li><a href="students.html"><i class="fa fa-user"></i> Graduate Students</a></li>
+                                </ul>
+                            </li> <!-- end has-subsubmenu -->
+                          <li class="has-subsubmenu">
+                                <a href="#"><i class="fa fa-building-o"></i> Facilities</a>
+                                <ul class="sub-submenu">
+                                    <li><a href="facilities.html"><i class="fa fa-building-o"></i> Main Buildings</a></li>
+                                    <li><a href="rehearsalspaces.html"><i class="fa fa-child"></i> Rehearsal Spaces</a></li>
+                                    <li><a href="performancespaces.html"><i class="fa fa-ticket "></i> Performance Spaces</a></li>
+                                    <li><a href="sceneshop.html"><i class="ion ion-hammer"></i> Scene Shops</a></li>
+                                    <li><a href="costumeshop.html"><i class="ion ion-bowtie"></i> Costume Shop</a></li>
+                                    <li><a href="spacepolicies.html"><i class="fa fa-exclamation-circle"></i> Usage Policies</a></li>
+                                </ul>
+                            </li> <!-- end has-subsubmenu -->
+						  <li class="">
+               <a href="niterystudio.html" class="hidden-sm hidden-xs"><i class="ion ion-ios-flask"></i> Experimental Nitery Studio</a>
+               <a href="history.html" class="hidden-sm hidden-xs"><i class="fa fa-history"></i> Department History</a> 
+               <a href="contact.html" class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> Contact Us</a>      
+                    </ul> <!-- end mega-submenu -->
+                  </li> <!-- end menu-item -->
+
+                  <li class="menu-item">
+                        <a href="#"><em class="menu-icon fa fa-graduation-cap"></em> ACADEMICS<span class="text-muted">Degree Programs</span></a>
+           <ul class="mega-submenu no-image">
+                            <li class="submenu-column">
+                                <ul>
+                                    <li><h6 class="underline mt10 ml20"> Doctoral</h6></li>
+                                    <li><a href="phd.html"><i class="fa fa-bullseye"></i> Mission</a></li>
+                                    <li><a href="phd-apply.html"><i class="fa fa-pencil"></i> Applying</a></li>
+                                    <li><a href="phd-requirements.html"><i class="fa fa-check-square-o"></i> Requirements</a></li>
+                                    <li><a href="placement.html"><i class="fa fa-certificate"></i> Placement History</a></li>
+                                </ul>
+                            </li> <!-- end submenu-column -->
+                            <li class="submenu-column">
+                                <ul>
+                                  <li><h6 class="underline mt10 ml20"> UNDERGRADUATE</h6></li>
+                                    <li><a href="ba.html"><i class="fa fa-bullseye"></i> Mission & Concentrations</a></li>
+                                    <li><a href="ba-apply.html"><i class="fa fa-pencil"></i> Arts Portfolio Instructions</a></li>
+                                    <li><a href="ba-requirements.html"><i class="fa fa-check-square-o"></i> Bachelor's Program</a></li>
+                                    <li><a href="minor-requirements.html"><i class="fa fa-check-square"></i> Minor Program</a></li>
+									<li><a href="honors.html"><i class="ion ion-ribbon-b"></i> Honors Program</a></li>   
+                            </ul>
+                            </li> <!-- end submenu-column -->     
+                            <li class="submenu-column">
+             </li> <!-- end submenu-column -->
+                    </ul> <!-- end mega-submenu -->
+                    </li> 
+ <!-- end menu-item -->
+                  <li class="menu-item">
+                        <a href="#"><i class="fa fa-calendar"></i> TICKETS + EVENTS<span class="text-muted">Box Office + Calendars</span></a>
+                        <!-- Sub Menu -->
+                    <ul class="mega-submenu normal-sub">
+                          <li class="">
+                       <a href="season2018.html"><i class="fa fa-ticket"></i> Season + Tickets</a>
+                        <li class="">
+                          <a href="calendar.html"><i class="fa fa-calendar"></i> See All TAPS Events</a>
+                        <li class="">
+                          <a href="visit.html"><i class="ion ion-information-circled"></i> Plan Your Visit</a>
+                            </li>
+                      <li class="">
+                        <a href="#" onClick="MM_openBrWindow('https://docs.google.com/forms/d/e/1FAIpQLSe4D41fzCO9FiOhVYp8xPQIa6Ws9o0UQZEb67CjuyuuNQNrkw/viewform','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=700,height=500')"><i class="fa fa-send"></i> Join Mailing List</a>
+                            </li>
+                    </ul> <!-- end mega-submenu -->
+                  </li> <!-- end menu-item -->      
+                <li class="menu-item">    
+				<a href="#"><i class="ion ion-settings"></i> RESOURCES<span class="text-muted">Helpful Info</span></a>
+   <ul class="mega-submenu no-image-2">
+                            <li class="submenu-column">
+                                <ul>
+                                    <li><h6 class="underline mt10 ml20"> POLICIES</h6></li>
+                                    <li><a href="spacepolicies.html"><i class="fa fa-building-o"></i> Space Usage</a></li>
+                                    <li><a href="rentals.html"><i class="fa fa-pencil"></i> Rentals</a></li>
+                                    <li><a href="productionpolicies.html"><i class="ion ion-clipboard"></i> Production Management</a></li>
+                                </ul>
+                            </li> <!-- end submenu-column -->
+                            <li class="submenu-column">
+                                <ul>
+                                  <li><h6 class="underline mt10 ml20"> RESOURCES</h6></li>
+                                    <li><a href="#" onClick="MM_openBrWindow('https://go.activecalendar.com/stanfordtaps','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=1200,height=900')"><i class="fa fa-star"></i> Production Calendar</a></li>
+                                  <li><a href="lighting.html"><i class="ion ion-lightbulb"></i> Lighting Design</a></li>
+                                    <li><a href="set_projection_sound.html"><i class="ion ion-headphone"></i> Set/Projection/Sound Design</a></li>
+                                    <li><a href="housemanagement.html"><i class="ion ion-pin"></i> Event Management</a></li>
+									<li><a href="plans.html"><i class="ion ion-android-map"></i> Groundplans</a></li>
+                            </ul>
+                            </li> <!-- end submenu-column -->                              
+                  </ul> <!-- end mega-submenu -->
+                    </li> 
+ 			<!-- end menu-item -->
+                  <li class="menu-item">
+                      <a href="#"><i class="menu-icon fa fa-bullhorn"></i> Get Involved!<span class="text-muted">Auditions + Opportunities</span></a>
+                        <!-- Sub Menu -->
+                        <ul class="mega-submenu normal-sub">
+                            <li class="has-subsubmenu">
+                                <a href="#"><i class="fa fa-child"></i> Students</a>
+                                <ul class="sub-submenu on-left">
+                                    <li><a href="auditions.html"><i class="fa fa-cubes"></i> Auditions</a></li>
+                                    <li><a href="crew.html"><i class="fa fa-sliders"></i> Design/Crew</a></li>
+                                    <li><a href="apprenticeships.html"><i class="fa fa-briefcase"></i> Apprenticeships</a></li>
+                                    <li><a href="employment.html"><i class="fa fa-user-plus"></i> Employment</a></li>
+                              </ul> <!-- end sub-submenu -->
+                            </li> <!-- end has-subsubmenu -->
+                            <li class="">
+                                <a href="careers.html"><i class="fa fa-user-plus"></i> Employment</a>
+                            </li>  
+                    </ul> <!-- end mega-submenu -->
+                    </li> <!-- end menu-item -->
+                          </li> <!-- end menu-item -->
+                            <li class="menu-item">
+                      <a href="courses.html"><i class="menu-icon fa fa-book"></i> COURSES<span class="text-muted">Browse Listings</span></a>
+                           </li> <!-- end menu-item -->
+              </ul> <!-- end main-menu -->
+            </nav> <!-- end menu -->
+        </div> <!-- end container-fluid -->
+    </div> <!-- end header -->
+
+    <!-- ========== MAIN ========== -->
+    <div class="main">
+    <br><br><br>
+
+ <!-- ========== STYLE 1 ========== -->
+		<section class="content-section">
+            <div class="container">
+                <div class="row">
+                	<div class="col-md-12">
+                    
+                    <div class="col-md-12 section-header text-center mb60">
+                        <h1 class="section-title underline">DEPARTMENT COURSES</h1>
+                        <p class="section-subtitle">2016/17 TAPS + Dance Courses | via the Stanford Bulletin</p>
+                    </div> <!-- end section-header -->
+                        
+                        <div class="tab-style-1">
+                            <ul class="nav nav-tabs" role="tablist">
+                                <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><h5>THEATER + PERFORMANCE STUDIES COURSES</h5></a></li>
+                                <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><h5>DANCE COURSES</h5></a></li>
+                            </ul> <!-- end nav-tabs -->
+
+                            <!-- Tab panes -->
+                            <div class="tab-content">
+                                <div role="tabpanel" class="tab-pane fade in active" id="home">
+                                    <iframe width="100%" frameborder="0" src="https://explorecourses.stanford.edu/search?view=catalog&academicYear=&q=TAPS&filter-departmentcode-TAPS=on&filter-coursestatus-Active=on&filter-term-Autumn=on&filter-term-Winter=on&filter-term-Spring=on&filter-term-Summer=on&page=0" height="2400"></iframe>
+                                </div>
+                                <div role="tabpanel" class="tab-pane fade" id="profile">
+                                    <iframe width="100%" frameborder="0" src="https://explorecourses.stanford.edu/search?view=catalog&academicYear=&q=dance&filter-departmentcode-dance=on&filter-coursestatus-Active=on&filter-term-Autumn=on&filter-term-Winter=on&filter-term-Spring=on&filter-term-Summer=on&page=0" height="2400"></iframe>
+                                </div>
+                               
+                            </div> <!-- end tab-content -->
+                        </div> <!-- end tab-style-1 -->
+                        </div>
+                    </div> <!-- end col-md-6 -->
+
+
+
+
+    </div> <!-- end main -->
+
+    <!-- ==================================================
+    Footer: Classes
+    footer - Default footer
+    dark-footer - Dark footer [Use with .footer]
+    sticky-footer - Reveal footer on scroll
+    ================================================== -->
+ <!-- ==================================================
+    Footer: Classes
+    footer - Default footer
+    dark-footer - Dark footer [Use with .footer]
+    sticky-footer - Reveal footer on scroll
+    ================================================== -->
+    <footer class="footer dark-footer" id="footer">
+
+        <!-- ========== top footer ========== -->
+        <div class="container footer-top">
+            <div class="row">
+               
+                
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <h5 class="footer-title underline">CONNECT</h5>
+                  <ul class="ul">
+                        <li><a href="https://www.facebook.com/StanfordTAPS/" class="trans"><i class="fa fa-facebook"></i> facebook</a></li>
+                        <li><a href="https://www.instagram.com/stanfordtaps/" class="trans"><i class="fa fa-instagram"></i> instagram</a></li>
+                        <li><a href="https://vimeo.com/stanfordtaps" class="trans"><i class="fa fa-vimeo"></i> vimeo</a></li>
+                        <li><a href="https://twitter.com/stanfordtaps?lang=en" class="trans"><i class="fa fa-twitter"></i> twitter</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                  <h5 class="footer-title underline">join us</h5>
+                  <ul class="ul">
+                    <li><a href="calendar.html" class="trans">events calendar</a></li>
+                        <li><a href="season2018.html" class="trans">season + tickets</a></li>
+                        <li><a href="auditions.html" class="trans">auditions</a></li>
+                        <li><a href="visit.html" class="trans">plan your visit</a></li>
+                    </ul>
+                </div>
+
+                <!-- ========== right side ========== -->
+                <div class="col-md-6 vcenter text-right">
+                    <img src="images/taps/logo-light.png" alt="Stanford TAPS" class="img-responsive mb20 pull-right" width="200">
+                    <div class=" clearfix">
+                      <p class="footer-desc"><em class="fa fa-map-marker"></em> 375 santa teresa st stanford ca 94305<br>
+                        <em class="fa fa-envelope-o"></em> tapsinformation@stanford.edu<br>
+                        <em class="fa fa-phone"></em> (650) 723-2576</p>
+                    </div>
+                </div>
+
+            </div> <!-- end row -->
+        </div> <!-- end footer-top -->
+
+        <!-- ========== footer-middle ========== -->
+        <div class="container footer-middle">
+            <div class="row">
+                <div class="col-md-12 text-right">
+                  <h6 class="footer-title uppercase">&copy; 2016 &nbsp;Stanford University</h6>
+                </div>
+            </div> <!-- end row -->
+        </div> <!-- end footer-middle -->
+
+        
+        <!-- ========== Scroll to top button ========== -->
+        <div class="scroll-to-top trans"><i class="fa fa-angle-up"></i></div>
+    </footer>
+    
+    <!-- ========== LOADER ========== -->
+    <div class="page-loader">
+        <div class="spinner"></div>
+    </div>
+
+	<script src="scripts/vendor.js"></script>
+
+	<script src="scripts/plugins.js"></script>
+
+	<script src="scripts/main.js"></script>
+</body>
+
+</html>
