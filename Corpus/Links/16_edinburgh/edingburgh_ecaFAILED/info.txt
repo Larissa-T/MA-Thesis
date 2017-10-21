@@ -1,0 +1,33 @@
+C:\Users\Larissa\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/Larissa/surfdrive/link-scraper/main.py
+Creating directory edingburgh_eca
+First spider now crawling https://www.eca.ed.ac.uk/
+Queue 1 | Crawled  0
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+
+try spoofing to fix the problem
+https://stackoverflow.com/questions/32569934/urlopen-returning-redirect-error-for-valid-links
+accepted
+You get the infinite loop error because the page you want to scrape uses cookies and redirects when the cookie isn't sent by the client. You'll get the same error with most other scraper tools and also with browsers when you disallow cookies.
+
+You need a http.cookiejar.CookieJar and a urllib.request.HTTPCookieProcessor to avoid the redirect loop:
+
+import urllib
+import urllib.request
+import html.parser
+import requests
+from requests.exceptions import HTTPError
+from socket import error as SocketError
+from http.cookiejar import CookieJar
+
+try:
+    req=urllib.request.Request(url, None, {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; G518Rco3Yp0uLV40Lcc9hAzC1BOROTJADjicLjOmlr4=) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36','Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8','Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3','Accept-Encoding': 'gzip, deflate, sdch','Accept-Language': 'en-US,en;q=0.8','Connection': 'keep-alive'})
+    cj = CookieJar()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    response = opener.open(req)
+    raw_response = response.read().decode('utf8', errors='ignore')
+    response.close()
+except urllib.request.HTTPError as inst:
+    output = format(inst)
+    print(output)
