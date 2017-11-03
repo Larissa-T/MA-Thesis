@@ -5,16 +5,16 @@ try:
 except ImportError:
     import Queue as queue
 #from multiprocessing import Queue
-from spider import Spider
+from spiderwithoutssl import Spider     # If you encounter any SSL-errors use the spiderwithssl.py it will skipp the problematic certification which causes the error
 from domain import *
 from general import *
 
-PROJECT_NAME = 'duke_trinity'
-HOMEPAGE = 'http://trinity.duke.edu/'
+PROJECT_NAME = 'university_department-subsection'       # Define the folder in which the files will be saved if it doesn't exsist it will automatically make one 
+HOMEPAGE = 'start point of the website you want to crawl'   # Fill in here the homepage on which the spider will start crawling
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
-NUMBER_OF_THREADS = 16
+NUMBER_OF_THREADS = 16                                  # Depending on the power of your computer and the server you might need to tweak the amount of threads/spiders 16 has been a magic number for me although some websites shut me down which made me roll it back to 2
 queue = Queue()
 Spider(PROJECT_NAME, HOMEPAGE, DOMAIN_NAME)
 
