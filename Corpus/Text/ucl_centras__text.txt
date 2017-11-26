@@ -1,35 +1,11 @@
 
-                                      URL:
-                                      http://www.ucl.ac.uk/centras/prof-courses
-                                      
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
 				    Centre for Translation Studies
 				    
 				Research students undertake original research leading to the submission of a thesis. They work under the supervision of a Principal and a Secondary Supervisor. They do not normally attend taught courses but follow a tailor-made programme of skills training and personal development courses. To be admitted as a research student you need a Master’s degree with a good grade in a relevant subject. All research students at UCL initially register as MPhil students and, provided they have made satisfactory progress, can upgrade to PhD status after a year (or two years for part-time students). Full-time PhD study normally takes a minimum of three years, part-time study a minimum of five years. CenTraS invites applications from suitably qualified students wishing to undertake research on any aspect of translation.If you wish to apply for admission to UCL as a research student in translation studies, you should, in the first instance, and before you complete the UCL online application form, contact the CenTraS Director, Professor Theo Hermans, with (a) details of your educational background, (b) an outline research project proposal, and (c) an indication of how you propose to fund your study.Information on the application process, general entry requirements, tuition fees, accommodation and the UCL Doctoral School can be found on the Doctoral School website. Unlike taught programmes, which start in September, a research degree can be started at any time of the year.UCL research students have access to a wealth of library and other resources. UCL’s own libraries cover all subjects and almost all European languages. Beyond UCL, and within easy walking distance, there are the libraries of the University of London, the School of Oriental and African Studies (SOAS), the London School of Economics and Political Science (LSE) and the British Library.CenTraS research students can make use of a dedicated cluster room (the TransCluster) housing 60 computers with specialist software. They share a common room with other research students. As a research student in CenTraS you work, under supervision, on your own project. You follow a personal programme of skills training, which is documented in an online logbook. You engage with your peers in regular research seminars and other events, and you attend public lectures. Research students in their second year and beyond may do a certain amount of teaching on the MA in Translation and the MSc in Specialised Translation.CenTraS currently has around 30 PhD students and several Visiting Research Students.• Current PhD Students
 				    Centre for Translation Studies
 				    
 				Gamer-generated Language and Localisation of Massively Multiplayer Online Games 
-                                      URL:
-                                      http://www.ucl.ac.uk/centras/study/postgraduate-research/www.grad.ucl.ac.uk
-                                      
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Centre for Translation Studies
+   	    Centre for Translation Studies
 				    
 				2018-19 pathways:2018-19 pathways:
 				    Centre for Translation Studies
@@ -56,35 +32,13 @@
 				    Centre for Translation Studies
 				    
 				The curriculum for this module will be a wide one, encompassing not only translation practices as they are implemented on the WWW but also the social context that surrounds it. Thus topics to be covered will include the history of internet translation; the impact on working practices of on-line machine translation and other translation software and resources; crowdsourced translation; the Wikipedia phenomenon; translation blogs and translation portals; fansubbing; WWW localisation. This will be a largely theoretical module but with a practical dimension. It is anticipated that it will include a certain amount of research content, not least because relatively little has been written on a number of the topics being included.Credits: 15Assessment: Two 1,500-word essays, the second of which can have a practical elementModule convenor: Dr Mark Shuttleworth
-                                      URL:
-                                      http://www.ucl.ac.uk/centras/prof-courses
-                                      
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Centre for Translation Studies
+           	    Centre for Translation Studies
 				    
 				Research students undertake original research leading to the submission of a thesis. They work under the supervision of a Principal and a Secondary Supervisor. They do not normally attend taught courses but follow a tailor-made programme of skills training and personal development courses. To be admitted as a research student you need a Master’s degree with a good grade in a relevant subject. All research students at UCL initially register as MPhil students and, provided they have made satisfactory progress, can upgrade to PhD status after a year (or two years for part-time students). Full-time PhD study normally takes a minimum of three years, part-time study a minimum of five years. CenTraS invites applications from suitably qualified students wishing to undertake research on any aspect of translation.If you wish to apply for admission to UCL as a research student in translation studies, you should, in the first instance, and before you complete the UCL online application form, contact the CenTraS Director, Professor Theo Hermans, with (a) details of your educational background, (b) an outline research project proposal, and (c) an indication of how you propose to fund your study.Information on the application process, general entry requirements, tuition fees, accommodation and the UCL Doctoral School can be found on the Doctoral School website. Unlike taught programmes, which start in September, a research degree can be started at any time of the year.UCL research students have access to a wealth of library and other resources. UCL’s own libraries cover all subjects and almost all European languages. Beyond UCL, and within easy walking distance, there are the libraries of the University of London, the School of Oriental and African Studies (SOAS), the London School of Economics and Political Science (LSE) and the British Library.CenTraS research students can make use of a dedicated cluster room (the TransCluster) housing 60 computers with specialist software. They share a common room with other research students. As a research student in CenTraS you work, under supervision, on your own project. You follow a personal programme of skills training, which is documented in an online logbook. You engage with your peers in regular research seminars and other events, and you attend public lectures. Research students in their second year and beyond may do a certain amount of teaching on the MA in Translation and the MSc in Specialised Translation.CenTraS currently has around 30 PhD students and several Visiting Research Students.• Current PhD Students
 				    Centre for Translation Studies
 				    
 				Gamer-generated Language and Localisation of Massively Multiplayer Online Games 
-                                      URL:
-                                      http://www.ucl.ac.uk/centras/study/postgraduate-research/www.grad.ucl.ac.uk
-                                      
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
+         
                         
 				    Centre for Translation Studies
 				    
@@ -141,36 +95,10 @@ contact the convenor to enquire about availability.Credits: TRTPG009: 20 credits
 				  The dissertation, of 12,000 words in length, can consist either of an annotated translation (in or out of English; maximum 60% translation, minimum 40% introduction and commentary) or of a critical discussion of theoretical, practical or historical aspects of translation. You are free to choose the topic of your dissertation, subject to approval by the MA programme’s academic coordinator. Preparation for the dissertation involves a research skills course. The dissertation itself is written under one-to-one supervision and submitted at the beginning of September. Credits: 60Assessment: One 12,000 word dissertation
 				    Centre for Translation Studies
 				    
-				Sorry, this Silva Document is not viewable.
-                                      URL:
-                                      http://www.ucl.ac.uk/centras/study/postgraduate-taught/msc-modules/f.m.federici@ucl.ac.uk
-                                      
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Centre for Translation Studies
+				
 				    
 				 Inside the Translation Industry is a two day programme to provide you with useful ideas about how to move into the next step of your professional career. These seminars will help you to get a better understanding of the areas you could get involved in when you finish the MSc course. Sessions are delivered by translation professionals from different backgrounds, institutions and companies, including past students of the MSc, who will talk about their areas of specialisation: audiovisual translation, specialised translation, freelancing, transcreation, accessibility, project management, localisation, CVs, and much more.This is a not-for-credit series of seminars and you are expected to attend all sessions.Convenor: Marga Navarrete
-                                      URL:
-                                      http://www.ucl.ac.uk/centras/study/postgraduate-taught/msc-modules/m.navarrete@ucl.ac.uk
-                                      
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Centre for Translation Studies
-				    
+                   
 				In this module, students engage with aspects of linguistic theory that
 are relevant to translation, and also theoretical ideas about translation that
 have a direct impact on translation practice. The module provides an introduction to the
@@ -3046,25 +2974,7 @@ Studies (codes beginning INSTG), please contact Kerstin Michaels in the first in
 				    Centre for Translation Studies
 				    
 				Gamer-generated Language and Localisation of Massively Multiplayer Online Games 
-                                      URL:
-                                      https://www.ucl.ac.uk/centras/study/postgraduate-research/www.grad.ucl.ac.uk
                                       
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Centre for Translation Studies
-				    
-				2018-19 pathways:2018-19 pathways:
-				    Centre for Translation Studies
-				    
-				
-				    Centre for Translation Studies
 				    
 				The principal aim of this module is to give an understanding of the nature of translation and its significance as a cultural and historical force. The module is made up of three strands, comprised of translation theory, history and case studies. Classes on theoretical aspects consider different ways of conceptualizing and studying translation. The historical part investigates changing views of translation in the Western tradition over centuries, from St Jerome to Jacques Derrida. A series of case studies highlights particular topics and issues in the practice of translation; topics in previous years have included audio visual translation for opera and translating Somali poetry. By the end of the module you will have acquired a grasp of key concepts related to translation and its history, an appreciation of translation as a cultural phenomenon, and an ability to analyse translations from different viewpoints and investigate the associated theoretical and ethical issues.Credits: 30Assessment: Two 1,500 word essays and one 3,000 word essayModule convenor: Dr Geraldine BrodieLawrence Venuti, ed., The Translation Studies Reader, London & New York: Routledge, 2000, 3rd ed. 2012.Karin Littau and Piotr Kuhiwczak, eds., A Companion to Translation Studies, Clevedon: Multilingual Matters, 2007.Jeremy Munday, Introducing Translation Studies. Theories and Applications, London & New York: Routledge, 2001, 3rd ed. 2012.Anthony Pym, Exploring Translation Theories, London & New York: Routledge, 2010.
 				    Centre for Translation Studies
@@ -3113,35 +3023,10 @@ contact the convenor to enquire about availability.Credits: TRTPG009: 20 credits
 				  The dissertation, of 12,000 words in length, can consist either of an annotated translation (in or out of English; maximum 60% translation, minimum 40% introduction and commentary) or of a critical discussion of theoretical, practical or historical aspects of translation. You are free to choose the topic of your dissertation, subject to approval by the MA programme’s academic coordinator. Preparation for the dissertation involves a research skills course. The dissertation itself is written under one-to-one supervision and submitted at the beginning of September. Credits: 60Assessment: One 12,000 word dissertation
 				    Centre for Translation Studies
 				    
-				Sorry, this Silva Document is not viewable.
-                                      URL:
-                                      https://www.ucl.ac.uk/centras/study/postgraduate-taught/msc-modules/f.m.federici@ucl.ac.uk
-                                      
-                                    
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Centre for Translation Studies
+				
 				    
 				 Inside the Translation Industry is a two day programme to provide you with useful ideas about how to move into the next step of your professional career. These seminars will help you to get a better understanding of the areas you could get involved in when you finish the MSc course. Sessions are delivered by translation professionals from different backgrounds, institutions and companies, including past students of the MSc, who will talk about their areas of specialisation: audiovisual translation, specialised translation, freelancing, transcreation, accessibility, project management, localisation, CVs, and much more.This is a not-for-credit series of seminars and you are expected to attend all sessions.Convenor: Marga Navarrete
-                                      URL:
-                                      https://www.ucl.ac.uk/centras/study/postgraduate-taught/msc-modules/m.navarrete@ucl.ac.uk
-                                      
                                     
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Centre for Translation Studies
 				    
 				In this module, students engage with aspects of linguistic theory that
 are relevant to translation, and also theoretical ideas about translation that
