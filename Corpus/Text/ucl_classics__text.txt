@@ -1,8 +1,3 @@
-http://www.ucl.ac.uk/classics/classics/study/classics/study/postgraduate/ma/index /n
-
-
- 
-
 				    Department of Greek & Latin
 The Department of Greek and Latin is a leading international centre for postgraduate study and research in the ancient world. We have a thriving postgraduate community, with 40-50 postgraduate students at any time, with research student projects ranging across the whole field of Greek and Roman studies and their reception.Facilities for postgraduate study are outstanding. We are within walking distance of the British Museum and the British Library. UCL has its own excellent research libraries and the major libraries of the Institute of Classical Studies, the Warburg Institute, the Institute of Historical Research, and University of London Senate House Library are five minutes away. Our graduate students enjoy dedicated research and social space and IT facilities within the department. 
     This is a call for proposals for a half-day
@@ -322,42 +317,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/students/postgraduate
-                                      
 
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/students/postgraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/students/postgraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
 				    Department of Greek & Latin
 The Department of Greek and Latin is a leading international centre for postgraduate study and research in the ancient world. We have a thriving postgraduate community, with 40-50 postgraduate students at any time, with research student projects ranging across the whole field of Greek and Roman studies and their reception.Facilities for postgraduate study are outstanding. We are within walking distance of the British Museum and the British Library. UCL has its own excellent research libraries and the major libraries of the Institute of Classical Studies, the Warburg Institute, the Institute of Historical Research, and University of London Senate House Library are five minutes away. Our graduate students enjoy dedicated research and social space and IT facilities within the department. 
     This is a call for proposals for a half-day
@@ -615,12 +575,7 @@ classical world in any given case; (3) a knowledge of core research techniques
 reception of the classical world, and an understanding of how these techniques
 can be applied to a range of materials; (4) a knowledge of different receptions
 of classical cultures over a range of historical periods, and an ability to
-analyse those responses critically from an historical and cultural perspective. Preperatory reading: Beard, M. and Henderson, J. Classics: A Very Short Introduction
-(Oxford, 1995); Goldhill, S. Love, Sex
-and Tragedy: How the Ancient World Shapes our Lives (London, 2004); Hardwick,
-L. Reception
-Studies (Oxford, 2003); Silk, M. Gildenhard, I. and Barrow, R. The Classical Tradition: Art, Literature,
-Thought (Chicester, 2014).Credit value: CLASGR11 (Intercollegiate MA): 20 credits, CLASGR03 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR11: one 5,000-word essay; CLASGR03: one 4,000-word essay Pre-requisites: None Content: How does cinema reconstruct Roman history? What
+analyse those responses critically from an historical and cultural perspective. Credit value: CLASGR11 (Intercollegiate MA): 20 credits, CLASGR03 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR11: one 5,000-word essay; CLASGR03: one 4,000-word essay Pre-requisites: None Content: How does cinema reconstruct Roman history? What
 distinguishes cinematic histories of Rome from other historical forms? This
 course will explore the early experimental period of filmmaking, its turn to
 antiquity to legitimate the new cinematic medium, its relationship to painting,
@@ -640,9 +595,7 @@ analogy; (3) assess their role in the representation and construction of
 contemporary gender, sexuality, morality, and politics; (4) account for cinema’s
 transformation of ancient Rome into spectacle and commodity; (5) differentiate
 between different cinematic styles in their reconstruction and interpretation
-of Roman history. Recommended preperatory reading:Wyke, M. Projecting the Past: Ancient Rome, Cinema
-and History (Routledge, 1997); Hughes-Warrington, M. History Goes to the Movies (Routledge, 2007); Monaco, J. How to Read a Film: Movies, Media and Beyond,
-4th edition (OUP, 2009). Credit value: CLASGR15 (Intercollegiate MA): 20 credits, CLASGR14 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR15: one 5,000-word essay; CLASGR14: one 4,000-word essay Pre-requisites: None Content: How did Hollywood cinema come to dominate
+of Roman history. Recommended preperatory reading Credit value: CLASGR15 (Intercollegiate MA): 20 credits, CLASGR14 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR15: one 5,000-word essay; CLASGR14: one 4,000-word essay Pre-requisites: None Content: How did Hollywood cinema come to dominate
 representations of ancient Rome on screen and how has its dominance been
 challenged? How do ideas of the historical operate in and through such films?
 Why did the genre of the Hollywood blockbuster decline in the 1960s and
@@ -659,12 +612,7 @@ past; (2) appraise cinema’s techniques of historical analogy; (3) assess their
 role in the representation and construction of contemporary gender, sexuality,
 morality, and politics; (4) account for cinema’s transformation of ancient Rome
 into spectacle and commodity; (5) differentiate between different cinematic
-styles in their reconstruction and interpretation of Roman history. Recommended preperatory reading:Theodorakopoulos, E. Ancient Rome
-at the Cinema: Story and Spectacle in Hollywood and Rome (Liverpool UP, 2010);
-Hughes-Warrington, M. History Goes to the
-Movies (Routledge, 2007); Monaco, J. How
-to Read a Film: Movies, Media and Beyond, 4th edition (OUP,
-2009).Credit value: CLASGG16 (Intercollegiate MA): 40 credits; CLASGG07 (UCL
+styles in their reconstruction and interpretation of Roman history. Credit value: CLASGG16 (Intercollegiate MA): 40 credits; CLASGG07 (UCL
 MA students outside Classics): 30 credits Course Tutor: Prof. Stephen
 ColvinClass hours: One two-hour class
 per week over two terms.MA students will join the BA
@@ -686,11 +634,7 @@ will be able to give an account of the central linguistic issues raised by the
 decipherment of the Linear B tablets; will understand how Homeric Greek stands
 in relation to Mycenaean and classical Greek; will be familiar with basic linguistic principles and understand how
 they inform our analysis of ancient Greek of all periods; will be in a position
-to demonstrate how Greek stands in relation to other Indo-European languages.Course texts: a course booklet
-will be supplied.S. COLVIN,  A
-Historical Greek Reader (Oxford 2007): not necessary to purchaseJ.T. HOOKER, Linear B: an introduction (Bristol 1980): recommendedOther recommended preparatory
-readings:J. CHADWICK, The Decipherment of Linear B
-(Cambridge 1958, reprinted): strongly recommended Value: CLASGG16 (Intercollegiate MA): 40 credits ; CLASGG07 (UCL
+to demonstrate how Greek stands in relation to other Indo-European languages.Course texts:  Value: CLASGG16 (Intercollegiate MA): 40 credits ; CLASGG07 (UCL
 MA students outside Classics): 30 credits Credit value: CLASGG10A (Intercollegiate MA): 20 credits, CLASGG06A (UCL MA students outside Classics): 15 creditsModule Tutor: Dr. Peter AgócsClass hours: One two-hour class per weekAssessment: CLASGG10A: one 5,000-word research project; CLASGG06A: one 4,000-word research projectPre-requisites: None, but a good reading knowledge of Greek is requiredContent: This MA module is
 devoted to Athenian tragedy of the fifth century BCE, focusing on the theatre
 of Sophocles. Apart from the first two hours devoted to
@@ -793,11 +737,7 @@ to ensure that it is mostly accessible to everyone. Skills: Students will develo
 their ability to criticise and to evaluate arguments, and to present coherent
 and extended arguments in writing. They will also develop their sensitivity to
 the relationship between the content of an argument and the form in which it is
-expressed. Preperatory reading:Barfield,
-R. (2011) The Ancient Quarrel between
-Philosophy and Poetry, Cambridge.Murdoch,
-I. (1978) ‘Philosophy and Literature’ in B. Magee (ed.) Men of Ideas, Oxford.Nussbaum,
-M. (2003) ‘Philosophy and Literature’ in D. Sedley (ed.) The Cambridge Companion to Greek and Roman Philosophy, 211-41. Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
+expressed.  Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
 module will examine the poetry of Ovid, probably the most influential of all
 Roman poets on later Western art and literature. It will focus on his great narrative
 poem of transformations, the Metamorphoses, examining, amongst other
@@ -826,11 +766,7 @@ ability to implement those approaches in practice, and to analyze different
 interpretations critically; (4) an appreciation of the post-classical influence
 and reception of Ovid’s poetry in a range of historical and cultural contexts. Preperatory reading: Try to read the complete
 works of Ovid in translation (the Penguin or World Classics editions are good).
- Secondary reading: B. W.
-Boyd, ed. Brill’s Companion to Ovid;
-P. Hardie ed. The Cambridge Companion to
-Ovid (2002); N. Holzberg, Ovid. The
-Poet and His Work. Translated by G.M. Gosharian (2002).  Credit value: CLASGG22 (Intercollegiate MA): 20 credits, CLASGG21 (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Rosie Harman Class hours: One two-hour class per week Assessment: CLASGG22: one 5,000-word essay; CLASGG21: one 4,000-word essay Pre-requisites: None Content: This is an introductory course on Ancient
+   Credit value: CLASGG22 (Intercollegiate MA): 20 credits, CLASGG21 (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Rosie Harman Class hours: One two-hour class per week Assessment: CLASGG22: one 5,000-word essay; CLASGG21: one 4,000-word essay Pre-requisites: None Content: This is an introductory course on Ancient
 Greek historical writing, taught in English translation (no knowledge of
 Ancient Greek language required). In the Classical period prose accounts of the
 past were a radical new invention; authoritative narratives about the past had
@@ -1110,17 +1046,7 @@ a variety of important themes connected with Greek drama and its contexts, and
 the ability to carry out original research on these questions. Students will
 also practice researching a topic of their choice in a mature and independent
 way, and will learn the basic techniques of academic research, as well as how
-to express their findings well and coherently in writing. Module texts: Sophocles,
-Electra, Cambridge Classical
-Texts and Commentaries vol. 44, Cambridge, 2007Other recommended preperatory reading:R.P.
-Winnington-Ingram, Sophocles: An
-Interpretation (Cambridge, 1980); A. Markantonatos, Brill's Companion to Sophocles (Brill, 2012); M.L. West, Greek Metre (Oxford, 1982); S. Goldhill,
-Reading Greek Tragedy (Cambridge,
-1986); O. Taplin, Pots and Plays
-(Getty, 2007); D. Wiles, Greek Theatre
-Performance: An Introduction (Cambridge, 2000); P. Easterling, ed. Cambridge Companion to Greek Tragedy
-(Cambridge, 1997); H. P. Foley, Female
-Acts in Greek Tragedy (Princeton, 2001).  Credit value: GREKGG01 (Intercollegiate MA): 20 credits, GREKGG01A (UCL MA students outside Classics): 15 credits Module Tutor: Dr Peter Agócs Class hours: One two-hour class per week Assessment: GREKGG01: one 5,000-word essay; GREKGG01A: one 4,000-word essay Pre-requisites: None, but a good reading of Greek is required Content: This
+to express their findings well and coherently in writing. Credit value: GREKGG01 (Intercollegiate MA): 20 credits, GREKGG01A (UCL MA students outside Classics): 15 credits Module Tutor: Dr Peter Agócs Class hours: One two-hour class per week Assessment: GREKGG01: one 5,000-word essay; GREKGG01A: one 4,000-word essay Pre-requisites: None, but a good reading of Greek is required Content: This
 course, offered yearly, always focuses on a Greek prose author. This year we
 will dedicate ourselves to an intensive study of Aristotle's Poetics, the foundational text of
 Western literary criticism and neo-classical poetics. Apart from an initial
@@ -1186,11 +1112,7 @@ to ensure that it is mostly accessible to everyone. Skills: Students will develo
 their ability to criticise and to evaluate arguments, and to present coherent
 and extended arguments in writing. They will also develop their sensitivity to
 the relationship between the content of an argument and the form in which it is
-expressed. Preperatory reading:Barfield,
-R. (2011) The Ancient Quarrel between
-Philosophy and Poetry, Cambridge.Murdoch,
-I. (1978) ‘Philosophy and Literature’ in B. Magee (ed.) Men of Ideas, Oxford.Nussbaum,
-M. (2003) ‘Philosophy and Literature’ in D. Sedley (ed.) The Cambridge Companion to Greek and Roman Philosophy, 211-41. Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
+expressed.  Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
 module will examine the poetry of Ovid, probably the most influential of all
 Roman poets on later Western art and literature. It will focus on his great narrative
 poem of transformations, the Metamorphoses, examining, amongst other
@@ -1219,11 +1141,7 @@ ability to implement those approaches in practice, and to analyze different
 interpretations critically; (4) an appreciation of the post-classical influence
 and reception of Ovid’s poetry in a range of historical and cultural contexts. Preperatory reading: Try to read the complete
 works of Ovid in translation (the Penguin or World Classics editions are good).
- Secondary reading: B. W.
-Boyd, ed. Brill’s Companion to Ovid;
-P. Hardie ed. The Cambridge Companion to
-Ovid (2002); N. Holzberg, Ovid. The
-Poet and His Work. Translated by G.M. Gosharian (2002).  Credit value: CLASGG22 (Intercollegiate MA): 20 credits, CLASGG21 (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Rosie Harman Class hours: One two-hour class per week Assessment: CLASGG22: one 5,000-word essay; CLASGG21: one 4,000-word essay Pre-requisites: None Content: This is an introductory course on Ancient
+  Credit value: CLASGG22 (Intercollegiate MA): 20 credits, CLASGG21 (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Rosie Harman Class hours: One two-hour class per week Assessment: CLASGG22: one 5,000-word essay; CLASGG21: one 4,000-word essay Pre-requisites: None Content: This is an introductory course on Ancient
 Greek historical writing, taught in English translation (no knowledge of
 Ancient Greek language required). In the Classical period prose accounts of the
 past were a radical new invention; authoritative narratives about the past had
@@ -1321,18 +1239,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/study/postgraduate/ma/new-current/2016-ma-induction
-                                      
 
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
 				    Department of Greek & Latin
 The Intercollegiate MA in Classics is central to Classics and Ancient History in London, and attracts students from across the world. The UCL Library (which includes the library of the Institute of Archaeology) is excellent, and also contains a dedicated library of Egyptology. The British Museum and the British Library are both only ten minutes’ walk away from UCL; even closer are the University of London Library at Senate House, the library of the Institute of Classical Studies, and the library of the Warburg Institute. MA students enrolled at UCL are automatically members of the Institute of Classical Studies and entitled to use its library, one of the best in the world. We have a large staff of international experts in Greek and Latin literature, papyrology, ancient history, and classical art and archaeology; all are available to supervise or advise MA students in their research. 
     This is a call for proposals for a half-day
@@ -1796,31 +1703,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/FY_Modules/Accordion/mailto%3A%20p.agocs@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/FY_Modules/Accordion/mailto%3A%20p.vasunia@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
+   Department of Greek & Latin
 Value: 0.5 course units
 Course Tutor: Dr Antony
 Makrinos Class hours: Five
@@ -1880,9 +1763,7 @@ where they will have mastered most of the syntactical constructions covered in A
 this understanding in translation both from Greek into English and from English
 into Greek. Two of the four classes per week
 will be split into small groups, each group taught by a Postgraduate Teaching
-Assistant.Course text: M. Balme and G.
-Lawall, Athenaze Book 2 (chapters
-21-27) (Oxford 1990)Value: 0.5 course units  Course Tutor: Professor Nick GonisClass hours: Four one-hour classes per week, Term 2Assessment: Two in-class examinations (20% each) and one
+Assistant.Value: 0.5 course units  Course Tutor: Professor Nick GonisClass hours: Four one-hour classes per week, Term 2Assessment: Two in-class examinations (20% each) and one
 unseen three-hour examination paper (60%)Pre-requisite: GREK2001 Intermediate Greek A or equivalent Content: This module aims to develop students' knowledge of the Greek language
 from the level achieved at the end of Intermediate Greek A to a point where
 they will have consolidated all regular syntactical constructions and be able
@@ -1895,9 +1776,7 @@ in-class examinations (25%), one three-hour examination paper (75%);
 GREK2006A: one in-class examination (25%), one two-hour examination paper (75%) for 0.5
 unit.Pre-requisites: Greek to
 A-level standard or GREK2002 Intermediate Greek B or equivalentCourse
-texts: North, M.A. & Hillard, A.E., 1997. Greek Prose
-Composition. Duckworth. Term 1 Herodotus,
-book 1, ed. J.H. Sleeman (Bristol, 2002), Bristol Classical Press Term 2 Homer Odyssey 11, ed. W.B. Stanford, Homer, Odyssey 1-12. (London, 1996)Content:
+Content:
  A study of Classical Greek Language, involving
 the reading and translation into English of prose and verse texts, exercise in
 grammatical analysis and literary criticism and the translation of English
@@ -2025,20 +1904,7 @@ goddesses; death and the afterlife; magic and religion; Homeric society and
 ethics; men and women in epic; and the impact of the Iliad on the later tradition in poetry and art. We will aim to cover Books 21-24 of the
 Iliad in the original Greek. We will use the Oxford
 Classical Texts edition of T. Allen. Translation:
-R. Lattimore, The Iliad of Homer, (Chicago
-and London, 1951). Commentaries: G. S. Kirk, The Iliad: A Commentary, (Cambridge 1985-1993), esp. vol. 6 by N.
-Richardson covering books 21-24, N. Postlethwaite, Homer’s Iliad: a
-commentary on the translation of Richmond Lattimore (Exeter 2000). Companions: R. Fowler, The Cambridge Companion to Homer (Cambridge 2005); P. B.
-Powell-I.Morris, A New Companion to Homer (Leiden 1997); Grammar:
-D. B. Monro, Homeric Grammar (Bristol
-Classical Press, 2013); Dictionary: G. Autenrieth, Homeric Dictionary,
-(Duckworth, 1998). Recommended secondary readings: R.
-Rutherford, Homer. Greece & Rome
-New Surveys in the Classics (Cambridge 1996); A.B. Lord, The Singer of Tales (Harvard University
-Press 1960; re-issued since); J. Griffin, Homer
-on Life and Death, (Oxford 1980); B. Graziosi, Homer
-(Oxford 2016); M. Mueller, The Iliad. Second edition
-(London 2009); M. Silk, Homer: The Iliad (Cambridge 1987).Skills:
+Skills:
 By
 the end of the course, students will engage with
 Homeric ideas as explored in the Iliad
@@ -2077,103 +1943,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto%3A%20a.makrinos@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto%3A%20a.makrinos@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto%3A%20n.gonis@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto%3A%20p.agocs@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto%3A%20rosie.harman@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto%3A%20s.colvin@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto%3A%20t.mackenzie@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Ancient_Greek/Accordion/mailto@%20s.colvin@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
+   Department of Greek & Latin
 Value: 0.5 course unitsCourse Tutor: Dr Nicolò
 Benzi and PGTAsClass hours: Five
 one-hour classes per week, Term 1Assessment:
@@ -2262,12 +2032,7 @@ By
 the end of the module, students should have a good knowledge of classical Latin
 language, be trained to translate fluently from Latin into English and from
 English into Latin and be able to analyze linguistic features of a text in
-relation to its content.Course texts: Text term 1: K. Quinn
-(ed.), Catullus. The Poems, Bristol
-1996.Text term 2: J.T. Ramsey
-(ed.), Sallust’s Bellum Catilinae. Second
-Edition, Oxford / New York 2007.Prose composition both terms: R. Colebourn, Latin
-Sentence and Idiom. A Composition Course, Bristol 1948 (reprints). Value: LATN7008/LATN7018*  - 1.0 course units,  LATN7008A/LATN7018A*  - 0.5 course units  Course Tutors: Dr Mairéad McAuley
+relation to its content. Value: LATN7008/LATN7018*  - 1.0 course units,  LATN7008A/LATN7018A*  - 0.5 course units  Course Tutors: Dr Mairéad McAuley
 (Term 1) and Professor Maria Wyke (Term 2) Class hours: One two-hour class
 per week, Terms 1 and 2.    Assessment: LATN7008/LATN7018: Two pieces of
 coursework of 2,500 words each maximum (25%) and one three-hour examination
@@ -2398,10 +2163,7 @@ discern the effects on poetic production of different language structures;
 cultural contexts; (4) to understand the strategies and the processes of
 translation; (5) to assess translation as a mode of reception of Latin
 literature.Suggested
-preliminary reading:Quinn, Kenneth ed. Horace
-Odes (Macmillan 1980 or Bristol Classical Press, 2013); Hardwick, Lorna Translating
-Words, Translating Cultures (Bristol, 2000); Martindale, C. and Hopkins, D. Horace Made New: Horatian Influences on
-British Writing from the Renaissance to the Twentieth Century (CUP, 1993). Value: 0.5 course unitsCourse
+preliminary reading: Value: 0.5 course unitsCourse
 Tutor: Dr Fiachra Mac Góráin Class
 hours: One two-hour class per week, Term 1.  Assessment: One essay of 2,500
 words (40%) and one two-hour examination paper based on the prescribed syllabus,
@@ -2424,11 +2186,7 @@ pertain to Roman historiography. They should have developed skills in
 translation, close reading, contextual analysis, and balanced assessment of
 historiographical sources. They should have improved their mastery of precise,
 coherent expression in oral and written form.Suggested
-preliminary reading: A.
-J. Woodman, C. S. Kraus, Latin
-Historians, Greece and Rome New Surveys in the Classics 27, Oxford, 1997.
-A. Feldherr, ed., The Cambridge Companion
-to the Roman Historians, Cambridge, 2009.Value: 0.5 course unitsCourse Tutor: Dr Peter AgócsAssessment: An essay
+preliminary reading: Value: 0.5 course unitsCourse Tutor: Dr Peter AgócsAssessment: An essay
 of 6,000 words maximum (including footnotes
 and excluding bibliography) on a subject related to one or more of the courses being
 taken by the candidate in the Final-year. Content: After a
@@ -2457,90 +2215,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Latin/Accordion/mailto%3A%20m.leonard@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Latin/Accordion/mailto%3A%20m.norbye@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Latin/Accordion/mailto%3A%20m.wyke@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Latin/Accordion/mailto%3A%20mairead.mcauley@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Latin/Accordion/mailto%3A%20p.agocs@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Latin/Accordion/mailto%3A%20rosie.harman@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Modules_In_Latin/Accordion/mailto@%20f.macgorain@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
+    
 				    Department of Greek & Latin
 Modules starting with code CLAS do not require a knowledge of the
 ancient languages. With the exception of CLAS1204 Approaches to the Ancient
@@ -2564,8 +2239,7 @@ by Greek myths: but how did these extraordinary stories arise? What was their
 purpose? Did the Greeks really believe them and what are our sources for them?
 This course looks at a range of Greek myths and suggests some answers to these
 questions. Backed up by slides and copies of relevant texts, the course will
-survey the subject broadly, evaluating some modern interpretations of myth. Course texts: Morford,
-M. P. O. and Lenardon, R. J. and  Sham, M. 2015. Classical Mythology, Oxford: OUP.Other recommended preparatory readings: J. Bremmer (Routledge, 1987) Interpretations of Greek Mythology.W. Burkert (Blackwell, 1985) Greek Religion.R. Buxton (CUP, 1994) Imaginary Greece.E. Csapo (Blackwell, 2004) Theories of Mythology.P. Veyne (UCP, 1988) Did the Greeks Believe in their Myths?.Value: 0.5 course unitsCourse Tutor: Dr Rosie Harman Class hours: One two-hour class per
+survey the subject broadly, evaluating some modern interpretations of myth. Value: 0.5 course unitsCourse Tutor: Dr Rosie Harman Class hours: One two-hour class per
 week, Term 1.  Assessment: Continuous assessment
 (100%), based on two pieces of coursework of 2,000 words maximum each (50% each
 piece of coursework) Pre-requisites: None This course is intended only for first-year students on the Ancient
@@ -2629,10 +2303,7 @@ to equip themselves with specified translations of some works, which are
 cheaply available in paperback; other texts will be supplied as handouts. Skills: By the end
 of the course, students should be trained in close reading, analysis of form,
 content and context, synthesis of ideas and the ability to present written and
-oral conclusions about a complex body of data in a coherent fashion.Introductory reading: S. Harrison (ed.), A companion to Latin literature
-(Malden, MA, 2005), P.E. Knox, - J.C.
-McKeown (eds.), The Oxford Anthology of Roman Literature.
-  (Oxford; New York 2013)   Value: 0.5 course unitsCourse Tutor: Dr Antony
+oral conclusions about a complex body of data in a coherent fashion. Value: 0.5 course unitsCourse Tutor: Dr Antony
 Makrinos Class hours: Two one-hour
 classes per week, Term 1.   Assessment: One
 piece of coursework of 2,000 words maximum (40%) and one three-hour examination
@@ -2661,10 +2332,7 @@ theories produced by these sources. They will also concentrate on primary
 materials and develop the ability to read texts independently, to manage their
 own learning, to communicate ideas orally and in writing and to gather, analyze
 and synthesize data. Teamwork and independent thinking will also be strongly
-encouraged in order to enable student development and achievement.Introductory reading: C. Pelling
-and M. Wyke, Twelve Voices from Greece
-and Rome, Ancient Ideas for Modern Times (Oxford 2014); E. Hall, The Ancient Greeks, Ten Ways They Shaped The
-Modern World (London 2015). Value: 0.5 course unitsCourse Tutor: Prof. Stephen
+encouraged in order to enable student development and achievement. Value: 0.5 course unitsCourse Tutor: Prof. Stephen
 ColvinClass hours: One one-hour class
 per week (Terms 1 & 2)Assessment: A final exam (3
 hours) in May (100%). Formative assessment: One problem
@@ -2675,12 +2343,7 @@ covers: the basics of phonology (the sounds of a language) and morphology
 (analysis of the minimal meaningful elements in a language); the history of
 thought about language in the western tradition, from the ancient world to the
 20th century; historical linguistics and the Indo-European languages; sociolinguistics:
-how and why languages changeCourse texts: Jean Aitchison, Teach Yourself Linguistics (London) --
-available from Waterstones. Either the 2003 edition (green parrots on the
-cover) or the 2010 edition (telephones on the cover) may be used: the
-pagination is slightly different.Other recommended preparatory
-readings:EVERETT, Daniel, Don't Sleep, There are Snakes: Life and
-Language in the Amazonian Jungle (Profile 2009) Value: 0.5 course unitsCourse Tutor: Professor Phiroze
+how and why languages change. Value: 0.5 course unitsCourse Tutor: Professor Phiroze
 VasuniaClass hours: One two-hour class
 per week (please timetable at www.ucl.ac.uk/comparative-literature/undergraduate/course-structure-ba/modules/litc1004)Assessment: One
 essay of 1,500 words maximum (40%) and one unseen three-hour examination paper (60%)Pre-requisites: NoneContent: The
@@ -2770,13 +2433,7 @@ also concentrate on primary materials and develop the ability to read texts
 independently, to manage their own learning, to communicate ideas orally and in
 writing and to gather, present, analyze and synthesize data. Teamwork and
 independent thinking will also be strongly encouraged in order to enable
-student development and achievement.Introductory reading: J. Griffin, Homer (Oxford 1980); B. Graziosi, Homer
-(Oxford 2016); M. Mueller, The Iliad. Second
-edition (London 2009); R. Rutherford, “Homer”, Greece and Rome New Surveys
-in the Classics (Cambridge 1996); M. Silk, Homer: The Iliad (Cambridge
-1987). Recommended translations are those in the Chicago University Press (by
-Lattimore), Penguin (by Hammond) or Oxford World's Classics series (by
-Fitzgerald). Value: 0.5 course unitsCourse
+student development and achievement. Value: 0.5 course unitsCourse
 tutor:
 Prof Gesine Manuwald Class
 hours:
@@ -2811,9 +2468,7 @@ By
 the end of the module, students should be trained in close reading, analysis of
 form, content and context, and the ability to present written and oral
 conclusions about a complex body of data in a coherent fashion.Introductory
-reading: Michael Trapp, Greek
-and Latin Letters. An Anthology, with Translation (Cambridge 2003:
-Cambridge Greek and Latin Classics).Value: 0.5 course unitsCourse Tutor: Professor Miriam
+reading: Value: 0.5 course unitsCourse Tutor: Professor Miriam
 LeonardClass hours: One two-hour class
 per week, Term 2Assessment: One piece of
 coursework of 2,500 words maximum (40%) and one unseen three-hour examination paper
@@ -2852,15 +2507,7 @@ and class consciousness in the context of the development of Classical Greek
 prose writing. Skills:
 Students will develop their awareness of critical approaches to texts, their
 understanding of the relations between form, content and context, and their
-ability in close reading and in oral and written analysis.Introductory
-reading:Students are
-advised to obtain translations of Xenophon's works, for example:The Expedition of
-Cyrus,
-trans. R. Waterfield (Oxford World Classics, 2009)The Education of
-Cyrus,
-trans. W. Ambler (Cornell University Press, 2001)Conversations of
-Socrates,
-trans. H. Tredennick (Penguin, 1990)Value: 0.5 course unitsCourse Tutor: Dr Nicolò Benzi Class hours: Two one-hour classes per
+ability in close reading and in oral and written analysis. Value: 0.5 course unitsCourse Tutor: Dr Nicolò Benzi Class hours: Two one-hour classes per
 week, Term 2.  Assessment: Continuous assessment (100%), based on two
 pieces of coursework of 2,500 words maximum each (50% each).Pre-requisites: NoneContent: This
 course offers an introduction to Plato's philosophical dialogues, with a
@@ -3194,68 +2841,7 @@ Advanced Studies.
   A warm welcome to UCL. Details of Induction events in the week of 25 September for new BA, MA, and PhD students now available
 
      In the The Times Higher Education World University Rankings 2018.  
-
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y1_Modules/Accordion/mailto%3A%20a.makrinos@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y1_Modules/Accordion/mailto%3A%20emily.lord-kambitsch.12@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y1_Modules/Accordion/mailto%3A%20p.vasunia@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y1_Modules/Accordion/mailto%3A%20rosie.harman@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y1_Modules/Accordion/mailto@%20s.colvin@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
+ Department of Greek & Latin
 
     This is a call for proposals for a half-day
 interdisciplinary workshop to be held on the afternoon of 21st February 2018 at UCL on the topic of ‘Rejecting the
@@ -3306,67 +2892,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y2andFY_Modules/Accordion/mailto%3A%20a.lecznar@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y2andFY_Modules/Accordion/mailto%3A%20a.makrinos@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y2andFY_Modules/Accordion/mailto%3A%20g.manuwald@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y2andFY_Modules/Accordion/mailto%3A%20m.leonard@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y2andFY_Modules/Accordion/mailto%3A%20rosie.harman@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
+   Department of Greek & Latin
 The Ancient World degree is one of the most flexible 
 degree programmes covering the Ancient World in the UK. A range of 
 options is offered from across three departments:  The field of study of the degree is also defined more 
@@ -4152,19 +3678,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/study/undergraduate/teachingprojects/Plautusvideo-mp4
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
+ Department of Greek & Latin
 Antony Makrinos and PhD student Kyriaki Ioannidou staged a special reading of Amphitruo, Plautus' classic tragi-comedy of love and deceit.This staged class was part of an idea to introduce innovative ways of teaching Latin (and specifically Roman Comedy) to undergraduate students of the Greek and Latin Department, UCL. The course was Latin Texts 2, Plautus: Amphitruo (LATN 3008/3008A). The aims of the class were to live the experience of teaching Latin as an educator-performer and to explore the educational benefits of this experience and its reception by the students.The class included a live performance of the last scene of Plautus' play Amphitruo by the teacher and a PhD student with the use of masks and a discussion of the practices used. The text was adapted to suit the needs of the class. Both the text and the lecture notes can be found below:The masks for Jupiter and Alcumena.Alcumena's husband AmphitruoAntony’s and Kyriaki’s thoughts about the class will be presented in the Arts and Humanities conference 2013 Storyville: Exploring narratives of learning and teaching, organised by the Higher Education Academy, (Brighton, 29-30 May 2013). A shared talk will be presented with the title: “Teaching Latin: teaching experience as part of theatrical performance”. Details >>The talk will introduce innovative pedagogies and methodologies for the teaching of ancient languages used in the Department of Greek and Latin, UCL. The session will invite dialogue between the delegates about the creative teaching of languages through staged classes, and it is hoped that this will stimulate interest in this way of teaching. Particular emphasis will be given to methodologies which enhance the teaching experience and help students digest aspects of the language. Interest is anticipated from teachers in the Humanities willing to use original techniques to make teaching engaging. Delegates will experience the class second hand (through videos) and will have hands on the props.Many thanks to:- Viv Sendall (Visiting Tutor in Scenic Art) for working so hard with the masks and for providing advice on how to use them; Andy Stead (Senior Lecturer), Gussie Dennet, Lydia Duncombe and Bianca Paule, (second year students on the Creative Arts for Theatre and Film course) UCA Rochester for producing the wonderful masks;- Kyriaki Ioannidou for her patience and her enthusiasm for the staged class and of course for her stunning performance as Bromi-Amphitruo;- Matthew Milner for his wonderful sound effects with the thunderbolts;- and Anastasia Papamichael for recording the class.
     This is a call for proposals for a half-day
 interdisciplinary workshop to be held on the afternoon of 21st February 2018 at UCL on the topic of ‘Rejecting the
@@ -4404,272 +3918,10 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      http://www.ucl.ac.uk/classics/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        UCL Graduate degreesThis intercollegiate MA is taught in collaboration with King's College London and Royal Holloway, University of London. The programme draws on the wealth of expertise across the three colleges and students benefit from full access to all modules. The programme attracts European students and other students from overseas as well as the UK.September 2018
+     UCL Graduate degreesThis intercollegiate MA is taught in collaboration with King's College London and Royal Holloway, University of London. The programme draws on the wealth of expertise across the three colleges and students benefit from full access to all modules. The programme attracts European students and other students from overseas as well as the UK.September 2018
 Note on fees:
-                              The tuition fees shown are for the year indicated above. Fees for subsequent years may increase or otherwise vary. Further information on fee status, fee increases and the fee schedule can be viewed on the UCL Current Students website.                            Fees for flexible, modular study are charged pro-rata to the appropriate full-time Master's fee taken in an academic session.            A minimum of an upper second-class Bachelor's degree in a relevant discipline from a UK university or an overseas qualification of an equivalent standard.If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency.The English language level for this programme is: GoodFurther information can be found on our English language requirements page.Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.International applicants can find out the equivalent qualification for their country by selecting from the list below.Select your country:
+                              The tuition fees shown are for the year indicated above. Fees for subsequent years may increase or otherwise vary. Further information on fee status, fee increases and the fee schedule can be viewed on the UCL Current Students website.
+                            Fees for flexible, modular study are charged pro-rata to the appropriate full-time Master's fee taken in an academic session.            A minimum of an upper second-class Bachelor's degree in a relevant discipline from a UK university or an overseas qualification of an equivalent standard.If your education has not been conducted in the English language, you will be expected to demonstrate evidence of an adequate level of English proficiency.The English language level for this programme is: GoodFurther information can be found on our English language requirements page.Country-specific information, including details of when UCL representatives are visiting your part of the world, can be obtained from the International Students website.International applicants can find out the equivalent qualification for their country by selecting from the list below.Select your country:
                         
 Select a country
 Afghanistan
@@ -4827,24 +4079,7 @@ Student / staff numbers
         
 See all open days and fairs
 
-        University College London, Gower Street, London, WC1E 6BT
-        +44 (0)20 7679 2000
-    Copyright © 2017 UCL Disclaimer | Freedom of Information | Accessibility | Privacy | Cookies | Contact UsUndergraduate prospectus
-Your UCL journey starts here! Check out the subjects we offer and the degree programmes available within them. 
-Page maintained by UCL Student Recruitment Marketing
-URL:
-                                      http://www.ucl.ac.uk/silva/classics/study/postgraduate/ma/new-current/2016-ma-induction
-                                      
 
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
 
     This is a call for proposals for a half-day
 interdisciplinary workshop to be held on the afternoon of 21st February 2018 at UCL on the topic of ‘Rejecting the
@@ -4989,66 +4224,7 @@ Advanced Studies.
      In the The Times Higher Education World University Rankings 2018.  
 Your browser sent a request that this server could not understand.
 
-URL:
-                                      https://www.ucl.ac.uk/classics/students/postgraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      https://www.ucl.ac.uk/classics/students/postgraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      https://www.ucl.ac.uk/classics/students/postgraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      https://www.ucl.ac.uk/classics/students/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-URL:
-                                      https://www.ucl.ac.uk/classics/students/undergraduate
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
+    
 				    Department of Greek & Latin
 The Department of Greek and Latin is a leading international centre for postgraduate study and research in the ancient world. We have a thriving postgraduate community, with 40-50 postgraduate students at any time, with research student projects ranging across the whole field of Greek and Roman studies and their reception.Facilities for postgraduate study are outstanding. We are within walking distance of the British Museum and the British Library. UCL has its own excellent research libraries and the major libraries of the Institute of Classical Studies, the Warburg Institute, the Institute of Historical Research, and University of London Senate House Library are five minutes away. Our graduate students enjoy dedicated research and social space and IT facilities within the department. 
     This is a call for proposals for a half-day
@@ -5237,12 +4413,7 @@ classical world in any given case; (3) a knowledge of core research techniques
 reception of the classical world, and an understanding of how these techniques
 can be applied to a range of materials; (4) a knowledge of different receptions
 of classical cultures over a range of historical periods, and an ability to
-analyse those responses critically from an historical and cultural perspective. Preperatory reading: Beard, M. and Henderson, J. Classics: A Very Short Introduction
-(Oxford, 1995); Goldhill, S. Love, Sex
-and Tragedy: How the Ancient World Shapes our Lives (London, 2004); Hardwick,
-L. Reception
-Studies (Oxford, 2003); Silk, M. Gildenhard, I. and Barrow, R. The Classical Tradition: Art, Literature,
-Thought (Chicester, 2014).Credit value: CLASGR11 (Intercollegiate MA): 20 credits, CLASGR03 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR11: one 5,000-word essay; CLASGR03: one 4,000-word essay Pre-requisites: None Content: How does cinema reconstruct Roman history? What
+analyse those responses critically from an historical and cultural perspective. Credit value: CLASGR11 (Intercollegiate MA): 20 credits, CLASGR03 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR11: one 5,000-word essay; CLASGR03: one 4,000-word essay Pre-requisites: None Content: How does cinema reconstruct Roman history? What
 distinguishes cinematic histories of Rome from other historical forms? This
 course will explore the early experimental period of filmmaking, its turn to
 antiquity to legitimate the new cinematic medium, its relationship to painting,
@@ -5262,9 +4433,7 @@ analogy; (3) assess their role in the representation and construction of
 contemporary gender, sexuality, morality, and politics; (4) account for cinema’s
 transformation of ancient Rome into spectacle and commodity; (5) differentiate
 between different cinematic styles in their reconstruction and interpretation
-of Roman history. Recommended preperatory reading:Wyke, M. Projecting the Past: Ancient Rome, Cinema
-and History (Routledge, 1997); Hughes-Warrington, M. History Goes to the Movies (Routledge, 2007); Monaco, J. How to Read a Film: Movies, Media and Beyond,
-4th edition (OUP, 2009). Credit value: CLASGR15 (Intercollegiate MA): 20 credits, CLASGR14 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR15: one 5,000-word essay; CLASGR14: one 4,000-word essay Pre-requisites: None Content: How did Hollywood cinema come to dominate
+of Roman history.  Credit value: CLASGR15 (Intercollegiate MA): 20 credits, CLASGR14 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR15: one 5,000-word essay; CLASGR14: one 4,000-word essay Pre-requisites: None Content: How did Hollywood cinema come to dominate
 representations of ancient Rome on screen and how has its dominance been
 challenged? How do ideas of the historical operate in and through such films?
 Why did the genre of the Hollywood blockbuster decline in the 1960s and
@@ -5281,12 +4450,7 @@ past; (2) appraise cinema’s techniques of historical analogy; (3) assess their
 role in the representation and construction of contemporary gender, sexuality,
 morality, and politics; (4) account for cinema’s transformation of ancient Rome
 into spectacle and commodity; (5) differentiate between different cinematic
-styles in their reconstruction and interpretation of Roman history. Recommended preperatory reading:Theodorakopoulos, E. Ancient Rome
-at the Cinema: Story and Spectacle in Hollywood and Rome (Liverpool UP, 2010);
-Hughes-Warrington, M. History Goes to the
-Movies (Routledge, 2007); Monaco, J. How
-to Read a Film: Movies, Media and Beyond, 4th edition (OUP,
-2009).Credit value: CLASGG16 (Intercollegiate MA): 40 credits; CLASGG07 (UCL
+styles in their reconstruction and interpretation of Roman history. Credit value: CLASGG16 (Intercollegiate MA): 40 credits; CLASGG07 (UCL
 MA students outside Classics): 30 credits Course Tutor: Prof. Stephen
 ColvinClass hours: One two-hour class
 per week over two terms.MA students will join the BA
@@ -5374,10 +4538,7 @@ these questions. Students will also practice researching a topic of their
 choice in a mature and independent way, and will learn the basic techniques of
 academic research, as well as how to express their findings well and coherently
 in writing, and develop facility in making oral presentations in a
-non-threatening way.  Recommended preperatory reading:Belfiore, Elizabeth, S., Tragic Pleasures: Aristotle on Plot and Emotion. (Princeton,
-N.J.: Princeton, 1992).Cave, Terence, Recognitions. A Study in Poetics (Oxford, 1988).Halliwell, Stephen, Aristotle's Poetics (Chapel Hill 1986).Halliwell, Stephen, The Aesthetics of Mimesis.
-Ancient Texts and Modern Problems (Princeton/Oxford 2002).Janko, R., Aristotle on Comedy (London 1984)Rorty, Amélie
-Oksenberg (ed.), Essays on Aristotle's Poetics (Princeton 1992). Credit value: CLASGL19 (Intercollegiate MA): 20 credits, CLASGL20 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Gesine Manuwald Class hours: One two-hour class per week Assessment: CLASGL19: one 5,000-word essay; CLASGL20: one 4,000-word essay Pre-requisites: A good knowledge of Latin Content:
+non-threatening way.   Credit value: CLASGL19 (Intercollegiate MA): 20 credits, CLASGL20 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Gesine Manuwald Class hours: One two-hour class per week Assessment: CLASGL19: one 5,000-word essay; CLASGL20: one 4,000-word essay Pre-requisites: A good knowledge of Latin Content:
 This
 module will provide an introduction to Cicero the politician and orator as well
 a to key elements in the history and political life of the Roman Republic, by a
@@ -5415,11 +4576,7 @@ to ensure that it is mostly accessible to everyone. Skills: Students will develo
 their ability to criticise and to evaluate arguments, and to present coherent
 and extended arguments in writing. They will also develop their sensitivity to
 the relationship between the content of an argument and the form in which it is
-expressed. Preperatory reading:Barfield,
-R. (2011) The Ancient Quarrel between
-Philosophy and Poetry, Cambridge.Murdoch,
-I. (1978) ‘Philosophy and Literature’ in B. Magee (ed.) Men of Ideas, Oxford.Nussbaum,
-M. (2003) ‘Philosophy and Literature’ in D. Sedley (ed.) The Cambridge Companion to Greek and Roman Philosophy, 211-41. Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
+expressed. Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
 module will examine the poetry of Ovid, probably the most influential of all
 Roman poets on later Western art and literature. It will focus on his great narrative
 poem of transformations, the Metamorphoses, examining, amongst other
@@ -5593,9 +4750,7 @@ analogy; (3) assess their role in the representation and construction of
 contemporary gender, sexuality, morality, and politics; (4) account for cinema’s
 transformation of ancient Rome into spectacle and commodity; (5) differentiate
 between different cinematic styles in their reconstruction and interpretation
-of Roman history. Recommended preperatory reading:Wyke, M. Projecting the Past: Ancient Rome, Cinema
-and History (Routledge, 1997); Hughes-Warrington, M. History Goes to the Movies (Routledge, 2007); Monaco, J. How to Read a Film: Movies, Media and Beyond,
-4th edition (OUP, 2009). Credit value: CLASGR15 (Intercollegiate MA): 20 credits, CLASGR14 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR15: one 5,000-word essay; CLASGR14: one 4,000-word essay Pre-requisites: None Content: How did Hollywood cinema come to dominate
+of Roman history.  Credit value: CLASGR15 (Intercollegiate MA): 20 credits, CLASGR14 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Maria Wyke Class hours: One two-hour class per week Assessment: CLASGR15: one 5,000-word essay; CLASGR14: one 4,000-word essay Pre-requisites: None Content: How did Hollywood cinema come to dominate
 representations of ancient Rome on screen and how has its dominance been
 challenged? How do ideas of the historical operate in and through such films?
 Why did the genre of the Hollywood blockbuster decline in the 1960s and
@@ -5612,12 +4767,7 @@ past; (2) appraise cinema’s techniques of historical analogy; (3) assess their
 role in the representation and construction of contemporary gender, sexuality,
 morality, and politics; (4) account for cinema’s transformation of ancient Rome
 into spectacle and commodity; (5) differentiate between different cinematic
-styles in their reconstruction and interpretation of Roman history. Recommended preperatory reading:Theodorakopoulos, E. Ancient Rome
-at the Cinema: Story and Spectacle in Hollywood and Rome (Liverpool UP, 2010);
-Hughes-Warrington, M. History Goes to the
-Movies (Routledge, 2007); Monaco, J. How
-to Read a Film: Movies, Media and Beyond, 4th edition (OUP,
-2009).Credit value: CLASGG16 (Intercollegiate MA): 40 credits; CLASGG07 (UCL
+styles in their reconstruction and interpretation of Roman history. Credit value: CLASGG16 (Intercollegiate MA): 40 credits; CLASGG07 (UCL
 MA students outside Classics): 30 credits Course Tutor: Prof. Stephen
 ColvinClass hours: One two-hour class
 per week over two terms.MA students will join the BA
@@ -5670,17 +4820,7 @@ a variety of important themes connected with Greek drama and its contexts, and
 the ability to carry out original research on these questions. Students will
 also practice researching a topic of their choice in a mature and independent
 way, and will learn the basic techniques of academic research, as well as how
-to express their findings well and coherently in writing. Module texts: Sophocles,
-Electra, Cambridge Classical
-Texts and Commentaries vol. 44, Cambridge, 2007Other recommended preperatory reading:R.P.
-Winnington-Ingram, Sophocles: An
-Interpretation (Cambridge, 1980); A. Markantonatos, Brill's Companion to Sophocles (Brill, 2012); M.L. West, Greek Metre (Oxford, 1982); S. Goldhill,
-Reading Greek Tragedy (Cambridge,
-1986); O. Taplin, Pots and Plays
-(Getty, 2007); D. Wiles, Greek Theatre
-Performance: An Introduction (Cambridge, 2000); P. Easterling, ed. Cambridge Companion to Greek Tragedy
-(Cambridge, 1997); H. P. Foley, Female
-Acts in Greek Tragedy (Princeton, 2001).  Credit value: GREKGG01 (Intercollegiate MA): 20 credits, GREKGG01A (UCL MA students outside Classics): 15 credits Module Tutor: Dr Peter Agócs Class hours: One two-hour class per week Assessment: GREKGG01: one 5,000-word essay; GREKGG01A: one 4,000-word essay Pre-requisites: None, but a good reading of Greek is required Content: This
+to express their findings well and coherently in writing. Credit value: GREKGG01 (Intercollegiate MA): 20 credits, GREKGG01A (UCL MA students outside Classics): 15 credits Module Tutor: Dr Peter Agócs Class hours: One two-hour class per week Assessment: GREKGG01: one 5,000-word essay; GREKGG01A: one 4,000-word essay Pre-requisites: None, but a good reading of Greek is required Content: This
 course, offered yearly, always focuses on a Greek prose author. This year we
 will dedicate ourselves to an intensive study of Aristotle's Poetics, the foundational text of
 Western literary criticism and neo-classical poetics. Apart from an initial
@@ -5705,10 +4845,7 @@ these questions. Students will also practice researching a topic of their
 choice in a mature and independent way, and will learn the basic techniques of
 academic research, as well as how to express their findings well and coherently
 in writing, and develop facility in making oral presentations in a
-non-threatening way.  Recommended preperatory reading:Belfiore, Elizabeth, S., Tragic Pleasures: Aristotle on Plot and Emotion. (Princeton,
-N.J.: Princeton, 1992).Cave, Terence, Recognitions. A Study in Poetics (Oxford, 1988).Halliwell, Stephen, Aristotle's Poetics (Chapel Hill 1986).Halliwell, Stephen, The Aesthetics of Mimesis.
-Ancient Texts and Modern Problems (Princeton/Oxford 2002).Janko, R., Aristotle on Comedy (London 1984)Rorty, Amélie
-Oksenberg (ed.), Essays on Aristotle's Poetics (Princeton 1992). Credit value: CLASGL19 (Intercollegiate MA): 20 credits, CLASGL20 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Gesine Manuwald Class hours: One two-hour class per week Assessment: CLASGL19: one 5,000-word essay; CLASGL20: one 4,000-word essay Pre-requisites: A good knowledge of Latin Content:
+non-threatening way.  Credit value: CLASGL19 (Intercollegiate MA): 20 credits, CLASGL20 (UCL MA students outside Classics): 15 credits Module Tutor: Professor Gesine Manuwald Class hours: One two-hour class per week Assessment: CLASGL19: one 5,000-word essay; CLASGL20: one 4,000-word essay Pre-requisites: A good knowledge of Latin Content:
 This
 module will provide an introduction to Cicero the politician and orator as well
 a to key elements in the history and political life of the Roman Republic, by a
@@ -5746,11 +4883,7 @@ to ensure that it is mostly accessible to everyone. Skills: Students will develo
 their ability to criticise and to evaluate arguments, and to present coherent
 and extended arguments in writing. They will also develop their sensitivity to
 the relationship between the content of an argument and the form in which it is
-expressed. Preperatory reading:Barfield,
-R. (2011) The Ancient Quarrel between
-Philosophy and Poetry, Cambridge.Murdoch,
-I. (1978) ‘Philosophy and Literature’ in B. Magee (ed.) Men of Ideas, Oxford.Nussbaum,
-M. (2003) ‘Philosophy and Literature’ in D. Sedley (ed.) The Cambridge Companion to Greek and Roman Philosophy, 211-41. Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
+expressed. Credit value: CLASGL09B (Intercollegiate MA): 20 credits, CLASGL03B (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Mairéad McAuley Class hours: One two-hour class per week Assessment: CLASGL09B: one 5,000-word essay; CLASGL03B: one 4,000-word essay Pre-requisites: None Content: This
 module will examine the poetry of Ovid, probably the most influential of all
 Roman poets on later Western art and literature. It will focus on his great narrative
 poem of transformations, the Metamorphoses, examining, amongst other
@@ -5777,13 +4910,7 @@ influences, narrative technique, themes and poetics; 3) an awareness of differen
 methodological and theoretical approaches to interpreting Ovid’s poetry, an
 ability to implement those approaches in practice, and to analyze different
 interpretations critically; (4) an appreciation of the post-classical influence
-and reception of Ovid’s poetry in a range of historical and cultural contexts. Preperatory reading: Try to read the complete
-works of Ovid in translation (the Penguin or World Classics editions are good).
- Secondary reading: B. W.
-Boyd, ed. Brill’s Companion to Ovid;
-P. Hardie ed. The Cambridge Companion to
-Ovid (2002); N. Holzberg, Ovid. The
-Poet and His Work. Translated by G.M. Gosharian (2002).  Credit value: CLASGG22 (Intercollegiate MA): 20 credits, CLASGG21 (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Rosie Harman Class hours: One two-hour class per week Assessment: CLASGG22: one 5,000-word essay; CLASGG21: one 4,000-word essay Pre-requisites: None Content: This is an introductory course on Ancient
+and reception of Ovid’s poetry in a range of historical and cultural contexts. Credit value: CLASGG22 (Intercollegiate MA): 20 credits, CLASGG21 (UCL MA students outside Classics): 15 credits Module Tutor: Dr. Rosie Harman Class hours: One two-hour class per week Assessment: CLASGG22: one 5,000-word essay; CLASGG21: one 4,000-word essay Pre-requisites: None Content: This is an introductory course on Ancient
 Greek historical writing, taught in English translation (no knowledge of
 Ancient Greek language required). In the Classical period prose accounts of the
 past were a radical new invention; authoritative narratives about the past had
@@ -6058,12 +5185,6 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-				    Department of Greek & Latin
- UCL is a founder member of the London Arts & Humanities Partnership, a consortium of the leading research universities in London which allows shared doctoral training and doctoral supervision.UCL | KCL | SAS | LSE | QMUL 
-    This is a call for proposals for a half-day
-interdisciplinary workshop to be held on the afternoon of 21st February 2018 at UCL on the topic of ‘Rejecting the
-Classics’, hosted by UCL’s Department of Greek and Latin and Institute of
-Advanced Studies. 
 
   A warm welcome to UCL. Details of Induction events in the week of 25 September for new BA, MA, and PhD students now available
 
@@ -6349,9 +5470,7 @@ course aims to provide students with a knowledge of Classical Greek language
 and principles of sentence construction sufficient to translate simple passages
 of Greek prose into English and simple English phrases and sentences into
 Greek. Two classes per week will be split into small groups, each group taught
-by a Postgraduate Teaching Assistant. Course text: Balme,
-M. & Lawall, G., 2003. Athenaze: An introduction to Ancient Greek Book 1, Second
-edition (chapters 1–12). Oxford (UK EDITION)  Skills: Students should
+by a Postgraduate Teaching Assistant.  Skills: Students should
 be trained in translating Greek texts into English and English sentences into
 Greek, learning vocabulary and studying Greek grammar and syntax. By the
 end of the course, students are expected to have reached a level approximately
@@ -6409,9 +5528,7 @@ in-class examinations (25%), one three-hour examination paper (75%);
 GREK2006A: one in-class examination (25%), one two-hour examination paper (75%) for 0.5
 unit.Pre-requisites: Greek to
 A-level standard or GREK2002 Intermediate Greek B or equivalentCourse
-texts: North, M.A. & Hillard, A.E., 1997. Greek Prose
-Composition. Duckworth. Term 1 Herodotus,
-book 1, ed. J.H. Sleeman (Bristol, 2002), Bristol Classical Press Term 2 Homer Odyssey 11, ed. W.B. Stanford, Homer, Odyssey 1-12. (London, 1996)Content:
+Content:
  A study of Classical Greek Language, involving
 the reading and translation into English of prose and verse texts, exercise in
 grammatical analysis and literary criticism and the translation of English
@@ -6469,14 +5586,7 @@ of form, content and context, and the ability to present written conclusions
 about a complex body of data in a coherent fashion. They will also have better
 Greek than they had when they started, and will be able to carry out
 independent research into the important themes of Greek and modern poetics, and
-ancient Greek poetry, culture, myth and religion. Introductory readings: For term 1: Thomas Szlezák, Reading Plato (Routledge, 1999); Eric Havelock, Preface to Plato (Harvard, 1963);
-Stephen Halliwell, The
-Aesthetics of Mimesis. Ancient Texts and Modern Problems (Princeton 2002); A. Ford, The
-Origins of Criticism (Princeton, 2001).For term 2: Jenny Strauss Clay, The Politics of Olympus: Form and Meaning in the Major Homeric Hymns
-(London, 2006); Richard Janko, Homer,
-Hesiod and the Hymns (Cambridge, 1982); J. Notopoulos, 'The Homeric Hymns
-as Oral Poetry', American Journal of
-Philology 83 (1962): 337-368; W. Burkert, Greek Religion (Harvard, 1985).Value: 0.5 course unitsCourse Tutors: Dr Nicolò Benzi (Term 1) and Professor Nick Gonis (Term 2) Class hours: One one-hour class
+ancient Greek poetry, culture, myth and religion. Value: 0.5 course unitsCourse Tutors: Dr Nicolò Benzi (Term 1) and Professor Nick Gonis (Term 2) Class hours: One one-hour class
 per week, Terms 1 and 2.  Assessment: One three-hour
 examination paper (100%) Pre-requisite: GREK2002 Intermediate
 Greek B or equivalent Content: A course of exercises and discussions designed to
@@ -6502,11 +5612,7 @@ social, historical and archaeological context: core topics will include the
 history of writing in the ancient Aegean and the graphic representation of
 Greek; the dialectal affiliations of Mycenaean and Homeric Greek; and the
 evidence of the tablets for the history of the Greek language.  The course will serve as a
-introduction to historical linguistics, sociolinguistics and Indo-European. Course texts: a course booklet
-will be supplied. S. COLVIN,  A
-Historical Greek Reader (Oxford 2007): not necessary to purchase J.T. HOOKER, Linear B: an introduction (Bristol 1980): recommended Other recommended preparatory
-readings: J. CHADWICK, The Decipherment of Linear B
-(Cambridge 1958, reprinted): strongly recommended Value: 0.5 course units Course Tutor: Prof Nick GonisClass hours: One two-hour class per
+introduction to historical linguistics, sociolinguistics and Indo-European. Value: 0.5 course units Course Tutor: Prof Nick GonisClass hours: One two-hour class per
 week, Term 2. Assessment: One unseen three-hour
 examination paper (100%) Pre-requisites: Normally GREK2006/2006A
 Greek Texts 1/1A or equivalentContent: An introduction to the
@@ -6537,22 +5643,7 @@ written texts and the cultures that make them; the epic hero (Achilles, Hector);
 fiction and truth; poetry and 'song'; ideas of war, space and time; gods and
 goddesses; death and the afterlife; magic and religion; Homeric society and
 ethics; men and women in epic; and the impact of the Iliad on the later tradition in poetry and art. We will aim to cover Books 21-24 of the
-Iliad in the original Greek. We will use the Oxford
-Classical Texts edition of T. Allen. Translation:
-R. Lattimore, The Iliad of Homer, (Chicago
-and London, 1951). Commentaries: G. S. Kirk, The Iliad: A Commentary, (Cambridge 1985-1993), esp. vol. 6 by N.
-Richardson covering books 21-24, N. Postlethwaite, Homer’s Iliad: a
-commentary on the translation of Richmond Lattimore (Exeter 2000). Companions: R. Fowler, The Cambridge Companion to Homer (Cambridge 2005); P. B.
-Powell-I.Morris, A New Companion to Homer (Leiden 1997); Grammar:
-D. B. Monro, Homeric Grammar (Bristol
-Classical Press, 2013); Dictionary: G. Autenrieth, Homeric Dictionary,
-(Duckworth, 1998). Recommended secondary readings: R.
-Rutherford, Homer. Greece & Rome
-New Surveys in the Classics (Cambridge 1996); A.B. Lord, The Singer of Tales (Harvard University
-Press 1960; re-issued since); J. Griffin, Homer
-on Life and Death, (Oxford 1980); B. Graziosi, Homer
-(Oxford 2016); M. Mueller, The Iliad. Second edition
-(London 2009); M. Silk, Homer: The Iliad (Cambridge 1987).Skills:
+Iliad in the original Greek. Skills:
 By
 the end of the course, students will engage with
 Homeric ideas as explored in the Iliad
@@ -6618,9 +5709,7 @@ reading of selected texts. The course aims to provide students with a knowledge
 of classical Latin language and principles of sentence construction sufficient
 to translate simple passages of Latin prose into English and simple English
 phrases and sentences into Latin. Two classes per week will be split into three
-small groups, each group taught by a Postgraduate Teaching Assistant. Course text: Keller,
-A. & Russell, S., 2015 (NB this is the second edition). Learn to
-Read Latin (Sections 40 to 74). Yale UP.Value: 0. 5 course units Course Tutor: Dr Rosie Harman  Class hours: Four one-hour classes per
+small groups, each group taught by a Postgraduate Teaching Assistant. .Value: 0. 5 course units Course Tutor: Dr Rosie Harman  Class hours: Four one-hour classes per
 week, Term 1 Assessment:
 Continuous
 assessment (100%), based on two in-class examinations (50% each)Pre-requisite:
@@ -6642,10 +5731,7 @@ texts into English.   Value: 0.5 course unitsCourse Tutor: Prof Miriam Leonard a
 hours: Four
 one-hour classes per week, Term 2. Assessment: Two in-class examinations (20% each) and one three-hour
 examination paper (60%)Pre-requisite: LATN2003
-Intermediate Latin A or equivalentCourse Text: Keller, A. &
-Russell, S., 2015 (NB this is the second edition). 
-Learn to Read Latin. (sections 123-end). Yale UP. Kennedy, B.H., 1965. Kennedy's
-Revised Latin Primer. Longman. Content: The course aims to develop students'
+Intermediate Latin A or equivalent. Content: The course aims to develop students'
 knowledge of the Latin language from a level comparable to that achieved at the
 end of Intermediate Latin A to a point where they will have mastered all
 regular syntactical constructions and will be able to read and translate original
@@ -6680,12 +5766,7 @@ By
 the end of the module, students should have a good knowledge of classical Latin
 language, be trained to translate fluently from Latin into English and from
 English into Latin and be able to analyze linguistic features of a text in
-relation to its content.Course texts: Text term 1: K. Quinn
-(ed.), Catullus. The Poems, Bristol
-1996.Text term 2: J.T. Ramsey
-(ed.), Sallust’s Bellum Catilinae. Second
-Edition, Oxford / New York 2007.Prose composition both terms: R. Colebourn, Latin
-Sentence and Idiom. A Composition Course, Bristol 1948 (reprints). Value: LATN7008/LATN7018*  - 1.0 course units,  LATN7008A/LATN7018A*  - 0.5 course units  Course Tutors: Dr Mairéad McAuley
+relation to its content.Value: LATN7008/LATN7018*  - 1.0 course units,  LATN7008A/LATN7018A*  - 0.5 course units  Course Tutors: Dr Mairéad McAuley
 (Term 1) and Professor Maria Wyke (Term 2) Class hours: One two-hour class
 per week, Terms 1 and 2.    Assessment: LATN7008/LATN7018: Two pieces of
 coursework of 2,500 words each maximum (25%) and one three-hour examination
@@ -6815,11 +5896,7 @@ discern the effects on poetic production of different language structures;
 (3) to evaluate Latin poetry and its translations in their social and
 cultural contexts; (4) to understand the strategies and the processes of
 translation; (5) to assess translation as a mode of reception of Latin
-literature.Suggested
-preliminary reading:Quinn, Kenneth ed. Horace
-Odes (Macmillan 1980 or Bristol Classical Press, 2013); Hardwick, Lorna Translating
-Words, Translating Cultures (Bristol, 2000); Martindale, C. and Hopkins, D. Horace Made New: Horatian Influences on
-British Writing from the Renaissance to the Twentieth Century (CUP, 1993). Value: 0.5 course unitsCourse
+literature. Value: 0.5 course unitsCourse
 Tutor: Dr Fiachra Mac Góráin Class
 hours: One two-hour class per week, Term 1.  Assessment: One essay of 2,500
 words (40%) and one two-hour examination paper based on the prescribed syllabus,
@@ -6841,12 +5918,7 @@ the end of the course, students should have a firm grasp on the main issues that
 pertain to Roman historiography. They should have developed skills in
 translation, close reading, contextual analysis, and balanced assessment of
 historiographical sources. They should have improved their mastery of precise,
-coherent expression in oral and written form.Suggested
-preliminary reading: A.
-J. Woodman, C. S. Kraus, Latin
-Historians, Greece and Rome New Surveys in the Classics 27, Oxford, 1997.
-A. Feldherr, ed., The Cambridge Companion
-to the Roman Historians, Cambridge, 2009.Value: 0.5 course unitsCourse Tutor: Dr Peter AgócsAssessment: An essay
+coherent expression in oral and written form. Value: 0.5 course unitsCourse Tutor: Dr Peter AgócsAssessment: An essay
 of 6,000 words maximum (including footnotes
 and excluding bibliography) on a subject related to one or more of the courses being
 taken by the candidate in the Final-year. Content: After a
@@ -6898,8 +5970,7 @@ by Greek myths: but how did these extraordinary stories arise? What was their
 purpose? Did the Greeks really believe them and what are our sources for them?
 This course looks at a range of Greek myths and suggests some answers to these
 questions. Backed up by slides and copies of relevant texts, the course will
-survey the subject broadly, evaluating some modern interpretations of myth. Course texts: Morford,
-M. P. O. and Lenardon, R. J. and  Sham, M. 2015. Classical Mythology, Oxford: OUP.Other recommended preparatory readings: J. Bremmer (Routledge, 1987) Interpretations of Greek Mythology.W. Burkert (Blackwell, 1985) Greek Religion.R. Buxton (CUP, 1994) Imaginary Greece.E. Csapo (Blackwell, 2004) Theories of Mythology.P. Veyne (UCP, 1988) Did the Greeks Believe in their Myths?.Value: 0.5 course unitsCourse Tutor: Dr Rosie Harman Class hours: One two-hour class per
+survey the subject broadly, evaluating some modern interpretations of myth. Value: 0.5 course unitsCourse Tutor: Dr Rosie Harman Class hours: One two-hour class per
 week, Term 1.  Assessment: Continuous assessment
 (100%), based on two pieces of coursework of 2,000 words maximum each (50% each
 piece of coursework) Pre-requisites: None This course is intended only for first-year students on the Ancient
@@ -6963,10 +6034,7 @@ to equip themselves with specified translations of some works, which are
 cheaply available in paperback; other texts will be supplied as handouts. Skills: By the end
 of the course, students should be trained in close reading, analysis of form,
 content and context, synthesis of ideas and the ability to present written and
-oral conclusions about a complex body of data in a coherent fashion.Introductory reading: S. Harrison (ed.), A companion to Latin literature
-(Malden, MA, 2005), P.E. Knox, - J.C.
-McKeown (eds.), The Oxford Anthology of Roman Literature.
-  (Oxford; New York 2013)   Value: 0.5 course unitsCourse Tutor: Dr Antony
+oral conclusions about a complex body of data in a coherent fashion.   Value: 0.5 course unitsCourse Tutor: Dr Antony
 Makrinos Class hours: Two one-hour
 classes per week, Term 1.   Assessment: One
 piece of coursework of 2,000 words maximum (40%) and one three-hour examination
@@ -6995,10 +6063,7 @@ theories produced by these sources. They will also concentrate on primary
 materials and develop the ability to read texts independently, to manage their
 own learning, to communicate ideas orally and in writing and to gather, analyze
 and synthesize data. Teamwork and independent thinking will also be strongly
-encouraged in order to enable student development and achievement.Introductory reading: C. Pelling
-and M. Wyke, Twelve Voices from Greece
-and Rome, Ancient Ideas for Modern Times (Oxford 2014); E. Hall, The Ancient Greeks, Ten Ways They Shaped The
-Modern World (London 2015). Value: 0.5 course unitsCourse Tutor: Prof. Stephen
+encouraged in order to enable student development and achievement. Value: 0.5 course unitsCourse Tutor: Prof. Stephen
 ColvinClass hours: One one-hour class
 per week (Terms 1 & 2)Assessment: A final exam (3
 hours) in May (100%). Formative assessment: One problem
@@ -7104,13 +6169,7 @@ also concentrate on primary materials and develop the ability to read texts
 independently, to manage their own learning, to communicate ideas orally and in
 writing and to gather, present, analyze and synthesize data. Teamwork and
 independent thinking will also be strongly encouraged in order to enable
-student development and achievement.Introductory reading: J. Griffin, Homer (Oxford 1980); B. Graziosi, Homer
-(Oxford 2016); M. Mueller, The Iliad. Second
-edition (London 2009); R. Rutherford, “Homer”, Greece and Rome New Surveys
-in the Classics (Cambridge 1996); M. Silk, Homer: The Iliad (Cambridge
-1987). Recommended translations are those in the Chicago University Press (by
-Lattimore), Penguin (by Hammond) or Oxford World's Classics series (by
-Fitzgerald). Value: 0.5 course unitsCourse
+student development and achievement.Value: 0.5 course unitsCourse
 tutor:
 Prof Gesine Manuwald Class
 hours:
@@ -7186,15 +6245,7 @@ and class consciousness in the context of the development of Classical Greek
 prose writing. Skills:
 Students will develop their awareness of critical approaches to texts, their
 understanding of the relations between form, content and context, and their
-ability in close reading and in oral and written analysis.Introductory
-reading:Students are
-advised to obtain translations of Xenophon's works, for example:The Expedition of
-Cyrus,
-trans. R. Waterfield (Oxford World Classics, 2009)The Education of
-Cyrus,
-trans. W. Ambler (Cornell University Press, 2001)Conversations of
-Socrates,
-trans. H. Tredennick (Penguin, 1990)Value: 0.5 course unitsCourse Tutor: Dr Nicolò Benzi Class hours: Two one-hour classes per
+ability in close reading and in oral and written analysis.Value: 0.5 course unitsCourse Tutor: Dr Nicolò Benzi Class hours: Two one-hour classes per
 week, Term 2.  Assessment: Continuous assessment (100%), based on two
 pieces of coursework of 2,500 words maximum each (50% each).Pre-requisites: NoneContent: This
 course offers an introduction to Plato's philosophical dialogues, with a
@@ -7205,11 +6256,7 @@ the course touches on questions of ethics, metaphysics, epistemology and
 Socratic and Platonic philosophy generally.  Skills: At the end of the course, students should be able to give
 an account of Plato’s discussion of specific philosophical issues; give an
 account of Plato’s literary and dramatic technique; discuss the relation
-between different dialogues and indicate its possible significance.Preparatory
-readings: J. Annas (OUP, 2003) Plato:
-A Very Short Introduction.G. Grube (translator) (Hackett,
-2002) Plato: Five Dialogues. A.
-Mason (Acumen, 2010) Plato.Value: 0.5 course unitsCourse Tutor: Professor Phiroze Vasunia Class hours: Two
+between different dialogues and indicate its possible significance.Value: 0.5 course unitsCourse Tutor: Professor Phiroze Vasunia Class hours: Two
 one-hour classes per week, Term 2.  Assessment: one
 piece of coursework of 2,500 words maximum (40%), one unseen three-hour examination
 paper (60%) Pre-requisites: none Content: This course is an exploration of epic poetry.
@@ -7516,10 +6563,7 @@ to equip themselves with specified translations of some works, which are
 cheaply available in paperback; other texts will be supplied as handouts. Skills: By the end
 of the course, students should be trained in close reading, analysis of form,
 content and context, synthesis of ideas and the ability to present written and
-oral conclusions about a complex body of data in a coherent fashion.Introductory reading: S. Harrison (ed.), A companion to Latin literature
-(Malden, MA, 2005), P.E. Knox, - J.C.
-McKeown (eds.), The Oxford Anthology of Roman Literature.
-  (Oxford; New York 2013)   
+oral conclusions about a complex body of data in a coherent fashion.
     This is a call for proposals for a half-day
 interdisciplinary workshop to be held on the afternoon of 21st February 2018 at UCL on the topic of ‘Rejecting the
 Classics’, hosted by UCL’s Department of Greek and Latin and Institute of
@@ -7529,19 +6573,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      https://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y1_Modules/Accordion/mailto%3A%20emily.lord-kambitsch.12@ucl.ac.uk
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
+   Department of Greek & Latin
 
     This is a call for proposals for a half-day
 interdisciplinary workshop to be held on the afternoon of 21st February 2018 at UCL on the topic of ‘Rejecting the
@@ -7592,18 +6624,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      https://www.ucl.ac.uk/classics/study/undergraduate/Modules/Y2andFY_Modules/Accordion/mailto%3A%20m.leonard@ucl.ac.uk
-                                      
 
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
 				    Department of Greek & Latin
 The Ancient World degree is one of the most flexible 
 degree programmes covering the Ancient World in the UK. A range of 
@@ -7986,18 +7007,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      https://www.ucl.ac.uk/classics/study/undergraduate/teachingprojects/Amphitruo_notes_script
-                                      
 
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
 				    Department of Greek & Latin
  28-29 June 2017 in the Department of Greek
 and Latin, Teaching Fellow Emily Chow-Kambitsch and undergraduate Greek and
@@ -8131,19 +7141,7 @@ Advanced Studies.
 
      In the The Times Higher Education World University Rankings 2018.  
 
-URL:
-                                      https://www.ucl.ac.uk/classics/study/undergraduate/teachingprojects/Plautusvideo-mp4
-                                      
-
-                                        This error (HTTP 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
-                                    © UCL 1999–
-                        <!--
-                        var d = new Date();
-                        var curr_year = d.getFullYear();
-                        document.write(curr_year);
-                        -->
-                        
-				    Department of Greek & Latin
+Department of Greek & Latin
 Antony Makrinos and PhD student Kyriaki Ioannidou staged a special reading of Amphitruo, Plautus' classic tragi-comedy of love and deceit.This staged class was part of an idea to introduce innovative ways of teaching Latin (and specifically Roman Comedy) to undergraduate students of the Greek and Latin Department, UCL. The course was Latin Texts 2, Plautus: Amphitruo (LATN 3008/3008A). The aims of the class were to live the experience of teaching Latin as an educator-performer and to explore the educational benefits of this experience and its reception by the students.The class included a live performance of the last scene of Plautus' play Amphitruo by the teacher and a PhD student with the use of masks and a discussion of the practices used. The text was adapted to suit the needs of the class. Both the text and the lecture notes can be found below:The masks for Jupiter and Alcumena.Alcumena's husband AmphitruoAntony’s and Kyriaki’s thoughts about the class will be presented in the Arts and Humanities conference 2013 Storyville: Exploring narratives of learning and teaching, organised by the Higher Education Academy, (Brighton, 29-30 May 2013). A shared talk will be presented with the title: “Teaching Latin: teaching experience as part of theatrical performance”. Details >>The talk will introduce innovative pedagogies and methodologies for the teaching of ancient languages used in the Department of Greek and Latin, UCL. The session will invite dialogue between the delegates about the creative teaching of languages through staged classes, and it is hoped that this will stimulate interest in this way of teaching. Particular emphasis will be given to methodologies which enhance the teaching experience and help students digest aspects of the language. Interest is anticipated from teachers in the Humanities willing to use original techniques to make teaching engaging. Delegates will experience the class second hand (through videos) and will have hands on the props.Many thanks to:- Viv Sendall (Visiting Tutor in Scenic Art) for working so hard with the masks and for providing advice on how to use them; Andy Stead (Senior Lecturer), Gussie Dennet, Lydia Duncombe and Bianca Paule, (second year students on the Creative Arts for Theatre and Film course) UCA Rochester for producing the wonderful masks;- Kyriaki Ioannidou for her patience and her enthusiasm for the staged class and of course for her stunning performance as Bromi-Amphitruo;- Matthew Milner for his wonderful sound effects with the thunderbolts;- and Anastasia Papamichael for recording the class.
     This is a call for proposals for a half-day
 interdisciplinary workshop to be held on the afternoon of 21st February 2018 at UCL on the topic of ‘Rejecting the
