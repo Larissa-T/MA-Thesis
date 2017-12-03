@@ -64,12 +64,6 @@ for url in link_list:
                 print('error')
             else:
                 f.close()
-        print ("done adding html " + url)
-        print ('reading ' + url)
-        f = open(filename, "a")                             
-        f.write(url + " /n" + html.encode('utf-8', errors='ignore'))    
-        f.close()
-        print ("done adding html " + url)
     elif 'module' in url:
        context = ssl._create_unverified_context()
         try:
