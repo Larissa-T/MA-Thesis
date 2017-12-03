@@ -51,43 +51,88 @@ for url in link_list:
         continue
     elif 'grad' in url:             # this part onwards tells what to do when certain words are present within the url view the link list before defining which links should be added here 'grad' is used to both capture the links containing graduate as undergraduate and I have seen sometimes just grad is being used in links that contain program descriptions 
         context = ssl._create_unverified_context()          #skipps any ssl certification
-        html = urllib.urlopen(url, context=context).read()  #opens the links and grabs the html
+        try: 
+            html = urllib.urlopen(url, context=context).read()  #opens the links and grabs the html
+        except IOError or UnicodeError:         #skips url if it comes across any errors
+            print ('cannot open page')
+        else:
+            print ('reading ' + url)
+            f = open(filename, "a")     # opens the filename to append
+            try:
+                 f.write(url + " /n" + html.encode('utf-8', errors='ignore'))   #writes first the url in order to track where the html came from and then writes the html. 
+            except UnicodeError:        #I have added the unicodeerror handeler in case of trouble writing or accidentaly rtying to write an image as text it will simply skip the part that causes the error
+                print('error')
+            else:
+                f.close()
+        print ("done adding html " + url)
         print ('reading ' + url)
-        f = open(filename, "a")                             # opens the filename to append
-        f.write(url + " /n" + html.encode('utf-8', errors='ignore'))    #writes first the url in order to track where the html came from and then writes the html. I have added the ignore errors for unicode errors but seems not to work very will
+        f = open(filename, "a")                             
+        f.write(url + " /n" + html.encode('utf-8', errors='ignore'))    
         f.close()
         print ("done adding html " + url)
     elif 'module' in url:
-        context = ssl._create_unverified_context()
-        html = urllib.urlopen(url, context=context).read()
-        print ('reading ' + url)
-        f = open(filename, "a")
-        f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
-        f.close()
+       context = ssl._create_unverified_context()
+        try:
+            html = urllib.urlopen(url, context=context).read()
+        except IOError or UnicodeError:
+            print ('cannot open page')
+        else:
+            print ('reading ' + url)
+            f = open(filename, "a")
+            try:
+                f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
+            except UnicodeError:
+                print('error')
+            else:
+                f.close()
         print ("done adding html " + url)
     elif 'courses' in url:
         context = ssl._create_unverified_context()
-        html = urllib.urlopen(url, context=context).read()
-        print ('reading ' + url)
-        f = open(filename, "a")
-        f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
-        f.close()
+        try:
+            html = urllib.urlopen(url, context=context).read()
+        except IOError or UnicodeError:
+            print ('cannot open page')
+        else:
+            print ('reading ' + url)
+            f = open(filename, "a")
+            try:
+                f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
+            except UnicodeError:
+                print('error')
+            else:
+                f.close()
         print ("done adding html " + url)
     elif 'study' in url:
-        context = ssl._create_unverified_context()
-        html = urllib.urlopen(url, context=context).read()
-        print ('reading ' + url)
-        f = open(filename, "a")
-        f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
-        f.close()
+       context = ssl._create_unverified_context()
+        try:
+            html = urllib.urlopen(url, context=context).read()
+        except IOError or UnicodeError:
+            print ('cannot open page')
+        else:
+            print ('reading ' + url)
+            f = open(filename, "a")
+            try:
+                f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
+            except UnicodeError:
+                print('error')
+            else:
+                f.close()
         print ("done adding html " + url)
     elif 'taught' in url:
         context = ssl._create_unverified_context()
-        html = urllib.urlopen(url, context=context).read()
-        print ('reading ' + url)
-        f = open(filename, "a")
-        f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
-        f.close()
+        try:
+            html = urllib.urlopen(url, context=context).read()
+        except IOError or UnicodeError:
+            print ('cannot open page')
+        else:
+            print ('reading ' + url)
+            f = open(filename, "a")
+            try:
+                f.write(url + " /n" + html.encode('utf-8', errors='ignore'))
+            except UnicodeError:
+                print('error')
+            else:
+                f.close()
         print ("done adding html " + url)
     else:
         continue
