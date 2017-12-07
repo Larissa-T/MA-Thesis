@@ -1,0 +1,14 @@
+department,character count,syllable count,lexicon count,sentence count,polysyllable count,difficult words,average letter per word,average sentence lenght,average sentence per word,average syllables per word,smog index,automated readability index,coleman liau index,dale chall readability score,flesch kincaid grade,flesch reading ease,gunning fog index,linsear write formula,text standard
+cambridge_ames_text.txt,982783,303828.3,180519,7923,13945,8198,5.44,22.0,0.04,1.7,8.8,15.6,14.57,1.81,13.1,40.69,10.8,8.5,8th and 9th grade
+cambridge_arch_text.txt,171862,52093.8,28578,1333,3645,2730,6.01,21.0,0.05,1.8,11.2,17.6,17.58,6.19,13.8,33.24,10.4,5.0,17th and 18th grade
+cambridge_classics_text.txt,397751,116529.3,71297,3412,6415,8396,5.58,20.0,0.05,1.6,8.8,15.3,15.08,6.49,11.1,51.18,10.0,6.0,9th and 10th grade
+cambridge_crassh_text.txt,493237,133053.3,75328,2662,8930,12338,6.55,28.0,0.04,1.8,13.0,23.6,21.01,7.61,16.6,26.14,13.200000000000001,34.0,12th and 13th grade
+cambridge_divinity_text.txt,213278,66966.3,39241,2032,3430,3437,5.44,19.0,0.05,1.7,8.8,13.8,14.27,5.96,11.9,43.73,9.600000000000001,19.5,13th and 14th grade
+cambridge_english_text.txt,1165,346.5,209,12,15,63,5.57,17.0,0.06,1.7,8.8,13.5,14.73,9.24,11.1,45.76,8.8,6.0,8th and 9th grade
+cambridge_hist_text.txt,1652332,504502.2,302237,13953,25781,20927,5.47,21.0,0.05,1.7,8.8,15.2,14.45,5.77,12.7,41.7,10.4,12.0,14th and 15th grade
+cambridge_hps_text.txt,111218,33530.4,18360,575,2339,2644,6.06,31.0,0.03,1.8,14.6,23.1,18.46,7.45,17.7,23.09,14.4,33.5,17th and 18th grade
+cambridge_langcen_text.txt,29522,9298.8,5315,254,492,784,5.55,20.0,0.05,1.7,8.8,15.2,14.91,6.96,12.3,42.72,10.0,12.0,14th and 15th grade
+cambridge_mcdonald_text.txt,57,14.4,11,1,0,4,5.18,11.0,0.09,1.3,0,8.5,11.58,9.92,4.0,85.69,6.4,4.5,11th and 12th grade
+cambridge_MML_text.txt,477460,143425.8,84837,3699,7554,9454,5.63,22.0,0.04,1.7,11.2,16.6,15.67,6.49,13.1,40.69,10.8,13.0,10th and 11th grade
+cambridge_mus_text.txt,338031,105780.6,60928,2295,5679,1966,5.55,26.0,0.04,1.7,11.2,18.0,15.21,1.8,14.6,36.63,12.4,8.0,14th and 15th grade
+cambridge_phil_text.txt,349630,96561.9,59494,2022,6339,3586,5.88,29.0,0.03,1.6,13.0,21.0,17.42,6.03,14.6,42.04,13.600000000000001,9.0,20th and 21th grade

@@ -1,0 +1,12 @@
+department,character count,syllable count,lexicon count,sentence count,polysyllable count,difficult words,average letter per word,average sentence lenght,average sentence per word,average syllables per word,smog index,automated readability index,coleman liau index,dale chall readability score,flesch kincaid grade,flesch reading ease,gunning fog index,linsear write formula,text standard
+standford_anthropology_text.txt,94106,27683.1,14253,807,1872,2002,6.6,17.0,0.06,1.9,11.2,18.5,20.7,6.7,13.5,28.84,8.8,8.5,8th and 9th grade
+standford_art_text.txt,212137,64871.1,36575,2233,4049,3126,5.8,16.0,0.06,1.8,8.8,14.1,16.06,5.78,11.9,38.31,8.4,20.0,11th and 12th grade
+standford_histroy_text.txt,40205,11993.4,6964,401,673,1192,5.77,17.0,0.06,1.7,8.8,14.4,15.89,7.18,11.1,45.76,8.8,11.5,8th and 9th grade
+standford_religiousstudies__text.txt,4043,1221.3,721,45,60,174,5.61,16.0,0.06,1.7,8.8,13.0,14.96,8.24,10.7,46.78,8.4,4.5,8th and 9th grade
+standford_taps__text.txt,363,78.3,52,4,3,7,6.98,13.0,0.08,1.5,3.1,17.9,22.32,6.41,7.2,66.74,7.2,7.0,6th and 7th grade
+stanford_dlc_text.txt,1186868,356956.2,200561,9983,21559,11737,5.92,20.0,0.05,1.8,11.2,16.5,17.06,5.55,13.5,34.26,10.0,16.5,16th and 17th grade
+stanford_ealc_text.txt,63377,19188.0,11265,601,924,1096,5.63,18.0,0.05,1.7,8.8,14.5,15.37,6.07,11.5,44.75,9.200000000000001,5.5,14th and 15th grade
+stanford_english_text.txt,45075,13479.3,7653,428,847,963,5.89,17.0,0.06,1.8,8.8,15.3,16.59,6.47,12.3,37.3,8.8,10.5,8th and 9th grade
+stanford_linguistics_text.txt,35802,10242.9,5986,419,560,718,5.98,14.0,0.07,1.7,8.8,13.9,16.81,6.22,9.9,48.81,7.6000000000000005,5.5,5th and 6th grade
+stanford_music_text.txt,2808,838.8,471,21,51,164,5.96,22.0,0.04,1.8,11.2,17.9,17.58,10.23,14.2,32.22,10.8,13.0,17th and 18th grade
+stanford_philosophy_text.txt,30392,9133.2,5189,366,662,545,5.86,14.0,0.07,1.8,8.8,13.3,16.12,5.99,11.1,40.34,7.6000000000000005,7.5,7th and 8th grade

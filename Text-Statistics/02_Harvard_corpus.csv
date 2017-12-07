@@ -1,0 +1,7 @@
+department,character count,syllable count,lexicon count,sentence count,polysyllable count,difficult words,average letter per word,average sentence lenght,average sentence per word,average syllables per word,smog index,automated readability index,coleman liau index,dale chall readability score,flesch kincaid grade,flesch reading ease,gunning fog index,linsear write formula,text standard
+harvard_complit_text.txt,151820,44674.2,22587,1005,3668,3934,6.72,22.0,0.04,2.0,13.0,21.5,21.99,7.48,16.6,15.31,10.8,16.5,21th and 22th grade
+harvard_folkmyth_text.txt,233541,65110.5,37740,1484,3764,8237,6.19,25.0,0.04,1.7,11.2,20.4,18.92,8.32,14.2,37.64,12.0,19.0,18th and 19th grade
+harvard_gsas_text.txt,169982,50706.0,28124,1297,3218,4139,6.04,21.0,0.05,1.8,11.2,17.9,17.75,7.0,13.8,33.24,10.4,16.5,17th and 18th grade
+harvard_hislit_text.txt,100854,28860.3,16692,716,1690,2637,6.04,23.0,0.04,1.7,11.2,18.7,18.05,7.27,13.4,39.67,11.200000000000001,12.0,11th and 12th grade
+harvard_religion_text.txt,194106,58491.0,33649,1698,3238,3614,5.77,19.0,0.05,1.7,8.8,15.7,16.19,6.27,11.9,43.73,9.600000000000001,11.5,11th and 12th grade
+harvard_tdm_text.txt,86333,19526.4,10490,297,1137,919,8.23,35.0,0.03,1.9,13.0,35.0,31.05,6.76,20.5,10.57,16.0,9.0,12th and 13th grade

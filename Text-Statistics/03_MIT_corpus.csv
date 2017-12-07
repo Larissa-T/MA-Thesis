@@ -1,0 +1,2 @@
+department,character count,syllable count,lexicon count,sentence count,polysyllable count,difficult words,average letter per word,average sentence lenght,average sentence per word,average syllables per word,smog index,automated readability index,coleman liau index,dale chall readability score,flesch kincaid grade,flesch reading ease,gunning fog index,linsear write formula,text standard
+mit_shass_text.txt,212800,57926.7,34097,1777,3707,5820,6.24,19.0,0.05,1.7,11.2,17.6,18.91,7.27,11.9,43.73,9.600000000000001,11.0,10th and 11th grade
