@@ -1,0 +1,814 @@
+http://www.york.ac.uk/language/current/postgraduates/
+http://www.york.ac.uk/language/current/undergraduates/modules/
+http://www.york.ac.uk/language/postgraduate/funding/
+http://www.york.ac.uk/language/postgraduate/mphil-phd-communication/
+http://www.york.ac.uk/language/postgraduate/taught/forensic-speech-science/
+http://www.york.ac.uk/language/undergraduate/ab-initio/
+http://www.york.ac.uk/language/undergraduate/courses/
+http://www.york.ac.uk/language/undergraduate/courses/ba-french-italian-4year/
+http://www.york.ac.uk/language/undergraduate/courses/ba-french-philosophy-4year
+http://www.york.ac.uk/language/undergraduate/courses/ba-french-spanish-4year/
+http://www.york.ac.uk/language/undergraduate/courses/ba-german-italian-4year/
+http://www.york.ac.uk/language/undergraduate/courses/ba-german-spanish-4year/
+http://www.york.ac.uk/language/undergraduate/courses/ba-italian-linguistics-4year/
+http://www.york.ac.uk/language/undergraduate/courses/ba-italian-spanish-4year/
+http://www.york.ac.uk/language/undergraduate/courses/ba-linguistics-italian-3year/
+http://www.york.ac.uk/language/undergraduate/why/#tab-2
+http://www.york.ac.uk/language/ypl/current.html
+http://www.york.ac.uk/study/undergraduate/applying/entry/english-language/
+https://www.york.ac.uk/language/
+https://www.york.ac.uk/language/#Main-Content
+https://www.york.ac.uk/language/#Main-Navigation
+https://www.york.ac.uk/language/#Mobile-Search
+https://www.york.ac.uk/language/#academic
+https://www.york.ac.uk/language/#academic-integrity-modal-content
+https://www.york.ac.uk/language/#careers
+https://www.york.ac.uk/language/#content_year_1
+https://www.york.ac.uk/language/#content_year_2
+https://www.york.ac.uk/language/#content_year_3
+https://www.york.ac.uk/language/#content_year_4
+https://www.york.ac.uk/language/#course-applying
+https://www.york.ac.uk/language/#course-assessment
+https://www.york.ac.uk/language/#course-careers
+https://www.york.ac.uk/language/#course-content
+https://www.york.ac.uk/language/#course-overview
+https://www.york.ac.uk/language/#course-teaching
+https://www.york.ac.uk/language/#entry
+https://www.york.ac.uk/language/#entry-details
+https://www.york.ac.uk/language/#fees
+https://www.york.ac.uk/language/#mdcolumn
+https://www.york.ac.uk/language/#overview
+https://www.york.ac.uk/language/#pre-sessional
+https://www.york.ac.uk/language/#tab-1
+https://www.york.ac.uk/language/#tab-2
+https://www.york.ac.uk/language/#tab-3
+https://www.york.ac.uk/language/#tab-4
+https://www.york.ac.uk/language/#tab-5
+https://www.york.ac.uk/language/#tab-6
+https://www.york.ac.uk/language/#tab-7
+https://www.york.ac.uk/language/#teaching_assessment
+https://www.york.ac.uk/language/PARLAY_Proceedings_2013.html
+https://www.york.ac.uk/language/SiteManager?ctfn=download&fnno=60&ceid=134048024
+https://www.york.ac.uk/language/SiteManager?ctfn=download&fnno=60&ceid=367364219
+https://www.york.ac.uk/language/SiteManager?ctfn=download&fnno=60&ceid=603750641
+https://www.york.ac.uk/language/SiteManager?ctfn=download&fnno=60&ceid=940901494
+https://www.york.ac.uk/language/about/
+https://www.york.ac.uk/language/about/outreach/
+https://www.york.ac.uk/language/careers/
+https://www.york.ac.uk/language/careers/activities/
+https://www.york.ac.uk/language/careers/careers/
+https://www.york.ac.uk/language/careers/routesintolanguages/
+https://www.york.ac.uk/language/careers/routesintolanguages/fete-du-francais-photos/
+https://www.york.ac.uk/language/careers/routesintolanguages/spanish-quiz-photos/
+https://www.york.ac.uk/language/careers/routesintolanguages/tour-de-france-virtuel-photos/
+https://www.york.ac.uk/language/careers/skills/
+https://www.york.ac.uk/language/contact.html
+https://www.york.ac.uk/language/contact/
+https://www.york.ac.uk/language/contributors.html
+https://www.york.ac.uk/language/cpd-courses/
+https://www.york.ac.uk/language/current.html
+https://www.york.ac.uk/language/current/
+https://www.york.ac.uk/language/current/availability/
+https://www.york.ac.uk/language/current/postgraduates/
+https://www.york.ac.uk/language/current/postgraduates/course-reps/
+https://www.york.ac.uk/language/current/postgraduates/departmental-facilities
+https://www.york.ac.uk/language/current/postgraduates/documents/
+https://www.york.ac.uk/language/current/postgraduates/first-year-doctoral-seminar/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/comparative-syntax-semantics/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/forensic-speech-science/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l02m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l03m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l17m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l18m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l19m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l20m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l23m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l24m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l25m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l26m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l28m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l29m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l31m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l32m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l33m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l34m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l34m/#tab-3
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l35m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l37m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l44m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l57m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l61m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l64m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l67m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l68m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l69m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l70m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l72m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l73m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/l74m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/linguistics/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/phonetics-phonology/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/psycholinguistics/
+https://www.york.ac.uk/language/current/postgraduates/modules-2016-17/sociolinguistics/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/comparative-syntax-semantics/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/forensic-speech-science/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l02m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l03m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l17m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l18m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l19m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l20m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l23m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l24m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l25m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l26m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l29m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l30m
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l30m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l31m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l32m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l33m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l34m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l35m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l44m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l57m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l61m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l64m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l67m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l68m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l69m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l70m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l73m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l76m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/l77m/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/linguistics/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/phonetics-phonology/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/psycholinguistics/
+https://www.york.ac.uk/language/current/postgraduates/modules-2017-18/sociolinguistics/
+https://www.york.ac.uk/language/current/postgraduates/postgraduate-presentations/
+https://www.york.ac.uk/language/current/resources/
+https://www.york.ac.uk/language/current/resources/areas/
+https://www.york.ac.uk/language/current/resources/areas/ca/
+https://www.york.ac.uk/language/current/resources/areas/forensics/
+https://www.york.ac.uk/language/current/resources/areas/hist-anthro/
+https://www.york.ac.uk/language/current/resources/areas/phon/
+https://www.york.ac.uk/language/current/resources/areas/sociolinguistics/
+https://www.york.ac.uk/language/current/resources/areas/synsem/
+https://www.york.ac.uk/language/current/resources/blogs-fun/
+https://www.york.ac.uk/language/current/resources/corpora/
+https://www.york.ac.uk/language/current/resources/freeware/
+https://www.york.ac.uk/language/current/resources/freeware/ipa-fonts-and-software/
+https://www.york.ac.uk/language/current/resources/freeware/latex/
+https://www.york.ac.uk/language/current/resources/freeware/speech-analysis/
+https://www.york.ac.uk/language/current/resources/organisations/
+https://www.york.ac.uk/language/current/resources/praat/
+https://www.york.ac.uk/language/current/resources/praat/19.drawing-scaled-f0-plot/
+https://www.york.ac.uk/language/current/resources/praat/2problematic-f0-in-natural-speech/
+https://www.york.ac.uk/language/current/resources/praat/annotating-beats/
+https://www.york.ac.uk/language/current/resources/praat/calculating-vot/
+https://www.york.ac.uk/language/current/resources/praat/cleaning-spectrogram/
+https://www.york.ac.uk/language/current/resources/praat/cleaning-up-f0-traces/
+https://www.york.ac.uk/language/current/resources/praat/drawing/
+https://www.york.ac.uk/language/current/resources/praat/extracting/
+https://www.york.ac.uk/language/current/resources/praat/formant-values/
+https://www.york.ac.uk/language/current/resources/praat/formants-f0/
+https://www.york.ac.uk/language/current/resources/praat/information-about-f0/
+https://www.york.ac.uk/language/current/resources/praat/labelling-intervals/
+https://www.york.ac.uk/language/current/resources/praat/labelling-points/
+https://www.york.ac.uk/language/current/resources/praat/lpc-spectra/
+https://www.york.ac.uk/language/current/resources/praat/microprosody/
+https://www.york.ac.uk/language/current/resources/praat/opening-file/
+https://www.york.ac.uk/language/current/resources/praat/pitch-and-amplitude/
+https://www.york.ac.uk/language/current/resources/praat/pitch-extraction/
+https://www.york.ac.uk/language/current/resources/praat/saving-pictures/
+https://www.york.ac.uk/language/current/resources/praat/saving-work/
+https://www.york.ac.uk/language/current/resources/praat/separating-dual-channel-files/
+https://www.york.ac.uk/language/current/resources/praat/viewing-f0-traces/
+https://www.york.ac.uk/language/current/resources/praat/zooming/
+https://www.york.ac.uk/language/current/undergraduates/
+https://www.york.ac.uk/language/current/undergraduates/assessment/
+https://www.york.ac.uk/language/current/undergraduates/assessment/eca/
+https://www.york.ac.uk/language/current/undergraduates/assessment/feedback/
+https://www.york.ac.uk/language/current/undergraduates/course-reps/
+https://www.york.ac.uk/language/current/undergraduates/documents/
+https://www.york.ac.uk/language/current/undergraduates/faq/
+https://www.york.ac.uk/language/current/undergraduates/modules/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/e01c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/e01i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/e02c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/e02i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/e21i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/el05h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/el15i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/el17h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/el32h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/el33h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/f03c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/f03i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/f04i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/f06c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/f08h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/f09h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/f17i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/fgsl20h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g04c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g06i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g07c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g07i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g10h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g11h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g12h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/g18i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l02h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l03h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l08i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l09c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l09i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l10c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l10i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l11c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l11i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l12c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l13h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l14h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l14i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l15h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l16h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l16i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l18h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l20i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l22h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l23h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l24h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l25h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l26h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l27h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l30h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l31h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l34h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l35h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/l36h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/s05c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/s08c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/s12i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/s13i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/s19i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/s28h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2011-12/s29h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/e01c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/e01i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/e02c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/e02i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/e37i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/e51h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/e57h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el05h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el17h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el31h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el31i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el32h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el33h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el34i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/el50h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f03c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f03i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f04i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f06c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f08h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f09h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f17i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f39h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/f53h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/fgsl20h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g04c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g06i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g07c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g07i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g10h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g11h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g12h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g18i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g19c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g20c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/g40h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/i23c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/i24c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/i35i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/i36i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/i38i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l02h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l03h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l06h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l08i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l09c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l09i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l10c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l10i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l11c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l11i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l12c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l13h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l14i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l15h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l16h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l16i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l20i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l22h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l23h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l24h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l25h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l27h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l35h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l43h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l55h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/l58h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s05c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s08c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s12i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s13i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s19i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s21c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s22c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s28h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s29h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s38h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2016-17/s41h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/#tab-2
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/e01c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/e01i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/e02c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/e02i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/e37i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/e51h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/e57h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el02h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el05h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el06h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el10i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el17h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el31i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el32h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el34i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el49h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el64h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el65h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/el66h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f03c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f03i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f04i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f06c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f08h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f09h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f17i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f39h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/f53h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/fgsl20h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g04c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g06i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g07c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g07i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g10h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g11h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g12h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g18i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g19c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g20c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/g40h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i23c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i24c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i35i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i36i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i38i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i60h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i61h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i62h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/i63h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l03h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l08i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l09c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l09i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l10c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l11c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l11i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l12c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l13h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l14i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l15h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l16h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l16i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l18h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l20i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l22h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l23h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l24h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l25h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l27h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l35h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l43h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l56h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/l67h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s05c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s08c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s12i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s13i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s19i/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s21c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s22c/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s28h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s29h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s38h/
+https://www.york.ac.uk/language/current/undergraduates/modules/2017-18/s41h/
+https://www.york.ac.uk/language/current/undergraduates/modules/eval/
+https://www.york.ac.uk/language/current/undergraduates/planning/
+https://www.york.ac.uk/language/current/undergraduates/post-exam-activities/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/abroad/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/assistantships/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/instructions/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/placements/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/university/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/university/french/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/university/german/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/university/italian/
+https://www.york.ac.uk/language/current/undergraduates/year-abroad/university/spanish/
+https://www.york.ac.uk/language/editors.html
+https://www.york.ac.uk/language/index.html
+https://www.york.ac.uk/language/learnlanguagesonyourown.com/accent-reduction-online.html%20
+https://www.york.ac.uk/language/news/
+https://www.york.ac.uk/language/news/departmental/
+https://www.york.ac.uk/language/news/departmental/2010/
+https://www.york.ac.uk/language/news/departmental/2010/nss-2010/
+https://www.york.ac.uk/language/news/departmental/2010/pg-open-dat-2011/
+https://www.york.ac.uk/language/news/departmental/2010/scholarships-2011/
+https://www.york.ac.uk/language/news/departmental/2010/top-ten-league/
+https://www.york.ac.uk/language/news/departmental/2011/
+https://www.york.ac.uk/language/news/departmental/2011/bbfor2/
+https://www.york.ac.uk/language/news/departmental/2011/ipcc-2011/
+https://www.york.ac.uk/language/news/departmental/2011/jlc/
+https://www.york.ac.uk/language/news/departmental/2011/new-issue-of-ypl/
+https://www.york.ac.uk/language/news/departmental/2011/sikveland-competition/
+https://www.york.ac.uk/language/news/departmental/2011/szreder-teaching/
+https://www.york.ac.uk/language/news/departmental/2012/
+https://www.york.ac.uk/language/news/departmental/2012/alumni-event-2012/
+https://www.york.ac.uk/language/news/departmental/2012/dinesh-vaswani-scholarship/
+https://www.york.ac.uk/language/news/departmental/2012/firthian-archive/
+https://www.york.ac.uk/language/news/departmental/2012/fss-website/
+https://www.york.ac.uk/language/news/departmental/2012/james-britton/
+https://www.york.ac.uk/language/news/departmental/2012/jen-hay-leverhulme/
+https://www.york.ac.uk/language/news/departmental/2012/kerswill-welcome/
+https://www.york.ac.uk/language/news/departmental/2012/llamas-promotion/
+https://www.york.ac.uk/language/news/departmental/2012/new-staff-2012/
+https://www.york.ac.uk/language/news/departmental/2012/nss2012/
+https://www.york.ac.uk/language/news/departmental/2012/top-five/
+https://www.york.ac.uk/language/news/departmental/2012/visit-days-2012/
+https://www.york.ac.uk/language/news/departmental/2012/wolfson-2013/
+https://www.york.ac.uk/language/news/departmental/2013/
+https://www.york.ac.uk/language/news/departmental/2013/award-for-dantec/
+https://www.york.ac.uk/language/news/departmental/2013/july-graduation/
+https://www.york.ac.uk/language/news/departmental/2013/parlay-report/
+https://www.york.ac.uk/language/news/departmental/2013/parlay/
+https://www.york.ac.uk/language/news/departmental/2013/phondev/
+https://www.york.ac.uk/language/news/departmental/2013/schools-visit/
+https://www.york.ac.uk/language/news/departmental/2013/visit-days-2013/
+https://www.york.ac.uk/language/news/departmental/2014/
+https://www.york.ac.uk/language/news/departmental/2014/48th-qs-ranking/
+https://www.york.ac.uk/language/news/departmental/2014/academics-in-action/
+https://www.york.ac.uk/language/news/departmental/2014/ambassador-visit/
+https://www.york.ac.uk/language/news/departmental/2014/babylab/
+https://www.york.ac.uk/language/news/departmental/2014/elaine-lopez-hrc-fellowship/
+https://www.york.ac.uk/language/news/departmental/2014/excellence-awards-2014/
+https://www.york.ac.uk/language/news/departmental/2014/fete-du-francais/
+https://www.york.ac.uk/language/news/departmental/2014/letourvirtuel/
+https://www.york.ac.uk/language/news/departmental/2014/new-book-taylor/
+https://www.york.ac.uk/language/news/departmental/2014/new-book-watt-llamas/
+https://www.york.ac.uk/language/news/departmental/2014/ogden-talk/
+https://www.york.ac.uk/language/news/departmental/2014/visitors/
+https://www.york.ac.uk/language/news/departmental/2014/york-talks/
+https://www.york.ac.uk/language/news/departmental/2015/
+https://www.york.ac.uk/language/news/departmental/2015/dialect-coach/
+https://www.york.ac.uk/language/news/departmental/2015/excellence-in-learning-and-teaching-recognised/
+https://www.york.ac.uk/language/news/departmental/2015/french-national-top10/
+https://www.york.ac.uk/language/news/departmental/2015/georgina-brown-best-student-paper-prize/
+https://www.york.ac.uk/language/news/departmental/2015/géraldine-enjelvin-conference/
+https://www.york.ac.uk/language/news/departmental/2015/icphs2015/
+https://www.york.ac.uk/language/news/departmental/2015/mixed-effects-modelling-workshop/
+https://www.york.ac.uk/language/news/departmental/2015/peter-french-on-human-voice/
+https://www.york.ac.uk/language/news/departmental/2015/swedish-supervisions/
+https://www.york.ac.uk/language/news/departmental/2015/uklvc-and-parlay/
+https://www.york.ac.uk/language/news/departmental/2015/ypl-short-report/
+https://www.york.ac.uk/language/news/departmental/2015/zhejiang-students-visit/
+https://www.york.ac.uk/language/news/departmental/2016/
+https://www.york.ac.uk/language/news/departmental/2016/accents-allowed/
+https://www.york.ac.uk/language/news/departmental/2016/another-doctor-in-the-house/
+https://www.york.ac.uk/language/news/departmental/2016/babel-young-writers'-competition/
+https://www.york.ac.uk/language/news/departmental/2016/borderlands-in-bristol/
+https://www.york.ac.uk/language/news/departmental/2016/con-grad-ulations-2016/
+https://www.york.ac.uk/language/news/departmental/2016/console-in-york/
+https://www.york.ac.uk/language/news/departmental/2016/court-in-the-act/
+https://www.york.ac.uk/language/news/departmental/2016/cpd-success/
+https://www.york.ac.uk/language/news/departmental/2016/deborah-cameron/
+https://www.york.ac.uk/language/news/departmental/2016/department-welcomes-swedish-visitor/
+https://www.york.ac.uk/language/news/departmental/2016/enhancing-employability/
+https://www.york.ac.uk/language/news/departmental/2016/ersatz-accents/
+https://www.york.ac.uk/language/news/departmental/2016/ey-up/
+https://www.york.ac.uk/language/news/departmental/2016/forensic-speech-and-audio-cpd/
+https://www.york.ac.uk/language/news/departmental/2016/french-connection-on-the-radio/
+https://www.york.ac.uk/language/news/departmental/2016/fresher-look-at-uni-life/
+https://www.york.ac.uk/language/news/departmental/2016/gug-rankings/
+https://www.york.ac.uk/language/news/departmental/2016/hrc-poster-prizewinner/
+https://www.york.ac.uk/language/news/departmental/2016/iafpa-2016/
+https://www.york.ac.uk/language/news/departmental/2016/iafpa-2016/more-photos/
+https://www.york.ac.uk/language/news/departmental/2016/kim-wilson-jess-wormald/
+https://www.york.ac.uk/language/news/departmental/2016/lagb-2016/
+https://www.york.ac.uk/language/news/departmental/2016/language-and-discrimination/
+https://www.york.ac.uk/language/news/departmental/2016/mushy-peas-or-marmite/
+https://www.york.ac.uk/language/news/departmental/2016/new-sounds-in-denmark/
+https://www.york.ac.uk/language/news/departmental/2016/nss2016/
+https://www.york.ac.uk/language/news/departmental/2016/obituary-professor-david-reibel/
+https://www.york.ac.uk/language/news/departmental/2016/ousey-does-it/
+https://www.york.ac.uk/language/news/departmental/2016/parlay-2016/
+https://www.york.ac.uk/language/news/departmental/2016/paul-kerswill-guests-in-graz/
+https://www.york.ac.uk/language/news/departmental/2016/pfilnu-cfp/
+https://www.york.ac.uk/language/news/departmental/2016/radio-three/
+https://www.york.ac.uk/language/news/departmental/2016/rashidah-viva/
+https://www.york.ac.uk/language/news/departmental/2016/speech-and-language-giveaways/
+https://www.york.ac.uk/language/news/departmental/2016/ss2016-en-españa/
+https://www.york.ac.uk/language/news/departmental/2016/top-volume/
+https://www.york.ac.uk/language/news/departmental/2016/tuuls--talk/
+https://www.york.ac.uk/language/news/departmental/2016/voiceprints-to-replace-passwords-and-signatures/
+https://www.york.ac.uk/language/news/departmental/2016/yott-bake-sale/
+https://www.york.ac.uk/language/news/departmental/2016/yusu-excellence-awards/
+https://www.york.ac.uk/language/news/departmental/2017/
+https://www.york.ac.uk/language/news/departmental/2017/3-minute-thesis-success/
+https://www.york.ac.uk/language/news/departmental/2017/abfab-four/
+https://www.york.ac.uk/language/news/departmental/2017/conversation-pieces/
+https://www.york.ac.uk/language/news/departmental/2017/l&l-excellence/
+https://www.york.ac.uk/language/news/departmental/2017/new-york/
+https://www.york.ac.uk/language/news/departmental/2017/paul-kerswill/
+https://www.york.ac.uk/language/news/departmental/2017/peter-french/
+https://www.york.ac.uk/language/news/departmental/2017/please-magic-word/
+https://www.york.ac.uk/language/news/departmental/2017/soskuthy-award/
+https://www.york.ac.uk/language/people/
+https://www.york.ac.uk/language/people/administrative/
+https://www.york.ac.uk/language/people/administrative/deborah-hines/
+https://www.york.ac.uk/language/people/administrative/huw-llewelyn-jones/
+https://www.york.ac.uk/language/people/administrative/marianne-mcneill/
+https://www.york.ac.uk/language/people/administrative/rachel-obrien/
+https://www.york.ac.uk/language/people/affiliated/
+https://www.york.ac.uk/language/people/affiliated/anthony-warner/
+https://www.york.ac.uk/language/people/affiliated/bernadette-plunkett/
+https://www.york.ac.uk/language/people/affiliated/helen-goodluck/
+https://www.york.ac.uk/language/people/affiliated/john-kelly/
+https://www.york.ac.uk/language/people/affiliated/john-local/
+https://www.york.ac.uk/language/people/affiliated/lesley-milroy/
+https://www.york.ac.uk/language/people/affiliated/mahendra-verma/
+https://www.york.ac.uk/language/people/affiliated/sali-tagliamonte/
+https://www.york.ac.uk/language/people/affiliated/steve-harlow/
+https://www.york.ac.uk/language/people/alumni/
+https://www.york.ac.uk/language/postgraduate/
+https://www.york.ac.uk/language/postgraduate/facilities/
+https://www.york.ac.uk/language/postgraduate/faq/
+https://www.york.ac.uk/language/postgraduate/funding/
+https://www.york.ac.uk/language/postgraduate/funding/phd_studentship/
+https://www.york.ac.uk/language/postgraduate/mphil-phd-communication/
+https://www.york.ac.uk/language/postgraduate/phd/
+https://www.york.ac.uk/language/postgraduate/phd/)
+https://www.york.ac.uk/language/postgraduate/student-profiles/
+https://www.york.ac.uk/language/postgraduate/student-profiles/carla/
+https://www.york.ac.uk/language/postgraduate/student-profiles/catherine/
+https://www.york.ac.uk/language/postgraduate/student-profiles/daniel/
+https://www.york.ac.uk/language/postgraduate/student-profiles/eloi/
+https://www.york.ac.uk/language/postgraduate/student-profiles/huma/
+https://www.york.ac.uk/language/postgraduate/student-profiles/irene/
+https://www.york.ac.uk/language/postgraduate/student-profiles/katharina/
+https://www.york.ac.uk/language/postgraduate/student-profiles/miyuki/
+https://www.york.ac.uk/language/postgraduate/student-profiles/saudi/
+https://www.york.ac.uk/language/postgraduate/student-profiles/sophie/
+https://www.york.ac.uk/language/postgraduate/student-profiles/theresa/
+https://www.york.ac.uk/language/postgraduate/taught/
+https://www.york.ac.uk/language/postgraduate/taught/comparative-syntax-semantics/
+https://www.york.ac.uk/language/postgraduate/taught/forensic-speech-science/
+https://www.york.ac.uk/language/postgraduate/taught/linguistics/
+https://www.york.ac.uk/language/postgraduate/taught/phonetics-phonology/
+https://www.york.ac.uk/language/postgraduate/taught/psycholinguistics/
+https://www.york.ac.uk/language/postgraduate/taught/recent-ma-diss/
+https://www.york.ac.uk/language/postgraduate/taught/sociolinguistics/
+https://www.york.ac.uk/language/previous.html
+https://www.york.ac.uk/language/related.html
+https://www.york.ac.uk/language/undergraduate/
+https://www.york.ac.uk/language/undergraduate/2langs-1-ab-initio/
+https://www.york.ac.uk/language/undergraduate/2langs-1/
+https://www.york.ac.uk/language/undergraduate/2langs-2-ab-initio/
+https://www.york.ac.uk/language/undergraduate/2langs-2/
+https://www.york.ac.uk/language/undergraduate/2langs-3-ab-initio/
+https://www.york.ac.uk/language/undergraduate/2langs-3/
+https://www.york.ac.uk/language/undergraduate/ab-initio/
+https://www.york.ac.uk/language/undergraduate/apl/
+https://www.york.ac.uk/language/undergraduate/core-ling-module/
+https://www.york.ac.uk/language/undergraduate/courses/
+https://www.york.ac.uk/language/undergraduate/courses/ba-english-language-linguistics/
+https://www.york.ac.uk/language/undergraduate/courses/ba-french-german-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-french-italian-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-french-linguistics-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-french-philosophy-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-french-spanish-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-german-italian-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-german-linguistics-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-german-philosophy-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-german-spanish-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-italian-linguistics-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-italian-spanish-4year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-linguistics-french-3year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-linguistics-german-3year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-linguistics-italian-3year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-linguistics-spanish-3year/
+https://www.york.ac.uk/language/undergraduate/courses/ba-linguistics/
+https://www.york.ac.uk/language/undergraduate/courses/ba-spanish-linguistics-4year/
+https://www.york.ac.uk/language/undergraduate/faq/
+https://www.york.ac.uk/language/undergraduate/funding/
+https://www.york.ac.uk/language/undergraduate/offers/
+https://www.york.ac.uk/language/undergraduate/structure/
+https://www.york.ac.uk/language/undergraduate/visitdays/
+https://www.york.ac.uk/language/undergraduate/visiting/
+https://www.york.ac.uk/language/undergraduate/why/
+https://www.york.ac.uk/language/you-said-we-did/
+https://www.york.ac.uk/language/ypl2issue14/Cover_pages.pdf
+https://www.york.ac.uk/language/ypl2issue14/Dar_et_al.pdf
+https://www.york.ac.uk/language/ypl2issue14/Jeffries.pdf
+https://www.york.ac.uk/language/ypl2issue14/Kubisz.pdf
+https://www.york.ac.uk/language/ypl2issue14/Lee.pdf
+https://www.york.ac.uk/language/ypl2issue14/Shen_Watt.pdf
+https://www.york.ac.uk/language/ypl2issue14/YPL2_Issue14.pdf
+https://www.york.ac.uk/lfa/language-tutors/
+https://www.york.ac.uk/lfa/language-tutors/profile/
+https://www.york.ac.uk/lfa/language-tutors/profile/ahmed-khaleel/
+https://www.york.ac.uk/lfa/language-tutors/profile/alicia-tromp/
+https://www.york.ac.uk/lfa/language-tutors/profile/amanda-izquierdo/
+https://www.york.ac.uk/lfa/language-tutors/profile/ania-kubisz/
+https://www.york.ac.uk/lfa/language-tutors/profile/anna-shirin-golinska/
+https://www.york.ac.uk/lfa/language-tutors/profile/annett-fischer/
+https://www.york.ac.uk/lfa/language-tutors/profile/carla-xavier/
+https://www.york.ac.uk/lfa/language-tutors/profile/cristina-figueredo/
+https://www.york.ac.uk/lfa/language-tutors/profile/fred-dessard/
+https://www.york.ac.uk/lfa/language-tutors/profile/geraldine-bengsch/
+https://www.york.ac.uk/lfa/language-tutors/profile/géraldine-enjelvin/
+https://www.york.ac.uk/lfa/language-tutors/profile/josephine-mackenbach/
+https://www.york.ac.uk/lfa/language-tutors/profile/kaitlin-sobieski/
+https://www.york.ac.uk/lfa/language-tutors/profile/kyriaki-pentaraki/
+https://www.york.ac.uk/lfa/language-tutors/profile/lucia-aiello/
+https://www.york.ac.uk/lfa/language-tutors/profile/maria-ana-chavana-villalobos/
+https://www.york.ac.uk/lfa/language-tutors/profile/marianne-sonksen/
+https://www.york.ac.uk/lfa/language-tutors/profile/megumi-bailey/
+https://www.york.ac.uk/lfa/language-tutors/profile/nadia-ketfi/
+https://www.york.ac.uk/lfa/language-tutors/profile/paola-bolognesi/
+https://www.york.ac.uk/lfa/language-tutors/profile/paola-scarpini/
+https://www.york.ac.uk/lfa/language-tutors/profile/perihan-altin/
+https://www.york.ac.uk/lfa/language-tutors/profile/sandrine-devlin/
+https://www.york.ac.uk/lfa/language-tutors/profile/tianyi-xu/
+https://www.york.ac.uk/lfa/language-tutors/profile/ulrike-wray/
+https://www.york.ac.uk/lfa/language-tutors/profile/xiaoxia-wang/
+https://www.york.ac.uk/lfa/language-tutors/profile/yumi-nixon/
+https://www.york.ac.uk/lfa/specific/languages-for-musicians/
+https://www.york.ac.uk/media/languageandlinguistics/documents/CPD brochure September 2017.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/Confirmation of Enrolment form.docx
+https://www.york.ac.uk/media/languageandlinguistics/documents/Confirmation of Enrolment form.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/University of York CPD forensic speech and audio FINAL.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/conferences/York_Note-taking_CPD_2017_practical_info.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/corpusrelease.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/corpusreleasefrench.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/Eriksson_tutorial_paper.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/Exceptional Circumstances affecting Assessment Claim Form.doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/Exceptional_circumstances_confirm_illness.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/feedback-examples.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/feedback-policy.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Academic Integrity cover sheet.doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Academic Integrity cover sheet.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/EssayFeedbackForm.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Exceptional Circumstances Claim Form.docx
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Exceptional Circumstances Claim Form.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/ISM_proposal_form.doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Masters Cover Sheet 2014.doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Masters Cover Sheet 2014.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Masters dissertation feedback form Sept 2013.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Module Change Form 2012.doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/PDP final yr.doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/PDP yr1 .doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/PDP yr2.doc
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Review of Supervision Form 2014.docx
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/forms/Review of Supervision Form 2014.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/handbooks/LLS PGR Handbook 2017-18.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/handbooks/LLS PGT Handbook 2017-18.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/handbooks/Taught Masters Student Handbook 2016-17.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/handbooks/Undergraduate Handbook 2014-15.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/handbooks/Undergraduate Handbook 2015-16.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/handbooks/Undergraduate Handbook 2016-17.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/handbooks/Undergraduate Handbook 2017-18.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/linguisticsresources/Standardised-reading.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/linguisticsresources/latex-tipamanual.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/linguisticsresources/yorkThesis.cls
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/linguisticsresources/yorklingmathesis-doc.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/linguisticsresources/yorklingmathesis.cls
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/yearabroad/Academic Instructions - Year Abroad 2017-18.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/yearabroad/Brit Coun Standard FLA Cert of Service 11-12.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/yearabroad/Key _information-2.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/yearabroad/Semester Attendance Form 17-18.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/yearabroad/Work Placement_instruction.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/currentstudents/yearabroad/templates for LEA letters.pdf
+https://www.york.ac.uk/media/languageandlinguistics/documents/prospective/York L&LS Brochure.pdf
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA2016-group01-513x236.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA2016-group01.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_026.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_044.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_059.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_062.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_098.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_125.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_144.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/IAFPA25_188.JPG
+https://www.york.ac.uk/media/languageandlinguistics/images/University%20of%20York%20CPD%20Forensic%20Speech%20and%20Audio%20-%20Sept%202016.pdf
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 1.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 10.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 12.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 14.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 15.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 16.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 17.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 18.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 19.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 2.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 20.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 21.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 22.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 23.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 27.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 28.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 3.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 30.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 31.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 4.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 5.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 6.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 8.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/acombprimaryschool/Acomb Primary School 9.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/1.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/10.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/11.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/12.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/13.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/14.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/15.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/16.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/17.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/18.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/2.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/3.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/4.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/5.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/6.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/7.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/8.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/9.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/Bradford Grammar 1st prize.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/Driffield School 2nd prize.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/EL Mundo hispano teams.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/Mexican loteria.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/Pinata fun.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/spanishquiz2015/St John Fisher.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 1.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 10.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 11.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 12.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 13.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 14.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 15.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 16.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 17.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 18.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 19.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 2.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 20.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 21.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 22.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 23.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 24.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 25.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 26.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 27.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 28.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 29.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 3.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 30.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 31.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 32.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 4.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 5.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 6.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 7.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 8.jpg
+https://www.york.ac.uk/media/languageandlinguistics/images/careers/tourvirtuel/Tour virtuel 9.jpg
+https://www.york.ac.uk/study/undergraduate/applying/entry/english-language/
