@@ -1,0 +1,23 @@
+http://www.brown.edu/Departments/MCM/
+http://www.brown.edu/Departments/MCM/#body-content
+http://www.brown.edu/Departments/MCM/#navigation-end
+http://www.brown.edu/Departments/MCM/about
+http://www.brown.edu/Departments/MCM/about/
+http://www.brown.edu/Departments/MCM/alumni/
+http://www.brown.edu/Departments/MCM/archive/
+http://www.brown.edu/Departments/MCM/contact/contact.php
+http://www.brown.edu/Departments/MCM/courses/
+http://www.brown.edu/Departments/MCM/documents/cinemail05spring10.jpg
+http://www.brown.edu/Departments/MCM/documents/fall2009.pdf
+http://www.brown.edu/Departments/MCM/documents/image05.jpg
+http://www.brown.edu/Departments/MCM/documents/spring2010.pdf
+http://www.brown.edu/Departments/MCM/forbes/
+http://www.brown.edu/Departments/MCM/graduate/
+http://www.brown.edu/Departments/MCM/office-hours/
+http://www.brown.edu/Departments/MCM/people/
+http://www.brown.edu/Departments/MCM/production/
+http://www.brown.edu/Departments/MCM/projects/
+http://www.brown.edu/Departments/MCM/projects/mcm cinematheque.php
+http://www.brown.edu/Departments/MCM/resources/
+http://www.brown.edu/Departments/MCM/undergraduate/
+http://www.brown.edu/Project/MCM/Zombie/
