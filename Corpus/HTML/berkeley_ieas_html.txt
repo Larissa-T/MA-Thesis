@@ -1,0 +1,2765 @@
+http://ieas.berkeley.edu/cjs/vs_program.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/cjsvisitingscholars.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Visiting Scholars - Center for Japanese Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_cjs.ico" type="image/x-icon" />
+  <link href="../css/cjs.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../cjs/"><img id="logo-alt" src="../images/cjs-logo.png" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../cjs/" class="active">CJS Home</a></li>
+          <li><a href="about.html">About CJS</a></li>
+          <li><a href="news_faculty.html">News and Announcements</a></li>
+          <li><a href="people_faculty.html">People</a></li>
+          <li><a href="funding_postdocs.html">Funding/Grants</a></li>
+          <li><a href="http://events.berkeley.edu/index.php/calendar/sn/ieas.html?filter=Secondary%20Event%20Type&filtersel=830">Event Calendar</a></li>
+          <li><a href="events_past_berkeley_japan_prize.html">Past Events</a></li>
+          <li><a href="vs_program.html">Visiting Scholar Program</a></li>
+          <ul>
+			<li><a href="vs_current.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Current Scholars</a></li>
+			<li><a href="vs_application.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Application Procedures</a></li>
+			<li><a href="vs_extension.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Program Extension</a></li>
+			<li><a href="vs_financial.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Financial Support</a></li>
+			<li><a href="vs_health.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Health Insurance</a></li>
+			<li><a href="vs_housing.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Housing</a></li>
+			<li><a href="vs_additional_info.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Additional Information</a></li>
+			<li><a href="vs_activities.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Visiting Scholar Activities</a></li>
+			<li><a href="vs_partners.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Partner Institutions in Japan</a></li>
+			<li><a href="vs_former.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Former Scholars</a></li>
+          </ul>
+          <li><a href="learnworld.html">Learning Opportunities for Students</a></li>
+          <li><a href="resources_library.html">Academic Resources</a></li>
+          <li><a href="contact.html">Contact CJS</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+   	  <div class="callout">
+        <div class="content">
+      <!-- /     <p> Currently accepting late applications for Summer and Fall 2015. </p>
+          <li><button type="submit" name="sa" class="submitbtn" />Apply Now</li> -->
+        </div>
+      </div>
+      <div class="ieas">
+
+      </div>
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --> <img src="../images/cjs/visiting_scholars.jpg" alt="The Campanile (UC Berkeley's clock tower), San Francisco Bay and Golden Gate Bridge" title="The Campanile (UC Berkeley's clock tower), San Francisco Bay and Golden Gate Bridge" /> <!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --><span>you are here:</span> <a href="../cjs/">CJS</a> &gt;&gt; Visiting Scholar Program<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><!-- InstanceBeginEditable name="body" -->
+        <h1>Visiting Scholar Program</h1>
+
+<h2>Introduction</h2>
+
+<p>Thank you for your interest in UC Berkeley's Center for Japanese Studies (CJS) and its visiting scholar program. CJS invites applications from scholars who wish to conduct research relevant to faculty associated with the Center for Japanese Studies and who can participate in and contribute to the university's Japanese studies community. Potential applicants should take a moment read the application procedures detailed below before contacting CJS.</p>
+
+<p>Each scholar invited to affiliate with the Center for Japanese Studies is expected to actively participate in the Center's programs. Scholars are asked to give talks based on their research at least once during their stay at Berkeley and should attend CJS-sponsored talks and seminars on a regular basis. All scholars are asked to submit a final report on the progress of their research, including copies of publications or drafts of papers completed during the period of their stay.</p>
+
+<h3><a href="../cjs/vs_application.html">Application Procedures</a></h3>
+
+<h3><a href="../cjs/vs_extension.html">Program Extension</a></h3>
+
+<h3><a href="../cjs/vs_financial.html">Financial Support</a></h3>
+
+<h3><a href="../cjs/vs_health.html">Health Insurance</a></h3>
+
+<h3><a href="../cjs/vs_housing.html">Housing</a></h3>
+
+<h3><a href="../cjs/vs_additional_info.html">Additional Information</a></h3>
+
+<h3><a href="../cjs/vs_activities.html">Activities for Visiting Scholars</a></h3>
+
+<h3><a href="../cjs/vs_partners.html">Partner Institutions in Japan</a></h3>
+
+<h3><a href="../cjs/vs_former.html">Former Visiting Scholars</a></h3>
+
+
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Center for Japanese Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 520G; Berkeley, CA 94704-2318<br />
+      <a href="mailto:cjs@berkeley.edu">cjs@berkeley.edu</a> . 510.642.3156
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/gas/#courses /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <title>Group in Asian Studies, UC Berkeley</title>
+  
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/ieas/favicon.ico" type="image/x-icon" />
+  <link href="../css/gas.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+  
+  
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="../js/fadeslideshow.js">
+
+/***********************************************
+* Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+
+
+<!-- Insert photos here for slideshow -->
+		
+		
+
+var mygallery=new fadeSlideShow({
+	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
+	dimensions: [697, 328], //width/height of gallery in pixels. Should reflect dimensions of largest image
+	imagearray: [
+		["../images/gas/torii_gate.jpg", "", "", "Torii gate in Miyajima, Japan.  Photo by Alex Kwon."],
+		["../images/gas/graduate_student_panel.jpg", "http://ieas.berkeley.edu/", "_new", "Graduate Student Panel"],
+		["../images/gas/chamberlain1.jpg", "", "", "Photo by Stephanie Chamberlain."],
+		["../images/gas/curl_kanazawa_sunset_pond.jpg", "", "", "Kanazawa sunset pond. Photo by Robert Curl."],
+		["../images/gas/knight_graduation_2009.jpg", "", "", "Graduation 2009. Bob Knight photo."],
+		["../images/gas/squid.jpg", "", "", "Drying squid in Cheju Island, South Korea. Photo by Peter Schurmann."],
+		["../images/gas/hong_kong_skyline.jpg", "http://ieas.berkeley.edu/", "_new", "Hong Kong Skyline.  Photo by Corey Schultz."],
+		["../images/gas/chamberlain2.jpg", "", "", "Photo by Stephanie Chamberlain."],
+		["../images/gas/national_folk_museum.jpg", "", "", "National Folk Museum, South Korea.  Photo by Alex Kwon."],
+		["../images/gas/floating_village.jpg", "http://ieas.berkeley.edu/", "_new", "Floating Village in Vietnam.  Photo by Stephen Woo."],
+		["../images/gas/camels_in_xinjiang.jpg", "http://ieas.berkeley.edu/", "_new", "Camels in Xinjiang, China. Photo by Steven Dale."] //<--no trailing comma after very last image element!
+	],
+	displaymode: {type:'manual', pause:2500, cycles:0, wraparound:true, randomize:true},
+	persist: false, //remember last viewed slide and recall within same session?
+	fadeduration: 500, //transition duration (milliseconds)
+	descreveal: "always",
+	togglerid: ""
+})
+
+
+
+<!-- / Insert photos here for slideshow -->
+		
+		
+
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href=""><img id="logo-alt" src="../images/logo-gas.jpg" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn">SEARCH</button></li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="" class="active">About</a></li>
+          <li><a href="undergrad_declare_major.html">Undergraduate Program</a></li>
+          <li><a href="grad_ma.html">Graduate Program</a></li>
+          <li><a href="courses_multi-area.html">Courses</a></li>
+          <li><a href="faculty_advisory.html">Faculty</a></li>
+          <li><a href="resources_campus.html">Student Resources</a></li>
+          <li><a href="internships.html">Internship Opportunities</a></li>
+          <li><a href="work_opportunities.html">Work Opportunities</a></li>
+          <li><a href="alumni.html">Alumni Profiles</a></li>
+          <li><a href="sjas/">Student Journal of Asian Studies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+    
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+      
+      
+        <!-- large photos slideshow -->
+        
+        
+        
+        <div class="featured"><div id="fadeshow1"></div>
+       </div>
+        
+        
+        
+        <!-- / large photos slideshow -->
+        
+
+        <!-- welcome -->
+        <div class="welcome">
+          <h1>Group in Asian Studies</h1>
+
+<p>The Faculty Group in Asian Studies administers an interdisciplinary program leading to an M.A. degree. Utilizing the faculty and facilities of the entire university, this degree program cuts across conventional disciplinary lines and emphasizes a basic core of knowledge concerning one particular geographic area of Asia. Within this core, which requires course work in multiple departments and reading knowledge of at least one Asian language, the regionally-oriented students have the flexibility to design a cross-disciplinary individual program according to their interests and approaches. No two programs are alike, and students work closely with the Student Affairs office and with a faculty mentor in designing their customized academic plan. The Group is supported in its efforts by the <a href="http://ieas.berkeley.edu/">Institute of East Asian Studies</a> and Interdisciplinary Social Science Programs (ISSP), under Letters and Science.</p>
+
+<p>The University of California at Berkeley has long been noted for its outstanding scholarship in the area of Asian Studies. Faculty from across campus in numerous disciplines are presently engaged in teaching and research concerning Asia. Our students take classes in such disciplines as Anthropology, Buddhist Studies, Film & Media Studies, History, Journalism, Literature, Political Science, Religion, South & Southeast Asian Studies, Sociology, and other fields in the humanities and social sciences.</p>
+
+<p>These resources are supplemented by extensive library facilities and by the programs of six major area centers that offer lecture series and colloquia throughout the year. The Bay Area itself, with its diverse communities, museums, performing arts, religious institutions, and thriving financial and technological sectors provides unlimited cultural opportunities for the student interested in reaching beyond the confines of the university.</p>
+
+        </div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Group in Asian Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> . 510.642.1738 and 510.642.3873
+    </div>
+    
+    <div class="footer-logo">
+        <a href="http://www.berkeley.edu/"> 
+          <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/>
+        </a>
+      </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+</html>http://ieas.berkeley.edu/gas/#coursework /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <title>Group in Asian Studies, UC Berkeley</title>
+  
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/ieas/favicon.ico" type="image/x-icon" />
+  <link href="../css/gas.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+  
+  
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="../js/fadeslideshow.js">
+
+/***********************************************
+* Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+
+
+<!-- Insert photos here for slideshow -->
+		
+		
+
+var mygallery=new fadeSlideShow({
+	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
+	dimensions: [697, 328], //width/height of gallery in pixels. Should reflect dimensions of largest image
+	imagearray: [
+		["../images/gas/torii_gate.jpg", "", "", "Torii gate in Miyajima, Japan.  Photo by Alex Kwon."],
+		["../images/gas/graduate_student_panel.jpg", "http://ieas.berkeley.edu/", "_new", "Graduate Student Panel"],
+		["../images/gas/chamberlain1.jpg", "", "", "Photo by Stephanie Chamberlain."],
+		["../images/gas/curl_kanazawa_sunset_pond.jpg", "", "", "Kanazawa sunset pond. Photo by Robert Curl."],
+		["../images/gas/knight_graduation_2009.jpg", "", "", "Graduation 2009. Bob Knight photo."],
+		["../images/gas/squid.jpg", "", "", "Drying squid in Cheju Island, South Korea. Photo by Peter Schurmann."],
+		["../images/gas/hong_kong_skyline.jpg", "http://ieas.berkeley.edu/", "_new", "Hong Kong Skyline.  Photo by Corey Schultz."],
+		["../images/gas/chamberlain2.jpg", "", "", "Photo by Stephanie Chamberlain."],
+		["../images/gas/national_folk_museum.jpg", "", "", "National Folk Museum, South Korea.  Photo by Alex Kwon."],
+		["../images/gas/floating_village.jpg", "http://ieas.berkeley.edu/", "_new", "Floating Village in Vietnam.  Photo by Stephen Woo."],
+		["../images/gas/camels_in_xinjiang.jpg", "http://ieas.berkeley.edu/", "_new", "Camels in Xinjiang, China. Photo by Steven Dale."] //<--no trailing comma after very last image element!
+	],
+	displaymode: {type:'manual', pause:2500, cycles:0, wraparound:true, randomize:true},
+	persist: false, //remember last viewed slide and recall within same session?
+	fadeduration: 500, //transition duration (milliseconds)
+	descreveal: "always",
+	togglerid: ""
+})
+
+
+
+<!-- / Insert photos here for slideshow -->
+		
+		
+
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href=""><img id="logo-alt" src="../images/logo-gas.jpg" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn">SEARCH</button></li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="" class="active">About</a></li>
+          <li><a href="undergrad_declare_major.html">Undergraduate Program</a></li>
+          <li><a href="grad_ma.html">Graduate Program</a></li>
+          <li><a href="courses_multi-area.html">Courses</a></li>
+          <li><a href="faculty_advisory.html">Faculty</a></li>
+          <li><a href="resources_campus.html">Student Resources</a></li>
+          <li><a href="internships.html">Internship Opportunities</a></li>
+          <li><a href="work_opportunities.html">Work Opportunities</a></li>
+          <li><a href="alumni.html">Alumni Profiles</a></li>
+          <li><a href="sjas/">Student Journal of Asian Studies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+    
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+      
+      
+        <!-- large photos slideshow -->
+        
+        
+        
+        <div class="featured"><div id="fadeshow1"></div>
+       </div>
+        
+        
+        
+        <!-- / large photos slideshow -->
+        
+
+        <!-- welcome -->
+        <div class="welcome">
+          <h1>Group in Asian Studies</h1>
+
+<p>The Faculty Group in Asian Studies administers an interdisciplinary program leading to an M.A. degree. Utilizing the faculty and facilities of the entire university, this degree program cuts across conventional disciplinary lines and emphasizes a basic core of knowledge concerning one particular geographic area of Asia. Within this core, which requires course work in multiple departments and reading knowledge of at least one Asian language, the regionally-oriented students have the flexibility to design a cross-disciplinary individual program according to their interests and approaches. No two programs are alike, and students work closely with the Student Affairs office and with a faculty mentor in designing their customized academic plan. The Group is supported in its efforts by the <a href="http://ieas.berkeley.edu/">Institute of East Asian Studies</a> and Interdisciplinary Social Science Programs (ISSP), under Letters and Science.</p>
+
+<p>The University of California at Berkeley has long been noted for its outstanding scholarship in the area of Asian Studies. Faculty from across campus in numerous disciplines are presently engaged in teaching and research concerning Asia. Our students take classes in such disciplines as Anthropology, Buddhist Studies, Film & Media Studies, History, Journalism, Literature, Political Science, Religion, South & Southeast Asian Studies, Sociology, and other fields in the humanities and social sciences.</p>
+
+<p>These resources are supplemented by extensive library facilities and by the programs of six major area centers that offer lecture series and colloquia throughout the year. The Bay Area itself, with its diverse communities, museums, performing arts, religious institutions, and thriving financial and technological sectors provides unlimited cultural opportunities for the student interested in reaching beyond the confines of the university.</p>
+
+        </div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Group in Asian Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> . 510.642.1738 and 510.642.3873
+    </div>
+    
+    <div class="footer-logo">
+        <a href="http://www.berkeley.edu/"> 
+          <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/>
+        </a>
+      </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+</html>http://ieas.berkeley.edu/gas/courses.html /n<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /gas/courses.html was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+http://ieas.berkeley.edu/gas/grad_admission.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/gasGraduatePage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Graduate Admissions - Group in Asian Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_ieas.ico" type="image/x-icon" />
+  <link href="../css/gas.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../gas/"><img id="logo-alt" src="../images/logo-gas.jpg" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../gas/" class="active">About</a></li>
+          <li><a href="undergrad_declare_major.html">Undergraduate Program</a></li>
+          <li><a href="grad_ma.html">Graduate Program</a></li>
+		<ul>
+				<li><a href="grad_ma.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Degree</a></li>
+				<li><a href="grad_admission.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Admissions</a></li>
+				<li><a href="grad_journalism.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Concurrent Degrees &#8212; Asian Studies<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Journalism</a></li>
+				<li><a href="grad_profiles.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Student Profiles</a></li>
+		</ul>
+          <li><a href="courses_multi-area.html">Courses</a></li>
+          <li><a href="faculty_advisory.html">Faculty</a></li>
+          <li><a href="resources_campus.html">Student Resources</a></li>
+          <li><a href="internships.html">Internship Opportunities</a></li>
+          <li><a href="work_opportunities.html">Work Opportunities</a></li>
+          <li><a href="alumni.html">Alumni Profiles</a></li>
+          <li><a href="sjas/">Student Journal of Asian Studies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+    
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --> <img src="../images/gas/graduate.jpg" alt="Buddhist paintings in Ladakh, India. Photo by Alessandro Tiberio." title="Buddhist paintings in Ladakh, India. Photo by Alessandro Tiberio." /> <!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../gas/">Group in Asian Studies</a> &gt;&gt; <a href="../gas/grad_ma.html">Graduate Program</a>  &gt;&gt; Graduate Admissions<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><!-- InstanceBeginEditable name="body" -->
+<h1>Graduate Program</h1>
+
+<h2>Admissions to the M.A. degree program</h2>
+
+<p>The application for Fall 2018 entry will become available in mid-September on the Graduate Division website at <a href="https://gradadmit.berkeley.edu/apply/start.html">https://gradadmit.berkeley.edu/apply/start.html</a>. The deadline to apply is December 1, 2017.</p>
+
+<h3>How to Apply</h3>
+
+<ol class="l-dec l-space">
+
+<li>ONLINE APPLICATION: Fill out the graduate admissions application available on the Graduate Division website at <a href="https://gradadmit.berkeley.edu/apply/start.html">https://gradadmit.berkeley.edu/apply/start.html</a>.</a></li><br />
+
+<li>TRANSCRIPTS FOR DOMESTIC APPLICANTS: Upload unofficial transcripts with the online application for the departmental initial review. You do not need to send the department paper copies.  Official transcripts of all college-level work will be required only <strong>if admitted</strong>. Official transcripts must be in sealed envelopes as issued by the school(s) you have attended. Request a current transcript from every post-secondary school that you have attended, including community colleges, summer sessions, and extension programs.<br />
+TRANSCRIPTS FOR INTERNATIONAL APPLICANTS: Upload unofficial transcripts with the application for the departmental initial review.  In addition to this, you must send to the department, official paper transcripts or academic records for all university-level studies you have completed, at U.S. institutions and abroad. If your academic records do not include official evidence of the award of your degree, you must also submit additional documents that verify its award. Academic records should be issued in their original languages accompanied by English translations (usually prepared by your university or governmental agency, unless the institution issues original documents in English). In general, records or transcripts must be issued by the school and include the school's stamp or embossed seal and the signature of the authorizing official. For more detailed information on acceptable documents, please contact Graduate Admissions.  Send the transcripts to the department at Group in Asian Studies, University of California, Berkeley, 1995 University Avenue, Suite 510E, Berkeley, CA 94704-2318, USA. </li><br />
+
+<!--
+<div class="mainalert"><p><strong>INTERNATIONAL APPLICANTS PLEASE NOTE:</strong> We have been experiencing problems with our mail and may not have received transcripts sent to the address listed on our webpage. To ensure safe delivery of your application materials, please either send them via an express mail service like Fed Ex, UPS, etc., or by ordinary mail to Group in Asian Studies, University of California, Berkeley, 1995 University Avenue, Suite 510E, Berkeley, CA 94704<br />
+<br />
+PLEASE NOTE THE ZIP CODE THAT YOU SHOULD USE IS 94704, NOT 94720.<br />
+<br />
+If you have already mailed your transcripts to our office please contact us via email for confirmation that they have arrived.<br />
+<br />
+Our apologies for the inconvenience.</p>
+</div><br />-->
+
+<li>LETTERS OF RECOMMENDATION: Send <strong>three letters of recommendation</strong> from three recommenders familiar with your work, preferably in an academic setting.  We will accept online letters of recommendation only.  Instructions on how to submit letters are included in the Graduate Admissions application.</li><br />
+
+<li>ACADEMIC WRITING SAMPLE: Writing samples must be 5-7 pages in length and in English. Examples include an essay or book review.  You can upload the writing sample as part of the online application.  Do NOT send or email writing samples to the department.</li><br />
+
+<li>GRE TEST SCORES: Submit <strong>GRE scores of the general test</strong> (Verbal, Quantitative, and Analytical components). Scores must be sent directly by ETS to UC Berkeley (institution code 4833). Do not send test scores directly to our department.  Current scores are preferred, however, scores up to five years back will be accepted.<br />
+<br />
+For more information on when test scores are mailed out by ETS, see <a href="http://www.ets.org/gre/revised_general/scores/get/" target="_blank">http://www.ets.org/gre/revised_general/ scores/get/</a>.  Note that for the computer test, scores are sent to institutions approximately 10-15 days after the test date.  For the paper-based test, 2012 is the last test date that we will accept.</li><br />
+
+<li>TOEFL (INTERNATIONAL STUDENTS ONLY): All applicants from countries in which English is not the official language are required to submit official evidence of English language proficiency through the TOEFL or IELTS exams. If you have completed at least one year of full-time academic course work with grades of B or better in residence at a U.S. university, you do not need to take the TOEFL. For Fall 2018, tests taken before 2016 will not be accepted even if your score was reported to Berkeley. Test of English as a Foreign Language (TOEFL) &#8212; a score of 90 or higher on the TOEFL iBT or 550 or higher on the paper-based exam is required.  International English Language Testing System (IELTS) &#8212; a score of 7 or higher on the academic module. Scores must be sent directly by ETS to UC Berkeley (institution code 4833 for TOEFL). Do not send test scores directly to our department.</li>
+</ol>
+
+<p>Applicants are also required to read and meet the admissions requirements of the Graduate Division listed at <a href="http://grad.berkeley.edu/admissions/admis_require.shtml#4" target="blank">http://grad.berkeley.edu/ admissions/ admis_require.shtml#4</a>. Applicants will be notified of our decision in mid-February.  Decisions will be sent via email at the address that you list on your application.</p><br />
+
+<h3>Tuition and fees</h3>
+
+<p>2017-2018 tuition and fees for new graduate students are $9,404.75 per semester for California residents, and $16,955.75 per semester for non-California residents (includes international students). Please note these fees are likely to change for the class entering in 2018. Please consult the <a href="http://registrar.berkeley.edu/Default.aspx?PageID=feesched.html" target="blank">Registrar's Office</a> for the latest information. Non-resident students can gain California residency if they follow the <a href="http://registrar.berkeley.edu/Default.aspx?PageID=establish.html" target="blank">residency requirements listed by the Registrar's Office</a>. For additional information, please refer to the financial support section of the Graduate Division at <a href="http://grad.berkeley.edu/financial/index.shtml">http://grad.berkeley.edu/financial/index.shtml</a>. For international students, please refer to the information listed at <a href="http://internationaloffice.berkeley.edu/aid/">http://internationaloffice.berkeley.edu/aid/</a>.</p><br />
+
+<h3>Financial Assistance</h3>
+
+<p>U.S citizens and permanent residents are highly encouraged to apply to the Foreign Language and Area Studies (FLAS) award.  You can apply to this award as part of your admission application; you will need to indicate the type and level of language you are applying to and upload an essay commenting on the relevance of your chosen language to your future academic and professional goals.  The Admissions Committee will nominate select applicants who will then be entered into a campus-wide competition.  Winners will be notified directly by the Graduate Division.</p>
+
+<p>Most admitted students get varying amounts of departmental aid based on California residency status.  Non-CA residents, including international students, typically receive in the range of $6,000-8,000 per semester; CA residents typically receive in the $3,000-4,000 range per semester.</p>
+
+<p>In the second year of the program, students can apply to become Graduate Student Instructors (teaching assistants for our undergraduate survey course), and Graduate Student Researchers.  These positions, which are open to international students, come with a significant tuition remission and a monthly paycheck.</p>
+
+<p>In their last semester, students who have completed all degree requirements with the exception of filing the M.A. thesis can apply to go on Filing Fee.  If approved, filing fee students can focus on their thesis for the entire last semester without registering in courses.  They do not have to pay for fees with the exception of one-half of the Student Services Fee (around $250).</p>
+
+<p>More information can also be found at the following websites:</p>
+<ul>
+<li><a href="http://grad.berkeley.edu/financial/" target="_blank">Graduate Division</a></li>
+<li><a href="http://financialaid.berkeley.edu/graduate-award-guide" target="_blank">Financial Aid office</a> (domestic graduate students)</li>
+<li><a href="http://internationaloffice.berkeley.edu/aid" target="_blank">Berkeley International Office</a> (international students)</li>
+</ul><br />
+
+<h3>Profile of a successful applicant</h3>
+
+<p>The profile of a successful applicant admitted recently would include such attributes as:</p>
+
+<ul>
+<li>Two or more years of relevant Asian language preparation.</li>
+<li>An upper division grade point average of 3.5 or higher (In evaluating grade point average, particular emphasis is placed on the applicant's last two years of undergraduate study and on his or her work in the area in which he or she intends to specialize.) For assistance calculating your major GPA, please consult the GPA Calculator.</li>
+</ul>
+
+<div class="box textl"><p><a href="excel/gpa.xlw">GPA Calculator</a> (Excel file)</p></div>
+
+<ul>
+<li>A writing sample of high caliber.</li>
+<li>A verbal GRE test score in the 90-99th percentile.</li>
+<li>Excellent letters of recommendation from academic sources that can comment in detail on scholarly attributes.</li>
+<li>A concise, mature, and directed statement of purpose that fits within the interdisciplinary Asian Studies program requirements and capabilities.</li>
+<li>Some experience living, studying, or working in Asia.</li>
+</ul>
+
+
+<p>We welcome your application.  If you have further questions (after thoroughly reading all of the information listed above), please contact us at <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a>.  Admissions information for the Ph.D. and concurrent degrees is listed on the individual program's page.</p>
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Group in Asian Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> . 510.642.1738 and 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/gas/grad_journalism.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/gasGraduatePage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Concurrent Degree in Journalism - Group in Asian Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_ieas.ico" type="image/x-icon" />
+  <link href="../css/gas.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../gas/"><img id="logo-alt" src="../images/logo-gas.jpg" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../gas/" class="active">About</a></li>
+          <li><a href="undergrad_declare_major.html">Undergraduate Program</a></li>
+          <li><a href="grad_ma.html">Graduate Program</a></li>
+		<ul>
+				<li><a href="grad_ma.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Degree</a></li>
+				<li><a href="grad_admission.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Admissions</a></li>
+				<li><a href="grad_journalism.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Concurrent Degrees &#8212; Asian Studies<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Journalism</a></li>
+				<li><a href="grad_profiles.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Student Profiles</a></li>
+		</ul>
+          <li><a href="courses_multi-area.html">Courses</a></li>
+          <li><a href="faculty_advisory.html">Faculty</a></li>
+          <li><a href="resources_campus.html">Student Resources</a></li>
+          <li><a href="internships.html">Internship Opportunities</a></li>
+          <li><a href="work_opportunities.html">Work Opportunities</a></li>
+          <li><a href="alumni.html">Alumni Profiles</a></li>
+          <li><a href="sjas/">Student Journal of Asian Studies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+    
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --> <img src="../images/gas/graduate.jpg" alt="Buddhist paintings in Ladakh, India. Photo by Alessandro Tiberio." title="Buddhist paintings in Ladakh, India. Photo by Alessandro Tiberio." /> <!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../gas/">Group in Asian Studies</a> &gt;&gt; <a href="../gas/grad_ma.html">Graduate Program</a>  &gt;&gt; Concurrent Degree in Journalism<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><!-- InstanceBeginEditable name="body" -->
+<h1>Graduate Program</h1>
+
+<h2>Asian Studies and Journalism (M.A./M.J. degree)</h2>
+
+<p>The concurrent degree program in Asian Studies and Journalism is designed to provide the academic and professional training needed by journalists who specialize in covering Asia. The program allows you to earn an M.A and M.J. in three years rather than the three and one-half to four years required it would take to earn each degree separately.</p>
+
+<p>The M.A. in Asian Studies is an interdisciplinary degree drawing on the faculty from many departments on campus such as Anthropology, Comparative Literature, Geography, Philosophy and Political Science. The program is subdivided into four regional areas: East Asia (China), Northeast Asia (Japan and Korea), South Asia, and Southeast Asia. The M.J. in Journalism is a professional degree that prepares you to work as a journalist in print, radio, new media, documentary film or television.</p>
+
+<h3>Degree Requirements</h3>
+
+<ul>
+<li>Students are required to complete a minimum of 56 semester units.  36 of those units must be taken in the M.J. program and 20 units in the M.A. program.</li>
+<li>For the 20 unit M.A. degree requirement, 10 of the 20 units must be taken at the graduate level.  The remaining units may be at the upper-division level.  Up to two Journalism courses can be counted towards the M.A. degree requirement. A minimum of three years of course work in an Asian language relevant to the student's regional specialization or evidence of equivalent preparation is also a requirement for completion.</li>
+<li>For the 36 units required for the M.J. degree, 24 of those must be taken at the graduate level.  Up to three classes taken for the Asian Studies M.A. can be counted towards the 36 units.</li>
+<li>For the M.A degree, a Master's thesis, reviewed and approved by three faculty members, is required.</li>
+<li>For the requirements pertinent to the M.J. degree, refer to the <a href="http://journalism.berkeley.edu/admissions/admissionsinfo/">School of Journalism</a></li>
+</ul>
+
+<h3>Admissions</h3>
+<h4><font color="#FF0000">The deadline to apply to the Journalism and Asian Studies concurrent degree program is December 1, 2017.</font></h4>
+<ul>
+<li>Applicants must satisfy the admissions requirements for both degrees.  For a list of requirements and directions on how to apply for the M.A. degree, refer to the M.A Admissions page on this website.  For admissions information about the M.J. degree, refer to the <a href="http://journalism.berkeley.edu/admissions/" target="blank">School of Journalism</a></li>
+<li>Applicants must apply separately to both the M.A. and M.J. programs.  When submitting the online Graduate Admissions application, indicate the concurrent degree when prompted for the degree goal.  You will also have to apply separately to the School of Journalism.  Follow the link listed above.</li>
+<li>Both programs separately review the applications according to their own admissions criteria. Approval by both Admissions Committees is necessary for admission.  If either Journalism or Asian Studies recommends admission and the other denies, it is possible that the one recommending admission will accept the student into its own individual program.  Current students already enrolled in the first year of either the M.A. or M.J. program may petition to enter the concurrent degree program for further study.</li>
+</ul>
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Group in Asian Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> . 510.642.1738 and 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/gas/grad_law.html /n<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /gas/grad_law.html was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+http://ieas.berkeley.edu/gas/grad_ma.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/gasGraduatePage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>M.A. in Asian Studies - Group in Asian Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_ieas.ico" type="image/x-icon" />
+  <link href="../css/gas.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../gas/"><img id="logo-alt" src="../images/logo-gas.jpg" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../gas/" class="active">About</a></li>
+          <li><a href="undergrad_declare_major.html">Undergraduate Program</a></li>
+          <li><a href="grad_ma.html">Graduate Program</a></li>
+		<ul>
+				<li><a href="grad_ma.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Degree</a></li>
+				<li><a href="grad_admission.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Admissions</a></li>
+				<li><a href="grad_journalism.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Concurrent Degrees &#8212; Asian Studies<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Journalism</a></li>
+				<li><a href="grad_profiles.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Student Profiles</a></li>
+		</ul>
+          <li><a href="courses_multi-area.html">Courses</a></li>
+          <li><a href="faculty_advisory.html">Faculty</a></li>
+          <li><a href="resources_campus.html">Student Resources</a></li>
+          <li><a href="internships.html">Internship Opportunities</a></li>
+          <li><a href="work_opportunities.html">Work Opportunities</a></li>
+          <li><a href="alumni.html">Alumni Profiles</a></li>
+          <li><a href="sjas/">Student Journal of Asian Studies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+    
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --> <img src="../images/gas/graduate.jpg" alt="Buddhist paintings in Ladakh, India. Photo by Alessandro Tiberio." title="Buddhist paintings in Ladakh, India. Photo by Alessandro Tiberio." /> <!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../gas/">Group in Asian Studies</a> &gt;&gt; <a href="../gas/grad_ma.html">Graduate Program</a>  &gt;&gt; M.A. in Asian Studies<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><!-- InstanceBeginEditable name="body" -->
+<h1>Graduate Program</h1>
+
+<h2>M.A. in Asian Studies</h2>
+
+<p>With the oversight of the Graduate Division, the Group provides a Master of Arts degree in Asian Studies. This program is intended for applicants who wish to take a terminal interdisciplinary M.A. degree as well as for those who wish to ultimately obtain a research degree in a departmental Ph.D. program.</p>
+
+<p>The graduate program is subdivided into four geographical regions: East Asia (China), Northeast Asia (Japan and Korea), South Asia, and Southeast Asia. Although individual programs will be arranged to suit a student's particular interests, the basic degree requirements for the four regions are uniform. All students are required to take Asian Studies 201 (Proseminar in Asian Studies) in their first year. In addition, M.A. students must choose one of the four regions and take all course requirements within that area.</p>
+
+<p>The normal workload for a graduate student is twelve units per semester. Depending on the number of courses taken over the minimum and the level of language training prior to entering the program, students may expect to complete their degrees in three to four semesters.</p>
+
+<p>For instructions on how to apply for the M.A. degree, please refer to the Admissions section.</p>
+
+<h3>Degree Requirements</h3>
+
+<ol class="l-dec l-space">
+<li>A minimum of three years of course work in an Asian language relevant to the student's regional specialization or evidence of equivalent preparation. Students that plan to continue language study when they first come to Cal must take the placement exam administered by the department of <a href="http://ealc.berkeley.edu" target="blank">East Asian Languages and Cultures</a>.</li>
+
+<li><em>A minimum</em> of 20 semester units of upper division and graduate courses in the student's area of specialization, as determined in conference with the graduate advisor.  For the 20 unit minimum, at least 8 units must be in 200 series courses in two or more departments. No more than 14 of the 20-unit minimum can be in a single department. Relevant language work beyond the three-year minimum requirement is encouraged and may be included among the program units. Asian Studies 201 is required for two semesters. However, the units do not count toward the 20 unit minimum.</li>
+
+<li class="l-last">A Master's thesis that will be supervised and approved by a three-member faculty committee.
+</li>
+</ol>
+<br />
+<h3>Master's Theses from Previous Years</h3>
+<p>Click <a href="../gas/pdf/graduate_theses_2013.pdf" target="_blank">here</a> for a list of master's theses from previous years.</p>
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Group in Asian Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> . 510.642.1738 and 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/gas/grad_phd.html /n<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /gas/grad_phd.html was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+http://ieas.berkeley.edu/gas/programs.html /n<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /gas/programs.html was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+http://ieas.berkeley.edu/gas/resources_graduation.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/gasResourcesPage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Graduation - Group in Asian Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_ieas.ico" type="image/x-icon" />
+  <link href="../css/gas.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../gas/"><img id="logo-alt" src="../images/logo-gas.jpg" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../gas/" class="active">About</a></li>
+          <li><a href="undergrad_declare_major.html">Undergraduate Program</a></li>
+          <li><a href="grad_ma.html">Graduate Program</a></li>
+          <li><a href="courses_multi-area.html">Courses</a></li>
+          <li><a href="faculty_advisory.html">Faculty</a></li>
+          <li><a href="resources_campus.html">Student Resources</a></li>
+		<ul>
+			<li><a href="resources_campus.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Campus Services</a></li>
+			<li><a href="resources_graduation.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Graduation</a></li>
+			<li><a href="resources_academic_honesty.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Guide to Academic Honesty</a></li>
+			<li><a href="resources_honors.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Honors Program</a></li>
+			<li><a href="resources_financial.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Scholarships and Financial Aid</a></li>
+			<li><a href="resources_study_abroad.html">&#8226;&nbsp;&nbsp;&nbsp;&nbsp;Study Abroad</a></li>
+		</ul>
+          <li><a href="internships.html">Internship Opportunities</a></li>
+          <li><a href="work_opportunities.html">Work Opportunities</a></li>
+          <li><a href="alumni.html">Alumni Profiles</a></li>
+          <li><a href="sjas/">Student Journal of Asian Studies</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+    
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --><img src="../images/gas/resources_graduation.jpg" alt="Graduation 2009. Bob Knight Photo." title="Graduation 2009. Bob Knight Photo." /> <!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --><span>you are here:</span> <a href="../gas/">Group in Asian Studies</a> &gt;&gt; <a href="../gas/resources_campus.html">Student Resources</a> &gt;&gt; Graduation<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><!-- InstanceBeginEditable name="body" -->
+        <h1>Student Resources</h1>
+
+<h2>Graduation 2015</h2>
+
+<p>The Group in Asian Studies will host a graduation ceremony for all Fall 2014, Spring 2015 and Summer 2015 B.A. and M.A. graduates on <strong>Sunday, May 17, 2015</strong>, from <strong>10:30 am to 12:30 pm</strong> at the <a href="http://www.bancrofthotel.com" target="blank">Bancroft Hotel</a>. Students are required to come at 9:30; guests can arrive at 10:30. Students get 10 free tickets, and you will receive an email when they are ready for pickup. This yearly event honors graduates of the Group in Asian Studies. The Ceremony will last for about an hour, followed by an appetizer reception in the Great Hall. Award winners for departmental citations, outstanding thesis, honors and other contributions will be announced at the event. It is a small and intimate celebration, and we highly encourage all graduates to attend.</p>
+
+<h2>Degree List</h2>
+
+<p>Students should place themselves on the spring degree list through the College of Letters and Science. Go to the <a href="http://ls.berkeley.edu/?q=node/603" target="blank">L&S website</a> and follow the instructions. You must run a degree audit report on Bearfacts to make sure that you have completed or in the process of completing all university and college requirements. To request a DARS report: 1) Go to <a href="https://bearfacts.berkeley.edu/bearfacts/" target="_blank">Bearfacts</a> and click the DARSweb link. 2) Click the "Audits" tab and select "Request New Audit." Select one of the following radio buttons: Current Major (the default) and Expanded Requirement Set to view all ways courses can apply toward 7-course breadth requirement in the College of Letters & Science. 3) Click the "Submit New Audit" button. Wait a few moments for your report to run, then click the "Refresh List" button. You may have to click it a few times and/or wait up to 30 seconds. 4) When your new request appears on the list below, click the "Open Audit" button to its left. You can ignore the section on "Major Requirements." AS does not use DARS to record "Major Requirements"; this is done by your academic advisor. Please consult your academic advisor immediately if you see discrepancies in the report.</p>
+
+<h2>Caps and Gowns</h2>
+
+<p>The Graduation Department opens on <strong>March 30th</strong> at the Cal Student Store, newly located at 2480 Bancroft Way. Stop by any time during normal business hours to purchase <strong>regalia (cap & gown), generic announcements, diploma covers, other graduation products,</strong> and pick up traditional <strong>stationery and accessories</strong> for the ceremony. Come by or call them at (510) 845-1226 to ask questions and view our price list.</p>
+
+<p>The Grad Finale will be held on April <strong>8th-11th</strong> from 10am-4pm, and will be hosted by the <strong>Graduation Department at the Cal Student Store. The Californians, Blue & Gold Yearbook Committee, Jostens,</strong> the <strong>Cal Alumni Association</strong> and others will be there to help you address all of your graduation needs at once.</p>
+
+<p>Graduation products are also available online at <a href="http://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10001&langId=-1&demoKey=d&storeId=10433&cm_mmc=%20Redirect-_-VanityURL-_-calstudentstore.com-_-10433">calstudentstore.com</a>, (under Specialty Shops - Graduation) or through the direct link <a href="http://www.bkstr.com/NavigationSearchDisplay/10001-10110000-10433-1?demoKey=d&navActionType=addNewRefinement">http://www.bkstr.com/NavigationSearchDisplay/10001-10110000-10433-1?demoKey=d&navActionType=addNewRefinement</a>.</p>
+
+<h2>Student Speaker Contest</h2>
+
+<p>Do you have words of wisdom you'd like to share with your fellow grads? Pithy comments to help celebrate your achievements and wish everyone well in the future? Then you should enter our STUDENT SPEAKER COMPETITION!</p>
+
+<p>The Student Speaker is a vital part of the ceremony. In fact, some say it's the best part! The Student Speaker, one undergraduate and one graduate student, gives a 10 minute (max) presentation. If you would like to compete for this honor, first check your cumulative and major GPA: they must be at least 3.3 to be eligible. Then, submit a written speech no later than Friday, April 17 to <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a>. The Group Chair and the graduation coordinator will determine the two speakers.</p>
+
+<h2>Photos</h2>
+
+<p>GradImages will be our official graduation photographer. They will take photos of each graduate while on stage. They will be given your name and contact information as previously approved by you. You can expect to have proofs emailed to you within two days of Graduation. Once you view your proofs, you can order directly from their website at <a href="http://www.gradimages.com" target="blank">gradimages.com</a>.</p>
+
+<h2>Parking</h2>
+
+<p>Parking during graduation week is limited, so please arrive early. The closest lot to the Bancroft Hotel is the MLK Student Union underground garage. You can find a campus parking map <a href="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/PadMap20082.pdf">here</a>. For additional details, refer to information listed at <a href="http://pt.berkeley.edu/park/special/commencement" target="blank">Parking and Transportation</a>.</p>
+
+<h2>Visitor Accommodations</h2>
+
+<p>Out-of-town guests can find lodging options at the <a href="http://visitberkeley.com/where-to-stay" target="blank">Visitor Services website.</a> Guests can also stay at a special rate at the Bancroft Hotel. Contact <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> for more information.</p>
+
+<h2>Accessibility</h2>
+
+<p>We want to make our graduation accessible to everyone. Therefore, if you or a guest need a special accommodation, such as a sign language interpreter or just extra time to get settled in, please let us know. You can email <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> no later than three weeks before the event.</p>
+
+<h2>Transcripts and Diplomas</h2>
+
+<div class="photocaption_right"><img src="../images/gas/commencement_6_2008.jpg" width="300" height="133" alt="Friends pose for photos after the 2008 ceremony"><p>Friends pose for photos after the 2008 ceremony</p></div>
+
+
+<p><em>Transcripts:</em><br />
+Your official transcript will show your final grades four to six weeks after the last day of final exams. The date of your degree will appear on your transcript approximately three months after the term in which the degree was conferred. Information about the availability of transcripts showing the degree and how to order transcripts and diplomas may be found <a href="http://registrar.berkeley.edu/tranalumni.html" target="blank">here</a>.</p>
+
+<p><em>Diplomas:</em><br />
+Diplomas for undergraduates will be mailed automatically. Diplomas are usually available 3.5 months after graduation. For more information, click <a href="http://registrar.berkeley.edu/Default.aspx?PageID=diplomas.html" target="blank">here</a>.</p>
+
+<h2>Future Contact Information</h2>
+
+<p>Please fill out the exit survey which will be emailed to you in May. The Career Center offers several resources for alums. Visit their website by clicking <a href=" https://career.berkeley.edu/Alumni/Alumni.stm">here</a>. We also hope that you will continue your involvement at Cal by joining the campus <a href="http://alumni.berkeley.edu/" target="blank">Alumni Association</a>. We love to keep in touch with our alums!</p>
+
+<p>CONGRATULATIONS!</p>
+
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Group in Asian Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:asianst@berkeley.edu">asianst@berkeley.edu</a> . 510.642.1738 and 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/gas/vs_program.html /n<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /gas/vs_program.html was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+http://ieas.berkeley.edu/iup/programs.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/iupinsidepage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Programs - Inter-University Program for Chinese Language Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_iup.ico" type="image/x-icon" />
+  <link href="../css/iup.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../iup/"><img id="logo-alt" src="../images/iup-logo.png" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../iup/" class="active">Home</a></li>
+          <li><a href="announcements.html">Announcements</a></li>
+          <li><a href="giving.html">How to Donate to IUP</a></li>
+          <li><a href="programs.html">Programs</a></li>
+          <li><a href="curriculum.html">Curriculum</a></li>
+          <li><a href="admissions.html">Admissions</a></li>
+          <li><a href="fees.html">Fees & Financial Aid</a></li>
+          <li><a href="calendar.html">Calendar</a></li>
+          <li><a href="instructors.html">Instructors</a></li>
+          <li><a href="tsinghua.html">Life at Tsinghua</a></li>
+          <li><a href="visa_housing_faqs.html">Visa and Housing FAQs <img src="../images/iup/new.gif" alt="New" /></a></li>
+          <li><a href="alumni_sponsors.html">Alumni & Sponsors</a></li>
+          <li><a href="credit.html">Academic Credit</a></li>
+          <li><a href="contact.html">Contact IUP</a></li>
+          <li><a href="videos.html">IUP Videos</a></li>
+          <li><a href="../">IEAS home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+      <div class="callout">
+        <div class="content">
+          <p><strong>Currently accepting applications for Spring 2017.</strong></p>
+</strong></p>
+          <!--<a href="../iup/admissions_application_forms.html"><button type="submit" name="sa" class="submitbtn" />Apply Now</a> -->
+        </div>
+      </div>
+      <div class="ieas">
+
+      </div>
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --><img src="../images/iup/iup_scenery.jpg" alt="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" title="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" /><!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../iup/">IUP</a> &gt;&gt; Programs <!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><h1><span style="color:#ff0000">IMPORTANT ANNOUNCEMENT: IUP IS MOVING TO STANFORD. Stanford website is under construction. Please direct all inquiries to Dr. Brent Haas at</span> <a href="mailto:wbhaas@stanford.edu">wbhaas@stanford.edu</a></h1><!-- InstanceBeginEditable name="body" -->
+<h1>Programs</h1>
+
+<ul>
+<li>Introduction</li>
+<li><a href="../iup/programs_acad_year.html">Academic Year Program</a> (8 months of instruction)</li>
+<li><a href="../iup/programs_semester.html">One Semester Program</a> (4 months of instruction)</li>
+<li><a href="../iup/programs_summer.html">Summer Program</a> (2 months of instruction)</li>
+<li><a href="../iup/programs_continuing.html">Continuing Student and Alumni Program</a></li>
+<li><a href="../iup/programs_senior_scholar.html">Senior Scholar Program</a></li>
+</ul>
+
+<h2>Introduction</h2>
+
+<img src="../images/iup/photo_class7.jpg" alt="IUP classroom" title="IUP classroom" class="alignright"/>
+
+<p>The unique feature of IUP is that students are provided with highly individualized instruction.  The teacher to student ratio is currently 1:2 and course assignments include at least one daily <a href="../iup/curriculum_danbanke.html">private tutorial</a>, and several <a href="../iup/curriculum_hebanke.html">small group classes</a>.  Each student is given individual attention to language skill areas that need improvement and their progress is closely monitored over their entire course of study.  Such individualized instruction has consistently shown positive results over the nearly 40 year history of the program.</p>
+
+<p>As students advance during the course of the program, they will have increasingly greater flexibility to choose more specialized materials to assist them in achieving their personal language learning goals.  Initial course work however, is designed to provide all students with the tools for building a solid and broad foundation in speaking, listening and reading.  While there is a certain amount of flexibility in the program, to allow for special emphasis on various language skills relevant to individual students' interests and career plans, it is assumed that all students need high levels of competence in speaking, listening and reading to meet their academic and professional goals.  Those preparing for scholarly or professional careers must be able to speak Chinese fluently with Chinese scholars and professionals as well as to read the materials pertinent to their research interests. Those planning careers in diplomacy or international business, where it is often assumed that the spoken language is of prime importance, must also be able to read ordinary modern language materials fluently, if not classical language materials. Students must be able to read newspapers and must have a ready command of the spoken language in order to move about easily in Chinese society.</p>
+
+<p>In order to help students cultivate the habit of using Chinese as much as possible, the Program maintains a total Chinese environment. Students are expected to speak only Chinese within the Program's premises at all times. Since the Program insists on maintaining this language environment, student progress reports will reflect the level of commitment to this policy.</p>
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Inter-University Program for Chinese Language Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:iup@berkeley.edu">iup@berkeley.edu</a> . 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/iup/programs_acad_year.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/iupinsidepage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Academic Year Program - Inter-University Program for Chinese Language Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_iup.ico" type="image/x-icon" />
+  <link href="../css/iup.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../iup/"><img id="logo-alt" src="../images/iup-logo.png" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../iup/" class="active">Home</a></li>
+          <li><a href="announcements.html">Announcements</a></li>
+          <li><a href="giving.html">How to Donate to IUP</a></li>
+          <li><a href="programs.html">Programs</a></li>
+          <li><a href="curriculum.html">Curriculum</a></li>
+          <li><a href="admissions.html">Admissions</a></li>
+          <li><a href="fees.html">Fees & Financial Aid</a></li>
+          <li><a href="calendar.html">Calendar</a></li>
+          <li><a href="instructors.html">Instructors</a></li>
+          <li><a href="tsinghua.html">Life at Tsinghua</a></li>
+          <li><a href="visa_housing_faqs.html">Visa and Housing FAQs <img src="../images/iup/new.gif" alt="New" /></a></li>
+          <li><a href="alumni_sponsors.html">Alumni & Sponsors</a></li>
+          <li><a href="credit.html">Academic Credit</a></li>
+          <li><a href="contact.html">Contact IUP</a></li>
+          <li><a href="videos.html">IUP Videos</a></li>
+          <li><a href="../">IEAS home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+      <div class="callout">
+        <div class="content">
+          <p><strong>Currently accepting applications for Spring 2017.</strong></p>
+</strong></p>
+          <!--<a href="../iup/admissions_application_forms.html"><button type="submit" name="sa" class="submitbtn" />Apply Now</a> -->
+        </div>
+      </div>
+      <div class="ieas">
+
+      </div>
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --><img src="../images/iup/iup_scenery.jpg" alt="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" title="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" /><!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../iup/">IUP</a> &gt;&gt; <a href="../iup/programs.html">Programs</a> &gt;&gt; Academic Year Program<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><h1><span style="color:#ff0000">IMPORTANT ANNOUNCEMENT: IUP IS MOVING TO STANFORD. Stanford website is under construction. Please direct all inquiries to Dr. Brent Haas at</span> <a href="mailto:wbhaas@stanford.edu">wbhaas@stanford.edu</a></h1><!-- InstanceBeginEditable name="body" -->
+<h1>Programs</h1>
+
+<ul>
+<li><a href="../iup/programs.html">Introduction</a></li>
+<li>Academic Year Program (8 months of instruction)</li>
+<li><a href="../iup/programs_semester.html">One-Semester Program</a> (4 months of instruction)</li>
+<li><a href="../iup/programs_summer.html">Summer Program</a> (2 months of instruction)</li>
+<li><a href="../iup/programs_continuing.html">Continuing Student and Alumni Program</a></li>
+<li><a href="../iup/programs_senior_scholar.html">Senior Scholar Program</a></li>
+</ul>
+
+<h2>Academic Year Program</h2>
+
+<img src="../images/iup/fourlooking.jpg" alt="IUP classroom" title="IUP classroom" class="alignright" />
+<p>Students are admitted to this program for full-time study only.  The program runs from early to mid September through late May or early June, and students spend approximately twenty hours per week in class.</p>
+
+<p>The Academic-Year Program is divided into two semesters, each consisting of two eight-week modules. Students take the IUP Placement Exam upon entering the Program. Students who fall within the typical IUP range generally have four hours of class daily during the first module.  The average class arrangement is one daily <a href="../iup/curriculum_danbanke.html">individual class</a> and the three hours of <a href="../iup/curriculum_hebanke.html">small group classes</a>.  The actual class arrangement may vary slightly depending upon individual circumstances.</p>
+
+<p>In subsequent modules, as the students in the Academic Year Program progress, contact hours may be reduced somewhat as students advance into higher levels where the proportion of out-of-class preparation time may rise and more individual attention may be warranted.</p>
+
+<p>View current <a href="../iup/admissions_application_forms.html">application</a>, <a href="../iup/fees.html">program fees</a>, <a href="../iup/admissions_deadlines.html">deadlines</a>, and <a href="../iup/fees_finaid.html">financial aid</a> information.</p>
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Inter-University Program for Chinese Language Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:iup@berkeley.edu">iup@berkeley.edu</a> . 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/iup/programs_continuing.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/iupinsidepage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Continuing Student and Alumni Program - Inter-University Program for Chinese Language Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_iup.ico" type="image/x-icon" />
+  <link href="../css/iup.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../iup/"><img id="logo-alt" src="../images/iup-logo.png" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../iup/" class="active">Home</a></li>
+          <li><a href="announcements.html">Announcements</a></li>
+          <li><a href="giving.html">How to Donate to IUP</a></li>
+          <li><a href="programs.html">Programs</a></li>
+          <li><a href="curriculum.html">Curriculum</a></li>
+          <li><a href="admissions.html">Admissions</a></li>
+          <li><a href="fees.html">Fees & Financial Aid</a></li>
+          <li><a href="calendar.html">Calendar</a></li>
+          <li><a href="instructors.html">Instructors</a></li>
+          <li><a href="tsinghua.html">Life at Tsinghua</a></li>
+          <li><a href="visa_housing_faqs.html">Visa and Housing FAQs <img src="../images/iup/new.gif" alt="New" /></a></li>
+          <li><a href="alumni_sponsors.html">Alumni & Sponsors</a></li>
+          <li><a href="credit.html">Academic Credit</a></li>
+          <li><a href="contact.html">Contact IUP</a></li>
+          <li><a href="videos.html">IUP Videos</a></li>
+          <li><a href="../">IEAS home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+      <div class="callout">
+        <div class="content">
+          <p><strong>Currently accepting applications for Spring 2017.</strong></p>
+</strong></p>
+          <!--<a href="../iup/admissions_application_forms.html"><button type="submit" name="sa" class="submitbtn" />Apply Now</a> -->
+        </div>
+      </div>
+      <div class="ieas">
+
+      </div>
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --><img src="../images/iup/iup_scenery.jpg" alt="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" title="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" /><!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../iup/">IUP</a> &gt;&gt; <a href="../iup/programs.html">Programs</a> &gt;&gt; Continuing Student and Alumni Program<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><h1><span style="color:#ff0000">IMPORTANT ANNOUNCEMENT: IUP IS MOVING TO STANFORD. Stanford website is under construction. Please direct all inquiries to Dr. Brent Haas at</span> <a href="mailto:wbhaas@stanford.edu">wbhaas@stanford.edu</a></h1><!-- InstanceBeginEditable name="body" -->
+<h1>Programs</h1>
+
+<ul>
+<li><a href="../iup/programs.html">Introduction</a></li>
+<li><a href="../iup/programs_acad_year.html">Academic Year Program</a> (8 months of instruction)</li>
+<li><a href="../iup/programs_semester.html">One-Semester Program</a> (4 months of instruction)</li>
+<li><a href="../iup/programs_summer.html">Summer Program</a> (2 months of instruction)</li>
+<li>Continuing Student and Alumni Program</li>
+<li><a href="../iup/programs_senior_scholar.html">Senior Scholar Program</a></li>
+</ul>
+
+<h2>Continuing Student and Alumni Program</h2>
+
+<p>In the past, IUP has allowed current students and alumni to continue their language studies on an on-going, space-available basis. Beginning 2003, students interested in continuing their language studies must apply as new applicants and meet the official application deadlines.</p>
+
+<p>View current <a href="../iup/admissions_application_forms.html">application</a>, <a href="../iup/fees.html">program fees</a>, <a href="../iup/admissions_deadlines.html">deadlines</a>, and <a href="../iup/fees_finaid.html">financial aid</a> information.</p>
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Inter-University Program for Chinese Language Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:iup@berkeley.edu">iup@berkeley.edu</a> . 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/iup/programs_senior_scholar.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/iupinsidepage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Senior Scholar Program - Inter-University Program for Chinese Language Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_iup.ico" type="image/x-icon" />
+  <link href="../css/iup.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../iup/"><img id="logo-alt" src="../images/iup-logo.png" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../iup/" class="active">Home</a></li>
+          <li><a href="announcements.html">Announcements</a></li>
+          <li><a href="giving.html">How to Donate to IUP</a></li>
+          <li><a href="programs.html">Programs</a></li>
+          <li><a href="curriculum.html">Curriculum</a></li>
+          <li><a href="admissions.html">Admissions</a></li>
+          <li><a href="fees.html">Fees & Financial Aid</a></li>
+          <li><a href="calendar.html">Calendar</a></li>
+          <li><a href="instructors.html">Instructors</a></li>
+          <li><a href="tsinghua.html">Life at Tsinghua</a></li>
+          <li><a href="visa_housing_faqs.html">Visa and Housing FAQs <img src="../images/iup/new.gif" alt="New" /></a></li>
+          <li><a href="alumni_sponsors.html">Alumni & Sponsors</a></li>
+          <li><a href="credit.html">Academic Credit</a></li>
+          <li><a href="contact.html">Contact IUP</a></li>
+          <li><a href="videos.html">IUP Videos</a></li>
+          <li><a href="../">IEAS home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+      <div class="callout">
+        <div class="content">
+          <p><strong>Currently accepting applications for Spring 2017.</strong></p>
+</strong></p>
+          <!--<a href="../iup/admissions_application_forms.html"><button type="submit" name="sa" class="submitbtn" />Apply Now</a> -->
+        </div>
+      </div>
+      <div class="ieas">
+
+      </div>
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --><img src="../images/iup/iup_scenery.jpg" alt="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" title="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" /><!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../iup/">IUP</a> &gt;&gt; <a href="../iup/programs.html">Programs</a> &gt;&gt; Senior Scholar Program<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><h1><span style="color:#ff0000">IMPORTANT ANNOUNCEMENT: IUP IS MOVING TO STANFORD. Stanford website is under construction. Please direct all inquiries to Dr. Brent Haas at</span> <a href="mailto:wbhaas@stanford.edu">wbhaas@stanford.edu</a></h1><!-- InstanceBeginEditable name="body" -->
+<h1>Programs</h1>
+
+<ul>
+<li><a href="../iup/programs.html">Introduction</a></li>
+<li><a href="../iup/programs_acad_year.html">Academic Year Program</a> (8 months of instruction)</li>
+<li><a href="../iup/programs_semester.html">One-Semester Program</a> (4 months of instruction)</li>
+<li><a href="../iup/programs_summer.html">Summer Program</a> (2 months of instruction)</li>
+<li><a href="../iup/programs_continuing.html">Continuing Student and Alumni Program</a></li>
+<li>Senior Scholar Program</li>
+</ul>
+
+<h2>Senior Scholar Program</h2>
+
+<p>The Senior Scholar Program is primarily designed for professors who want to polish their language skills. The format and cost of this program is no different from any of IUP's language programs, and IUP Senior Scholars will attend <a href="../iup/curriculum_hebanke.html">small group classes</a> with regular IUP students as well as <a href="../iup/curriculum_danbanke.html"><em>danbanke</em></a>. Applications and financial aid are considered on a case-by-case basis. Interested scholars are encouraged to contact the Berkeley office for details before applying. The deadlines for the Senior Scholar Program are the same as the regular IUP program deadlines.</p>
+
+<p>View current <a href="../iup/admissions_application_forms.html">application</a>, <a href="../iup/fees.html">program fees</a>, <a href="../iup/admissions_deadlines.html">deadlines</a>, and <a href="../iup/fees_finaid.html">financial aid</a> information.</p>
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Inter-University Program for Chinese Language Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:iup@berkeley.edu">iup@berkeley.edu</a> . 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/iup/programs_summer.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/iupinsidepage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Summer Program - Inter-University Program for Chinese Language Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/favicon_iup.ico" type="image/x-icon" />
+  <link href="../css/iup.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../iup/"><img id="logo-alt" src="../images/iup-logo.png" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+    
+    
+   <!-- search form -->
+   <div class="search-form">
+   <form action="http://www.google.com/cse" id="cse-search-box">
+       <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <ul>
+         <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+         <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+       </ul>
+     </form>
+   </div>
+   <!-- / search form --> 
+  
+  </div>
+  <!-- / menu -->
+  
+  
+  
+  <!-- main body -->
+  
+  
+  
+  <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../iup/" class="active">Home</a></li>
+          <li><a href="announcements.html">Announcements</a></li>
+          <li><a href="giving.html">How to Donate to IUP</a></li>
+          <li><a href="programs.html">Programs</a></li>
+          <li><a href="curriculum.html">Curriculum</a></li>
+          <li><a href="admissions.html">Admissions</a></li>
+          <li><a href="fees.html">Fees & Financial Aid</a></li>
+          <li><a href="calendar.html">Calendar</a></li>
+          <li><a href="instructors.html">Instructors</a></li>
+          <li><a href="tsinghua.html">Life at Tsinghua</a></li>
+          <li><a href="visa_housing_faqs.html">Visa and Housing FAQs <img src="../images/iup/new.gif" alt="New" /></a></li>
+          <li><a href="alumni_sponsors.html">Alumni & Sponsors</a></li>
+          <li><a href="credit.html">Academic Credit</a></li>
+          <li><a href="contact.html">Contact IUP</a></li>
+          <li><a href="videos.html">IUP Videos</a></li>
+          <li><a href="../">IEAS home</a></li>
+        </ul>
+      </div>
+      <!-- / left menu -->
+      <div class="callout">
+        <div class="content">
+          <p><strong>Currently accepting applications for Spring 2017.</strong></p>
+</strong></p>
+          <!--<a href="../iup/admissions_application_forms.html"><button type="submit" name="sa" class="submitbtn" />Apply Now</a> -->
+        </div>
+      </div>
+      <div class="ieas">
+
+      </div>
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --><img src="../images/iup/iup_scenery.jpg" alt="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" title="Scenic views from the Inter-University Program for Chinese Language Studies at Tsinghua University in Beijing" /><!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --> <span>you are here:</span> <a href="../iup/">IUP</a> &gt;&gt; <a href="../iup/programs.html">Programs</a> &gt;&gt; Summer Program<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><h1><span style="color:#ff0000">IMPORTANT ANNOUNCEMENT: IUP IS MOVING TO STANFORD. Stanford website is under construction. Please direct all inquiries to Dr. Brent Haas at</span> <a href="mailto:wbhaas@stanford.edu">wbhaas@stanford.edu</a></h1><!-- InstanceBeginEditable name="body" -->
+<h1>Programs</h1>
+
+<ul>
+<li><a href="../iup/programs.html">Introduction</a></li>
+<li><a href="../iup/programs_acad_year.html">Academic Year Program</a> (8 months of instruction)</li>
+<li><a href="../iup/programs_semester.html">One-Semester Program</a> (4 months of instruction)</li>
+<li>Summer Program (2 months of instruction)</li>
+<li><a href="../iup/programs_continuing.html">Continuing Student and Alumni Program</a></li>
+<li><a href="../iup/programs_senior_scholar.html">Senior Scholar Program</a></li>
+</ul>
+
+<h2>Summer Program</h2>
+
+<img src="../images/iup/photo_summer_program.jpg" alt="IUP classroom" title="IUP classroom" class="alignright" />
+<p>As with the Academic Year Program, students are only admitted on a full-time basis, and classes run from mid-June to early August. Class structure and size for the summer program are generally the same as for the Academic Year Program.</p>
+
+<p>View current <a href="../iup/admissions_application_forms.html">application</a>, <a href="../iup/fees.html">program fees</a>, <a href="../iup/admissions_deadlines.html">deadlines</a>, and <a href="../iup/fees_finaid.html">financial aid</a> information.</p>
+
+<p><strong>Rolling Admissions Policy for Summer Applicants!</strong></p>
+
+<p>IUP will review complete summer applications soon after they arrive at the IUP Berkeley office, rather than hold admissions after the summer program deadline. This is known as "rolling admissions," and IUP will admit summer applicants on a "first qualified applicant come, first qualified applicant served" basis until the summer program is full. While there is an official summer deadline, we often review summer applications after this deadline, and we encourage late summer applicants to e-mail the IUP Berkeley administrative office to see if we're still accepting late summer applications. Admission is competitive, and it is recommended that you send in all of your summer application materials at least a couple of weeks before the official summer deadline due to limited space at IUP's language center. Rolling admissions is <strong>not</strong> the policy for IUP's academic year/semester program admissions, however.</p>
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2010-2017 Inter-University Program for Chinese Language Studies, University of California, Berkeley<br />
+      1995 University Avenue, Suite 510J; Berkeley, CA 94704-2318<br />
+      <a href="mailto:iup@berkeley.edu">iup@berkeley.edu</a> . 510.642.3873
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>http://ieas.berkeley.edu/tcsrs/courses.html /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/tcsrsiinsidepage.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Courses - The P.Y. and Kinmay W. Tang Center for Silk Road Studies, UC Berkeley</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Institute of East Asian Studies organizes and sponsors research and public service programs related to the history, cultures and contemporary affairs of East Asia, at the University of California, Berkeley" />
+<meta name="keywords" content="asia, east asia, ieas, china, japan, korea, research, teaching, asian studies, ccs, cks, cjs, gas, chinese studies, japanese studies, korean studies, mongolian studies, iup, iub, inter university program, university of california, berkeley, uc" />
+<link rel="shortcut icon" href="../images/ieas/favicon.ico" type="image/x-icon" />
+  <link href="../css/tcsrs.css" rel="stylesheet" type="text/css" />
+  <link href="../css/superfish.css" rel="stylesheet" type="text/css" />
+  <script src="http://use.typekit.net/jmm5rij.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <!--[if lte IE 7]><link href="css/iehacks.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="../js/jquery.js"></script>
+  <!--[if IE 6]>
+  <script type="text/javascript" src="js/ie6pngfix.js"></script>
+  <script type="text/javascript">
+    DD_belatedPNG.fix('img, ul, ol, li, div, p, a, h1, h2, h3, h4, h5, h6, input, span');
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="../js/superfish.js"></script>
+  <script type="text/javascript">
+    jQuery(function(){
+      jQuery('ul.sf-menu').superfish();
+    });
+  </script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17213142-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div class="wpr">
+
+  <!-- header -->
+  <div id="header-alt">
+  
+    <!-- logo -->
+    <a href="../tcsrs/"><img id="logo-alt" src="../images/tcsrs-logo.png" alt="Home" title="Home" /></a>
+    <!-- / logo -->
+    
+  </div>
+  <!-- / header -->
+  
+  
+  
+	<!-- menu -->
+	<div class="menu">
+   	    <!-- search form -->
+        <div class="search-form">
+            <form action="http://www.google.com/cse" id="cse-search-box">
+                <input type="hidden" name="cx" value="005374789437740744405:xlgjwztgfnm" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <ul>
+                  <li><input id="q" type="text" name="q" class="searchfield" value="" /></li>
+                  <li><button type="submit" name="sa" class="submitbtn" />SEARCH</li>
+                </ul>
+            </form>
+        </div>
+   	    <!-- / search form --> 
+    </div>
+  
+  
+  <!-- main body -->
+
+    <div id="middle">
+  
+    <!-- left column -->
+    <div id="left" class="clearingfix">
+    
+      <!-- left menu -->
+      <div class="categories">
+        <ul>
+          <li><a href="../tcsrs/">Home</a></li>
+          <li><a href="about.html">About TCSRS</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="people.html">People</a></li>
+          <li><a href="courses.html">Courses</a></li>
+          <li><a href="frg.html">Faculty Research Grants</a></li>
+          <li><a href="srg.html">Student Research Grants</a></li>
+          <li><a href="partnerships.html">Partnerships</a></li>
+          <li><a href="webcasts.html">Webcasts</a></li>
+          <li><a href="resources.html">Resources</a></li>
+          <li><a href="k12.html">K-12 Connections</a></li>
+          <li><a href="giving.html">Giving to TCSRS</a></li>
+          <li><a href="mailing.html">Mailing List</a></li>
+          <li><a href="../">IEAS Home</a></li>
+        </ul>
+      </div>
+      <div class="callout content">
+	      <!-- Callout goes here-->
+      </div>
+      <!-- / left menu -->
+          <div class="ieas">
+
+			  <p align="center"><a href="https://www.facebook.com/TCSRS" target="_blank"><img src="../images/sm_icons_28px/facebook28.png" alt="facebook icon" title="facebook icon" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/TCSRS_Berkeley" target="_blank"><img src="../images/sm_icons_28px/twitter28_ro.png" alt="twitter icon" title="twitter icon" /></a></p>
+ 
+      </div>    
+    </div>
+    <!-- / left column -->
+    
+    <div id="main" class="clearingfix">
+      <div id="mainmiddle" class="floatbox">
+      
+        <!-- featured section -->
+        <div class="featured"><!-- InstanceBeginEditable name="BodyPhoto" --><img src="../images/tcsrs/insidebanner4.jpg" alt="banner" title="banner" /><!-- InstanceEndEditable --></div>
+        <!-- / featured section -->
+      
+        <div class="featured-bottom">
+          <div class="breadcrumb"><!-- InstanceBeginEditable name="breadcrumb" --><span>you are here:</span> <a href="../">IEAS</a> &gt;&gt; <a href="../tcsrs/">TCSRS</a> &gt;&gt; Courses<!-- InstanceEndEditable --></div>
+        </div>
+
+        <!-- welcome -->
+        <div class="welcome"><!-- InstanceBeginEditable name="body" -->
+        <h1>Courses</h1>
+        
+        <p><strong>TCSRS compiles a list of Silk Road related courses each semester as an informational service to the university community. The Center does not actually offer the courses. Questions about any of the courses listed below should be directed to the department listed above the course.</strong></p>
+
+
+<p>Updated June 12, 2017</p>
+
+<h2>Fall 2017</h2>
+
+<h3><a href="http://ealc.berkeley.edu/" target="_blank">East Asian Languages and Cultures</a></h3>
+<ul>
+<li>Tibetan 1A 001: Elementary Tibetan</li>
+<li>Tibetan C114 001: Tibetan Buddhism</li>
+<li>Tibetan 110A 001: Intensive Readings in Tibetan</li>
+<li>Tibetan C224 001: Readings in Tibetan Buddhist Texts</li>
+<li>MONGOLN 1A 001: Elementary Mongolian</li>
+<li>MONGOLN 110 001: Literary Mongolian</li>
+<li>EALANG C175 001: Archaeology of East Asia</li>
+</ul><br />
+
+
+
+<h3><a href="http://arthistory.berkeley.edu/" target="_blank">History of Art</a></h3>
+<ul>
+<li>History 131A 001: Sacred Arts in China</li>
+<li>HISTART 192A 001<br />
+&#8211; Undergraduate Seminar: Problems in Research and Interpretation<br />
+&#8211; Undergraduate Seminar: Art Across the High Seas: Maritime Trade and the Global before Globalization</li>
+</ul><br />
+
+
+
+<h3><a href="http://anthropology.berkeley.edu/" target="_blank">Anthropology</a></h3>
+<ul>
+<li>ANTHRO C125A 001: Archaeology of East Asia</li>
+</ul><br />
+
+
+
+<h3><a href="http://buddhiststudies.berkeley.edu/" target="_blank">Buddhist Studies Graduate Group</a></h3>
+<ul>
+<li>BUDDSTD C50 001: Introduction to the Study of Buddhism</li>
+</ul><br />
+
+
+
+<h3><a href="http://nes.berkeley.edu/" target="_blank">Near Eastern Studies</a></h3>
+<ul>
+<li>Turkish 1A 001: Elementary Modern Turkish</li>
+<li>Turkish 100A 001: Intermediate Modern Turkish</li>
+<li>Introduction to Central Asia</li>
+</ul><br />
+
+
+
+<h3><a href="http://geography.berkeley.edu/" target="_blank">Geography</a></h3>
+<ul>
+<li>GEOG C55 001: Introduction to Central Asia</li>
+</ul><br />
+
+
+
+<h3><a href="http://slavic.berkeley.edu/" target="_blank">Slavic Languages and Literatures</a></h3>
+<ul>
+<li>SLAVIC 50 001: Introduction to Russian/East European/Eurasian Cultures</li>
+<li>SLAVIC 100 001: Seminar: Russian, East European, and Eurasian Cultures</li>
+<li>SLAVIC 100L 001: Advanced Readings in Russian, East European and Eurasian Languages</li>
+<li>SLAVIC 100R 001: Research in Russian, East European and Eurasian Studies</li>
+</ul><br />
+
+
+
+<h3><a href="http://history.berkeley.edu/" target="_blank">History</a></h3>
+<ul>
+<li>History 109B 001: The Middle East, 1000-1750</li>
+<li>History 116G 001: Imperial China and the World</li>
+<li>History 6A 001: History of China: Origins to the Mongol Conquest</li>
+<li>History 100AP 002: Shipwrecked: Conversion, Redemption, and Salvation in Shipwreck Narratives</li>
+</ul><br />
+
+
+        
+
+
+        <!-- InstanceEndEditable --></div>
+        <!-- / welcome -->
+
+      </div>
+    </div>
+  
+  </div>
+  <!-- / main body -->
+  
+  
+  
+  <!-- footer -->
+    <div id="footer">
+  	<div class="footer-address">
+      &copy; 2017 &#8226; P.Y. and Kinmay W. Tang Center for Silk Road Studies<br />
+      University of California, Berkeley<br />
+      1995 University Avenue, Suite 510D<br />
+      Berkeley, CA 94704-2318 &#8226; 510.642.0333 &#8226; <a href="mailto:tangsilkroadcenter@berkeley.edu">tangsilkroadcenter@berkeley.edu</a><br />
+    </div>
+
+    <div class="footer-logo">
+    <a href="http://www.berkeley.edu/"> 
+      <img id="berkeley" src="../images/ucb-logo-white.png" alt="UC Berkeley" title="UC Berkeley"/> 
+    </a>
+    </div>
+	</div>
+  <!-- / footer -->
+  
+  </div>
+</div>
+<!-- / wrapper -->
+
+</body>
+<!-- InstanceEnd --></html>

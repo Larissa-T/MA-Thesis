@@ -1,0 +1,358 @@
+http://iseees.berkeley.edu/courses /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Slavic and East European Courses at Berkeley | ISEEES</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/iseees_theme/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/nice_menus/nice_menus.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/iseees_theme/iseees.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/iseees_theme/iseees_nice_menus.css?r" />
+	
+<!--[if IE]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/iseees_theme/ie.css?B" />
+<![endif]-->	
+	
+    <script type="text/javascript" src="/misc/jquery.js?r"></script>
+<script type="text/javascript" src="/misc/drupal.js?r"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?r"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?r"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+
+
+<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-26030469-3']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
+
+
+</head>
+<body>
+
+<div id="container">
+    <div id="header">
+        <a href="/" title="Home" rel="home"><h1 id="logo">ISEEES</h1></a>
+        <div id="shtop">University of California, Berkeley</div>
+        <div id="shbottom">Institute of Slavic, East European, and Eurasian Studies</div>
+    </div>
+    <div id="navbar">
+        
+<div id="block-nice_menus-1" class="">
+
+
+<ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-162" class="menuparent menu-path-node-10"><a href="/index.php?q=history" title="About&amp;nbsp;Us">About Us</a><ul><li id="menu-178" class="menu-path-node-10"><a href="/index.php?q=history" title="History and Mission">History and Mission</a></li>
+<li id="menu-179" class="menu-path-node-11"><a href="/index.php?q=nrc" title="National Resource Center">National Resource Center</a></li>
+<li id="menu-256" class="menu-path-node-69"><a href="/index.php?q=news" title="Institute News">Institute News</a></li>
+<li id="menu-257" class="menu-path-node-70"><a href="/index.php?q=staff" title="Institute Staff">Institute Staff</a></li>
+<li id="menu-207" class="menu-path-node-32"><a href="/index.php?q=faculty" title="Affiliated Faculty">Affiliated Faculty</a></li>
+<li id="menu-444" class="menu-path-node-106"><a href="/index.php?q=conf-grants" title="ISEEES Conference Grants">ISEEES Conference Grants for Affiliated Faculty</a></li>
+<li id="menu-182" class="menu-path-node-14"><a href="/index.php?q=visitors" title="Visiting Scholars at ISEEES">Current Visiting Scholars</a></li>
+<li id="menu-233" class="menu-path-node-59"><a href="/index.php?q=studies" title="Slavic, East European, and Eurasian Studies at Berkeley">Slavic, East European, and Eurasian Studies at Berkeley</a></li>
+</ul>
+</li>
+<li id="menu-163" class="menuparent menu-path-events.berkeley.edu-index.php-calendar-sn-iseees.html"><a href="http://events.berkeley.edu/index.php/calendar/sn/iseees.html" title="Events">Events</a><ul><li id="menu-183" class="menu-path-events.berkeley.edu-index.php-calendar-sn-iseees.html"><a href="http://events.berkeley.edu/index.php/calendar/sn/iseees.html" title="ISEEES Public Events">ISEEES Public Events</a></li>
+<li id="menu-213" class="menu-path-node-38"><a href="/index.php?q=outreach_conference" title="Teacher Outreach Conference">Teacher Outreach Conference</a></li>
+<li id="menu-217" class="menu-path-node-43"><a href="/index.php?q=podcasts" title="ISEEES Podcasts and Webcasts">ISEEES Podcasts and Webcasts</a></li>
+<li id="menu-187" class="menu-path-node-19"><a href="/index.php?q=listserv" title="Join Events Listserv">Join Events Listserv</a></li>
+</ul>
+</li>
+<li id="menu-164" class="menuparent menu-path-node-3"><a href="/index.php?q=programs" title="Programs">Programs</a><ul><li id="menu-199" class="menu-path-node-26"><a href="/index.php?q=_bps_" title="Berkeley Program in Eurasian and East European Studies">Berkeley Program in Eurasian and East European Studies</a></li>
+<li id="menu-193" class="menu-path-node-22"><a href="/index.php?q=asp" title="Program_1">Armenian Studies Program</a></li>
+<li id="menu-443" class="menu-path-node-101"><a href="/index.php?q=vsp" title="ISEEES Visiting Scholars Program">Visiting Scholars Program</a></li>
+<li id="menu-194" class="menu-path-node-23"><a href="/index.php?q=eucenter" title="program_2">EU Center of Excellence</a></li>
+<li id="menu-218" class="menu-path-node-44"><a href="/index.php?q=case-crrc" title="UC Berkeley CASE-CRRC Project">UC Berkeley CASE-CRRC Project</a></li>
+</ul>
+</li>
+<li id="menu-165" class="menuparent menu-path-node-4"><a href="/index.php?q=node/4" title="Publications">Publications</a><ul><li id="menu-219" class="menu-path-node-45"><a href="/index.php?q=newsletters" title="ISEEES Newsletters">ISEEES Newsletters</a></li>
+<li id="menu-220" class="menu-path-node-46"><a href="/index.php?q=bps/publications.html" title="BPS Working Papers Series">BPS Working Papers</a></li>
+<li id="menu-221" class="menu-path-node-47"><a href="/index.php?q=bps/caucasus/publications.html" title="Caucasus and Central Asia Newsletter">Caucasus and Central Asia Newsletter</a></li>
+<li id="menu-222" class="menu-path-node-48"><a href="/index.php?q=bps/caucasus/articles.html" title="Articles on the Caucasus and Central Asia">Articles on the Caucasus and Central Asia</a></li>
+</ul>
+</li>
+<li id="menu-166" class="menuparent menu-path-node-121"><a href="/index.php?q=studentresources" title="Resources for UC Berkeley Undergraduate and Graduate Students">Student Resources</a><ul><li id="menu-203" class="menu-path-node-27"><a href="/index.php?q=iseees_fellowships" title="ISEEES Fellowships">ISEEES Fellowships</a></li>
+<li id="menu-232" class="menu-path-node-58"><a href="/index.php?q=FLAS" title="Foreign Language and Area Studies Fellowships">Foreign Language and Area Studies Fellowships</a></li>
+<li id="menu-224" class="menu-path-node-55"><a href="/index.php?q=fellowships" title="External Funding Opportunities">External Funding Opportunities</a></li>
+<li id="menu-456" class="menu-path-iseees.berkeley.edu-courses"><a href="http://iseees.berkeley.edu/courses" title="">Course Offerings</a></li>
+<li id="menu-452" class="menu-path-node-122"><a href="/index.php?q=studyabroad" title="Study Abroad Opportunities for Students">Study Abroad Opportunites</a></li>
+<li id="menu-453" class="menu-path-node-123"><a href="/index.php?q=sumlangprog" title="Summer Language Programs in the United States">Domestic Summer Language Programs for Students</a></li>
+<li id="menu-454" class="menu-path-node-124"><a href="/index.php?q=dobroslovo" title="Dobro Slovo National Slavic Honor Society">Dobro Slovo National Slavic Honor Society</a></li>
+</ul>
+</li>
+<li id="menu-167" class="menuparent menu-path-node-17"><a href="/index.php?q=outreach" title="Resources">Outreach</a><ul><li id="menu-185" class="menu-path-node-17"><a href="/index.php?q=outreach" title="Outreach to Educators">Outreach to Educators</a></li>
+<li id="menu-451" class="menu-path-node-118"><a href="/index.php?q=node/118" title="">Curriculum Modules</a></li>
+<li id="menu-214" class="menu-path-node-39"><a href="/index.php?q=ed-links" title="Links for Educators">Links for Educators</a></li>
+<li id="menu-215" class="menu-path-node-40"><a href="/index.php?q=conf-archive" title="Past Teacher Conferences">Past Teacher Conferences</a></li>
+<li id="menu-186" class="menu-path-node-18"><a href="/index.php?q=speakers" title="Speakers Bureau">Speakers Bureau</a></li>
+</ul>
+</li>
+<li id="menu-168" class="menuparent menu-path-node-33"><a href="/index.php?q=resources" title="Links">Links</a><ul><li id="menu-208" class="menu-path-node-33"><a href="/index.php?q=resources" title="Campus Resources">Campus Resources</a></li>
+<li id="menu-209" class="menu-path-node-34"><a href="/index.php?q=nrcs" title="National Resource Centers for Russia/East Europe">National Resource Centers</a></li>
+<li id="menu-210" class="menu-path-node-35"><a href="/index.php?q=prof-org" title="Professional Organizations">Professional Organizations</a></li>
+<li id="menu-211" class="menu-path-node-36"><a href="/index.php?q=regional-links" title="Regional Links">Regional Links</a></li>
+</ul>
+</li>
+<li id="menu-169" class="menuparent menu-path-node-29"><a href="/index.php?q=give" title="Giving">Giving</a><ul><li id="menu-204" class="menu-path-node-29"><a href="/index.php?q=give" title="Make a Gift to ISEEES">Make a Gift to ISEEES</a></li>
+<li id="menu-205" class="menu-path-node-30"><a href="/index.php?q=how-to-give" title="How To Make a Donation">How To Make a Donation</a></li>
+</ul>
+</li>
+</ul>
+
+</div>    </div>
+    
+        
+    <div id="bottom">
+        <div id="bottomwrap" class="clearfix">
+            <div id="contentwrap">
+                <div id="content">
+                
+                                    
+                    
+                                    
+                                        
+                    <h1>Slavic and East European Courses at Berkeley</h1>
+                                        
+                                
+                                
+				
+            
+                <div id="node-61" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <h2><strong>Courses, Spring 2016</strong><br /></h2> <h4><em>Language and Select Area Studies Course Offerings</em><span> </span></h4> <ul> <li><a href="#history">History</a></li> <li><span><a href="#ias">International and Area Studies (IAS)<br /></a></span></li> <li><a href="#pe">Political Economy</a></li> <li><span><a href="#polisci">Political Science</a></span></li> <li><span><a href="#slavic">Slavic Languages and Literatures</a></span></li> <li><span><a href="#langs">Language Courses<br /></a></span><a href="#langs"><br /></a></li><li><a href="http://schedule.berkeley.edu/"> </a>Be sure to check the <a href="http://schedule.berkeley.edu/">Schedule of Classes</a> for the most up-to-date information about course offerings. If you have questions about a course, please contact the department offering the course. All langauge courses listed are offered by the Department of Slavic Languages and Literatures.</li> </ul> <p>&nbsp;</p> <h4><a name="history"></a><a href="http://history.berkeley.edu/"><span>History</span></a></h4> <p>&mdash;History 101. <em>Seminar in Historical Research and Writing for History: Early Modern Europe</em>. MWF 3-4p. M W Dean.<br />&mdash;History 103B. <em>Europe</em>. W 2-4p. Yu Slezkine.<br />&mdash;History 158C. <em>Old and New Europe, 1914 to the Present</em>. MWF 3-4p. M W Dean.<br />&mdash;History 160. <em>The International Economy of the 20th Century</em>. MWF 12-1p. A Milivojevic.<br />&mdash;History 171C. <em>The Soviet Union, 1917 to the Present</em>. TR 330-5p. Yu Slezkine.<br />&mdash;History 173C. <em>History of Eastern Europe: From 1900 to the Present</em>. MWF 11-12p. J Connelly.</p> <h4><span><a name="ias"></a><a href="http://iastp.berkeley.edu/">International and Area Studies (IAS)</a><br /></span></h4> <p>&mdash;IAS 194. <em>Nations and Empires in the Global 20th Century</em>. R 4-6p. D I Beecher.</p> <h4><span></span><a name="pe"></a><a href="http://iastp.berkeley.edu/pe">Political Economy</a><br /></h4> <p>&mdash;Political Economy 101. <em>Contemporary Theories of Political Economy</em>. TR 11-1230p. D I Beecher.</p> <h4><a name="polisci" href="http://www.polisci.berkeley.edu/"></a><a href="http://polisci.berkeley.edu">Department        of Political Science</a></h4> <p>&mdash;Political Science 149N. <em>Nations, Nationalism, and Conflict in the Soviet Successor States</em>. R 12-2p. E W Walker.</p><h4><a name="slavic" href="http://ls.berkeley.edu/dept/slavic/">Department of Slavic Languages and Literatures</a></h4> <p>&mdash;Slavic R5A. <em>In the Zone</em>. TR 8-930a. GSI TBD.<br />&mdash;Slavic R5A. <em>Encounters with Utopia</em>. MWF 8-9a. GSI TBD.<br />&mdash;Slavic R5B. <em>Strange Minds</em>. TR 8-930a. GSI TBD.<br /> &mdash;Slavic R5B. <em>Representing the Russian Peasant</em>. MWF 12-1p. GSI TBD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /> &mdash;Slavic 24. <em>Freshman Seminar: Topic TBA</em>. W 10-11a. R Alexander.<strong><br /> </strong>&mdash;Slavic 39L. <em>Russian Short Fiction</em>. TR 330-5p. L Golburt.<br />&mdash;Slavic 46. <em>Twentieth-Century Russian Literature: The Subversive Imagination: Russian Literary Responses to the Soviet Experience and Its Aftermath</em>. TR 330-5p. M Douzjian.<strong><br /> </strong>&mdash;Slavic 50. <em>Introduction to Russian/East European/Eurasian Cultures.</em> MWF 10-11a. D Kavitskaya.<strong><br /></strong>&mdash;Armenian 124. <em>Armenian Literature in Social Context</em>. W 2-4p. M Douzjian.<br />&mdash;Slavic 134C. <em>Dostoevsky.</em> TR 930-11a. E Naiman.<em><br /> </em>&mdash;Slavic 138/Film and Media 160. <em>Dziga Vertov in Context</em>. Lecture: MW 1230-2p, Lab: W 3-6p. A Nesbet.<strong><br /> </strong>&mdash;Slavic 147A. <em>East Slavic Folklore</em>. TR 1230-2p. R Alexander.<br /> &mdash;Slavic 161. <em>Readings in Czech Literature</em>. MWF 9-10a. E Langer.<br />&mdash;Slavic 170. <em>Survey of Yugoslav Literatures</em>. TR 330-5p. R Alexander.<br />&mdash;Slavic 190. <em>Russian Culture Taught in Russian: Country, Identity, and Language</em>. TR 2-330p. A Muza.</p> <h4><strong><a name="langs"></a></strong>Language Courses<strong>:<br /></strong></h4><p><br />&mdash;Armenian 1B. <em>Introductory Armenian</em>. TR 11-1230p. H Seropian.<br />&mdash;Armenian 101B. <em>Continuing Armenian</em>. TR 1230-2p. H Seropian.<br /><br />&mdash;Bosnian/Croatian/Serbian 27B. <em>Introductory BCS</em>. MTWRF 9-10a. Instructor TBD.<br />&mdash;Bosnian/Croatian/Serbian 117B. <em>Continuing BCS</em>. MWF 11-12p. M Janjic.<br /><br />&mdash;Czech 26B. <em>Introductory Czech</em>. MTWRF 9-10a. Instructor TBD.<br />&mdash;Czech 116B. <em>Continuing Czech</em>. MWF 12-1p. E Langer.<br /><br />&mdash;Hungarian 1B. <em>Introductory Hungarian</em>. TR 11-1230p. E Szőke.<br />&mdash;Hungarian 100. <em>Readings in Hungarian</em>. TR 1-2p. E Szőke.<br /><br />&mdash;Polish 25B. <em>Introductory Polish</em>. MTWRF 12-1p. K Zacha.<br />&mdash;Polish 115B. <em>Continuing Polish</em>. MWF 10-11a. K Zacha.<br /><br />&mdash;Russian 1, Sec. 1. <em>Elementary Russian</em>. MTWRF 11-12p. GSI TBD.<br />&mdash;Russian 1, Sec. 2. <em>Elementary Russian</em>. MTWRF 1-2p. GSI TBD.<br />&mdash;Russian 2. <em>Elementary Russian</em>. MTWRF 11-12p. GSI TBD.<br />&mdash;Russian 3. <em>Intermediate Russian</em>. MTWRF 11-12p. GSI TBD.<br />&mdash;Russian 4. <em>Intermediate Russian</em>. MTWRF 11-12p. GSI TBD.<br />&mdash;Russian 6B. <em>Introductory Russian for Heritage Speakers</em>. MWF 11-12p. A Muza.<br />&mdash;Russian 103B. <em>Advanced Russian</em>. TR 11-1230p. A Muza.<br />&mdash;Russian 120B. <em>Advanced Russian Conversation and Communication</em>. MWF 1-2p. L Little.<br />&mdash;Russian 190. <em>Russian Culture Taught in Russian: Country, Identity, and Language</em>. TR 2-330p. A Muza.<br />&mdash;Russian 201. <em>Advanced Russian Proficiency Maintenance</em>. M 1-4p. A Muza.</p><p>&nbsp;</p>  </div>
+
+  </div>
+            
+                
+                
+                                
+                </div>
+            </div>
+            <div id="sidebarwrap">
+            
+                                <div id="sbphoto" style="background: #EEEEEE url(/sites/default/files/sbphotos/sidebar3.jpg) no-repeat;"></div>
+                            
+                <div id="sidebar">
+                
+                    
+<div id="block-block-3" class="">
+
+
+<h2>Quick Links</h2><p><a href="/news">Institute News</a></p><p><a href="/faculty">Affiliated Faculty</a></p><p><a href="/index.php?q=newsletters">Institute Newsletter</a></p><p><a href="/outreach">K-12 Resources</a></p><p><a href="/index.php?q=listserv">Join Events Listserv</a></p><p><a href="/">Home</a></p>
+</div>
+<div id="block-block-12" class="">
+
+
+<h2>Contact</h2> <p>260 Stephens Hall #2304<br /> Berkeley, CA 94720-2304<br /> <a href="mailto:iseees@berkeley.edu">iseees@berkeley.edu</a><br /> Tel: (510) 642-3230<br /> Fax: (510) 643-5045</p>
+</div>
+<div id="block-block-19" class="">
+
+<h2>Search ISEEES</h2>
+
+<form id="cse-search-box" action="http://www.google.com/cse"> <input name="cx" type="hidden" value="000094458172548231866:ckvv0zttfta" /> <input name="ie" type="hidden" value="UTF-8" /> <input style="margin: 5px 0px; width: 100px;" name="q" type="text" /> <input style="margin-right:0px;padding:0px 3px 0px 3px;" name="sa" type="submit" value="Search" /> </form> <div><img style="vertical-align:middle;" src="http://www.google.com/images/poweredby_transparent/poweredby_DDDDDD.gif" alt="Google" /> Custom Search</div>
+</div>                
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        © 2009 - 2015, Regents of the University of California. All rights reserved.  | University of California, Berkeley | <a href="/privacy">Privacy Statement</a>    </div>
+<div>
+
+  
+</body>
+</html>
+    
+http://iseees.berkeley.edu/index.php?q=programs /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Programs | ISEEES</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/iseees_theme/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/nice_menus/nice_menus.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/iseees_theme/iseees.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/iseees_theme/iseees_nice_menus.css?r" />
+	
+<!--[if IE]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/iseees_theme/ie.css?B" />
+<![endif]-->	
+	
+    <script type="text/javascript" src="/misc/jquery.js?r"></script>
+<script type="text/javascript" src="/misc/drupal.js?r"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?r"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?r"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+
+
+<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-26030469-3']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
+
+
+</head>
+<body>
+
+<div id="container">
+    <div id="header">
+        <a href="/" title="Home" rel="home"><h1 id="logo">ISEEES</h1></a>
+        <div id="shtop">University of California, Berkeley</div>
+        <div id="shbottom">Institute of Slavic, East European, and Eurasian Studies</div>
+    </div>
+    <div id="navbar">
+        
+<div id="block-nice_menus-1" class="">
+
+
+<ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-162" class="menuparent menu-path-node-10"><a href="/index.php?q=history" title="About&amp;nbsp;Us">About Us</a><ul><li id="menu-178" class="menu-path-node-10"><a href="/index.php?q=history" title="History and Mission">History and Mission</a></li>
+<li id="menu-179" class="menu-path-node-11"><a href="/index.php?q=nrc" title="National Resource Center">National Resource Center</a></li>
+<li id="menu-256" class="menu-path-node-69"><a href="/index.php?q=news" title="Institute News">Institute News</a></li>
+<li id="menu-257" class="menu-path-node-70"><a href="/index.php?q=staff" title="Institute Staff">Institute Staff</a></li>
+<li id="menu-207" class="menu-path-node-32"><a href="/index.php?q=faculty" title="Affiliated Faculty">Affiliated Faculty</a></li>
+<li id="menu-444" class="menu-path-node-106"><a href="/index.php?q=conf-grants" title="ISEEES Conference Grants">ISEEES Conference Grants for Affiliated Faculty</a></li>
+<li id="menu-182" class="menu-path-node-14"><a href="/index.php?q=visitors" title="Visiting Scholars at ISEEES">Current Visiting Scholars</a></li>
+<li id="menu-233" class="menu-path-node-59"><a href="/index.php?q=studies" title="Slavic, East European, and Eurasian Studies at Berkeley">Slavic, East European, and Eurasian Studies at Berkeley</a></li>
+</ul>
+</li>
+<li id="menu-163" class="menuparent menu-path-events.berkeley.edu-index.php-calendar-sn-iseees.html"><a href="http://events.berkeley.edu/index.php/calendar/sn/iseees.html" title="Events">Events</a><ul><li id="menu-183" class="menu-path-events.berkeley.edu-index.php-calendar-sn-iseees.html"><a href="http://events.berkeley.edu/index.php/calendar/sn/iseees.html" title="ISEEES Public Events">ISEEES Public Events</a></li>
+<li id="menu-213" class="menu-path-node-38"><a href="/index.php?q=outreach_conference" title="Teacher Outreach Conference">Teacher Outreach Conference</a></li>
+<li id="menu-217" class="menu-path-node-43"><a href="/index.php?q=podcasts" title="ISEEES Podcasts and Webcasts">ISEEES Podcasts and Webcasts</a></li>
+<li id="menu-187" class="menu-path-node-19"><a href="/index.php?q=listserv" title="Join Events Listserv">Join Events Listserv</a></li>
+</ul>
+</li>
+<li id="menu-164" class="menuparent menu-path-node-3"><a href="/index.php?q=programs" title="Programs" class="active">Programs</a><ul><li id="menu-199" class="menu-path-node-26"><a href="/index.php?q=_bps_" title="Berkeley Program in Eurasian and East European Studies">Berkeley Program in Eurasian and East European Studies</a></li>
+<li id="menu-193" class="menu-path-node-22"><a href="/index.php?q=asp" title="Program_1">Armenian Studies Program</a></li>
+<li id="menu-443" class="menu-path-node-101"><a href="/index.php?q=vsp" title="ISEEES Visiting Scholars Program">Visiting Scholars Program</a></li>
+<li id="menu-194" class="menu-path-node-23"><a href="/index.php?q=eucenter" title="program_2">EU Center of Excellence</a></li>
+<li id="menu-218" class="menu-path-node-44"><a href="/index.php?q=case-crrc" title="UC Berkeley CASE-CRRC Project">UC Berkeley CASE-CRRC Project</a></li>
+</ul>
+</li>
+<li id="menu-165" class="menuparent menu-path-node-4"><a href="/index.php?q=node/4" title="Publications">Publications</a><ul><li id="menu-219" class="menu-path-node-45"><a href="/index.php?q=newsletters" title="ISEEES Newsletters">ISEEES Newsletters</a></li>
+<li id="menu-220" class="menu-path-node-46"><a href="/index.php?q=bps/publications.html" title="BPS Working Papers Series">BPS Working Papers</a></li>
+<li id="menu-221" class="menu-path-node-47"><a href="/index.php?q=bps/caucasus/publications.html" title="Caucasus and Central Asia Newsletter">Caucasus and Central Asia Newsletter</a></li>
+<li id="menu-222" class="menu-path-node-48"><a href="/index.php?q=bps/caucasus/articles.html" title="Articles on the Caucasus and Central Asia">Articles on the Caucasus and Central Asia</a></li>
+</ul>
+</li>
+<li id="menu-166" class="menuparent menu-path-node-121"><a href="/index.php?q=studentresources" title="Resources for UC Berkeley Undergraduate and Graduate Students">Student Resources</a><ul><li id="menu-203" class="menu-path-node-27"><a href="/index.php?q=iseees_fellowships" title="ISEEES Fellowships">ISEEES Fellowships</a></li>
+<li id="menu-232" class="menu-path-node-58"><a href="/index.php?q=FLAS" title="Foreign Language and Area Studies Fellowships">Foreign Language and Area Studies Fellowships</a></li>
+<li id="menu-224" class="menu-path-node-55"><a href="/index.php?q=fellowships" title="External Funding Opportunities">External Funding Opportunities</a></li>
+<li id="menu-456" class="menu-path-iseees.berkeley.edu-courses"><a href="http://iseees.berkeley.edu/courses" title="">Course Offerings</a></li>
+<li id="menu-452" class="menu-path-node-122"><a href="/index.php?q=studyabroad" title="Study Abroad Opportunities for Students">Study Abroad Opportunites</a></li>
+<li id="menu-453" class="menu-path-node-123"><a href="/index.php?q=sumlangprog" title="Summer Language Programs in the United States">Domestic Summer Language Programs for Students</a></li>
+<li id="menu-454" class="menu-path-node-124"><a href="/index.php?q=dobroslovo" title="Dobro Slovo National Slavic Honor Society">Dobro Slovo National Slavic Honor Society</a></li>
+</ul>
+</li>
+<li id="menu-167" class="menuparent menu-path-node-17"><a href="/index.php?q=outreach" title="Resources">Outreach</a><ul><li id="menu-185" class="menu-path-node-17"><a href="/index.php?q=outreach" title="Outreach to Educators">Outreach to Educators</a></li>
+<li id="menu-451" class="menu-path-node-118"><a href="/index.php?q=node/118" title="">Curriculum Modules</a></li>
+<li id="menu-214" class="menu-path-node-39"><a href="/index.php?q=ed-links" title="Links for Educators">Links for Educators</a></li>
+<li id="menu-215" class="menu-path-node-40"><a href="/index.php?q=conf-archive" title="Past Teacher Conferences">Past Teacher Conferences</a></li>
+<li id="menu-186" class="menu-path-node-18"><a href="/index.php?q=speakers" title="Speakers Bureau">Speakers Bureau</a></li>
+</ul>
+</li>
+<li id="menu-168" class="menuparent menu-path-node-33"><a href="/index.php?q=resources" title="Links">Links</a><ul><li id="menu-208" class="menu-path-node-33"><a href="/index.php?q=resources" title="Campus Resources">Campus Resources</a></li>
+<li id="menu-209" class="menu-path-node-34"><a href="/index.php?q=nrcs" title="National Resource Centers for Russia/East Europe">National Resource Centers</a></li>
+<li id="menu-210" class="menu-path-node-35"><a href="/index.php?q=prof-org" title="Professional Organizations">Professional Organizations</a></li>
+<li id="menu-211" class="menu-path-node-36"><a href="/index.php?q=regional-links" title="Regional Links">Regional Links</a></li>
+</ul>
+</li>
+<li id="menu-169" class="menuparent menu-path-node-29"><a href="/index.php?q=give" title="Giving">Giving</a><ul><li id="menu-204" class="menu-path-node-29"><a href="/index.php?q=give" title="Make a Gift to ISEEES">Make a Gift to ISEEES</a></li>
+<li id="menu-205" class="menu-path-node-30"><a href="/index.php?q=how-to-give" title="How To Make a Donation">How To Make a Donation</a></li>
+</ul>
+</li>
+</ul>
+
+</div>    </div>
+    
+        
+    <div id="bottom">
+        <div id="bottomwrap" class="clearfix">
+            <div id="contentwrap">
+                <div id="content">
+                
+                                    
+                    
+                                    
+                                        
+                    <h1>Programs</h1>
+                                        
+                                
+                                
+				
+            
+                <div id="node-3" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <h3>Berkeley Program in Eurasian and East European Studies</h3><p>The <a href="http://bps.berkeley.edu">Berkeley Program in Eurasian and East European Studies</a> (BPS) is a multidisciplinary graduate training and research program. The program helps its affiliated faculty and graduate students take advantage of the many new opportunities for innovative research on the former Soviet Union and Eastern Europe by awarding fellowships, language training grants, and dissertation fellowships; sponsoring new courses on understudied topics; and hosting visiting scholars. BPS organizes conferences, workshops, graduate student colloquia, and lectures by faculty and visiting speakers</p><h3>Armenian Studies Program</h3><p>The Armenian Studies Program was founded in 1994 by two endowments: the William Saroyan Endowment for a Visiting Professor in Armenian Studies and the Krouzian Study Center Endowment. ISEEES helps administer the program and sits on the Advisory Committee.<a href="#top"><br /></a></p><h3>Case/CRRC-UC Berkeley Field Project</h3><p>The <a href="/caseproject.html">Case-UC Berkeley Field Project</a> was established in 2006 by a grant from the Carnegie Corporation of New York to bring scholars at Centers for Advanced Studies and Education (CASE) universities in the Russian Federation to UC Berkeley in 2007, 2008, and 2009. Starting Fall 2009, the project will invite scholars from the South Caucasus in collaboration with the Caucasus Research Resource Centers (CRRC).<a href="/caseproject.html"><br /></a></p><h3><a href="http://eucenter.berkeley.edu">UC Berkeley European Union Center of Excellence</a></h3><p>The Institute of Slavic, East European, and Eurasian Studies and the Institute of European Studies at the University of California, Berkeley are pleased to announce the establishment of a new <a href="http://eucenter.berkeley.edu">European Union Center of Excellence</a> at UC Berkeley. A joint effort of these two Institutes, the EU Center is funded for three years with a &euro;300,000 grant from the European Commission in partnership with these Institutes and is working in cooperation with the School of Public Health, the Institute of Governmental Studies, the Berkeley Roundtable on the International Economy, and the Boalt Hall School of Law. With the creation of this EU Center of Excellence, UC Berkeley will play a vital role in promoting a deeper understanding of the European Union and raise the level of dialogue and discourse on transatlantic relations throughout the State of California.</p>  </div>
+
+  </div>
+            
+                
+                
+                                
+                </div>
+            </div>
+            <div id="sidebarwrap">
+            
+                                <div id="sbphoto" style="background: #EEEEEE url(/sites/default/files/sbphotos/sidebar3.jpg) no-repeat;"></div>
+                            
+                <div id="sidebar">
+                
+                    
+<div id="block-block-3" class="">
+
+
+<h2>Quick Links</h2><p><a href="/news">Institute News</a></p><p><a href="/faculty">Affiliated Faculty</a></p><p><a href="/index.php?q=newsletters">Institute Newsletter</a></p><p><a href="/outreach">K-12 Resources</a></p><p><a href="/index.php?q=listserv">Join Events Listserv</a></p><p><a href="/">Home</a></p>
+</div>
+<div id="block-block-12" class="">
+
+
+<h2>Contact</h2> <p>260 Stephens Hall #2304<br /> Berkeley, CA 94720-2304<br /> <a href="mailto:iseees@berkeley.edu">iseees@berkeley.edu</a><br /> Tel: (510) 642-3230<br /> Fax: (510) 643-5045</p>
+</div>
+<div id="block-block-19" class="">
+
+<h2>Search ISEEES</h2>
+
+<form id="cse-search-box" action="http://www.google.com/cse"> <input name="cx" type="hidden" value="000094458172548231866:ckvv0zttfta" /> <input name="ie" type="hidden" value="UTF-8" /> <input style="margin: 5px 0px; width: 100px;" name="q" type="text" /> <input style="margin-right:0px;padding:0px 3px 0px 3px;" name="sa" type="submit" value="Search" /> </form> <div><img style="vertical-align:middle;" src="http://www.google.com/images/poweredby_transparent/poweredby_DDDDDD.gif" alt="Google" /> Custom Search</div>
+</div>                
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        © 2009 - 2015, Regents of the University of California. All rights reserved.  | University of California, Berkeley | <a href="/privacy">Privacy Statement</a>    </div>
+<div>
+
+  
+</body>
+</html>
+    

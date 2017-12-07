@@ -1,0 +1,1373 @@
+http://creative.ugis.berkeley.edu/admission-cal /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3480" />
+<link rel="canonical" href="/admission-cal" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Admission To CAL | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"rGZsfYi34kiFjZZowND2Kk8iUXMPNaSFYX0p2POgAMs","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3480 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li color="#c2deea"><a href="/courses-1">Courses</a><ul><li><a href="/courses-creative-writing">Creative Writing</a></li><li><a href="/courses-literature-1">Literature (A-D)</a></li><li><a href="/courses-literature-e-g">Literature (E-G)</a></li><li><a href="/courses-literature-h-p">Literature (H-P)</a></li><li><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li class="current" color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li class="current"><a href="/admission-cal">Admission To CAL</a></li><li><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/resources">Resources</a></li>
+<li><a href="/admission-cal" class="active-trail active">Admission To CAL</a></li>
+<li><a href="/graduate-programs">Graduate Programs</a></li>
+<li><a href="/forms-downloads">Forms &amp; Downloads</a></li>
+<li><a href="/other-links">Other Links</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/resources" title="">Resources</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Admission To CAL</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3480" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>New students:</h3>
+<p>The Office of Undergraduate Admissions<br /><a class="course-link" href="http://www.uga.berkeley.edu/admissions/index.asp">http://www.uga.berkeley.edu/admissions/index.asp</a></p>
+<h3>Transfer students wondering which courses will count at Berkeley:</h3>
+<p>ASSIST<br /><a class="course-link" href="http://www.assist.org/">http://www.assist.org/</a></p>
+<p></p>
+<p>Community college courses will not count toward the Creative Writing Minor.<br />They are lower-division courses. Only upper-division courses may satisfy<br />Creative Writing Minor course requirements.</p>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://creative.ugis.berkeley.edu/courses-1 /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3459" />
+<link rel="canonical" href="/courses-1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Courses | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"JiMHfXZWvKDMezTrj87feHYYJmNO5lwl_yGYeUDswQw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3459 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li class="current" color="#c2deea"><a href="/courses-1">Courses</a><ul><li><a href="/courses-creative-writing">Creative Writing</a></li><li><a href="/courses-literature-1">Literature (A-D)</a></li><li><a href="/courses-literature-e-g">Literature (E-G)</a></li><li><a href="/courses-literature-h-p">Literature (H-P)</a></li><li><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li><a href="/admission-cal">Admission To CAL</a></li><li><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses-creative-writing">Creative Writing</a></li>
+<li><a href="/courses-literature-1">Literature (A-D)</a></li>
+<li><a href="/courses-literature-e-g">Literature (E-G)</a></li>
+<li><a href="/courses-literature-h-p">Literature (H-P)</a></li>
+<li><a href="/courses-literature-r-z">Literature (R-Z)</a></li>
+<li><a href="/fall">Fall</a></li>
+<li><a href="/spring">Spring</a></li>
+<li><a href="/summer">Summer</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Courses</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3459" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><span>Five approved upper-division courses are required, consisting of three courses in creative writing and two courses in literature. These courses may be taken in any of the departments that offer them. </span><a href="http://ugis.ls.berkeley.edu/creative/major.php?page=requirements">See Requirements.</a> See Courses (<a href="http://creative.ugis.berkeley.edu/courses-creative-writing">Creative Writing</a>, <a href="http://creative.ugis.berkeley.edu/courses-literature-1">Literature A - D</a>, <a href="http://creative.ugis.berkeley.edu/courses-literature-e-g">Literature E - G</a>, <a href="http://creative.ugis.berkeley.edu/courses-literature-h-p">Literature H - P</a> and <a href="http://creative.ugis.berkeley.edu/courses-literature-r-z">Literature R - Z</a>).</p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://creative.ugis.berkeley.edu/courses-creative-writing /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3477" />
+<link rel="canonical" href="/courses-creative-writing" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Courses in Creative Writing | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"iLwHh_9eKLPEgjDuYzkp_7rqB46AM1aw0_dZnUygSlk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3477 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li class="current" color="#c2deea"><a href="/courses-1">Courses</a><ul><li class="current"><a href="/courses-creative-writing">Creative Writing</a></li><li><a href="/courses-literature-1">Literature (A-D)</a></li><li><a href="/courses-literature-e-g">Literature (E-G)</a></li><li><a href="/courses-literature-h-p">Literature (H-P)</a></li><li><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li><a href="/admission-cal">Admission To CAL</a></li><li><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses-creative-writing" class="active-trail active">Creative Writing</a></li>
+<li><a href="/courses-literature-1">Literature (A-D)</a></li>
+<li><a href="/courses-literature-e-g">Literature (E-G)</a></li>
+<li><a href="/courses-literature-h-p">Literature (H-P)</a></li>
+<li><a href="/courses-literature-r-z">Literature (R-Z)</a></li>
+<li><a href="/fall">Fall</a></li>
+<li><a href="/spring">Spring</a></li>
+<li><a href="/summer">Summer</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses-1">Courses</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Courses in Creative Writing</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3477" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Courses That Satisfy the Creative Writing Requirements</h3>
+<div>Five approved upper-division courses are required, consisting of three courses in creative writing and two courses in literature. These courses may be taken in any of the departments that offer them. See <a href="requirements">Requirements</a>.</div>
+<p>Courses in both creative writing and literature are sometimes listed in the <a href="http://guide.berkeley.edu/">Berkeley Academic Guide</a> under very general headings ("Topics in ________" or "Special Topics"). Students may be allowed to include courses that are not on the following list with approval of the Creative Writing Minor Faculty Adviser. It is the responsibility of the student to provide the Faculty Adviser with documentary evidence to support the claim of course eligibility. Contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a> for more information.</p>
+<p>To determine if a course from the list below is being offered during a specific semester, visit the <a class="course-link" href="http://schedule.berkeley.edu/">Schedule of Classes</a>.</p>
+<p>NOTE: <strong>Three</strong> courses are required from this list. <strong>All</strong> of these courses must be taken for a letter grade.</p>
+<table><tbody><tr valign="top"><td width="50%">
+<p class="p1"><strong><a href="http://africam.berkeley.edu/">African American Studies</a><br /></strong>156AC. Poetry for the People: Introduction to the Art of Poetry<br />158A. Poetry for the People: The Writing and Teaching of Poetry<br />158B. Poetry for the People Practicum</p>
+<p class="p2"><strong><a href="http://as.ugis.berkeley.edu/">American Studies</a><br /></strong>C174. Visual Autobiography</p>
+<p class="p2"><strong><a href="http://aaads.berkeley.edu/">Asian American Studies</a><br /></strong>173. Creative Writing</p>
+<p class="p1"><strong><a href="http://writing.berkeley.edu/">College Writing Programs</a><br /></strong>130. Introduction to the Craft of Creative Writing<br />131. Introduction to the Craft of Creative Nonfiction<br />132. Introduction to the Craft of Short Fiction<br />133. Introduction to the Craft of Dramatic Writing<br />140B. Seminar-Workshop in Creative Writing<br />141. Seminar-Workshop on Creative Writing: The Novel</p>
+<p class="p1"><strong><a href="http://creative.ugis.berkeley.edu/">Creative Writing</a><br /></strong>120. Reading and Writing Poetry<br />130. Creative Prose</p>
+<p class="p1"><strong><a href="http://english.berkeley.edu/">English</a><br /></strong>141. Modes of Writing (Exposition, Fiction, Verse, Etc.)<br />N141. Modes of Writing (Exposition, Fiction, Verse, Etc.)<br />143A. Short Fiction<br />143B. Verse<br />143C. Long Narrative<br />143E. Playwriting<br />143N. Prose Nonfiction<br />143T. Poetry Translation Workshop<br />C143V. Visual Autobiography</p>
+<p class="p1"> </p>
+</td>
+<td class="two_td">
+<p class="p1"><strong><a href="http://ced.berkeley.edu/">Environmental Design</a><br /></strong>101A. Writing about Environmental Design: Short Compositions (3 or 4 units only)<br />101B. Writing about Environmental Design: Longer Compositions (3 or 4 units only)</p>
+<p class="p3"><strong><a href="http://filmmedia.berkeley.edu/">Film and Media Studies</a><br /></strong>180. Introduction to Screenwriting<br />181. Screenwriting</p>
+<p><strong><a href="http://french.berkeley.edu/">French<br /></a></strong>139. Creative Writing in French</p>
+<p><strong><a href="http://ethnicstudies.berkeley.edu/programs/nas.php">Native American Studies</a><br /></strong>150. Native American Narratives</p>
+<p class="p3"><strong><a href="http://tdps.berkeley.edu/?q=dept/theater/">Theater, Dance, and Performance Studies</a><br /></strong>139A. Fundamentals of Playwriting<br />139B. Playwriting</p>
+<p class="p3"><strong>Undergraduate and Interdisciplinary Studies<br /></strong>C135. Visual Autobiography </p>
+<p class="p3"><strong>Visual Studies<br /></strong>C185A. Visual Autobiography</p>
+</td>
+</tr></tbody></table><p>The Creative Writing Minor is offered by the Office of Undergraduate and Interdisciplinary Studies in the Undergraduate Division of the College of Letters and Science. The courses students take to satisfy the minor course requirements are offered by various departments around campus. If you have questions regarding the minor program and whether a course not on this list may be used for the minor, contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a>. If you have questions regarding an approved course on this list, contact the department and instructor offering the course. The departments and instructors determine when their courses will be offered and who is eligible to take their courses.      </p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://creative.ugis.berkeley.edu/courses-literature-1 /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3440" />
+<link rel="canonical" href="/courses-literature-1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Courses in Literature (A-D) | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"a0viQrNm2DkWYIziO740gTGgW6jcE_ZVHKb-X-wB6BU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3440 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li class="current" color="#c2deea"><a href="/courses-1">Courses</a><ul><li><a href="/courses-creative-writing">Creative Writing</a></li><li class="current"><a href="/courses-literature-1">Literature (A-D)</a></li><li><a href="/courses-literature-e-g">Literature (E-G)</a></li><li><a href="/courses-literature-h-p">Literature (H-P)</a></li><li><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li><a href="/admission-cal">Admission To CAL</a></li><li><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses-creative-writing">Creative Writing</a></li>
+<li><a href="/courses-literature-1" class="active-trail active">Literature (A-D)</a></li>
+<li><a href="/courses-literature-e-g">Literature (E-G)</a></li>
+<li><a href="/courses-literature-h-p">Literature (H-P)</a></li>
+<li><a href="/courses-literature-r-z">Literature (R-Z)</a></li>
+<li><a href="/fall">Fall</a></li>
+<li><a href="/spring">Spring</a></li>
+<li><a href="/summer">Summer</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses-1">Courses</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Courses in Literature (A-D)</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3440" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Courses That Satisfy the Creative Writing Requirements</h3>
+<p>Five approved upper-division courses are required, consisting of three courses in creative writing and two courses in literature. These courses may be taken in any of the departments that offer them. See <a href="requirements">Requirements</a>.</p>
+<p>Courses in both creative writing and literature are sometimes listed in the <a href="http://guide.berkeley.edu/">Berkeley Academic Guide</a> under very general headings ("Topics in ________" or "Special Topics"). Students may be allowed to include courses that are not on the following list with approval of the Creative Writing Minor Faculty Adviser. It is the responsibility of the student to provide the Faculty Adviser with documentary evidence to support the claim of course eligibility. Contact the Creative Writing Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a> for more information.</p>
+<p>To determine if a course from the list below is being offered during a specific semester, visit the <a class="course-link" href="http://schedule.berkeley.edu/">Schedule of Classes</a>.</p>
+<p>NOTE: <strong>Two</strong> courses are required from this list. <strong>Both</strong> of these courses must be taken for a letter grade.           </p>
+<table><tbody><tr valign="top"><td width="50%">
+<p class="p1"><strong><a href="http://africam.berkeley.edu/">African American Studies</a><br /></strong>C143B. Research-to-Performance Laboratory<br />C143C. Black Theatre Workshop<br />150B. African American Literature 1920 to Present<br />N150B. Survey of African American Literary Forms and Styles 1920 to 1980<br />C151B. Contemporary African American Drama<br />152F. Neo-Slave Narratives<br />153C. Novels of Toni Morrison<br />155. Literature of the Caribbean: Significant Themes<br />159. Special Topics in African American Literature (3 or 4 units only)</p>
+<p class="p2"><strong><a href="http://as.ugis.berkeley.edu/">American Studies</a><br /></strong>C152. Native American Literature</p>
+<p class="p2"><strong><a href="http://anthropology.berkeley.edu/">Anthropology</a><br /></strong>160AC. Forms of Folklore<br />161. Narrative Folklore<br />162. Topics in Folklore<br />N162. Introduction to Arabic Folklore</p>
+<p class="p2"><strong><a href="http://nes.berkeley.edu/">Arabic</a><br /></strong>104A. Modern Arabic Prose<br />104B. Classical Arabic Prose<br />105A. Modern Arabic Poetry<br />105B. Classic Arabic Poetry<br />111A-B. Survey of Arabic Literature (in Arabic) </p>
+<p class="p1"><strong><a href="http://aaads.berkeley.edu/">Asian American Studies</a><br /></strong>172. Asian American Literature<br />175. Contemporary Narratives on the Philippines and the United States<br />176. Genre in Asian American Literature<br />181. Chinese American Literature<br />183. Korean American Literature </p>
+<p class="p2"><strong><a href="http://celtic.berkeley.edu/?q=dept/celtic/">Celtic Studies</a><br /></strong>119A. Welsh and Arthurian Literature of the Middle Ages<br />119B. Welsh and Arthurian Literature of the Middle Ages<br />125. Irish Literature in Translation<br />138. Irish Literature<br />139. Irish Literature<br />146A-B. Medieval Welsh Language and Literature<br />C168. Celtic Mythology and the Oral Tradition </p>
+</td>
+<td class="two_td">
+<p class="p1"><strong><a href="http://ethnicstudies.berkeley.edu/programs/cls.php">Chicano Studies</a><br /></strong>141. Chicana Feminist Writers and Discourse<br />142. Major Chicano Writers<br />143. Chicano and Latin American Literature </p>
+<p class="p3"><strong><a href="http://ealc.berkeley.edu/">Chinese</a><br /></strong>120. Ancient Chinese Prose<br />122. Ancient Chinese Poetry<br />134. Readings in Classical Chinese Poetry<br />136. Readings in Medieval Prose<br />C140. Readings in Chinese Buddhist Texts<br />155. Readings in Vernacular Chinese Literature<br />156. Modern Chinese Literature<br />157. Contemporary Chinese Literature</p>
+<p class="p1"><strong><a href="http://www.classics.berkeley.edu/">Classics</a><br /></strong>124. Classical Poetics</p>
+<p class="p2"><strong><a href="http://writing.berkeley.edu/">College Writing Programs</a><br /></strong>140A. Readings on Creative Writing</p>
+<p class="p2"><strong><a href="http://complit.berkeley.edu/">Comparative Literature</a><br /></strong>100. Introduction to Comparative Literature<br />120. The Biblical Tradition in Western Literature<br />151. The Ancient Mediterranean World<br />152. The Middle Ages<br />153. The Renaissance<br />154. 18th- and 19th- Century Literature<br />155. The Modern Period<br />156. Fiction and Culture of the Americas<br />165. Myth and Literature<br />171. Topics in Modern Greek Literature<br />190. Senior Seminar in Comparative Literature</p>
+<p class="p1"><strong><a href="http://dutch.berkeley.edu/">Dutch</a><br /></strong>140. Topics in Dutch Literature<br />C164. The Indonesian Connection: Dutch Literature about the Indes in English Translation<br />166. Anne Frank and After: Dutch Literature of the Holocaust in English Translation <em> </em></p>
+<p class="p1"> </p>
+</td>
+</tr></tbody></table><p>The Creative Writing Minor is offered by the Office of Undergraduate and Interdisciplinary Studies in the Undergraduate Division of the College of Letters and Science. The courses students take to satisfy the minor course requirements are offered by various departments around campus. If you have questions regarding the minor program and whether a course not on this list may be used for the minor, contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a>. If you have questions regarding an approved course on this list, contact the department and instructor offering the course. The departments and instructors determine when their courses will be offered and who is eligible to take their courses. </p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://creative.ugis.berkeley.edu/courses-literature-e-g /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3472" />
+<link rel="canonical" href="/courses-literature-e-g" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Courses in Literature (E-G) | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"z9Twr1FokaxF01Yhv1vP4CEYRrA0s-pNjB8mVOqlYUU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3472 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li class="current" color="#c2deea"><a href="/courses-1">Courses</a><ul><li><a href="/courses-creative-writing">Creative Writing</a></li><li><a href="/courses-literature-1">Literature (A-D)</a></li><li class="current"><a href="/courses-literature-e-g">Literature (E-G)</a></li><li><a href="/courses-literature-h-p">Literature (H-P)</a></li><li><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li><a href="/admission-cal">Admission To CAL</a></li><li><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses-creative-writing">Creative Writing</a></li>
+<li><a href="/courses-literature-1">Literature (A-D)</a></li>
+<li><a href="/courses-literature-e-g" class="active-trail active">Literature (E-G)</a></li>
+<li><a href="/courses-literature-h-p">Literature (H-P)</a></li>
+<li><a href="/courses-literature-r-z">Literature (R-Z)</a></li>
+<li><a href="/fall">Fall</a></li>
+<li><a href="/spring">Spring</a></li>
+<li><a href="/summer">Summer</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses-1">Courses</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Courses in Literature (E-G)</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3472" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Courses That Satisfy the Creative Writing Requirements</h3>
+<p>Five approved upper-division courses are required, consisting of three courses in creative writing and two courses in literature. These courses may be taken in any of the departments that offer them. See <a href="http://creative.ugis.berkeley.edu/requirements">Requirements</a>.</p>
+<p>Courses in both creative writing and literature are sometimes listed in the <a href="http://guide.berkeley.edu/">Berkeley Academic Guide</a> under very general headings ("Topics in ________" or "Special Topics"). Students may be allowed to include courses that are not on the following list with approval of the Creative Writing Minor Faculty Adviser. It is the responsibility of the student to provide the Faculty Adviser with documentary evidence to support the claim of course eligibility. Contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a> for more information.</p>
+<p>To determine if a course from the list below is being offered during a specific semester, visit the <a class="course-link" href="http://schedule.berkeley.edu/">Schedule of Classes</a>.</p>
+<p>NOTE: <strong>Two</strong> courses are required from this list. <strong>Both</strong> of these courses must be taken for a letter grade.      </p>
+<table><tbody><tr><td width="50%">
+<p class="p1"><strong><a href="http://ealc.berkeley.edu/">East Asian Languages and Cultures</a><br /></strong>105. Dynamics of Romantic Core Values in East Asian Premodern Literature and Contemporary Film<br />106. Expressing the Ineffable in China and Beyond: The Making of Meaning in Poetic Writing</p>
+<p class="p1"><strong><a href="http://english.berkeley.edu/">English</a><br /></strong>C107. The English Bible as Literature<br />N107. English Bible as Literature<br />110. Medieval Literature<br />111. Chaucer<br />112. Middle English Literature<br />114A-B. English Drama<br />N114A-B. English Drama<br />115A-B. The English Renaissance<br />N115A-B. The English Renaissance<br />117A-T. Shakespeare<br />118. Milton<br />N118 Milton<br />119. Literature of the Restoration and Early Eighteenth Century<br />120. Literature of the Later 18<sup>th</sup> Century<br />121. Romantic Period<br />122. Victorian Period<br />125A-E. The English Novel<br />N125A-E. The English Novel<br />126. British Literature: 1900-1945<br />127. Modern Poetry<br />130A-D. American Literature<br />N130A-D. American Literature<br />131. American Poetry<br />132. American Novel<br />N132. American Novel<br />133A. African American Literature and Culture Before 1917<br />133B. African American Literature and Culture Since 1917<br />133T. Topics in African American Literature and Culture<br />134. Contemporary Literature<br />N134. Contemporary Literature<br />135AC. Literature of American Cultures<br />N135. Literature of American Cultures<br />C136. Topics in American Studies<br />137A. Chicana/o Literature and Culture to 1910<br />137B. Chicana/o Literature and Culture to 1910<br />137T. Topics in Chicana/o Literature and Culture<br />138. Studies in World Literature in English<br />139. The Cultures of English<br />152. Women Writers<br />N152. Women Writers<br />165. Special Topics<br />165AC. Special Topics in American Cultures<br />166. Special Topics<br />166AC: Special Topics in American Cultures<br />170. Literature and the Arts<br />171. Literature and Sexual Identity<br />172. Literature and Psychology<br />174. Literature and History<br />175. Literature and Disability<br />176. Literature and Popular Culture<br />N176. Literature and Popular Culture<br />177. Literature and Philosophy<br />N177. Literature and Philosophy<br />179. Literature and Linguistics<br />180A-Z. Genres of Literature<br />190. Research Seminar<em> </em></p>
+</td>
+<td class="two_td">
+<p class="p1"><strong><a href="http://ethnicstudies.berkeley.edu/">Ethnic Studies</a><br /></strong>100. Comparative Ethnic Literature in America<br />N100. Comparative Ethnic Literature in America<br />174. Existential Panic in American Ethnic Literature<br />175. Literature from Ethnic Movements</p>
+<p class="p1"><strong><a href="http://french.berkeley.edu/">French</a><br /></strong>112A-B. Medieval Literature<br />114A. Late Medieval Literature<br />116A. 16th-Century Literature: Margot to Montaigne<br />117A-B. 17th-Century Literature<br />118A-B. 18th-Century Literature<br />119A-B. 19th-Century Literature<br />120A-B. 20th-Century Literature<br />121A-B. Literary Themes, Genres, and Structures<br />122A-B. Literary Criticism<br />123. Prose Fiction<br />126. Senior Seminar<br />140B-D. French Literature in English Translation<br />150A-B. Women in French Literature<br />151A-B. Francophone Literature<br />172A. Psychoanalytic Theory and Literature<br />174. Music and Literature<br />175A. Literature and the Visual Arts<br />185. Literature and Colonialism <em> </em></p>
+<p class="p2"><strong><a href="http://womensstudies.berkeley.edu/">Gender and Women's Studies</a><br /></strong>C146A. Cultural Representations of Sexualities: Queer Literary Culture</p>
+<p class="p2"><strong><a href="http://german.berkeley.edu/">German</a><br /></strong>108. Literary Translation<br />110. The Literature of the Middle Ages<br />112. Early Modern Literature<br />123. From 1800 to the Present<br />131. Goethe<br />140. Romanticism<br />147. German Drama and Opera<br />148. Topics in Narrative<br />151. 18th- to 21<sup>st</sup> Century German Poetry<br />152. Modern Literature<br />175B. 20th-Century Poetry</p>
+<p class="p3"><strong><a href="http://www.classics.berkeley.edu/">Greek</a><br /></strong>100. Plato and Attic Prose<br />101. Homer<br />102. Drama and Society<br />105. The Greek New Testament<br />115. Archaic Poetry<br />116. Greek Drama<br />117. Hellenistic Poets<br />120. Herodotus<br />121. Thucydides<br />122. Attic Oratory<br />123. Plato and Aristotle<br />125. Greek Literature of the Hellenistic and Imperial Periods</p>
+</td>
+</tr></tbody></table><p>The Creative Writing Minor is offered by the Office of Undergraduate and Interdisciplinary Studies in the Undergraduate Division of the College of Letters and Science. The courses students take to satisfy the minor course requirements are offered by various departments around campus. If you have questions regarding the minor program and whether a course not on this list may be used for the minor, contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a>. If you have questions regarding an approved course on this list, contact the department and instructor offering the course. The departments and instructors determine when their courses will be offered and who is eligible to take their courses. </p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://creative.ugis.berkeley.edu/courses-literature-h-p /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3473" />
+<link rel="canonical" href="/courses-literature-h-p" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Courses in Literature (H-P) | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"X68_MMOfjSNf39cH3l5CwpGPCIDPUaSeIvk8N6rA74g","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3473 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li class="current" color="#c2deea"><a href="/courses-1">Courses</a><ul><li><a href="/courses-creative-writing">Creative Writing</a></li><li><a href="/courses-literature-1">Literature (A-D)</a></li><li><a href="/courses-literature-e-g">Literature (E-G)</a></li><li class="current"><a href="/courses-literature-h-p">Literature (H-P)</a></li><li><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li><a href="/admission-cal">Admission To CAL</a></li><li><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses-creative-writing">Creative Writing</a></li>
+<li><a href="/courses-literature-1">Literature (A-D)</a></li>
+<li><a href="/courses-literature-e-g">Literature (E-G)</a></li>
+<li><a href="/courses-literature-h-p" class="active-trail active">Literature (H-P)</a></li>
+<li><a href="/courses-literature-r-z">Literature (R-Z)</a></li>
+<li><a href="/fall">Fall</a></li>
+<li><a href="/spring">Spring</a></li>
+<li><a href="/summer">Summer</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses-1">Courses</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Courses in Literature (H-P)</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3473" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Courses That Satisfy the Creative Writing Requirements</h3>
+<p>Five approved upper-division courses are required, consisting of three courses in creative writing and two courses in literature. These courses may be taken in any of the departments that offer them. See <a href="requirements">Requirements</a>.</p>
+<p>Courses in both creative writing and literature are sometimes listed in the <a href="http://guide.berkeley.edu/">Berkeley Academic Guide</a> under very general headings ("Topics in ________" or "Special Topics"). Students may be allowed to include courses that are not on the following list with approval of the Creative Writing Minor Faculty Adviser. It is the responsibility of the student to provide the Faculty Adviser with documentary evidence to support the claim of course eligibility. Contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a> for more information.</p>
+<p>To determine if a course from the list below is being offered during a specific semester, visit the <a class="course-link" href="http://schedule.berkeley.edu/">Schedule of Classes</a>.</p>
+<p>NOTE: <strong>Two</strong> courses are required from this list. <strong>Both</strong> of these courses must be taken for a letter grade.        </p>
+<table><tbody><tr valign="top"><td width="50%">
+<p class="p1"><strong><a href="http://nes.berkeley.edu/">Hebrew</a><br /></strong>104A-B. Modern Hebrew Literature and Culture</p>
+<p class="p2"><strong><a href="http://sseas.berkeley.edu/">Hindi-Urdu</a><br /></strong>101A-B. Readings in Modern Hindi</p>
+<p class="p2"><strong><a href="http://italian.berkeley.edu/">Italian Studies</a><br /></strong>104. Reading Italian Literature<br />109. Dante's <em>Commedia </em> (in Italian)<br />110. Literature and Culture of the 13th- and 14th-Centuries<br />112. 16th-Century Literature and Culture<br />115. 19th-Century Literature and Culture<br />117. 20th- and 21<sup>st</sup>-Century Literature<br />120. Topics in Italian Studies<br />130A. Dante’s Inferno (in English)<br />130. Dante’s Purgatorio and Paradiso (in English)<br />163. Special Topics in Italian Literature <em> </em></p>
+<p class="p2"><strong><a href="http://ealc.berkeley.edu/">Japanese</a><br /></strong>130. Classical Japanese Poetry<br />132. Pre-Modern Japanese Diary (Nikki) Literature<br />140. Heian Prose<br />144. Edo Literature<br />155. Modern Japanese Literature<br />159. Contemporary Japanese Literature<br />170. Classical Japanese Literature in Translation<br />177. Urami: Rancor and Revenge in Japanese Literature<br />180. Ghosts and the Modern Literary Imagination <em> </em></p>
+<p class="p3"><strong><a href="http://ealc.berkeley.edu/">Korean</a><br /></strong>101. Fourth-Year Readings – Literature<br />130. Genre and Occasion in Traditional Poetry<br />140. Narrating Persons and Objects in Traditional Korean Prose<br />150. Modern Korean Poetry<br />153. Readings in Modern Korean Literature<br />155. Modern Korean Fiction<br />157. Contemporary Korean Literature<br />172. Gender and Korean Literature<br />180. Critical Approaches to Modern Korean Literature </p>
+</td>
+<td class="two_td">
+<p class="p1"><strong><a href="http://www.classics.berkeley.edu/">Latin</a><br /></strong>100. Republican Prose<br />101. Vergil<br />102. Lyric and Society<br />115. Roman Drama<br />116. Lucretius, Vergil's Georgics<br />119. Latin Epic<br />120. Latin Prose to AD 14<br />121. Tacitus<br />122. Post-Augustan Prose<br />140. Medieval Latin<br />155A. Readings in Medieval Latin </p>
+<p><a href="http://ethnicstudies.berkeley.edu/programs/nas.php"><strong>Native American Studies</strong></a></p>
+<p class="p2">C152. Native American Literature<br />C166. Native American Novelist<br />C171. Native American Poetry <em> </em></p>
+<p class="p2"><strong><a href="http://nes.berkeley.edu/">Near Eastern Studies</a><br /></strong>105A. Ancient Mesopotamian Documents and Literature<br />113. Gilgamesh: King, Hero and God<br />132. Biblical Poetry<br />139. Modern Jewish Literatures<br />151. Folktales of the Middle East<br />154. Narratives of Identity in Israeli and Palestinian Fiction<br />155. Wonder and the Fantastic: <em>The Thousand and One Nights</em> in World Literary Imagination<br />162A-B. History of Persian Literature<br />170A-B. Turkish Literature in Translation</p>
+<p class="p1"><strong><a href="http://nes.berkeley.edu/">Persian</a><br /></strong>101A-B. Readings in Persian Literature<br />102A-B. Readings in Classical Persian Prose<br />103A-B. Classical Persian Poetry<br />104B. Contemporary Persian Literature<br />105. Modern Analytical Prose in Persian</p>
+<p class="p2"><strong><a href="http://spanish-portuguese.berkeley.edu/">Portuguese</a><br /></strong>104. Introduction to Brazilian Literature<br />107B. Survey of Portuguese Literature<br />128. 20th-Century Brazilian Literature <em> </em><em> </em></p>
+</td>
+</tr></tbody></table><p>The Creative Writing Minor is offered by the Office of Undergraduate and Interdisciplinary Studies in the Undergraduate Division of the College of Letters and Science. The courses students take to satisfy the minor course requirements are offered by various departments around campus. If you have questions regarding the minor program and whether a course not on this list may be used for the minor, contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a>. If you have questions regarding an approved course on this list, contact the department and instructor offering the course. The departments and instructors determine when their courses will be offered and who is eligible to take their courses. </p>
+<p> </p>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://creative.ugis.berkeley.edu/courses-literature-r-z /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3474" />
+<link rel="canonical" href="/courses-literature-r-z" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Courses in Literature (R-Z) | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"zY8YnIvC9CxeeWafuqCzu4t_p-712AFF3ap1kbAuxUI","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3474 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li class="current" color="#c2deea"><a href="/courses-1">Courses</a><ul><li><a href="/courses-creative-writing">Creative Writing</a></li><li><a href="/courses-literature-1">Literature (A-D)</a></li><li><a href="/courses-literature-e-g">Literature (E-G)</a></li><li><a href="/courses-literature-h-p">Literature (H-P)</a></li><li class="current"><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li><a href="/admission-cal">Admission To CAL</a></li><li><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses-creative-writing">Creative Writing</a></li>
+<li><a href="/courses-literature-1">Literature (A-D)</a></li>
+<li><a href="/courses-literature-e-g">Literature (E-G)</a></li>
+<li><a href="/courses-literature-h-p">Literature (H-P)</a></li>
+<li><a href="/courses-literature-r-z" class="active-trail active">Literature (R-Z)</a></li>
+<li><a href="/fall">Fall</a></li>
+<li><a href="/spring">Spring</a></li>
+<li><a href="/summer">Summer</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses-1">Courses</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Courses in Literature (R-Z)</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3474" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Five approved upper-division courses are required, consisting of three courses in creative writing and two courses in literature. These courses may be taken in any of the departments that offer them. See <a href="requirements">Requirements</a>.</p>
+<p>Courses in both creative writing and literature are sometimes listed in the <a href="http://guide.berkeley.edu/">Berkeley Academic Guide</a> under very general headings ("Topics in ________" or "Special Topics"). Students may be allowed to include courses that are not on the following list with approval of the Creative Writing Minor Faculty Adviser. It is the responsibility of the student to provide the Faculty Adviser with documentary evidence to support the claim of course eligibility. Contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a> for more information.</p>
+<p>To determine if a course from the list below is being offered during a specific semester, visit the <a class="course-link" href="http://schedule.berkeley.edu/">Schedule of Classes</a>.</p>
+<p>NOTE: <strong>Two</strong> courses are required from this list. <strong>Both</strong> of these courses must be taken for a letter grade.        </p>
+<table><tbody><tr><td width="50%">
+<p class="p1"><strong><a href="http://religiousstudies.ugis.berkeley.edu/">Religious Studies</a><br /></strong>C108. Scandinavian Myth and Religion<br />C109. Celtic Mythology and Oral Tradition<br />C119. The English Bible as Literature<br />C165. Hindu Mythology<br />C166. India’s Great Epics: The Mahabharata and the Ramayana</p>
+<p class="p3"><strong><a href="http://rhetoric.berkeley.edu/"><span style="text-decoration: underline;">Rhetoric</span></a><br /></strong>112. Rhetoric of Narrative Genres in Nonliterate Societies<br />121. Rhetoric of Fiction<br />122. Rhetoric of Drama<br />124. Rhetoric of Poetry<br />125. Poetics and Poetry<br />127. Novel, Society and Politics<br />129. Rhetoric of Autobiography<br />129AC. Autobiography and American Individualism<br />130. Novel into Film<br />131T. Genre in Film and Literature<br />156. Rhetoric of the Political Novel <em> </em></p>
+<p class="p3"><strong><a href="http://scandinavian.berkeley.edu/?q=dept/scandinavian/">Scandinavian</a><br /></strong>106. The Works of Hans Christian Andersen<br />C107. Plays of Ibsen<br />C108. Strindberg<br />116. Studies in Prose<br />120. The Novel in Scandinavian<br />125. Old Norse Literature<br />150. Studies in Scandinavian Literature<br />C160. Scandinavian Myth and Religion<br />165. Scandinavian Folklore<br />170. Arctic Folklore and Mythology in Nordic Lands</p>
+<p class="p3"><strong><a href="http://slavic.berkeley.edu/?q=dept/slavic/">Slavic Languages and Literatures</a><br /></strong>131. Literature, Art, and Society in 20<sup>th</sup> Century Russia<br />132. Dostoevsky, Tolstoy, and the English Novel<br />133. The Novel in Russia and the West<br />134A-G. Major Russian Authors<br />147A. East Slavic Folklore<br />147B. Balkan Folklore<br />150. Polish Literature and Intellectual Trends<br />151. Readings in Polish Literature<br />170. Survey of Yugoslav Literatures<br />171. Readings in Yugoslav Literatures<br />181. Readings in Russian Literature<br />182. Pushkin</p>
+</td>
+<td class="two_td">
+<p class="p1"><strong><a href="http://sseas.berkeley.edu/">South and Southeast Asian Studies</a><br /></strong>150. Southeast Asian Mythology</p>
+<p class="p2"><strong><a href="http://sseas.berkeley.edu/">South Asian</a><br /></strong>121. Classical Indian Literature in Translation<br />122. The Novel in India<br />124. Modern Indian Literature<br />C140. Hindu Mythology<br />C142. India's Great Epics: The Mahabharata and the Ramayana</p>
+<p class="p2"><strong><a href="http://sseas.berkeley.edu/">Southeast Asia</a><br /></strong>128. Introduction to Modern Indonesian and Malaysian Literature in Translation<br />129. Mainland Southeast Asian Literature <em> </em></p>
+<p class="p2"><strong><a href="http://spanish-portuguese.berkeley.edu/">Spanish</a><br /></strong>104A-B. Survey of Spanish American Literature<br />107A-B. Survey of Spanish Literature<br />109. Spanish Drama of the 16th- and 17th-Centuries<br />111A-B. Cervantes<br />115. Spanish Poetry<br />117. The Picaresque Novel<br />135. Studies in Hispanic Literature<br />N135. Studies in Hispanic Literature<br />135W. Studies in Hispanic Literature–Writing Intensive<br />185. Senior Course in Hispanic Literature</p>
+<p class="p2"><strong><a href="http://sseas.berkeley.edu/">Tamil</a><br /></strong>101A-B. Readings in Tamil  </p>
+<p class="p2"><strong><a href="http://tdps.berkeley.edu/?q=dept/theater/">Theater, Dance, and Performance Studies</a><br /></strong>C107. Plays of Ibsen<br />C108. Strindberg<br />126 Performance Literatures<br />C131B. Contemporary African American Drama<br />C183C. Black Theatre Workshop</p>
+<p class="p3"><strong><a href="http://nes.berkeley.edu/">Turkish</a><br /></strong>101A-B. Readings in Modern Turkish</p>
+<p class="p1"><strong><a href="http://yiddish.berkeley.edu/">Yiddish</a><br /></strong>103. Readings in Yiddish</p>
+<p class="p2"> </p>
+<p class="p1"><em> </em></p>
+</td>
+</tr></tbody></table><p>The Creative Writing Minor is offered by the Office of Undergraduate and Interdisciplinary Studies in the Undergraduate Division of the College of Letters and Science. The courses students take to satisfy the minor course requirements are offered by various departments around campus. If you have questions regarding the minor program and whether a course not on this list may be used for the minor, contact the Creative Writing Minor Student Academic Advisor at <a href="mailto:demir@berkeley.edu">demir@berkeley.edu</a>. If you have questions regarding an approved course on this list, contact the department and instructor offering the course. The departments and instructors determine when their courses will be offered and who is eligible to take their courses. </p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://creative.ugis.berkeley.edu/graduate-programs /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://creative.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3481" />
+<link rel="canonical" href="/graduate-programs" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Graduate Programs | Creative Writing Minor - Letters &amp; Science - UC Berkeley</title>
+<meta content="Creative Writing Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Creative Writing, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_l_03LnqGI_BqLrCPhFslBzwmnMs9Y0qyt6Dt_1btoQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://creative.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_vr8Owr1Ah-xQxuKJIHDQ9XT2gUwPtEm8bT6fe4Q4nCs.js"></script>
+<script type="text/javascript" src="http://creative.ugis.berkeley.edu/sites/default/files/js/js_5lufC_fQeqjPwGVz1PaNGJhVXVHNmN9exGnPuSbHcWc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"RrlHy5VS1skg7fgP79K10JUqcua_aQyte7s5-eUhSRs","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://creative.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3481 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/requirements">The Minor</a><ul><li><a href="/requirements">Requirements</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/faq">FAQ</a></li><li><a href="/developing-writing-skills">Developing Writing Skills</a></li></ul></li><li color="#c2deea"><a href="/courses-1">Courses</a><ul><li><a href="/courses-creative-writing">Creative Writing</a></li><li><a href="/courses-literature-1">Literature (A-D)</a></li><li><a href="/courses-literature-e-g">Literature (E-G)</a></li><li><a href="/courses-literature-h-p">Literature (H-P)</a></li><li><a href="/courses-literature-r-z">Literature (R-Z)</a></li><li><a href="/fall">Fall</a></li><li><a href="/spring">Spring</a></li><li><a href="/summer">Summer</a></li></ul></li><li color="#9ac883"><a href="/people-0">People</a></li><li class="current" color="#e8bfbf"><a href="/resources">Resources</a><ul><li><a href="/resources">Resources</a></li><li><a href="/admission-cal">Admission To CAL</a></li><li class="current"><a href="/graduate-programs">Graduate Programs</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/other-links">Other Links</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/resources">Resources</a></li>
+<li><a href="/admission-cal">Admission To CAL</a></li>
+<li><a href="/graduate-programs" class="active-trail active">Graduate Programs</a></li>
+<li><a href="/forms-downloads">Forms &amp; Downloads</a></li>
+<li><a href="/other-links">Other Links</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/resources" title="">Resources</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Graduate Programs</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3481" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>University of California, Berkeley Graduate Admissions Office</p>
+<p><a href="http://www.grad.berkeley.edu/prospective/">http://www.grad.berkeley.edu/prospective/</a></p>
+<p> </p>
+<p>The University of California, Berkeley does not offer a graduate program in Creative Writing. Below is a list of selected Creative Writing graduate programs offered by other colleges and universities:</p>
+<p><a href="http://www.antiochla.edu/index.php">ANTIOCH UNIVERSITY</a> - Los Angeles, California <a href="http://www.antiochla.edu/academics/mfa-creative-writing/">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.asu.edu/asuweb/">ARIZONA STATE</a> - Tempe, Arizona<a href="http://www.asu.edu/clas/english/creativewriting/"> Creative Writing M.F.A</a></p>
+<p><a href="http://www.bu.edu/">BOSTON UNIVERSITY</a> - Boston, Massachusetts <a href="http://www.bu.edu/writing/">Creative Writing M.F.A</a></p>
+<p><a href="http://www.brooklyn.cuny.edu/">BROOKLYN COLLEGE</a> - Brooklyn, New York <a href="http://depthome.brooklyn.cuny.edu/english/graduate/mfa/geninfo.htm">Creative Writing M.F.A</a>.</p>
+<p><a href="http://www.columbia.edu/">COLUMBIA UNIVERSITY</a> - New York, New York <a href="http://www.columbia.edu/cu/arts/writing/">Creative Writing M.F.A</a></p>
+<p><a href="http://www.concordia.ca/">CONCORDIA UNIVERSITY</a> - Montreal, Quebec, Canada <a href="http://english.concordia.ca/graduate/programs/maprograms/">M.A. in English (Creative Writing Option)</a></p>
+<p><a href="http://www.gmu.edu/">GEORGE MASON UNIVERSITY</a> - Fairfax, Virginia <a href="http://creativewriting.gmu.edu/">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.goddard.edu/">GODDARD COLLEGE</a> - Plainfield, Vermont <a href="http://www.goddard.edu/masterfinearts_writing">Creative Writing M.F.A</a></p>
+<p><a href="http://www.indiana.edu/">INDIANA UNIVERSITY</a> - Bloomington, Indiana <a href="http://www.indiana.edu/%7emfawrite/">Creative Writing M.F.A. and M.A. in Fiction and Poetry</a></p>
+<p><a href="http://www.nyu.edu/">NEW YORK UNIVERSITY </a>- New York, New York <a href="http://www.nyu.edu/gsas/program/cwp/">Creative Writing M.F.A. or M.A. in English with Concentration in Creative Writing</a></p>
+<p><a href="http://www.stmarys-ca.edu/">SAINT MARY'S COLLEGE OF CALIFORNIA</a> - Moraga, California <a href="http://www.stmarys-ca.edu/mfa-in-creative-writing">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.sfsu.edu/">SAN FRANCISCO STATE UNIVERSITY</a> - San Francisco, California <a href="http://www.sfsu.edu/%7ecwriting/">Creative Writing M.A. and M.F.A.</a></p>
+<p><a href="http://www.txstate.edu/">TEXAS STATE UNIVERSITY</a> - San Marcos, <a href="http://www.english.txstate.edu/mfa/">Texas Creative Writing M.F.A.</a></p>
+<p><a href="http://www.stanford.edu/">STANFORD UNIVERSITY</a> <a href="http://creativewriting.stanford.edu/">Stegner Fellowship</a> - Palo Alto, California</p>
+<p><a href="http://www.uab.edu/">UNIVERSITY OF ALABAMA</a> - Birmingham, Alabama M.A.in <a href="http://www.uab.edu/cas/english/academic-programs/creative-writing/graduate-concentration-in-creative-writing">English with a Concentration in Creative Writing</a></p>
+<p><a href="http://www.arizona.edu/">UNIVERSITY OF ARIZONA</a> - Tucson, <a href="https://grad.arizona.edu/programs/programinfo/CRTVMFA">Arizona Creative Writing M.F.A.</a></p>
+<p><a href="http://www.uark.edu/">UNIVERSITY OF ARKANSAS</a> - Fayetteville, Arkansas <a href="http://mfa.uark.edu/">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.ubc.ca/">UNIVERSITY OF BRITISH COLUMBIA</a> - Vancouver, British Columbia, Canada <a href="http://www.creativewriting.ubc.ca/programs_mfa_about.shtml">Creative Writing M.F.A.</a> and <a href="http://creativewriting.ubc.ca/prospective-students/graduate/joint-mfa-in-screenwriting/">MFA in Film Production and Creative Writing (Screenwriting)</a></p>
+<p><a href="http://www.ucdavis.edu/">UNIVERSITY OF CALIFORNIA, DAVIS</a> - Davis, California <a href="http://english.ucdavis.edu/graduate/masters-creative-writing">English M.A. with an Emphasis in Creative Writing</a></p>
+<p><a href="http://www.uci.edu/">UNIVERSITY OF CALIFORNIA, IRVINE</a> - Irvine, California <a href="http://www.humanities.uci.edu/english/programs/mfa.php">English M.F.A. (Writing Program) </a></p>
+<p><a href="http://www.ucr.edu/">UNIVERSITY OF CALIFORNIA, RIVERSIDE</a> - Riverside, California <a href="http://creativewriting.ucr.edu/">M.F.A. in Creative Writing &amp; Writing for the Performing Arts</a></p>
+<p><a href="http://www.uea.ac.uk/">UNIVERSITY OF EAST ANGLIA</a> - Norwich, United Kingdom <a href="http://www.uea.ac.uk/creativewriting">Creative Writing M.A.</a></p>
+<p><a href="http://www.ufl.edu/">UNIVERSITY OF FLORIDA</a> - Gainesville, Florida <a href="http://web.english.ufl.edu/crw/">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.uh.edu/">UNIVERSITY OF HOUSTON</a> - Houston, Texas <a href="http://www.uh.edu/cwp/">M.A. and Ph.D. in Literature and Creative Writing and M.F.A. in English: Creative Writing</a></p>
+<p><a href="https://www.uidaho.edu/">UNIVERSITY OF IDAHO</a> - Moscow, <a href="https://www.uidaho.edu/class/english/graduate/mfa-creative-writing">Idaho Creative Writing M.F.A.</a></p>
+<p><a href="http://www.uiowa.edu/">UNIVERSITY OF IOWA</a> - Iowa City, Iowa <a href="http://grad.admissions.uiowa.edu/academics/creative-writing-mfa-english">Creative Writing M.F.A. in English</a> and <a href="http://english.uiowa.edu/graduate-program/mfa-nonfiction-writing">M.F.A. in Nonfiction Writing</a></p>
+<p><a href="http://www.umd.edu/">UNIVERSITY OF MARYLAND</a> - College Park, Maryland <a href="http://www.english.umd.edu/academics/creativewriting/mfa">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.umich.edu/">UNIVERSITY OF MICHIGAN</a> - Ann Arbor, Michigan <a href="http://www.lsa.umich.edu/english/grad/mfa/">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.umt.edu/">UNIVERSITY OF MONTANA</a> - Missoula, <a href="http://www.cas.umt.edu/creativewriting/graduate/default.php">Montana Creative Writing M.F.A.</a></p>
+<p><a href="http://www.unlv.edu/">UNIVERSITY OF NEVADA</a> - Las Vegas, Nevada <a href="http://english.unlv.edu/mfa_program.html">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.uoregon.edu/">UNIVERSITY OF OREGON</a> - Eugene, Oregon <a href="http://darkwing.uoregon.edu/%7ecrwrweb/">Creative Writing M.F.A.</a></p>
+<p><a href="http://www.warren-wilson.edu/">WARREN WILSON COLLEGE</a> - Asheville, North Carolina <a href="https://www.warren-wilson.edu/community-news/mfa-program-for-writers-public-lectures-and-readings">MFA Program for Writers</a></p>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a> | <a href="https://security.berkeley.edu/content/privacy-statement-uc-berkeley-websites" target="_blank">Privacy Statement</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>

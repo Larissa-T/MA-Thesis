@@ -1,0 +1,1212 @@
+http://religiousstudies.ugis.berkeley.edu/courses/current-term /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Current Course List | Religious Studies - Letters &amp; Science - UC Berkeley</title>
+<meta content="Religious Studies Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Religious Studies, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_thparLTzrXjGcXaxnFzJk07D8zQmd9j-dK3HZZ0pWBs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_oiz0f1YsxMW4Anf5gWhYvNd8BE-lRjjIRCbgdcTLDY4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/drupal.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/ajax.js?v=7.56"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/admin_menu/admin_devel/admin_devel.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/libraries/colorbox/jquery.colorbox-min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/js/colorbox.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/styles/stockholmsyndrome/colorbox_style.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/views/js/base.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/progress.js?v=7.56"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/views/js/ajax_view.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery-ui.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.fancybox-1.3.4.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/mosaic.1.0.1.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.tooltip.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/hoverIntent.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/superfish.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/scripts.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/tabbed.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.quote_rotator.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.nivo.slider.pack.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.c.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.js?oufyxt"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"oZN4E86nWGcGXwaUBS0kMT-7OY7IocbR1RT-xCrCfek","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b4d006cc7bb5a0375ed4d5217bb326da":{"view_name":"courses_new","view_display_id":"block_1","view_args":"","view_path":"courses\/current-term","view_base_path":"courses\/current-term","view_dom_id":"b4d006cc7bb5a0375ed4d5217bb326da","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-courses page-courses-current-term" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/about-major">Major</a><ul><li><a href="/about-major">About The Major</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/honors">Honors</a></li><li><a href="/minor-religious-studies">Minor</a></li><li><a href="/commencement-2017">Commencement</a></li><li><a href="/learning-initiative">Learning Initiative</a></li></ul></li><li color="#c2deea"><a href="/requirements">Requirements</a><ul><li><a href="/upper-lower-requirements">Upper & Lower Division</a></li><li><a href="/field-emphasis">Field of Emphasis</a></li></ul></li><li class="current" color="#9ac883"><a href="/courses/current-term">Courses</a><ul><li class="current"><a href="/courses/current-term">Current Courses</a></li><li><a href="/class-curriculum">Curriculum</a></li><li><a href="/courses/archive">Course Archive</a></li><li><a href="/older-courses">Older Courses</a></li></ul></li><li color="#e8bfbf"><a href="/people/student-academic-advisor">People</a><ul><li><a href="/people/directors">Directors</a></li><li><a href="/people/student-academic-advisor">Student Academic Advisor</a></li><li><a href="/people/advising">Advising</a></li><li><a href="/people/teaching-faculty">Faculty</a></li><li><a href="/advisory-committee">Advisory Committee</a></li><li><a href="/gsi-openings-fall-15">GSI</a></li></ul></li><li color="#eab174"><a href="/isf-announcements">Resources</a><ul><li><a href="/isf-announcements">Announcements</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/gsi-jobs">GSI Jobs</a></li><li><a href="/campus-resources">Campus Resources</a></li><li><a href="/research-guides">Research Guides</a></li><li><a href="/fellowships-scholarships">Fellowships & Scholarships</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses/current-term" title="" class="active-trail active">Current Courses</a></li>
+<li><a href="/class-curriculum">Curriculum</a></li>
+<li><a href="/courses/archive" title="">Course Archive</a></li>
+<li><a href="/older-courses">Older Courses</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses/current-term" title="" class="active">Courses</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Current Course List</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-views-courses-new-block-1" class="block block-views"><div class="widget bottom">    <div class="view-content">
+        <span class="views-summary views-summary-unformatted">        <a href="/courses/current-term/courses-from-other-departments">Courses From Other Departments</a>
+          (9)
+      </span>  <span class="views-summary views-summary-unformatted">        <a href="/courses/current-term/method">Method</a>
+          (1)
+      </span>    </div>
+  </div><div class="clear"></div></div><div id="block-system-main" class="block block-system"><div class="widget bottom"><div class="view view-courses-new view-id-courses_new view-display-id-page view-dom-id-a20d8665bbf9422922663b6412e4df22">
+            <div class="view-header">
+      Displaying Courses 1 - 10 of 10 | <a href="/courses/current-term">Reset Filters</a>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="view-grouping"><div class="view-grouping-header">Fall 2016</div><div class="view-grouping-content">  <h3>Method</h3>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 120</span> Buddhism on the Silk Road	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 2:00-3:30</li><li class="li-instructor">S. Mehendale</li><li class="li-location">229 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 13623</li></ul></div><div class="cross-listed">Cross-listed with East Asian Languages and Cultures C120</div><div class="expandable2"><p>This course will discuss the social, economic, and cultural aspects of Buddhism as it moved along the ancient Eurasian trading network referred to as the "Silk Road." Instead of relying on the textual tradition, the course will focus on material culture as it offers evidence concerning the spread of Buddhism. Through an examination of the Buddhist art and archaeological remains of the Silk Road, the course will address specific topics, such as the relationship between Buddhism and commerce; doctrinal divergence; ideological  shifts in the iconography of the Buddha; patronage (royal, religious, and lay); ritual; Buddhism and political power; and art and conversion. The course is also designed as an historical introduction to the Silk Road, understood as an ever-changing series of peoples, places, and traditions, as well as an introduction to the study of those same peopels, places, and traditions in the modern period. IN this way, the class is intended both as a guide to extant textual, archaeological, and art historical evidence from the Silk Road, and as a framework fort hinking about the modern Silk Road regions from teh perspective of a contemporary American classroom. </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <h3>Courses From Other Departments</h3>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 113</span> Buddhist Thought in India	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TTh3:30-5</li><li class="li-instructor">Lin, Q</li><li class="li-location">234 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 33597</li></ul></div><div class="expandable2"><p align="justify">This course is an advanced introduction to the major teachings of Indian Buddhism and their philosophical elaborations. We will cover the core tenets attributed to the Buddha, and the later doctrinal and scholastic developments that turned Buddhism into one of the principal philosophical traditions of India. For this we will read select primary sources—in principle, extracts of the scriptures and later treatises—and academic articles and book chapters. Rather than offering a broad introductory survey of Buddhist traditions across space and time, this class is geared towards students who are already familiar with the basics of Buddhism and want to deepen their understanding of the principal teachings of Buddhism originating in India.. Prerequisites: None.</p>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 120</span> Buddhism on the Silk Road	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 2:00-3:30</li><li class="li-instructor">S. Mehendale</li><li class="li-location">229 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 13623</li></ul></div><div class="cross-listed">Cross-listed with East Asian Languages and Cultures C120</div><div class="expandable2"><p>This course will discuss the social, economic, and cultural aspects of Buddhism as it moved along the ancient Eurasian trading network referred to as the "Silk Road." Instead of relying on the textual tradition, the course will focus on material culture as it offers evidence concerning the spread of Buddhism. Through an examination of the Buddhist art and archaeological remains of the Silk Road, the course will address specific topics, such as the relationship between Buddhism and commerce; doctrinal divergence; ideological  shifts in the iconography of the Buddha; patronage (royal, religious, and lay); ritual; Buddhism and political power; and art and conversion. The course is also designed as an historical introduction to the Silk Road, understood as an ever-changing series of peoples, places, and traditions, as well as an introduction to the study of those same peopels, places, and traditions in the modern period. IN this way, the class is intended both as a guide to extant textual, archaeological, and art historical evidence from the Silk Road, and as a framework fort hinking about the modern Silk Road regions from teh perspective of a contemporary American classroom. </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 120</span> Tibetan Buddhism 	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TTh 11-12:30</li><li class="li-instructor">J. Ronis</li><li class="li-location">587 Barrows</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: C114</li></ul></div><div class="expandable2"><p align="justify">Tibetan Buddhism. This course is an introduction to the history, institutions, doctrines, and ritual practices of Buddhism in Tibet. The course will progress along two parallel tracks, one chronological and the other thematic, providing on the one hand a sense of the historical development of Tibetan Buddhism, and on the other a general overview of some central themes.  Along the historical track, the course proceeds from Buddhism's initial arrival into Tibet through to the present day, with each week addressing another period in this history.  At the same time, each week will focus on a given theme that relates to the historical period in question. Themes include tantric myth, 'treasure' (terma) revelation, hidden valleys, the Dalai Lamas, exile, and more. Prerequisites: None.</p>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	History 185 A</span> History of Christianity to 1250	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 9:30-11:00</li><li class="li-instructor">TBA</li><li class="li-location">136 Barrows</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 15864</li></ul></div><div class="expandable2"><p><span>The course deals with the origins of Christianity and the first eleven centuries of its expansion into a major institutional, social, and intellectual force shaping Western Europe. The central themes are the mechanisms and conditions shaping this expansion rather than a chronological account to present this process as a model of "institutionalization" (or not!) of religious movements. The emphasis will be on patterns of crisis and reform, i.e., on conflicts arising within the church itself and as a result of its dealings with the "outside" world, and how these crises were resolved. The course is based on the study of primary sources and will include problems of historical method. Requirements, beyond a basic familiarity with Roman and early Medieval history, are one midterm, one final, and a book review.</span></p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	History 185 B</span> Jews and the Modern World 	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 9:30-11:00</li><li class="li-instructor">J. Efron</li><li class="li-location">247 Corey</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 39941</li></ul></div><div class="expandable2"><p>This course will examine the impact of modern intellectual, political, economic, and social forces on the Jewish people since the eighteenth century.  It is our aim to come to an understanding of how the Jews interpreted these forces and how and in what ways they adapted and utilized them to suit the Jewish experience.  In other words, we will trace the way Jews became modern.  Some of the topics to be covered include Emancipation, the Jewish Enlightenment, new Jewish religious movements, Jewish politics and culture, antisemitism, the Holocaust, and the state of Israel.</p>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	South Asian 128</span> Religion in Modern India	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">MWF 11-12</li><li class="li-instructor">PARAMASIVAN,FV. </li><li class="li-location">2011 VLSB</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 31590</li></ul></div><div class="expandable2"><div class="course-description">
+<p>This course considers the co-option, reinterpretation and dissemination of sacred texts and religious practices in various political and cultural projects in India during the colonial and post-colonial periods. Students will be introduced to religious “reform” movements and cross-cultural debates during the colonial period. We will also examine how the concept of a secular state in post-Independence India has shaped and continues to shape religious practice and public policy. Important themes will include, transformations in the role of women, debates around caste and “untouchability”, and religious conversions. Although the emphasis is on Hindu traditions, attention will also be given to other Indian traditions such as Islam, Christianity and Buddhism.</p>
+<p> </p>
+</div>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	South Asian 140</span> Hindu Mythology	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">MWF 11-12</li><li class="li-instructor">Goldman, R. </li><li class="li-location">2060 VLSB</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 31585</li></ul></div><div class="expandable2"><p>Description forthcoming</p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Southeast Asian Studies 137</span> Islam and Society in Southeast Asia	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TTh 12:30-2</li><li class="li-instructor">Hadler, J. </li><li class="li-location">209 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 31587</li></ul></div><div class="expandable2"><div class="course-description">
+<p>Indonesia is the nation with the world’s largest Muslim population, and Malaysia and the southern Philippines are regions with vibrant Islamic traditions. Islam has been essential in the development of Southeast Asian cultures, literatures, and arts for over seven hundred years, and Southeast Asian Islam is intimately tied to the Islamic world. This upper-division undergraduate course will be an investigation into key discourses on the cultures and politics of Islam in Southeast Asia. We will trace the processes through which Islam entered the Malay world in the 13th century. We will explore the European colonial encounters with Islam in Southeast Asia and the ways that Islam interacted with and resisted colonialism. We will discuss the role of mysticism and Sufi associations, and of reformist movements in the 18th through the 21st centuries. And we will analyze the place of Islam in Southeast Asian arts and literature. We will consider the majority Muslim nations of Indonesia and Malaysia, and will also explore the struggles of Islam as a minority religion in the Philippines and Thailand. Readings will include primary sources in translation, literary texts, ethnographic works, and writings by colonial and local scholars. Note: this course is writing-intensive and discussion-based.</p>
+<p> </p>
+</div>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+</div></div><div class="view-grouping"><div class="view-grouping-header">Summer 2015</div><div class="view-grouping-content">  <h3>Courses From Other Departments</h3>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Religious Studies C 104</span> Babylonian Religion	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">MWF 9:00-11:30</li><li class="li-instructor">T. Tanaka</li><li class="li-location">78 Barrows</li><li class="li-units">3 Units</li><li class="li-cc">Class Number: 81005</li></ul></div><div class="cross-listed">Cross-listed with Ne Stud C 104</div><div class="expandable2"><p><span>This course will introduce students to various aspects of the religious practices of ancient Mesopotamia (modern-day Iraq) through readings, lectures, discussions, and papers. Since the Mesopotamians had no word for "religion," some of the course topics (ranging from medicine to politics to law) may challenge the student's understanding of what religion is. </span></p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+</div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Administrative Office : 237 Evans Hall(PH) 510.<span>642.9320</span><br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://religiousstudies.ugis.berkeley.edu/courses/current-term/courses-from-other-departments /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Current Courses &rarr; Courses From Other Departments | Religious Studies - Letters &amp; Science - UC Berkeley</title>
+<meta content="Religious Studies Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Religious Studies, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_thparLTzrXjGcXaxnFzJk07D8zQmd9j-dK3HZZ0pWBs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_oiz0f1YsxMW4Anf5gWhYvNd8BE-lRjjIRCbgdcTLDY4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/drupal.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/ajax.js?v=7.56"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/admin_menu/admin_devel/admin_devel.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/libraries/colorbox/jquery.colorbox-min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/js/colorbox.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/styles/stockholmsyndrome/colorbox_style.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/views/js/base.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/progress.js?v=7.56"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/views/js/ajax_view.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery-ui.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.fancybox-1.3.4.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/mosaic.1.0.1.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.tooltip.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/hoverIntent.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/superfish.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/scripts.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/tabbed.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.quote_rotator.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.nivo.slider.pack.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.c.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.js?oufyxt"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"H7Pz90811_BE3AsteenDn7vDbAQWuvjUAkLf2naKqBY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b1bec821698942e40c21c18e73f88e6b":{"view_name":"courses_new","view_display_id":"block_1","view_args":"","view_path":"courses\/current-term\/courses-from-other-departments","view_base_path":"courses\/current-term","view_dom_id":"b1bec821698942e40c21c18e73f88e6b","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-courses page-courses-current-term page-courses-current-term-courses-from-other-departments" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/about-major">Major</a><ul><li><a href="/about-major">About The Major</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/honors">Honors</a></li><li><a href="/minor-religious-studies">Minor</a></li><li><a href="/commencement-2017">Commencement</a></li><li><a href="/learning-initiative">Learning Initiative</a></li></ul></li><li color="#c2deea"><a href="/requirements">Requirements</a><ul><li><a href="/upper-lower-requirements">Upper & Lower Division</a></li><li><a href="/field-emphasis">Field of Emphasis</a></li></ul></li><li class="current" color="#9ac883"><a href="/courses/current-term">Courses</a><ul><li class="current"><a href="/courses/current-term">Current Courses</a></li><li><a href="/class-curriculum">Curriculum</a></li><li><a href="/courses/archive">Course Archive</a></li><li><a href="/older-courses">Older Courses</a></li></ul></li><li color="#e8bfbf"><a href="/people/student-academic-advisor">People</a><ul><li><a href="/people/directors">Directors</a></li><li><a href="/people/student-academic-advisor">Student Academic Advisor</a></li><li><a href="/people/advising">Advising</a></li><li><a href="/people/teaching-faculty">Faculty</a></li><li><a href="/advisory-committee">Advisory Committee</a></li><li><a href="/gsi-openings-fall-15">GSI</a></li></ul></li><li color="#eab174"><a href="/isf-announcements">Resources</a><ul><li><a href="/isf-announcements">Announcements</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/gsi-jobs">GSI Jobs</a></li><li><a href="/campus-resources">Campus Resources</a></li><li><a href="/research-guides">Research Guides</a></li><li><a href="/fellowships-scholarships">Fellowships & Scholarships</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses/current-term" title="" class="active-trail active">Current Courses</a></li>
+<li><a href="/class-curriculum">Curriculum</a></li>
+<li><a href="/courses/archive" title="">Course Archive</a></li>
+<li><a href="/older-courses">Older Courses</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses/current-term" title="">Courses</a> &nbsp; &#62;  &nbsp; <a href="/courses/current-term">Courses From Other Departments</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Current Courses &rarr; Courses From Other Departments</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-views-courses-new-block-1" class="block block-views"><div class="widget bottom">    <div class="view-content">
+        <span class="views-summary views-summary-unformatted">        <a href="/courses/current-term/courses-from-other-departments" class="active">Courses From Other Departments</a>
+          (9)
+      </span>  <span class="views-summary views-summary-unformatted">        <a href="/courses/current-term/method">Method</a>
+          (1)
+      </span>    </div>
+  </div><div class="clear"></div></div><div id="block-system-main" class="block block-system"><div class="widget bottom"><div class="view view-courses-new view-id-courses_new view-display-id-page view-dom-id-1c8662f511f375ef9469260f132d2212">
+            <div class="view-header">
+      Displaying Courses 1 - 9 of 9 | <a href="/courses/current-term">Reset Filters</a>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="view-grouping"><div class="view-grouping-header">Fall 2016</div><div class="view-grouping-content">  <h3>Courses From Other Departments</h3>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 113</span> Buddhist Thought in India	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TTh3:30-5</li><li class="li-instructor">Lin, Q</li><li class="li-location">234 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 33597</li></ul></div><div class="expandable2"><p align="justify">This course is an advanced introduction to the major teachings of Indian Buddhism and their philosophical elaborations. We will cover the core tenets attributed to the Buddha, and the later doctrinal and scholastic developments that turned Buddhism into one of the principal philosophical traditions of India. For this we will read select primary sources—in principle, extracts of the scriptures and later treatises—and academic articles and book chapters. Rather than offering a broad introductory survey of Buddhist traditions across space and time, this class is geared towards students who are already familiar with the basics of Buddhism and want to deepen their understanding of the principal teachings of Buddhism originating in India.. Prerequisites: None.</p>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 120</span> Tibetan Buddhism 	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TTh 11-12:30</li><li class="li-instructor">J. Ronis</li><li class="li-location">587 Barrows</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: C114</li></ul></div><div class="expandable2"><p align="justify">Tibetan Buddhism. This course is an introduction to the history, institutions, doctrines, and ritual practices of Buddhism in Tibet. The course will progress along two parallel tracks, one chronological and the other thematic, providing on the one hand a sense of the historical development of Tibetan Buddhism, and on the other a general overview of some central themes.  Along the historical track, the course proceeds from Buddhism's initial arrival into Tibet through to the present day, with each week addressing another period in this history.  At the same time, each week will focus on a given theme that relates to the historical period in question. Themes include tantric myth, 'treasure' (terma) revelation, hidden valleys, the Dalai Lamas, exile, and more. Prerequisites: None.</p>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 120</span> Buddhism on the Silk Road	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 2:00-3:30</li><li class="li-instructor">S. Mehendale</li><li class="li-location">229 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 13623</li></ul></div><div class="cross-listed">Cross-listed with East Asian Languages and Cultures C120</div><div class="expandable2"><p>This course will discuss the social, economic, and cultural aspects of Buddhism as it moved along the ancient Eurasian trading network referred to as the "Silk Road." Instead of relying on the textual tradition, the course will focus on material culture as it offers evidence concerning the spread of Buddhism. Through an examination of the Buddhist art and archaeological remains of the Silk Road, the course will address specific topics, such as the relationship between Buddhism and commerce; doctrinal divergence; ideological  shifts in the iconography of the Buddha; patronage (royal, religious, and lay); ritual; Buddhism and political power; and art and conversion. The course is also designed as an historical introduction to the Silk Road, understood as an ever-changing series of peoples, places, and traditions, as well as an introduction to the study of those same peopels, places, and traditions in the modern period. IN this way, the class is intended both as a guide to extant textual, archaeological, and art historical evidence from the Silk Road, and as a framework fort hinking about the modern Silk Road regions from teh perspective of a contemporary American classroom. </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	History 185 A</span> History of Christianity to 1250	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 9:30-11:00</li><li class="li-instructor">TBA</li><li class="li-location">136 Barrows</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 15864</li></ul></div><div class="expandable2"><p><span>The course deals with the origins of Christianity and the first eleven centuries of its expansion into a major institutional, social, and intellectual force shaping Western Europe. The central themes are the mechanisms and conditions shaping this expansion rather than a chronological account to present this process as a model of "institutionalization" (or not!) of religious movements. The emphasis will be on patterns of crisis and reform, i.e., on conflicts arising within the church itself and as a result of its dealings with the "outside" world, and how these crises were resolved. The course is based on the study of primary sources and will include problems of historical method. Requirements, beyond a basic familiarity with Roman and early Medieval history, are one midterm, one final, and a book review.</span></p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	History 185 B</span> Jews and the Modern World 	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 9:30-11:00</li><li class="li-instructor">J. Efron</li><li class="li-location">247 Corey</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 39941</li></ul></div><div class="expandable2"><p>This course will examine the impact of modern intellectual, political, economic, and social forces on the Jewish people since the eighteenth century.  It is our aim to come to an understanding of how the Jews interpreted these forces and how and in what ways they adapted and utilized them to suit the Jewish experience.  In other words, we will trace the way Jews became modern.  Some of the topics to be covered include Emancipation, the Jewish Enlightenment, new Jewish religious movements, Jewish politics and culture, antisemitism, the Holocaust, and the state of Israel.</p>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	South Asian 128</span> Religion in Modern India	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">MWF 11-12</li><li class="li-instructor">PARAMASIVAN,FV. </li><li class="li-location">2011 VLSB</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 31590</li></ul></div><div class="expandable2"><div class="course-description">
+<p>This course considers the co-option, reinterpretation and dissemination of sacred texts and religious practices in various political and cultural projects in India during the colonial and post-colonial periods. Students will be introduced to religious “reform” movements and cross-cultural debates during the colonial period. We will also examine how the concept of a secular state in post-Independence India has shaped and continues to shape religious practice and public policy. Important themes will include, transformations in the role of women, debates around caste and “untouchability”, and religious conversions. Although the emphasis is on Hindu traditions, attention will also be given to other Indian traditions such as Islam, Christianity and Buddhism.</p>
+<p> </p>
+</div>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	South Asian 140</span> Hindu Mythology	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">MWF 11-12</li><li class="li-instructor">Goldman, R. </li><li class="li-location">2060 VLSB</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 31585</li></ul></div><div class="expandable2"><p>Description forthcoming</p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Southeast Asian Studies 137</span> Islam and Society in Southeast Asia	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TTh 12:30-2</li><li class="li-instructor">Hadler, J. </li><li class="li-location">209 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 31587</li></ul></div><div class="expandable2"><div class="course-description">
+<p>Indonesia is the nation with the world’s largest Muslim population, and Malaysia and the southern Philippines are regions with vibrant Islamic traditions. Islam has been essential in the development of Southeast Asian cultures, literatures, and arts for over seven hundred years, and Southeast Asian Islam is intimately tied to the Islamic world. This upper-division undergraduate course will be an investigation into key discourses on the cultures and politics of Islam in Southeast Asia. We will trace the processes through which Islam entered the Malay world in the 13th century. We will explore the European colonial encounters with Islam in Southeast Asia and the ways that Islam interacted with and resisted colonialism. We will discuss the role of mysticism and Sufi associations, and of reformist movements in the 18th through the 21st centuries. And we will analyze the place of Islam in Southeast Asian arts and literature. We will consider the majority Muslim nations of Indonesia and Malaysia, and will also explore the struggles of Islam as a minority religion in the Philippines and Thailand. Readings will include primary sources in translation, literary texts, ethnographic works, and writings by colonial and local scholars. Note: this course is writing-intensive and discussion-based.</p>
+<p> </p>
+</div>
+<p> </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+</div></div><div class="view-grouping"><div class="view-grouping-header">Summer 2015</div><div class="view-grouping-content">  <h3>Courses From Other Departments</h3>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Religious Studies C 104</span> Babylonian Religion	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">MWF 9:00-11:30</li><li class="li-instructor">T. Tanaka</li><li class="li-location">78 Barrows</li><li class="li-units">3 Units</li><li class="li-cc">Class Number: 81005</li></ul></div><div class="cross-listed">Cross-listed with Ne Stud C 104</div><div class="expandable2"><p><span>This course will introduce students to various aspects of the religious practices of ancient Mesopotamia (modern-day Iraq) through readings, lectures, discussions, and papers. Since the Mesopotamians had no word for "religion," some of the course topics (ranging from medicine to politics to law) may challenge the student's understanding of what religion is. </span></p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+</div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Administrative Office : 237 Evans Hall(PH) 510.<span>642.9320</span><br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://religiousstudies.ugis.berkeley.edu/courses/current-term/method /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Current Courses &rarr; Method | Religious Studies - Letters &amp; Science - UC Berkeley</title>
+<meta content="Religious Studies Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Religious Studies, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_thparLTzrXjGcXaxnFzJk07D8zQmd9j-dK3HZZ0pWBs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_oiz0f1YsxMW4Anf5gWhYvNd8BE-lRjjIRCbgdcTLDY4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/drupal.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/ajax.js?v=7.56"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/admin_menu/admin_devel/admin_devel.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/libraries/colorbox/jquery.colorbox-min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/js/colorbox.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/styles/stockholmsyndrome/colorbox_style.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/views/js/base.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/progress.js?v=7.56"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/views/js/ajax_view.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery-ui.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.fancybox-1.3.4.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/mosaic.1.0.1.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.tooltip.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/hoverIntent.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/superfish.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/scripts.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/tabbed.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.quote_rotator.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.nivo.slider.pack.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.c.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.js?oufyxt"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"wIav8sVbZ3ulguQd0U9fx4Y0wexjMYnXFisf7LEa4yA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b1bec821698942e40c21c18e73f88e6b":{"view_name":"courses_new","view_display_id":"block_1","view_args":"","view_path":"courses\/current-term\/courses-from-other-departments","view_base_path":"courses\/current-term","view_dom_id":"b1bec821698942e40c21c18e73f88e6b","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-courses page-courses-current-term page-courses-current-term-method" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/about-major">Major</a><ul><li><a href="/about-major">About The Major</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/honors">Honors</a></li><li><a href="/minor-religious-studies">Minor</a></li><li><a href="/commencement-2017">Commencement</a></li><li><a href="/learning-initiative">Learning Initiative</a></li></ul></li><li color="#c2deea"><a href="/requirements">Requirements</a><ul><li><a href="/upper-lower-requirements">Upper & Lower Division</a></li><li><a href="/field-emphasis">Field of Emphasis</a></li></ul></li><li class="current" color="#9ac883"><a href="/courses/current-term">Courses</a><ul><li class="current"><a href="/courses/current-term">Current Courses</a></li><li><a href="/class-curriculum">Curriculum</a></li><li><a href="/courses/archive">Course Archive</a></li><li><a href="/older-courses">Older Courses</a></li></ul></li><li color="#e8bfbf"><a href="/people/student-academic-advisor">People</a><ul><li><a href="/people/directors">Directors</a></li><li><a href="/people/student-academic-advisor">Student Academic Advisor</a></li><li><a href="/people/advising">Advising</a></li><li><a href="/people/teaching-faculty">Faculty</a></li><li><a href="/advisory-committee">Advisory Committee</a></li><li><a href="/gsi-openings-fall-15">GSI</a></li></ul></li><li color="#eab174"><a href="/isf-announcements">Resources</a><ul><li><a href="/isf-announcements">Announcements</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/gsi-jobs">GSI Jobs</a></li><li><a href="/campus-resources">Campus Resources</a></li><li><a href="/research-guides">Research Guides</a></li><li><a href="/fellowships-scholarships">Fellowships & Scholarships</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses/current-term" title="" class="active-trail active">Current Courses</a></li>
+<li><a href="/class-curriculum">Curriculum</a></li>
+<li><a href="/courses/archive" title="">Course Archive</a></li>
+<li><a href="/older-courses">Older Courses</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses/current-term" title="">Courses</a> &nbsp; &#62;  &nbsp; <a href="/courses/current-term">Method</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Current Courses &rarr; Method</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-views-courses-new-block-1" class="block block-views"><div class="widget bottom">    <div class="view-content">
+        <span class="views-summary views-summary-unformatted">        <a href="/courses/current-term/courses-from-other-departments" class="active">Courses From Other Departments</a>
+          (9)
+      </span>  <span class="views-summary views-summary-unformatted">        <a href="/courses/current-term/method">Method</a>
+          (1)
+      </span>    </div>
+  </div><div class="clear"></div></div><div id="block-system-main" class="block block-system"><div class="widget bottom"><div class="view view-courses-new view-id-courses_new view-display-id-page view-dom-id-e8c51933cf673d0222be3e79f62ffb49">
+            <div class="view-header">
+      Displaying Courses 1 - 1 of 1 | <a href="/courses/current-term">Reset Filters</a>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="view-grouping"><div class="view-grouping-header">Fall 2016</div><div class="view-grouping-content">  <h3>Method</h3>
+  <div class="groupers">
+    <div id="courses-dave-template" class="grid_12">
+	<div class="course_title_div">
+		<span class="bolded">
+	Buddhist Studies C 120</span> Buddhism on the Silk Road	 </div>
+
+
+
+<div class="body"><div class="course_logistics"><ul><li class="li-time">TuTh 2:00-3:30</li><li class="li-instructor">S. Mehendale</li><li class="li-location">229 Dwinelle</li><li class="li-units">4 Units</li><li class="li-cc">Class Number: 13623</li></ul></div><div class="cross-listed">Cross-listed with East Asian Languages and Cultures C120</div><div class="expandable2"><p>This course will discuss the social, economic, and cultural aspects of Buddhism as it moved along the ancient Eurasian trading network referred to as the "Silk Road." Instead of relying on the textual tradition, the course will focus on material culture as it offers evidence concerning the spread of Buddhism. Through an examination of the Buddhist art and archaeological remains of the Silk Road, the course will address specific topics, such as the relationship between Buddhism and commerce; doctrinal divergence; ideological  shifts in the iconography of the Buddha; patronage (royal, religious, and lay); ritual; Buddhism and political power; and art and conversion. The course is also designed as an historical introduction to the Silk Road, understood as an ever-changing series of peoples, places, and traditions, as well as an introduction to the study of those same peopels, places, and traditions in the modern period. IN this way, the class is intended both as a guide to extant textual, archaeological, and art historical evidence from the Silk Road, and as a framework fort hinking about the modern Silk Road regions from teh perspective of a contemporary American classroom. </p>
+</div></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+  </div>
+</div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Administrative Office : 237 Evans Hall(PH) 510.<span>642.9320</span><br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>http://religiousstudies.ugis.berkeley.edu/older-courses /n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/cal.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/3402" />
+<link rel="canonical" href="/older-courses" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Older Courses | Religious Studies - Letters &amp; Science - UC Berkeley</title>
+<meta content="Religious Studies Undergraduate Major at UC Berkeley - Administered by the Office of Undergraduate and Interdisciplinary Studies" name="description">
+<meta content="UC Berkeley, Religious Studies, Major, Berkeley, Cal, California, Education, undergraduate major" name="keywords">
+  <link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_thparLTzrXjGcXaxnFzJk07D8zQmd9j-dK3HZZ0pWBs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_XHWSuVJpN_kim6V8r3j4DNjNeH251Nh8MK0njqalvMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_oiz0f1YsxMW4Anf5gWhYvNd8BE-lRjjIRCbgdcTLDY4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_-HeF1G0GYOMbxaKqy3dV-11H8pu2u9wv0DuJ4d5S570.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="handheld" />
+  <script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/drupal.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/admin_menu/admin_devel/admin_devel.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/libraries/colorbox/jquery.colorbox-min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/js/colorbox.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/modules/colorbox/styles/stockholmsyndrome/colorbox_style.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/misc/tableheader.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery-ui.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.fancybox-1.3.4.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/mosaic.1.0.1.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.tooltip.min.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/hoverIntent.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/superfish.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/scripts.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/tabbed.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.quote_rotator.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/jquery.nivo.slider.pack.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.c.js?oufyxt"></script>
+<script type="text/javascript" src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/expander_setup.js?oufyxt"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bowtie","theme_token":"vgKrzKAWoIDTfP6y54kd_7Ia-OlGYtYU0T6Et98gRJA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"misc\/tableheader.js":1,"sites\/all\/themes\/bowtie\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.fancybox-1.3.4.js":1,"sites\/all\/themes\/bowtie\/js\/mosaic.1.0.1.min.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.tooltip.min.js":1,"sites\/all\/themes\/bowtie\/js\/hoverIntent.js":1,"sites\/all\/themes\/bowtie\/js\/superfish.js":1,"sites\/all\/themes\/bowtie\/js\/scripts.js":1,"sites\/all\/themes\/bowtie\/js\/tabbed.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.quote_rotator.js":1,"sites\/all\/themes\/bowtie\/js\/jquery.nivo.slider.pack.js":1,"sites\/all\/themes\/bowtie\/js\/expander.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.c.js":1,"sites\/all\/themes\/bowtie\/js\/expander_setup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bowtie\/css\/reset.css":1,"sites\/all\/themes\/bowtie\/css\/typography.css":1,"sites\/all\/themes\/bowtie\/css\/jquery-ui.css":1,"sites\/all\/themes\/bowtie\/css\/960.css":1,"sites\/all\/themes\/bowtie\/css\/body.css":1,"sites\/all\/themes\/bowtie\/css\/dave.css":1,"sites\/all\/themes\/bowtie\/css\/courses.css":1,"sites\/all\/themes\/bowtie\/css\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/bowtie\/css\/handheld.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+//--><!]]>
+</script>
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie9.css">
+	<![endif]-->
+  <!--[if lt IE 9]>
+	<script src="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://religiousstudies.ugis.berkeley.edu/sites/all/themes/bowtie/css/ie7.css">
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3402 node-type-full-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+	<div id="top-bg"></div>
+	<div class="container_12" id="header" >
+		<header>	
+		<div class="grid_12" id="logo-new">	
+			<!-- Logo Here -->
+			<a href="/">
+				<div id="logo"></div></a>			
+			<!-- Main Navigation Here -->
+			<nav id="top_nav"><ul id="main-nav" class="sf-menu"><li color="#e2e2e2"><a href="/about-major">Major</a><ul><li><a href="/about-major">About The Major</a></li><li><a href="/declaring">Declaring</a></li><li><a href="/honors">Honors</a></li><li><a href="/minor-religious-studies">Minor</a></li><li><a href="/commencement-2017">Commencement</a></li><li><a href="/learning-initiative">Learning Initiative</a></li></ul></li><li color="#c2deea"><a href="/requirements">Requirements</a><ul><li><a href="/upper-lower-requirements">Upper & Lower Division</a></li><li><a href="/field-emphasis">Field of Emphasis</a></li></ul></li><li class="current" color="#9ac883"><a href="/courses/current-term">Courses</a><ul><li><a href="/courses/current-term">Current Courses</a></li><li><a href="/class-curriculum">Curriculum</a></li><li><a href="/courses/archive">Course Archive</a></li><li class="current"><a href="/older-courses">Older Courses</a></li></ul></li><li color="#e8bfbf"><a href="/people/student-academic-advisor">People</a><ul><li><a href="/people/directors">Directors</a></li><li><a href="/people/student-academic-advisor">Student Academic Advisor</a></li><li><a href="/people/advising">Advising</a></li><li><a href="/people/teaching-faculty">Faculty</a></li><li><a href="/advisory-committee">Advisory Committee</a></li><li><a href="/gsi-openings-fall-15">GSI</a></li></ul></li><li color="#eab174"><a href="/isf-announcements">Resources</a><ul><li><a href="/isf-announcements">Announcements</a></li><li><a href="/forms-downloads">Forms & Downloads</a></li><li><a href="/gsi-jobs">GSI Jobs</a></li><li><a href="/campus-resources">Campus Resources</a></li><li><a href="/research-guides">Research Guides</a></li><li><a href="/fellowships-scholarships">Fellowships & Scholarships</a></li></ul></li><li color="#eab174"><a href="/contact-information">Contact</a></li></ul></nav>
+			
+		</div>
+		<!-- Begin MB -->
+			<div class="container_12 clearfix" id="mb3" role="">
+			  <div class="region region-mb">
+    <div id="block-menu-block-3" class="block block-menu-block"><div class="widget bottom"><div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul><li><a href="/courses/current-term" title="">Current Courses</a></li>
+<li><a href="/class-curriculum">Curriculum</a></li>
+<li><a href="/courses/archive" title="">Course Archive</a></li>
+<li><a href="/older-courses" class="active-trail active">Older Courses</a></li>
+</ul></div>
+</div><div class="clear"></div></div>  </div>
+</div>
+			<div class="clear"></div>
+		</header>	
+			
+		
+		</header>		
+		<div class="clear"></div>	
+	</div> <!-- end #container_12 #header -->
+	<div class="clear"></div>
+	
+	<!-- BEGIN CALL TO ACTION -->
+	
+	
+	<!-- Begin Main Body -->
+	<div class="container_12" id="body-wrap" role="main">
+	
+	<!-- Breadcrumb -->
+	<!--<div id="breadcrumb-wrap" class="grid_12"><p id="breadcrumbs">You are here: &nbsp; <a href="/">Home</a> &nbsp; &#62;  &nbsp; <a href="/courses/current-term" title="">Courses</a></p></div>-->
+	
+	<!-- Body -->
+	<!-- Tabs and Messages -->
+	    <div class="clear"></div><div class="clear"></div>    <div class="clear"></div><div class="clear"></div>
+
+	
+			<div id="post-content-wrap" class="grid_12"> 
+			<h2 class="inner-title">Older Courses</h2>     			
+			  <div id="content" >
+			  
+			    <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="widget bottom"><div id="node-3402" class="node node-full-width clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-file field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><table class="sticky-enabled">
+ <thead><tr><th>Attachment</th><th>Size</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/fall.2013.pdf" type="application/pdf; length=255378" title="fall.2013.pdf">Fall 2013</a></span></td><td>249.39 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/spring.2013.pdf" type="application/pdf; length=266701" title="spring.2013.pdf">Spring 2013</a></span></td><td>260.45 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/fall.2012.pdf" type="application/pdf; length=267878" title="fall.2012.pdf">Fall 2012</a></span></td><td>261.6 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/summer.2012.pdf" type="application/pdf; length=235059" title="summer.2012.pdf">Summer 2012</a></span></td><td>229.55 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/spring.2012.pdf" type="application/pdf; length=273878" title="spring.2012.pdf">Spring 2012</a></span></td><td>267.46 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/fall.2011.pdf" type="application/pdf; length=270357" title="fall.2011.pdf">Fall 2011</a></span></td><td>264.02 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/summer.2011.pdf" type="application/pdf; length=228740" title="summer.2011.pdf">Summer 2011</a></span></td><td>223.38 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/spring.2011.pdf" type="application/pdf; length=273087" title="spring.2011.pdf">Spring 2011</a></span></td><td>266.69 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202009%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=451486">Fall 2009 Religious Studies course archive.pdf</a></span></td><td>440.9 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Summer%202009%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=164644">Summer 2009 Religious Studies course archive.pdf</a></span></td><td>160.79 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202009%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=565363">Spring 2009 Religious Studies course archive.pdf</a></span></td><td>552.11 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202008%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=562624">Fall 2008 Religious Studies course archive.pdf</a></span></td><td>549.44 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Summer%202008%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=164903">Summer 2008 Religious Studies course archive.pdf</a></span></td><td>161.04 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202008%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=591544">Spring 2008 Religious Studies course archive.pdf</a></span></td><td>577.68 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202007%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=416254">Fall 2007 Religious Studies course archive.pdf</a></span></td><td>406.5 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Summer%202007%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=165854">Summer 2007 Religious Studies course archive.pdf</a></span></td><td>161.97 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202007%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=550738">Spring 2007 Religious Studies course archive.pdf</a></span></td><td>537.83 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202006%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=547969">Fall 2006 Religious Studies course archive.pdf</a></span></td><td>535.13 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Summer%202006%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=165597">Summer 2006 Religious Studies course archive.pdf</a></span></td><td>161.72 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202006%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=604655">Spring 2006 Religious Studies course archive.pdf</a></span></td><td>590.48 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202005%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=636125">Fall 2005 Religious Studies course archive.pdf</a></span></td><td>621.22 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Summer%202005%20Religious%20Studies%20course%20archive%20%28mislabeled%29.pdf" type="application/pdf; length=166172">Summer 2005 Religious Studies course archive (mislabeled).pdf</a></span></td><td>162.28 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202005%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=646523">Spring 2005 Religious Studies course archive.pdf</a></span></td><td>631.37 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202004%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=479691">Fall 2004 Religious Studies course archive.pdf</a></span></td><td>468.45 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Summer%202004%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=164211">Summer 2004 Religious Studies course archive.pdf</a></span></td><td>160.36 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202004%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=733336">Spring 2004 Religious Studies course archive.pdf</a></span></td><td>716.15 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202003%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=720499">Fall 2003 Religious Studies course archive.pdf</a></span></td><td>703.61 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/summer%202003%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=174276">summer 2003 Religious Studies course archive.pdf</a></span></td><td>170.19 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202003%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=639028">Spring 2003 Religious Studies course archive.pdf</a></span></td><td>624.05 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Fall%202002%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=866270">Fall 2002 Religious Studies course archive.pdf</a></span></td><td>845.97 KB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://religiousstudies.ugis.berkeley.edu/sites/default/files/Spring%202002%20Religious%20Studies%20course%20archive.pdf" type="application/pdf; length=735025">Spring 2002 Religious Studies course archive.pdf</a></span></td><td>717.8 KB</td> </tr>
+</tbody>
+</table>
+</div></div></div>  </div>
+
+  
+  </div></div><div class="clear"></div></div>  </div>
+			  </div>
+		  </div>
+		</div> <!-- end #body-wrap .container_12 -->
+	<div class="clear"></div>
+	
+<!-- Footer -->
+  		<footer>
+	  		<div id="social-wrap" >
+			<div id="social-icons" class="container_12">
+			
+			<ul class="grid_3">
+				<li id="rss">
+					<a href="/rss.xml">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+			<!-- CONTACT -->
+					<li id="contact">
+					<a href="contact-information">
+						<div class="fadeThis">
+							<span class="hover"></span>
+						</div>
+					</a>
+					</li>
+				</ul>
+
+			
+					<div class="brand grid_9 clearfix"><div id="sm-uc-logo" style="float:right;padding-left:10px;"><a href="http://berkeley.edu" target="blank"><img src="/sites/all/themes/bowtie/images/uc-logo-sm.png" /></a></div>University of California Berkeley<br /><span id="ugis">Office of Undergraduate Interdisciplinary Studies, Undergraduate Division <em>- College of Letters & Science</em></span></div>
+			</div><!-- end .container_12 -->
+			</div> <!-- end #social-wrap -->
+		
+		<div id="copyright-wrap">	
+			<div class="container_12">
+			<div id="copyright" class="grid_12 omega">
+			
+						
+			  <div class="region region-footer-copyright">
+    <div id="block-block-4" class="block block-block"><div class="widget bottom"><p>The Office of Undergraduate and Interdisciplinary Studies : 231 Evans Hall(PH) 510.642.0108<br /> Administrative Office : 237 Evans Hall(PH) 510.<span>642.9320</span><br /> Copyright © Regents of the University of California <a href="http://berkeley.edu" target="_blank">UC Berkeley</a> - All rights reserved | <a href="contact-information">Contact</a> | <a href="/user">User Login</a></p>
+</div><div class="clear"></div></div>  </div>
+			</div>
+			</div><!-- end #copyright -->
+		</div> <!-- end #footer-widget-wrap -->	
+	</footer>   
+</body>
+</html>

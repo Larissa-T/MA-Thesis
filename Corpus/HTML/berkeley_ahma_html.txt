@@ -1,0 +1,1650 @@
+http://ahma.berkeley.edu/ahma-seminars /n<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://ahma.berkeley.edu/sites/all/themes/ahma/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/216" />
+<link rel="canonical" href="/ahma-seminars" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>AHMA Seminars | Ancient History &amp; Mediterranean Archaeology</title>
+
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_qMSPO_WnyDQ_fIKBwl0BrBL0dFTUJIyAy_8A6FprMTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_RNTD5XbId3f-EzfqNFG0PISgDQsxIj_qhR6txw8gemQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_-qw2GPTPiwuoeQ4-P3LZpkaMuutZUWY5R5TXAIMHk2w.css" media="all" />
+<![endif]-->
+  <script src="http://ahma.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_gBoSdTsbO5TTeOmqEi5o8yZugwRoJUJi0t2MCEMdSqk.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_2Val_73yRSV-QKkBsklKs4l0z5F0IkoLYOBZ--jfACI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahma","theme_token":"7fz2Y97EzO7aGCNHJE9zS2991amtbR_IHzbs6PyMDJs","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ahma\/system.menus.css":1,"sites\/all\/themes\/ahma\/css\/normalize.css":1,"sites\/all\/themes\/ahma\/css\/wireframes.css":1,"sites\/all\/themes\/ahma\/css\/layout.css":1,"sites\/all\/themes\/ahma\/css\/tabs.css":1,"sites\/all\/themes\/ahma\/css\/pages.css":1,"sites\/all\/themes\/ahma\/css\/navigation.css":1,"sites\/all\/themes\/ahma\/css\/views-styles.css":1,"sites\/all\/themes\/ahma\/css\/nodes.css":1,"sites\/all\/themes\/ahma\/css\/comments.css":1,"sites\/all\/themes\/ahma\/css\/forms.css":1,"sites\/all\/themes\/ahma\/css\/print.css":1,"sites\/all\/themes\/ahma\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"nice_menus_options":{"delay":"800","speed":"slow"},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/ahma-seminars":true}});</script>
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-216 node-type-page section-ahma-seminars" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header id="header" role="banner">
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://ahma.berkeley.edu/sites/all/themes/ahma/logo.png" alt="Home" /></a>
+    
+      <p class="university"><a href="http://berkeley.edu">University of California, Berkeley</a></p>
+      <h1 id="site-name">
+        <a href="/" title="Home" rel="home"><span class="sitename-text">Ancient History</span> <span class="sitename-ampersand">&</span> <span class="sitename-text">Mediterranean Archaeology</span></a>
+      </h1>
+
+    
+      <div class="header__region region region-header">
+    <div id="block-nodeblock-48" class="block block-nodeblock give-block first odd">
+
+      
+  <div id="node-48" class="node node-editblock view-mode-full clearfix" about="/blocks/give-ahma" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Give to AHMA" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://givetocal.berkeley.edu/browse/?u=125#.UG8cUo5K8pk">Give to AHMA »</a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form class="search-form" action="/ahma-seminars" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search this site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="19" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-lRDcuhbLfkt5IB4TnccrSg5jtvTkCsvAlXEnRJVL9Wc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="page-wrapper">
+    <div id="main" class="clearfix">
+      <div id="content" class="column clearfix" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">AHMA Seminars</h1>
+                                                        
+
+
+<article class="node-216 node node-page view-mode-full clearfix" about="/ahma-seminars" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="AHMA Seminars" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-image-opt field-type-image field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><a href="http://ahma.berkeley.edu/sites/default/files/pages/berlin_pergamon.jpg" title="" class="colorbox" rel="gallery-node-216"><img typeof="foaf:Image" src="http://ahma.berkeley.edu/sites/default/files/styles/node_main/public/pages/berlin_pergamon.jpg?itok=2mTeuoB4" alt="" title="" /></a></div>
+      </div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>All AHMA students must take one AHMA seminar during Stage I of the program, normally in the first two years. The AHMA seminar is offered annually by two participating faculty members of AHMA who belong to different home departments. The following AHMA seminars will be or have been offered in the recent past.</p>
+<p>2017-18: <strong>Greek Economies: The Documentary Evidence</strong>. Professors Emily Mackil (History) and Nikolaos Papazarkadas (Classics). Spring 2018.</p>
+<p>2015-16: <strong>Comparative  Urbanism in the Ancient World</strong>. Professors Carlos Noreña (History) and Carol Redmount (Near Eastern Studies). Spring 2016.</p>
+<p>2014-15: <strong>Ancient Boiotia: History, Epigraphy, and Culture</strong>. Professors Emily Mackil (History) and Nikolaos Papazarkadas (Classics). Spring 2015.</p>
+<p>2013-14: <strong>Etruscan Cities</strong>. Professors Ted Peña (Classics) and L. Pieraccini (Art History). Fall 2013.</p>
+<p>2012-13: <strong>The City of Rome: Topography and Urban History.</strong> Professors Carlos Noreña (History) and Ted Peña (Classics). Spring 2013.</p>
+<p>2011-12: <strong>Making Things in the Iron Age Levant: An Investigation into Materials, Craft and Production. </strong>Professors Marian Feldman (Art History/NES) and Benjamin Porter (NES)</p>
+<p>2010-11: <strong>Greece and the Near East in the Iron Age</strong>. Professors Marian Feldman (Art History/NES) and Andrew Stewart (Art History/Classics)</p>
+<p>2009-10: <strong>Sectarianism to Heresiology in Second Temple Judaism</strong><strong>. </strong>Professors Ron Hendel (NES) and Holger Zellentin (Jewish Studies, Graduate Theological Union)</p>
+<p>2008-9: <strong>Greek Economies: The Documentary Evidence.</strong> Professors Emily Mackil (History) and Nikolaos Papazarkadas (Classics).</p>
+<p>2007-8:  <strong>Regarding Graeco-Roman Egypt: Text and Image, Reading and Viewing in a Multi-Cultural Society</strong> Professors Chris Hallett (Art History) and Todd Hickey (Classics)</p>
+</div></div></div>
+  
+  
+</article>
+              </div><!-- /#content -->
+
+      
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-block-1" class="block block-menu-block subnav-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-865"><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-870"><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-776"><a href="/courses/past" class="menu__link">Past Courses</a></li>
+<li class="menu__item is-active is-active-trail is-leaf last leaf active-trail active menu-mlid-779"><a href="/ahma-seminars" class="menu__link is-active-trail active-trail active">AHMA Seminars</a></li>
+</ul></div>
+
+</div>
+  </section>
+                  </aside><!-- /.sidebars -->
+      
+    </div><!-- /#main -->
+
+
+          <div id="navigation">
+        
+          <div class="region region-navigation">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu__item menu-461 menuparent  menu-path-node-5  first   odd  "><a href="/about" class="menu__link">About</a><ul><li class="menu__item menu-845 menu-path-node-5  first   odd  "><a href="/about" title="" class="menu__link">About AHMA</a></li>
+<li class="menu__item menu-472 menu-path-node-16   even  "><a href="/about/uc-berkeley" class="menu__link">About UC Berkeley</a></li>
+<li class="menu__item menu-479  menu-path-about-news   odd  "><a href="/about/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-522 menu-path-node-49   even   last "><a href="/about/contact" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item menu-462 menuparent  menu-path-node-6   even  "><a href="/program" title="" class="menu__link">Program</a><ul><li class="menu__item menu-868 menu-path-node-1324  first   odd  "><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item menu-513 menu-path-node-45   even  "><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item menu-471 menu-path-node-15   odd  "><a href="/program/student-handbook" class="menu__link">Student Handbook</a></li>
+<li class="menu__item menu-808 menu-path-node-425   even  "><a href="/apply" class="menu__link">Apply</a></li>
+<li class="menu__item menu-470 menu-path-node-14   odd   last "><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></li>
+<li class="menu__item menu-515 menuparent  menu-path-node-47   odd  "><a href="/people" title="" class="menu__link">People</a><ul><li class="menu__item menu-504 menu-path-people-faculty  first   odd  "><a href="/people/faculty" title="" class="menu__link">Participating Faculty</a></li>
+<li class="menu__item menu-507 menu-path-people-emeriti   even  "><a href="/people/emeriti" class="menu__link">Emeriti Faculty</a></li>
+<li class="menu__item menu-509 menu-path-people-students   odd  "><a href="/people/students" class="menu__link">Current Students</a></li>
+<li class="menu__item menu-511 menu-path-people-alumni   even  "><a href="/people/alumni" title="" class="menu__link">Alumni</a></li>
+<li class="menu__item menu-523 menu-path-node-50   odd   last "><a href="/people/staff" title="" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item menu-807 menuparent  menu-path-events   even  "><a href="/events" title="" class="menu__link">Events</a><ul><li class="menu__item menu-781 menu-path-node-218  first   odd  "><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item menu-780 menu-path-node-217   even  "><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item menu-783 menu-path-node-221   odd  "><a href="/aleshire-seminar" class="menu__link">The Aleshire Seminar</a></li>
+<li class="menu__item menu-784 menu-path-node-222   even  "><a href="/nemea-center-seminar" class="menu__link">The Nemea Center Seminar</a></li>
+<li class="menu__item menu-785 menu-path-node-223   odd  "><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item menu-788 menu-path-node-226   even  "><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item menu-861 menu-path-aleshireberkeleyedu-nacgle-2016   odd   last "><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></li>
+<li class="menu__item menu-463 menuparent  menu-path-ahmaberkeleyedu-node-229 active-trail   odd  "><a href="http://ahma.berkeley.edu/node/229" title="" class="menu__link">Courses</a><ul><li class="menu__item menu-865 menu-path-node-229  first   odd  "><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item menu-870 menu-path-node-1383   even  "><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item menu-776 menu-path-node-195   odd  "><a href="/courses/past" class="menu__link">Past Courses</a></li>
+<li class="menu__item menu-779 menu-path-node-216 active-trail   even   last "><a href="/ahma-seminars" class="menu__link active">AHMA Seminars</a></li>
+</ul></li>
+<li class="menu__item menu-782 menuparent  menu-path-node-8   even   last "><a href="/research-and-funding" class="menu__link">Research &amp; Funding</a><ul><li class="menu__item menu-465 menu-path-node-9  first   odd  "><a href="/resources/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item menu-466 menu-path-node-10   even  "><a href="/research-and-funding/research-facilities" class="menu__link">Research Facilities</a></li>
+<li class="menu__item menu-467 menu-path-node-11   odd  "><a href="/research-and-funding/research-activities" class="menu__link">Research Activities</a></li>
+<li class="menu__item menu-469 menu-path-node-13   even  "><a href="/research-and-funding/study-abroad" class="menu__link">Study Abroad</a></li>
+<li class="menu__item menu-468 menu-path-node-12   odd  "><a href="/research-and-funding/off-campus-study" class="menu__link">Off-Campus Study—USA</a></li>
+<li class="menu__item menu-546 menu-path-node-53   even   last "><a href="/research-and-funding/funding-opportunities" class="menu__link">Funding Opportunities</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+      </div><!-- /#navigation -->
+    
+      <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-30" class="block block-nodeblock footer-block first last odd">
+
+      
+  <div id="node-30" class="node node-editblock view-mode-full clearfix" about="/blocks/footer-nav-links" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Footer Nav Links" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="nav-links"><a href="/">Home</a> <a href="/about">About</a> <a href="/program">Program</a> <a href="/people/faculty">People</a> <a href="/courses">Courses</a> <a href="/events">Events</a> <a class="last" href="/research-and-funding">Research and Funding</a></p>
+<div class="loc-copy-info clearfix">
+	<p class="location-info">7233 Dwinelle Hall University of California ~ Berkeley, CA 94720 ~ 510-643-8741 (Phone) ~ 510-643-2959 (Fax)</p>
+	<p class="copyright-info">© 2017 UC Regents</p>
+</div>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+  </div><!-- /#page-wrapper -->
+
+</div><!-- /#page -->
+
+  </body>
+</html>
+http://ahma.berkeley.edu/aleshire-seminar /n<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://ahma.berkeley.edu/sites/all/themes/ahma/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/221" />
+<link rel="canonical" href="/aleshire-seminar" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>The Aleshire Epigraphy Seminar | Ancient History &amp; Mediterranean Archaeology</title>
+
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_qMSPO_WnyDQ_fIKBwl0BrBL0dFTUJIyAy_8A6FprMTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_RNTD5XbId3f-EzfqNFG0PISgDQsxIj_qhR6txw8gemQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_-qw2GPTPiwuoeQ4-P3LZpkaMuutZUWY5R5TXAIMHk2w.css" media="all" />
+<![endif]-->
+  <script src="http://ahma.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_gBoSdTsbO5TTeOmqEi5o8yZugwRoJUJi0t2MCEMdSqk.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_2Val_73yRSV-QKkBsklKs4l0z5F0IkoLYOBZ--jfACI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahma","theme_token":"w8cDuOkYPqIxYIZMzjISNEyg2onp8wCmiUTis73KWIQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ahma\/system.menus.css":1,"sites\/all\/themes\/ahma\/css\/normalize.css":1,"sites\/all\/themes\/ahma\/css\/wireframes.css":1,"sites\/all\/themes\/ahma\/css\/layout.css":1,"sites\/all\/themes\/ahma\/css\/tabs.css":1,"sites\/all\/themes\/ahma\/css\/pages.css":1,"sites\/all\/themes\/ahma\/css\/navigation.css":1,"sites\/all\/themes\/ahma\/css\/views-styles.css":1,"sites\/all\/themes\/ahma\/css\/nodes.css":1,"sites\/all\/themes\/ahma\/css\/comments.css":1,"sites\/all\/themes\/ahma\/css\/forms.css":1,"sites\/all\/themes\/ahma\/css\/print.css":1,"sites\/all\/themes\/ahma\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"nice_menus_options":{"delay":"800","speed":"slow"},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/aleshire-seminar":true}});</script>
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-221 node-type-page section-aleshire-seminar" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header id="header" role="banner">
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://ahma.berkeley.edu/sites/all/themes/ahma/logo.png" alt="Home" /></a>
+    
+      <p class="university"><a href="http://berkeley.edu">University of California, Berkeley</a></p>
+      <h1 id="site-name">
+        <a href="/" title="Home" rel="home"><span class="sitename-text">Ancient History</span> <span class="sitename-ampersand">&</span> <span class="sitename-text">Mediterranean Archaeology</span></a>
+      </h1>
+
+    
+      <div class="header__region region region-header">
+    <div id="block-nodeblock-48" class="block block-nodeblock give-block first odd">
+
+      
+  <div id="node-48" class="node node-editblock view-mode-full clearfix" about="/blocks/give-ahma" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Give to AHMA" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://givetocal.berkeley.edu/browse/?u=125#.UG8cUo5K8pk">Give to AHMA »</a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form class="search-form" action="/aleshire-seminar" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search this site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="19" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-TXpwlGBlFeVk2dcqU12QteIjPP4os6ApuUwkMJdvs-o" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="page-wrapper">
+    <div id="main" class="clearfix">
+      <div id="content" class="column clearfix" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">The Aleshire Epigraphy Seminar</h1>
+                                                        
+
+
+<article class="node-221 node node-page view-mode-full clearfix" about="/aleshire-seminar" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="The Aleshire Epigraphy Seminar" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-image-opt field-type-image field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><a href="http://ahma.berkeley.edu/sites/default/files/pages/epigraphy-of-boeotia-poster.jpg" title="" class="colorbox" rel="gallery-node-221"><img typeof="foaf:Image" src="http://ahma.berkeley.edu/sites/default/files/styles/node_main/public/pages/epigraphy-of-boeotia-poster.jpg?itok=GbW2QbOg" alt="" title="" /></a></div>
+      </div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://aleshire.berkeley.edu/">The Sara B. Aleshire Center for the Study of Greek Epigraphy</a> organizes and hosts annual (formerly biannual) lectures and seminars in Greek epigraphy.</p>
+<p>Occasionally, major conferences on Greek epigraphic matters hosted at Berkeley take the place of the seminar. Thus in 2011 the Aleshire Center organized an  international symposium, <em>The Epigraphy and History of Boeotia: New Finds, New Developments</em>. In January 2016 Berkeley hosted the Second Annual <em>North American Congress of Greek and Latin Epigraphy</em>, a banner event with more than 50 speakers and 140 attendees.</p>
+<p> </p>
+<h2>Past Aleshire Seminars</h2>
+<p align="left"> </p>
+<p><strong>Christian Marek, </strong>University of Zurich (September 2016):</p>
+<p>"New Epigraphic Evidence from Mylasa in Caria" (lecture)</p>
+<p>"God or Ruler Cult? A New Hymn at the Hekatomnid Tomb of Mylasa" (seminar)</p>
+<p> </p>
+<p><strong>Angelos P. Matthaiou</strong>, Greek Epigraphic Society (April 2014):</p>
+<p>"New Archaic Inscriptions from the Aegean Islands" (lecture)</p>
+<p>“A New Bronze Manumission Record from Phigaleia” (seminar)</p>
+<p> </p>
+<p align="left"><strong>Elizabeth A. Meyer, </strong>University of Virginia (September 2013)</p>
+<p align="left">"<a href="http://events.berkeley.edu/index.php/calendar/sn/classics.html?event_ID=68842&amp;date=2013-09-09&amp;filter=Event%20Type&amp;filtersel=">Imitations of Roman Freedman Status in Hellenistic Greece"</a> (lecture)</p>
+<p align="left">"<a href="http://events.berkeley.edu/index.php/calendar/sn/classics.html?event_ID=68843&amp;date=2013-09-11&amp;filter=Event%20Type&amp;filtersel=">Posts, Kurbeis, Metopes: the Origins of the Athenian 'Documentary' Stele</a>" (seminar)</p>
+<p align="left"> </p>
+<p align="left"><strong>Riet van Bremen</strong>, University College London (October 2012)</p>
+<p>"The Sons of Noumenios: Hellenistic <em>Neoi</em> between City and Court" (lecture)</p>
+<p>"The Cretan<em> Neotas</em>" (seminar)</p>
+<p> </p>
+<p align="left"><strong>Christopher Jones</strong>, Harvard University (September 2010)</p>
+<p align="left">"The Persistence of Paganism in Late Antiquity" (lecture)</p>
+<p align="left">"Heavenly Epigrams: The Afterlife in Ancient Greek Epigrams" (seminar)</p>
+<p align="left"> </p>
+<p align="left"><strong>Gary Reger</strong>, Trinity College, Hartford. (March 2010)</p>
+<p align="left">"Apollonios of Tyana and the Geography of the Imagination in Egypt" (lecture)</p>
+<p align="left">"A New Inventory from Mylasa in Karia" (seminar)</p>
+<p align="left"> </p>
+<p align="left"><strong>Merle Langdon</strong>, University of Tennessee, Knoxville (October 2008)</p>
+<p align="left">"Shepherds Can't Write! Epigraphic Evidence for Literacy in Archaic Attica" (lecture)</p>
+<p align="left"> </p>
+<p align="left"><strong>Charalambos Kritzas</strong>, Director Emeritus, Epigraphical Museum, Athens (April 2008)</p>
+<p align="left">"New Inscriptions from Argos: The Archives of the Sacred Treasury (4th century B.C.)" (lecture)</p>
+<p align="left"> </p>
+<p align="left"><strong>H. W. Pleket</strong>, Professor Emeritus, Leiden University (November 2007)</p>
+<p align="left">"Sport and Culture in the Greek Cities of the Roman Empire" (lecture)</p>
+<p align="left">"The Professional Organizations in Asia Minor in the Roman Period" (seminar)</p>
+<p align="left"> </p>
+<p align="left"><strong>Alain Bresson</strong>, University of Bordeaux (Spring 2007)</p>
+<p align="left">“Coming in and out of a Greek city: a view from the inscriptions” (lecture)</p>
+<p align="left">“Grain from Cyrene” (seminar)</p>
+<p align="left"> </p>
+<p align="left"><strong>Michael Wörrle</strong>, Kommission für Antike Geschichte und Epigraphik, Munich (Fall 2006)</p>
+<p align="left">“Epigraphy in Context: Aizanoi Honors its Local Zeus and Courts the Emperor” (lecture)</p>
+<p align="left"> </p>
+<p align="left"><strong>Angelos Chaniotis</strong>, University of Heidelberg (Fall 2005)</p>
+<p align="left">“New Inscriptions from Aphrodisias” (lecture)</p>
+<p align="left"> </p>
+<p align="left"><strong>Charlotte Roueché</strong>, University of London (Fall 2003)</p>
+<p align="left">“Verses on Stone: Epigraphy and Literature” (lecture)</p>
+<p align="left"> </p>
+<p align="left"><strong>Michael H. Jameson</strong>, Stanford University (Fall 2001)</p>
+<p align="left">“The Sacrificial Calendar of Thorikos” (lecture)</p>
+</div></div></div>
+  
+  
+</article>
+              </div><!-- /#content -->
+
+      
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-block-1" class="block block-menu-block subnav-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-781"><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-780"><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item is-active is-active-trail is-leaf leaf active-trail active menu-mlid-783"><a href="/aleshire-seminar" class="menu__link is-active-trail active-trail active">The Aleshire Seminar</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-784"><a href="/nemea-center-seminar" class="menu__link">The Nemea Center Seminar</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-785"><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-788"><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-861"><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></div>
+
+</div>
+  </section>
+                  </aside><!-- /.sidebars -->
+      
+    </div><!-- /#main -->
+
+
+          <div id="navigation">
+        
+          <div class="region region-navigation">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu__item menu-461 menuparent  menu-path-node-5  first   odd  "><a href="/about" class="menu__link">About</a><ul><li class="menu__item menu-845 menu-path-node-5  first   odd  "><a href="/about" title="" class="menu__link">About AHMA</a></li>
+<li class="menu__item menu-472 menu-path-node-16   even  "><a href="/about/uc-berkeley" class="menu__link">About UC Berkeley</a></li>
+<li class="menu__item menu-479  menu-path-about-news   odd  "><a href="/about/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-522 menu-path-node-49   even   last "><a href="/about/contact" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item menu-462 menuparent  menu-path-node-6   even  "><a href="/program" title="" class="menu__link">Program</a><ul><li class="menu__item menu-868 menu-path-node-1324  first   odd  "><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item menu-513 menu-path-node-45   even  "><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item menu-471 menu-path-node-15   odd  "><a href="/program/student-handbook" class="menu__link">Student Handbook</a></li>
+<li class="menu__item menu-808 menu-path-node-425   even  "><a href="/apply" class="menu__link">Apply</a></li>
+<li class="menu__item menu-470 menu-path-node-14   odd   last "><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></li>
+<li class="menu__item menu-515 menuparent  menu-path-node-47   odd  "><a href="/people" title="" class="menu__link">People</a><ul><li class="menu__item menu-504 menu-path-people-faculty  first   odd  "><a href="/people/faculty" title="" class="menu__link">Participating Faculty</a></li>
+<li class="menu__item menu-507 menu-path-people-emeriti   even  "><a href="/people/emeriti" class="menu__link">Emeriti Faculty</a></li>
+<li class="menu__item menu-509 menu-path-people-students   odd  "><a href="/people/students" class="menu__link">Current Students</a></li>
+<li class="menu__item menu-511 menu-path-people-alumni   even  "><a href="/people/alumni" title="" class="menu__link">Alumni</a></li>
+<li class="menu__item menu-523 menu-path-node-50   odd   last "><a href="/people/staff" title="" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item menu-807 menuparent  menu-path-events active-trail   even  "><a href="/events" title="" class="menu__link">Events</a><ul><li class="menu__item menu-781 menu-path-node-218  first   odd  "><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item menu-780 menu-path-node-217   even  "><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item menu-783 menu-path-node-221 active-trail   odd  "><a href="/aleshire-seminar" class="menu__link active">The Aleshire Seminar</a></li>
+<li class="menu__item menu-784 menu-path-node-222   even  "><a href="/nemea-center-seminar" class="menu__link">The Nemea Center Seminar</a></li>
+<li class="menu__item menu-785 menu-path-node-223   odd  "><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item menu-788 menu-path-node-226   even  "><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item menu-861 menu-path-aleshireberkeleyedu-nacgle-2016   odd   last "><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></li>
+<li class="menu__item menu-463 menuparent  menu-path-ahmaberkeleyedu-node-229   odd  "><a href="http://ahma.berkeley.edu/node/229" title="" class="menu__link">Courses</a><ul><li class="menu__item menu-865 menu-path-node-229  first   odd  "><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item menu-870 menu-path-node-1383   even  "><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item menu-776 menu-path-node-195   odd  "><a href="/courses/past" class="menu__link">Past Courses</a></li>
+<li class="menu__item menu-779 menu-path-node-216   even   last "><a href="/ahma-seminars" class="menu__link">AHMA Seminars</a></li>
+</ul></li>
+<li class="menu__item menu-782 menuparent  menu-path-node-8   even   last "><a href="/research-and-funding" class="menu__link">Research &amp; Funding</a><ul><li class="menu__item menu-465 menu-path-node-9  first   odd  "><a href="/resources/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item menu-466 menu-path-node-10   even  "><a href="/research-and-funding/research-facilities" class="menu__link">Research Facilities</a></li>
+<li class="menu__item menu-467 menu-path-node-11   odd  "><a href="/research-and-funding/research-activities" class="menu__link">Research Activities</a></li>
+<li class="menu__item menu-469 menu-path-node-13   even  "><a href="/research-and-funding/study-abroad" class="menu__link">Study Abroad</a></li>
+<li class="menu__item menu-468 menu-path-node-12   odd  "><a href="/research-and-funding/off-campus-study" class="menu__link">Off-Campus Study—USA</a></li>
+<li class="menu__item menu-546 menu-path-node-53   even   last "><a href="/research-and-funding/funding-opportunities" class="menu__link">Funding Opportunities</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+      </div><!-- /#navigation -->
+    
+      <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-30" class="block block-nodeblock footer-block first last odd">
+
+      
+  <div id="node-30" class="node node-editblock view-mode-full clearfix" about="/blocks/footer-nav-links" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Footer Nav Links" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="nav-links"><a href="/">Home</a> <a href="/about">About</a> <a href="/program">Program</a> <a href="/people/faculty">People</a> <a href="/courses">Courses</a> <a href="/events">Events</a> <a class="last" href="/research-and-funding">Research and Funding</a></p>
+<div class="loc-copy-info clearfix">
+	<p class="location-info">7233 Dwinelle Hall University of California ~ Berkeley, CA 94720 ~ 510-643-8741 (Phone) ~ 510-643-2959 (Fax)</p>
+	<p class="copyright-info">© 2017 UC Regents</p>
+</div>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+  </div><!-- /#page-wrapper -->
+
+</div><!-- /#page -->
+
+  </body>
+</html>
+http://ahma.berkeley.edu/apply /n<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://ahma.berkeley.edu/sites/all/themes/ahma/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/425" />
+<link rel="canonical" href="/apply" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Apply | Ancient History &amp; Mediterranean Archaeology</title>
+
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_qMSPO_WnyDQ_fIKBwl0BrBL0dFTUJIyAy_8A6FprMTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_RNTD5XbId3f-EzfqNFG0PISgDQsxIj_qhR6txw8gemQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_-qw2GPTPiwuoeQ4-P3LZpkaMuutZUWY5R5TXAIMHk2w.css" media="all" />
+<![endif]-->
+  <script src="http://ahma.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_gBoSdTsbO5TTeOmqEi5o8yZugwRoJUJi0t2MCEMdSqk.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_2Val_73yRSV-QKkBsklKs4l0z5F0IkoLYOBZ--jfACI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahma","theme_token":"HgVdkN8YzbKwNoYzrVC_wxHcyBZT9UcEFwbMrvVKpQU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ahma\/system.menus.css":1,"sites\/all\/themes\/ahma\/css\/normalize.css":1,"sites\/all\/themes\/ahma\/css\/wireframes.css":1,"sites\/all\/themes\/ahma\/css\/layout.css":1,"sites\/all\/themes\/ahma\/css\/tabs.css":1,"sites\/all\/themes\/ahma\/css\/pages.css":1,"sites\/all\/themes\/ahma\/css\/navigation.css":1,"sites\/all\/themes\/ahma\/css\/views-styles.css":1,"sites\/all\/themes\/ahma\/css\/nodes.css":1,"sites\/all\/themes\/ahma\/css\/comments.css":1,"sites\/all\/themes\/ahma\/css\/forms.css":1,"sites\/all\/themes\/ahma\/css\/print.css":1,"sites\/all\/themes\/ahma\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"nice_menus_options":{"delay":"800","speed":"slow"},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/apply":true}});</script>
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-425 node-type-page section-apply" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header id="header" role="banner">
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://ahma.berkeley.edu/sites/all/themes/ahma/logo.png" alt="Home" /></a>
+    
+      <p class="university"><a href="http://berkeley.edu">University of California, Berkeley</a></p>
+      <h1 id="site-name">
+        <a href="/" title="Home" rel="home"><span class="sitename-text">Ancient History</span> <span class="sitename-ampersand">&</span> <span class="sitename-text">Mediterranean Archaeology</span></a>
+      </h1>
+
+    
+      <div class="header__region region region-header">
+    <div id="block-nodeblock-48" class="block block-nodeblock give-block first odd">
+
+      
+  <div id="node-48" class="node node-editblock view-mode-full clearfix" about="/blocks/give-ahma" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Give to AHMA" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://givetocal.berkeley.edu/browse/?u=125#.UG8cUo5K8pk">Give to AHMA »</a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form class="search-form" action="/apply" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search this site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="19" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-PzSIqNGzsW188OIh4hG8FBxpZJIDhUIBDKgtQMW0Euw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="page-wrapper">
+    <div id="main" class="clearfix">
+      <div id="content" class="column clearfix" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">Apply</h1>
+                                                        
+
+
+<article class="node-425 node node-page view-mode-full clearfix" about="/apply" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Apply" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Please use the following link to apply: <a href="http://grad.berkeley.edu/admissions/apply/">http://grad.berkeley.edu/admissions/apply/</a></p>
+</div></div></div>
+  
+  
+</article>
+              </div><!-- /#content -->
+
+      
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-block-1" class="block block-menu-block subnav-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-868"><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-513"><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-471"><a href="/program/student-handbook" class="menu__link">Student Handbook</a></li>
+<li class="menu__item is-active is-active-trail is-leaf leaf active-trail active menu-mlid-808"><a href="/apply" class="menu__link is-active-trail active-trail active">Apply</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-470"><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></div>
+
+</div>
+  </section>
+                  </aside><!-- /.sidebars -->
+      
+    </div><!-- /#main -->
+
+
+          <div id="navigation">
+        
+          <div class="region region-navigation">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu__item menu-461 menuparent  menu-path-node-5  first   odd  "><a href="/about" class="menu__link">About</a><ul><li class="menu__item menu-845 menu-path-node-5  first   odd  "><a href="/about" title="" class="menu__link">About AHMA</a></li>
+<li class="menu__item menu-472 menu-path-node-16   even  "><a href="/about/uc-berkeley" class="menu__link">About UC Berkeley</a></li>
+<li class="menu__item menu-479  menu-path-about-news   odd  "><a href="/about/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-522 menu-path-node-49   even   last "><a href="/about/contact" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item menu-462 menuparent  menu-path-node-6 active-trail   even  "><a href="/program" title="" class="menu__link">Program</a><ul><li class="menu__item menu-868 menu-path-node-1324  first   odd  "><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item menu-513 menu-path-node-45   even  "><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item menu-471 menu-path-node-15   odd  "><a href="/program/student-handbook" class="menu__link">Student Handbook</a></li>
+<li class="menu__item menu-808 menu-path-node-425 active-trail   even  "><a href="/apply" class="menu__link active">Apply</a></li>
+<li class="menu__item menu-470 menu-path-node-14   odd   last "><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></li>
+<li class="menu__item menu-515 menuparent  menu-path-node-47   odd  "><a href="/people" title="" class="menu__link">People</a><ul><li class="menu__item menu-504 menu-path-people-faculty  first   odd  "><a href="/people/faculty" title="" class="menu__link">Participating Faculty</a></li>
+<li class="menu__item menu-507 menu-path-people-emeriti   even  "><a href="/people/emeriti" class="menu__link">Emeriti Faculty</a></li>
+<li class="menu__item menu-509 menu-path-people-students   odd  "><a href="/people/students" class="menu__link">Current Students</a></li>
+<li class="menu__item menu-511 menu-path-people-alumni   even  "><a href="/people/alumni" title="" class="menu__link">Alumni</a></li>
+<li class="menu__item menu-523 menu-path-node-50   odd   last "><a href="/people/staff" title="" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item menu-807 menuparent  menu-path-events   even  "><a href="/events" title="" class="menu__link">Events</a><ul><li class="menu__item menu-781 menu-path-node-218  first   odd  "><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item menu-780 menu-path-node-217   even  "><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item menu-783 menu-path-node-221   odd  "><a href="/aleshire-seminar" class="menu__link">The Aleshire Seminar</a></li>
+<li class="menu__item menu-784 menu-path-node-222   even  "><a href="/nemea-center-seminar" class="menu__link">The Nemea Center Seminar</a></li>
+<li class="menu__item menu-785 menu-path-node-223   odd  "><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item menu-788 menu-path-node-226   even  "><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item menu-861 menu-path-aleshireberkeleyedu-nacgle-2016   odd   last "><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></li>
+<li class="menu__item menu-463 menuparent  menu-path-ahmaberkeleyedu-node-229   odd  "><a href="http://ahma.berkeley.edu/node/229" title="" class="menu__link">Courses</a><ul><li class="menu__item menu-865 menu-path-node-229  first   odd  "><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item menu-870 menu-path-node-1383   even  "><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item menu-776 menu-path-node-195   odd  "><a href="/courses/past" class="menu__link">Past Courses</a></li>
+<li class="menu__item menu-779 menu-path-node-216   even   last "><a href="/ahma-seminars" class="menu__link">AHMA Seminars</a></li>
+</ul></li>
+<li class="menu__item menu-782 menuparent  menu-path-node-8   even   last "><a href="/research-and-funding" class="menu__link">Research &amp; Funding</a><ul><li class="menu__item menu-465 menu-path-node-9  first   odd  "><a href="/resources/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item menu-466 menu-path-node-10   even  "><a href="/research-and-funding/research-facilities" class="menu__link">Research Facilities</a></li>
+<li class="menu__item menu-467 menu-path-node-11   odd  "><a href="/research-and-funding/research-activities" class="menu__link">Research Activities</a></li>
+<li class="menu__item menu-469 menu-path-node-13   even  "><a href="/research-and-funding/study-abroad" class="menu__link">Study Abroad</a></li>
+<li class="menu__item menu-468 menu-path-node-12   odd  "><a href="/research-and-funding/off-campus-study" class="menu__link">Off-Campus Study—USA</a></li>
+<li class="menu__item menu-546 menu-path-node-53   even   last "><a href="/research-and-funding/funding-opportunities" class="menu__link">Funding Opportunities</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+      </div><!-- /#navigation -->
+    
+      <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-30" class="block block-nodeblock footer-block first last odd">
+
+      
+  <div id="node-30" class="node node-editblock view-mode-full clearfix" about="/blocks/footer-nav-links" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Footer Nav Links" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="nav-links"><a href="/">Home</a> <a href="/about">About</a> <a href="/program">Program</a> <a href="/people/faculty">People</a> <a href="/courses">Courses</a> <a href="/events">Events</a> <a class="last" href="/research-and-funding">Research and Funding</a></p>
+<div class="loc-copy-info clearfix">
+	<p class="location-info">7233 Dwinelle Hall University of California ~ Berkeley, CA 94720 ~ 510-643-8741 (Phone) ~ 510-643-2959 (Fax)</p>
+	<p class="copyright-info">© 2017 UC Regents</p>
+</div>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+  </div><!-- /#page-wrapper -->
+
+</div><!-- /#page -->
+
+  </body>
+</html>
+http://ahma.berkeley.edu/courses /n<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://ahma.berkeley.edu/sites/all/themes/ahma/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/7" />
+<link rel="canonical" href="/courses" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Spring 2012 Courses | Ancient History &amp; Mediterranean Archaeology</title>
+
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_qMSPO_WnyDQ_fIKBwl0BrBL0dFTUJIyAy_8A6FprMTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_RNTD5XbId3f-EzfqNFG0PISgDQsxIj_qhR6txw8gemQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_-qw2GPTPiwuoeQ4-P3LZpkaMuutZUWY5R5TXAIMHk2w.css" media="all" />
+<![endif]-->
+  <script src="http://ahma.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_gBoSdTsbO5TTeOmqEi5o8yZugwRoJUJi0t2MCEMdSqk.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_2Val_73yRSV-QKkBsklKs4l0z5F0IkoLYOBZ--jfACI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahma","theme_token":"UUtzYs_tnH4e675OJ9VpglLPibC6p8iiyDZjXeQVVcE","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ahma\/system.menus.css":1,"sites\/all\/themes\/ahma\/css\/normalize.css":1,"sites\/all\/themes\/ahma\/css\/wireframes.css":1,"sites\/all\/themes\/ahma\/css\/layout.css":1,"sites\/all\/themes\/ahma\/css\/tabs.css":1,"sites\/all\/themes\/ahma\/css\/pages.css":1,"sites\/all\/themes\/ahma\/css\/navigation.css":1,"sites\/all\/themes\/ahma\/css\/views-styles.css":1,"sites\/all\/themes\/ahma\/css\/nodes.css":1,"sites\/all\/themes\/ahma\/css\/comments.css":1,"sites\/all\/themes\/ahma\/css\/forms.css":1,"sites\/all\/themes\/ahma\/css\/print.css":1,"sites\/all\/themes\/ahma\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"nice_menus_options":{"delay":"800","speed":"slow"},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/courses":true}});</script>
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-7 node-type-page section-courses" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header id="header" role="banner">
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://ahma.berkeley.edu/sites/all/themes/ahma/logo.png" alt="Home" /></a>
+    
+      <p class="university"><a href="http://berkeley.edu">University of California, Berkeley</a></p>
+      <h1 id="site-name">
+        <a href="/" title="Home" rel="home"><span class="sitename-text">Ancient History</span> <span class="sitename-ampersand">&</span> <span class="sitename-text">Mediterranean Archaeology</span></a>
+      </h1>
+
+    
+      <div class="header__region region region-header">
+    <div id="block-nodeblock-48" class="block block-nodeblock give-block first odd">
+
+      
+  <div id="node-48" class="node node-editblock view-mode-full clearfix" about="/blocks/give-ahma" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Give to AHMA" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://givetocal.berkeley.edu/browse/?u=125#.UG8cUo5K8pk">Give to AHMA »</a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form class="search-form" action="/courses" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search this site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="19" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-dFQIUWu13II0tvFuSFV_wVrcDGd12wV-QhZ-Lik9AE8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="page-wrapper">
+    <div id="main" class="clearfix">
+      <div id="content" class="column clearfix" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">Spring 2012 Courses</h1>
+                                                        
+
+
+<article class="node-7 node node-page view-mode-full clearfix" about="/courses" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Spring 2012 Courses" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-image-opt field-type-image field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><a href="http://ahma.berkeley.edu/sites/default/files/pages/andy_and_samos.jpg" title="" class="colorbox" rel="gallery-node-7"><img typeof="foaf:Image" src="http://ahma.berkeley.edu/sites/default/files/styles/node_main/public/pages/andy_and_samos.jpg?itok=4veWIggw" alt="" title="" /></a></div>
+      </div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The following is a selection only of courses relating to the Ancient History and Mediterranean Archaeology program that will be offered in the Spring 2014 semester. Please see the <a href="http://schedule.berkeley.edu/" target="_blank">online schedule of classes</a> for updated information.</p>
+<p style="padding-left: 30px;"> </p>
+<h2>Department of Classics</h2>
+<h3 style="padding-left: 30px;">Civil War and Civil Strife in Roman Literature</h3>
+<p style="margin-left: 40px;"><strong>Course/Section:</strong> 239 (Section 2)<br />
+	 <strong>Location: </strong>308C, Doe Library<br />
+	 <strong>Times:</strong> T 2-5p <br /><strong>Instructor:</strong> Sailor, Dylan</p>
+<p style="margin-left: 40px;">In this seminar we will look at civil war as a subject of Roman literature. We will read several long stretches of narrative (Caesar BC, Sallust BC, Aeneid 7-12, Lucan, Tacitus’ Histories) as well as a variety of shorter pieces (Vergil, Horace, Propertius, Petronius, etc.). Recurring questions and problems will include (in no particular order) genre, pollution and expiation, literary tradition and competition, language, space, identity, commemoration and forgetting, metaphor, explanation, the Principate, the empire.</p>
+<p style="margin-left: 40px;"> </p>
+<h3>Vertumnus - A god with no identity, a god with many identities, a god of identity</h3>
+<p style="margin-left: 40px;"><strong>Course/Section:</strong> 239 (Section 3)<br />
+	 <strong>Location: </strong>308C, Doe Library<br />
+	 <strong>Times:</strong> W 2-5p <br /><strong>Instructor:</strong> Bettini, Maurizio</p>
+<p style="margin-left: 40px;">The seminar will discuss the role and character of an unusual Roman deity, known to us through one of the most original elegies by Propertius, 4, 2. Vertumnus was a god of metamorphosis – but in which sense? Unlike his Greek counterparts, such as Proteus, Thétis or Thémis, he was not a divine force able to manifest in any possible natural form, such as fire, water, animals, trees ... The metamorphoses of Vertumnus had a specific and limited range, not only the human one, but the one of the civitas. He was a master of social identities, able to fittingly and perfectly take each of them: as such Vertumnus is the perfect guide to introduce ourselves into the very fabric of Roman identity. What did the Romans use to determine / ascertain the identity of a person? The metamorphoses of Vertumnus can reveal that. In addition, we must take into account that Vertumnus’ transformations did not take place only in some imaginary world, that of mythology and literary fiction; but in the middle of the Vicus Tuscus, because, as Propertius tells us, it was also its statue, cast by the legendary artifex Mamurius Veturius, that had the power of turning its external semblance in an endless series of appearances. That will give us an opportunity to explore another fascinating sphere of Roman culture, i. e. the set of semiotic devices used by the Romans to identify their images.</p>
+<p style="margin-left: 40px;"> </p>
+<h2>Department of History</h2>
+<h3>Roman North Africa from 300-500 CE</h3>
+<p style="padding-left: 30px;"><strong>Course/Section:</strong> 280A<br />
+	 <strong>Location: </strong>3104 Dwinelle<br />
+	 <strong>Times:</strong> TH 1-3p <br /><strong>Instructor:</strong> Elm, Susanna</p>
+<p style="padding-left: 30px;">North Africa has long been considered a space apart in the Western Roman empire, not least because of its long periods of peace and prosperity. As Brent Shaw's 2011 book on Sacred Violence stresses, however, peace and prosperity were achieved in a context of strive. What then was going on in this province? What does recent research, including archaeological research tell us? How did this part of the empire transform itself into a Christian part, and what are the repercussions? And how different was Africa? Tracing the history of the region between (roughly) the rule of Diocletian and the end of the Vandals should shed some light on a number of important questions, from rural settlements to the decline of Rome even if, inevitably, the figure of Augustine will tower over all else.</p>
+<h2><br />
+	Department of History of Art</h2>
+<h3>The Sacred and the Arts from the Ancient Near East to the Late Antique</h3>
+<p style="padding-left: 30px;"><strong>Course/Section:</strong> HA C220<br />
+	 <strong>Location:</strong> 308D, Doe Library<br /><strong>Times: </strong>W 9-12 a<br />
+	 <strong>Instructors:</strong> Angelova, Diliana — Feldman, Marian</p>
+<p style="padding-left: 30px;">This seminar will address cross-cultural and “longue durée” concerns regarding ritual and the sacred in the ancient Near Eastern and Mediterranean world from the early periods in Mesopotamia to the Late Antique (c. 500 CE). We will take as our initial focus several case studies drawn from both the Ancient Near Eastern and Late Antique worlds to serve as springboards for discussion. These case studies will range from landscapes and urban spaces, to individual architectural structures, to images and forms. Topics that will be touched on in the course include spiritual seeing and visuality, mysticism and sacred architecture, visual exegesis, icons and their meanings, material and visual aspects of ritual practice, and the intertwining of the sacred with collective memory and communal identity.</p>
+<p style="padding-left: 30px;"> </p>
+<h2>Department of Near Eastern Studies</h2>
+<h3>Ancient and Modern Hebrew Literary Texts</h3>
+<p style="padding-left: 30px;"><strong>Course/Section:</strong> Hebrew 206<br />
+	 <strong>Location: </strong>275 BARROWS<br /><strong>Times: </strong>Th 2-5<br />
+	 <strong>Instructors:</strong> Hendel, R. S. — Alter, R. B.</p>
+<p style="padding-left: 30px;"> </p>
+</div></div></div>
+  
+  
+</article>
+              </div><!-- /#content -->
+
+      
+      
+    </div><!-- /#main -->
+
+
+          <div id="navigation">
+        
+          <div class="region region-navigation">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu__item menu-461 menuparent  menu-path-node-5  first   odd  "><a href="/about" class="menu__link">About</a><ul><li class="menu__item menu-845 menu-path-node-5  first   odd  "><a href="/about" title="" class="menu__link">About AHMA</a></li>
+<li class="menu__item menu-472 menu-path-node-16   even  "><a href="/about/uc-berkeley" class="menu__link">About UC Berkeley</a></li>
+<li class="menu__item menu-479  menu-path-about-news   odd  "><a href="/about/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-522 menu-path-node-49   even   last "><a href="/about/contact" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item menu-462 menuparent  menu-path-node-6   even  "><a href="/program" title="" class="menu__link">Program</a><ul><li class="menu__item menu-868 menu-path-node-1324  first   odd  "><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item menu-513 menu-path-node-45   even  "><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item menu-471 menu-path-node-15   odd  "><a href="/program/student-handbook" class="menu__link">Student Handbook</a></li>
+<li class="menu__item menu-808 menu-path-node-425   even  "><a href="/apply" class="menu__link">Apply</a></li>
+<li class="menu__item menu-470 menu-path-node-14   odd   last "><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></li>
+<li class="menu__item menu-515 menuparent  menu-path-node-47   odd  "><a href="/people" title="" class="menu__link">People</a><ul><li class="menu__item menu-504 menu-path-people-faculty  first   odd  "><a href="/people/faculty" title="" class="menu__link">Participating Faculty</a></li>
+<li class="menu__item menu-507 menu-path-people-emeriti   even  "><a href="/people/emeriti" class="menu__link">Emeriti Faculty</a></li>
+<li class="menu__item menu-509 menu-path-people-students   odd  "><a href="/people/students" class="menu__link">Current Students</a></li>
+<li class="menu__item menu-511 menu-path-people-alumni   even  "><a href="/people/alumni" title="" class="menu__link">Alumni</a></li>
+<li class="menu__item menu-523 menu-path-node-50   odd   last "><a href="/people/staff" title="" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item menu-807 menuparent  menu-path-events   even  "><a href="/events" title="" class="menu__link">Events</a><ul><li class="menu__item menu-781 menu-path-node-218  first   odd  "><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item menu-780 menu-path-node-217   even  "><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item menu-783 menu-path-node-221   odd  "><a href="/aleshire-seminar" class="menu__link">The Aleshire Seminar</a></li>
+<li class="menu__item menu-784 menu-path-node-222   even  "><a href="/nemea-center-seminar" class="menu__link">The Nemea Center Seminar</a></li>
+<li class="menu__item menu-785 menu-path-node-223   odd  "><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item menu-788 menu-path-node-226   even  "><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item menu-861 menu-path-aleshireberkeleyedu-nacgle-2016   odd   last "><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></li>
+<li class="menu__item menu-463 menuparent  menu-path-ahmaberkeleyedu-node-229   odd  "><a href="http://ahma.berkeley.edu/node/229" title="" class="menu__link">Courses</a><ul><li class="menu__item menu-865 menu-path-node-229  first   odd  "><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item menu-870 menu-path-node-1383   even  "><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item menu-776 menu-path-node-195   odd  "><a href="/courses/past" class="menu__link">Past Courses</a></li>
+<li class="menu__item menu-779 menu-path-node-216   even   last "><a href="/ahma-seminars" class="menu__link">AHMA Seminars</a></li>
+</ul></li>
+<li class="menu__item menu-782 menuparent  menu-path-node-8   even   last "><a href="/research-and-funding" class="menu__link">Research &amp; Funding</a><ul><li class="menu__item menu-465 menu-path-node-9  first   odd  "><a href="/resources/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item menu-466 menu-path-node-10   even  "><a href="/research-and-funding/research-facilities" class="menu__link">Research Facilities</a></li>
+<li class="menu__item menu-467 menu-path-node-11   odd  "><a href="/research-and-funding/research-activities" class="menu__link">Research Activities</a></li>
+<li class="menu__item menu-469 menu-path-node-13   even  "><a href="/research-and-funding/study-abroad" class="menu__link">Study Abroad</a></li>
+<li class="menu__item menu-468 menu-path-node-12   odd  "><a href="/research-and-funding/off-campus-study" class="menu__link">Off-Campus Study—USA</a></li>
+<li class="menu__item menu-546 menu-path-node-53   even   last "><a href="/research-and-funding/funding-opportunities" class="menu__link">Funding Opportunities</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+      </div><!-- /#navigation -->
+    
+      <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-30" class="block block-nodeblock footer-block first last odd">
+
+      
+  <div id="node-30" class="node node-editblock view-mode-full clearfix" about="/blocks/footer-nav-links" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Footer Nav Links" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="nav-links"><a href="/">Home</a> <a href="/about">About</a> <a href="/program">Program</a> <a href="/people/faculty">People</a> <a href="/courses">Courses</a> <a href="/events">Events</a> <a class="last" href="/research-and-funding">Research and Funding</a></p>
+<div class="loc-copy-info clearfix">
+	<p class="location-info">7233 Dwinelle Hall University of California ~ Berkeley, CA 94720 ~ 510-643-8741 (Phone) ~ 510-643-2959 (Fax)</p>
+	<p class="copyright-info">© 2017 UC Regents</p>
+</div>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+  </div><!-- /#page-wrapper -->
+
+</div><!-- /#page -->
+
+  </body>
+</html>
+http://ahma.berkeley.edu/courses/past /n<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://ahma.berkeley.edu/sites/all/themes/ahma/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/195" />
+<link rel="canonical" href="/courses/past" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Past Courses | Ancient History &amp; Mediterranean Archaeology</title>
+
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_qMSPO_WnyDQ_fIKBwl0BrBL0dFTUJIyAy_8A6FprMTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_RNTD5XbId3f-EzfqNFG0PISgDQsxIj_qhR6txw8gemQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_-qw2GPTPiwuoeQ4-P3LZpkaMuutZUWY5R5TXAIMHk2w.css" media="all" />
+<![endif]-->
+  <script src="http://ahma.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_gBoSdTsbO5TTeOmqEi5o8yZugwRoJUJi0t2MCEMdSqk.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_2Val_73yRSV-QKkBsklKs4l0z5F0IkoLYOBZ--jfACI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahma","theme_token":"WUHI3dnjzDXbM5vlE6cp4I0DaO-OCv9WfinLZk5R-cU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ahma\/system.menus.css":1,"sites\/all\/themes\/ahma\/css\/normalize.css":1,"sites\/all\/themes\/ahma\/css\/wireframes.css":1,"sites\/all\/themes\/ahma\/css\/layout.css":1,"sites\/all\/themes\/ahma\/css\/tabs.css":1,"sites\/all\/themes\/ahma\/css\/pages.css":1,"sites\/all\/themes\/ahma\/css\/navigation.css":1,"sites\/all\/themes\/ahma\/css\/views-styles.css":1,"sites\/all\/themes\/ahma\/css\/nodes.css":1,"sites\/all\/themes\/ahma\/css\/comments.css":1,"sites\/all\/themes\/ahma\/css\/forms.css":1,"sites\/all\/themes\/ahma\/css\/print.css":1,"sites\/all\/themes\/ahma\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"nice_menus_options":{"delay":"800","speed":"slow"},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/courses\/past":true}});</script>
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-195 node-type-page section-courses" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header id="header" role="banner">
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://ahma.berkeley.edu/sites/all/themes/ahma/logo.png" alt="Home" /></a>
+    
+      <p class="university"><a href="http://berkeley.edu">University of California, Berkeley</a></p>
+      <h1 id="site-name">
+        <a href="/" title="Home" rel="home"><span class="sitename-text">Ancient History</span> <span class="sitename-ampersand">&</span> <span class="sitename-text">Mediterranean Archaeology</span></a>
+      </h1>
+
+    
+      <div class="header__region region region-header">
+    <div id="block-nodeblock-48" class="block block-nodeblock give-block first odd">
+
+      
+  <div id="node-48" class="node node-editblock view-mode-full clearfix" about="/blocks/give-ahma" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Give to AHMA" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://givetocal.berkeley.edu/browse/?u=125#.UG8cUo5K8pk">Give to AHMA »</a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form class="search-form" action="/courses/past" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search this site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="19" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-fAKp0n84AbMrJqFKq3ZiRz7YOF9L2lFgGuszpFqCqL0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="page-wrapper">
+    <div id="main" class="clearfix">
+      <div id="content" class="column clearfix" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">Past Courses</h1>
+                                                        
+
+
+<article class="node-195 node node-page view-mode-full clearfix" about="/courses/past" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Past Courses" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-image-opt field-type-image field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><a href="http://ahma.berkeley.edu/sites/default/files/pages/mummy_0.jpg" title="" class="colorbox" rel="gallery-node-195"><img typeof="foaf:Image" src="http://ahma.berkeley.edu/sites/default/files/styles/node_main/public/pages/mummy_0.jpg?itok=RwruO-BN" alt="" title="" /></a></div>
+      </div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The following is a selection of graduate courses relating to the Ancient History and Mediterranean Archaeology program that have been offered in recent years.</p>
+<p> </p>
+<h2><span style="color: rgb(25, 56, 71); font-family: 'times new roman'; font-size: 24px; font-variant: small-caps; line-height: 28px;">Department of Classics</span></h2>
+<p><strong>Archaic Greek Poetry </strong>(M. Griffith, F2017)</p>
+<p><strong>Poetics of the Book </strong>(K. McCarthy, F2017)</p>
+<p><strong>Greek Epigraphy </strong>(N. Papazarkadas, F2016)</p>
+<p><strong>Polytheism in Rome </strong>(D. MacRae, F2016)</p>
+<p><strong>The Social Culture of Images in Ancient Greece and Rome </strong>(T. Hoelscher, F2016)</p>
+<p><strong>Sappho and Alcaeus </strong>(L. Kurke, F2016)</p>
+<p><strong>Latin Poetry of the Republic and Early Empire </strong>(P. Hardie, S2016)</p>
+<p><strong>Approaches to Classical Literature </strong>(E. Oliensis, S2016)</p>
+<p><strong>Greek Vase Painting </strong>(T. Lissarrague, S2016)</p>
+<p><strong>Papyrology </strong>(T. Hickey, S2016)</p>
+<p><strong>Seafaring in the Ancient World </strong>(T. Peña, F2015)</p>
+<p><strong>Aristotle </strong>(T. Long, F2015)</p>
+<p><strong>Affect and Tragedy: Sophocles’ <em>Philoctetes</em> and <em>Oedipus at Colonus </em></strong>(M. Telò, F2015)</p>
+<p><strong>Greece  in the Iron Age </strong>(K. Shelton, S2015)</p>
+<p><strong>Latin Poetry of the Republic and Early Empire </strong>(K. McCarthy, S2015)</p>
+<p><strong>Greek Philosophers </strong>(S. Magrin, S2015)</p>
+<p><strong>Authority, Doubles, and Gods </strong>(M. Bettini, F2014)</p>
+<p><strong>Comparative and Historical Grammar of Latin </strong>(M. Weiss, F2014)</p>
+<p><strong>The Economic Life of Pompeii and Herculaneum </strong>(T. Pena, F2014)</p>
+<p><strong>Archaic Greek Poetry </strong>(R. Martin, F2014)</p>
+<p><strong>The Athenian Empire: Literature, Archaeology, Epigraphy</strong> (N. Papazarkadas, S2014)</p>
+<p><strong>Topics in Roman Literature and History: Tacitus' <em>Annals</em> </strong>(D. Sailor, S2014)</p>
+<p><strong>Greek vase-painting : hermeneutics and historiography</strong> (F. Lissarague, S2014) [Sather Seminar]</p>
+<p><strong>Greek Religion from Literature and Documents </strong>(R. Parker, S2013) [Sather Seminar]</p>
+<p><strong>Papyrology </strong>(T. Hickey, S2013)</p>
+<p><strong>Civil War and Civil Strife in Roman Literature </strong>(D. Sailor, F2012)</p>
+<p><strong>Vertumnus - A god with no identity, a god with many identities, a god of identity</strong> (M. Bettini, F2012)</p>
+<p><strong>Mycenae through the Ages: Prehistory, History, and Historiography</strong> (K.Shelton, F2012)</p>
+<p><strong>The Hyperboreans: The Greeks and Romans look North </strong>(N. Purcell, S2012)</p>
+<p><strong>Material Culture in the Roman World</strong> (T. Peña, S2012)</p>
+<p><strong>Myths, Images, and Polis Societies in Archaic and Classical Greece</strong> (T. Hölscher, F2011)</p>
+<p> </p>
+<h2>Department of History</h2>
+<p><strong>Claudian </strong>(S. Elm, F2017)</p>
+<p><strong>Representing the Barbarian in Late Antiquity </strong>(S. Elm, F2016)</p>
+<p><strong>Advanced Studies in Ancient History: On Wealth </strong>(S. Elm, F2015)</p>
+<p><strong>Property and Power in the Ancient Greek World </strong>(E. Mackil, F2015)</p>
+<p><strong>Augustine of Hippo: The City of God </strong>(S. Elm, S2015)</p>
+<p><strong>Rhetoric of History: Kingship and Legitimacy </strong>(D. Boyarin and M. Nylan, S2015)</p>
+<p><strong>Paloeography and Other Auxilliary Sciences</strong> (M. Mavroudi, F2014)</p>
+<p><strong>The Making of Roman Law </strong>(C. <span style="font-size: 12.8000001907349px;">Noreña, F2014)</span></p>
+<p><span style="font-size: 12.8000001907349px;"><strong>The Third Century Crisis </strong>(C. </span><span style="font-size: 12.8px;">Noreña, S2014)</span><span style="font-size: 12.8px;"> </span></p>
+<p><strong>Roman North Africa from 300-500 CE</strong> (S. Elm, F2012)</p>
+<p><strong>Law in the Ancient Greek World</strong> (E. Mackil, S2012)</p>
+<p><strong>Of Human and Divine Bonding: Fatalism and Free Will between Epictetus and Augustine </strong>(S. Elm &amp; R. Lyman, F2011)</p>
+<p><strong>The Military-Tributary Complex in the Roman Empire</strong> (C. F. Norena, S2011)</p>
+<div> </div>
+<h2>Department of History of Art</h2>
+<p><strong>Proseminar in Classical Archaeology and Ancient Art</strong> (C. Hallett &amp; A. Stewart, F2015)</p>
+<p><strong>Istanbul: The City and its Art from Antiquity to the Present </strong>(D. Angelova and B. Fricke, S2015)</p>
+<p><strong>Ancient Art and the Modern Imagination </strong>(W. Davis, S2015)</p>
+<p><strong>Greek and Roman Art in the Bay of Naples</strong> (C. Hallett &amp; A. Stewart, S2014) [AHMA Seminar]</p>
+<p><strong>The Sacred and the Arts from the Ancient Near East to the Late Antique</strong> (D. Angelova &amp; M. Feldman, F2012)</p>
+<p> </p>
+<h2>Department of Near Eastern Studies</h2>
+<p><strong>Egyptian Texts </strong>(R. Lucarelli, F2017)</p>
+<p><strong>Sasanian Rock Reliefs and the Persian Empire </strong>(M. Compareti, S2016)</p>
+<p><strong>Ancient Egyptian Magic and Demonology </strong>(R. Lucarelli, S2015)</p>
+<p><strong>Ancient and Modern Hebrew Literary Texts</strong> (R. Hendel, S2014)</p>
+<p><strong>Egyptian Studies: City Living in Ancient Egypt</strong> (C. Redmount, S2014)</p>
+<p><strong>The Archaeology of Death and Burial in the Ancient Near East</strong> (B. Porter, S2014)</p>
+<p><strong>Complexities in the Relation between Judaism and Christianity</strong> (M. Duarte De Oliveira S2013)</p>
+<p><strong>Women in Ancient Egypt </strong>(C. Redmount, S2013)</p>
+<p><strong>Graduate Seminar in Talmud</strong> (D. Boyarin &amp; M. Vidas, F2011)</p>
+<p> </p>
+<h2>Department of Anthropology</h2>
+<p><strong>Archaeological Research Strategies </strong>(C. Hastorf, F2015)</p>
+<p><strong>Food Studies</strong> (Hastof, F2017)</p>
+<h2> </h2>
+<h2>Boalt School of Law</h2>
+<p><strong>Roman Law</strong> (Laurent Mayali, S2010)</p>
+<p> </p>
+<h2>Department of Rhetoric</h2>
+<p><strong>Ancient and Modern Selves </strong>(J. Porter and R. Nadaff, F2016)</p>
+<p><strong>Law and Violence in the Roman World</strong> (A. Z. Bryen, F2011)</p>
+<p> </p>
+<h2>Graduate Theological Union</h2>
+<p><strong>Rabbinic Hebrew Literature </strong>(H. Zellentin, F2009)</p>
+<p> </p>
+<h2>Pacific School of Religion</h2>
+<p><strong>Household Religions in Ancient Israel and the Near East</strong> (A. Brody)</p>
+<p><strong>Art, Archaeology, and the Study of Israelite Religion </strong>(A. Brody, S2010)</p>
+<p><strong>Bronze and Iron Age Archaeology of the Southern Levant</strong> (A. Brody, F2009)</p>
+<h2> </h2>
+<h2>Political Science</h2>
+<p><strong>History of Greek Political Thought </strong>(K. Hoekstra, F2017)</p>
+<p> </p>
+</div></div></div>
+  
+  
+</article>
+              </div><!-- /#content -->
+
+      
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-block-1" class="block block-menu-block subnav-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-865"><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-870"><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item is-active is-active-trail is-leaf leaf active-trail active menu-mlid-776"><a href="/courses/past" class="menu__link is-active-trail active-trail active">Past Courses</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-779"><a href="/ahma-seminars" class="menu__link">AHMA Seminars</a></li>
+</ul></div>
+
+</div>
+  </section>
+                  </aside><!-- /.sidebars -->
+      
+    </div><!-- /#main -->
+
+
+          <div id="navigation">
+        
+          <div class="region region-navigation">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu__item menu-461 menuparent  menu-path-node-5  first   odd  "><a href="/about" class="menu__link">About</a><ul><li class="menu__item menu-845 menu-path-node-5  first   odd  "><a href="/about" title="" class="menu__link">About AHMA</a></li>
+<li class="menu__item menu-472 menu-path-node-16   even  "><a href="/about/uc-berkeley" class="menu__link">About UC Berkeley</a></li>
+<li class="menu__item menu-479  menu-path-about-news   odd  "><a href="/about/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-522 menu-path-node-49   even   last "><a href="/about/contact" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item menu-462 menuparent  menu-path-node-6   even  "><a href="/program" title="" class="menu__link">Program</a><ul><li class="menu__item menu-868 menu-path-node-1324  first   odd  "><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item menu-513 menu-path-node-45   even  "><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item menu-471 menu-path-node-15   odd  "><a href="/program/student-handbook" class="menu__link">Student Handbook</a></li>
+<li class="menu__item menu-808 menu-path-node-425   even  "><a href="/apply" class="menu__link">Apply</a></li>
+<li class="menu__item menu-470 menu-path-node-14   odd   last "><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></li>
+<li class="menu__item menu-515 menuparent  menu-path-node-47   odd  "><a href="/people" title="" class="menu__link">People</a><ul><li class="menu__item menu-504 menu-path-people-faculty  first   odd  "><a href="/people/faculty" title="" class="menu__link">Participating Faculty</a></li>
+<li class="menu__item menu-507 menu-path-people-emeriti   even  "><a href="/people/emeriti" class="menu__link">Emeriti Faculty</a></li>
+<li class="menu__item menu-509 menu-path-people-students   odd  "><a href="/people/students" class="menu__link">Current Students</a></li>
+<li class="menu__item menu-511 menu-path-people-alumni   even  "><a href="/people/alumni" title="" class="menu__link">Alumni</a></li>
+<li class="menu__item menu-523 menu-path-node-50   odd   last "><a href="/people/staff" title="" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item menu-807 menuparent  menu-path-events   even  "><a href="/events" title="" class="menu__link">Events</a><ul><li class="menu__item menu-781 menu-path-node-218  first   odd  "><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item menu-780 menu-path-node-217   even  "><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item menu-783 menu-path-node-221   odd  "><a href="/aleshire-seminar" class="menu__link">The Aleshire Seminar</a></li>
+<li class="menu__item menu-784 menu-path-node-222   even  "><a href="/nemea-center-seminar" class="menu__link">The Nemea Center Seminar</a></li>
+<li class="menu__item menu-785 menu-path-node-223   odd  "><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item menu-788 menu-path-node-226   even  "><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item menu-861 menu-path-aleshireberkeleyedu-nacgle-2016   odd   last "><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></li>
+<li class="menu__item menu-463 menuparent  menu-path-ahmaberkeleyedu-node-229 active-trail   odd  "><a href="http://ahma.berkeley.edu/node/229" title="" class="menu__link">Courses</a><ul><li class="menu__item menu-865 menu-path-node-229  first   odd  "><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item menu-870 menu-path-node-1383   even  "><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item menu-776 menu-path-node-195 active-trail   odd  "><a href="/courses/past" class="menu__link active">Past Courses</a></li>
+<li class="menu__item menu-779 menu-path-node-216   even   last "><a href="/ahma-seminars" class="menu__link">AHMA Seminars</a></li>
+</ul></li>
+<li class="menu__item menu-782 menuparent  menu-path-node-8   even   last "><a href="/research-and-funding" class="menu__link">Research &amp; Funding</a><ul><li class="menu__item menu-465 menu-path-node-9  first   odd  "><a href="/resources/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item menu-466 menu-path-node-10   even  "><a href="/research-and-funding/research-facilities" class="menu__link">Research Facilities</a></li>
+<li class="menu__item menu-467 menu-path-node-11   odd  "><a href="/research-and-funding/research-activities" class="menu__link">Research Activities</a></li>
+<li class="menu__item menu-469 menu-path-node-13   even  "><a href="/research-and-funding/study-abroad" class="menu__link">Study Abroad</a></li>
+<li class="menu__item menu-468 menu-path-node-12   odd  "><a href="/research-and-funding/off-campus-study" class="menu__link">Off-Campus Study—USA</a></li>
+<li class="menu__item menu-546 menu-path-node-53   even   last "><a href="/research-and-funding/funding-opportunities" class="menu__link">Funding Opportunities</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+      </div><!-- /#navigation -->
+    
+      <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-30" class="block block-nodeblock footer-block first last odd">
+
+      
+  <div id="node-30" class="node node-editblock view-mode-full clearfix" about="/blocks/footer-nav-links" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Footer Nav Links" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="nav-links"><a href="/">Home</a> <a href="/about">About</a> <a href="/program">Program</a> <a href="/people/faculty">People</a> <a href="/courses">Courses</a> <a href="/events">Events</a> <a class="last" href="/research-and-funding">Research and Funding</a></p>
+<div class="loc-copy-info clearfix">
+	<p class="location-info">7233 Dwinelle Hall University of California ~ Berkeley, CA 94720 ~ 510-643-8741 (Phone) ~ 510-643-2959 (Fax)</p>
+	<p class="copyright-info">© 2017 UC Regents</p>
+</div>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+  </div><!-- /#page-wrapper -->
+
+</div><!-- /#page -->
+
+  </body>
+</html>
+http://ahma.berkeley.edu/nemea-center-seminar /n<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://ahma.berkeley.edu/sites/all/themes/ahma/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/222" />
+<link rel="canonical" href="/nemea-center-seminar" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>The Nemea Center Lectures and Seminars | Ancient History &amp; Mediterranean Archaeology</title>
+
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_qMSPO_WnyDQ_fIKBwl0BrBL0dFTUJIyAy_8A6FprMTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_RNTD5XbId3f-EzfqNFG0PISgDQsxIj_qhR6txw8gemQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_-qw2GPTPiwuoeQ4-P3LZpkaMuutZUWY5R5TXAIMHk2w.css" media="all" />
+<![endif]-->
+  <script src="http://ahma.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_gBoSdTsbO5TTeOmqEi5o8yZugwRoJUJi0t2MCEMdSqk.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_2Val_73yRSV-QKkBsklKs4l0z5F0IkoLYOBZ--jfACI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahma","theme_token":"QXlAb6K9MIsoZRnXRwwT5P6-jXf76tr42zi79HBxyCA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ahma\/system.menus.css":1,"sites\/all\/themes\/ahma\/css\/normalize.css":1,"sites\/all\/themes\/ahma\/css\/wireframes.css":1,"sites\/all\/themes\/ahma\/css\/layout.css":1,"sites\/all\/themes\/ahma\/css\/tabs.css":1,"sites\/all\/themes\/ahma\/css\/pages.css":1,"sites\/all\/themes\/ahma\/css\/navigation.css":1,"sites\/all\/themes\/ahma\/css\/views-styles.css":1,"sites\/all\/themes\/ahma\/css\/nodes.css":1,"sites\/all\/themes\/ahma\/css\/comments.css":1,"sites\/all\/themes\/ahma\/css\/forms.css":1,"sites\/all\/themes\/ahma\/css\/print.css":1,"sites\/all\/themes\/ahma\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"nice_menus_options":{"delay":"800","speed":"slow"},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/nemea-center-seminar":true}});</script>
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-222 node-type-page section-nemea-center-seminar" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header id="header" role="banner">
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://ahma.berkeley.edu/sites/all/themes/ahma/logo.png" alt="Home" /></a>
+    
+      <p class="university"><a href="http://berkeley.edu">University of California, Berkeley</a></p>
+      <h1 id="site-name">
+        <a href="/" title="Home" rel="home"><span class="sitename-text">Ancient History</span> <span class="sitename-ampersand">&</span> <span class="sitename-text">Mediterranean Archaeology</span></a>
+      </h1>
+
+    
+      <div class="header__region region region-header">
+    <div id="block-nodeblock-48" class="block block-nodeblock give-block first odd">
+
+      
+  <div id="node-48" class="node node-editblock view-mode-full clearfix" about="/blocks/give-ahma" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Give to AHMA" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://givetocal.berkeley.edu/browse/?u=125#.UG8cUo5K8pk">Give to AHMA »</a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form class="search-form" action="/nemea-center-seminar" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search this site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="19" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-oI1QGrwZm1U_hROS8vWkswtE4KtobLT0mYWfsByh_ws" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="page-wrapper">
+    <div id="main" class="clearfix">
+      <div id="content" class="column clearfix" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">The Nemea Center Lectures and Seminars</h1>
+                                                        
+
+
+<article class="node-222 node node-page view-mode-full clearfix" about="/nemea-center-seminar" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="The Nemea Center Lectures and Seminars" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-image-opt field-type-image field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><a href="http://ahma.berkeley.edu/sites/default/files/pages/dsc_8182_0.jpg" title="" class="colorbox" rel="gallery-node-222"><img typeof="foaf:Image" src="http://ahma.berkeley.edu/sites/default/files/styles/node_main/public/pages/dsc_8182_0.jpg?itok=uvgORrkH" alt="" title="" /></a></div>
+      </div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The Nemea Center regularly invites distinguished archaeologists to give lectures, lead seminars, and work with AHMA students. </p>
+<p> </p>
+<h2>Past Lectures and Seminars</h2>
+<p><strong>2017: Dimitri Nakassis</strong> (Department of Classics, University of Colorado, Boulder):</p>
+<p>"The Road Less Traveled By? History, Archaeology, and Landscape in Southern Greece" (lecture)</p>
+<p>"These Aren't the Mycenaeans We're Looking For" (seminar)</p>
+<p> </p>
+<p><strong>2015: Effie Athanassopoulos </strong>(Departments of Anthropology and Classics, University of Nebraska, Lincoln)</p>
+<p>"Landscape Archaeology and the Medieval Countryside: Nemea in Context" (lecture)</p>
+<p>"Documenting Material Culture: 3D Models of Ceramics from the Nemea Stadium" (seminar)</p>
+<p> </p>
+<p><strong>2013: Jack Davis</strong> (Carl W. Blegen Professor of Greek Archaeology, University of Cincinnati):</p>
+<p>"<span class="eventTitle">The Ancient Landscape of Illyrian Apollonia: Excavation and Survey</span>" (lecture)</p>
+<p>"<span class="eventTitle">The Palace of Nestor at Pylos: Re-exploring a Mycenaean Kingdom</span>" (seminar)</p>
+<p> </p>
+<p><strong>2012: Wolf-Dietrich Niemeier </strong>(Director of the German Archaeological Institute in Athens):</p>
+<p>"New Archaic Sculptures from the Sacred Gate of the Athenian Kerameikos" (lecture)</p>
+<p>"New Discoveries in the Oracular Sanctuary of Apollo at Abai (Kalapodi) in Phokis" (seminar)</p>
+<p> </p>
+<p><strong>2010: David Romano</strong> (Director of Greek Archaeological Projects in the Mediterranean Section of the Penn Museum and Adjunct Professor, University of Pennsylvania)</p>
+<p>"Excavation and Research at the Sanctuary of Zeus on Mt. Lykaion: 2008-2009" (lecture)</p>
+<p>"The Planning of Roman Corinth" (seminar)</p>
+<p> </p>
+<p><strong>2009: James C. Wright</strong> (Professor and Chair, Department of Classical and Near Eastern Archaeology, Bryn Mawr College)</p>
+<p>"The Excavation of Barnavos and Ayia Sotira: Methods of Recovery" (lecture)</p>
+<p>"Master Narratives, Interpretive Strategies and Regional Archaeology: The Case of the Nemea Valley in Greece" (seminar)</p>
+<p> </p>
+</div></div></div>
+  
+  
+</article>
+              </div><!-- /#content -->
+
+      
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-block-1" class="block block-menu-block subnav-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-781"><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-780"><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-783"><a href="/aleshire-seminar" class="menu__link">The Aleshire Seminar</a></li>
+<li class="menu__item is-active is-active-trail is-leaf leaf active-trail active menu-mlid-784"><a href="/nemea-center-seminar" class="menu__link is-active-trail active-trail active">The Nemea Center Seminar</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-785"><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-788"><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-861"><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></div>
+
+</div>
+  </section>
+                  </aside><!-- /.sidebars -->
+      
+    </div><!-- /#main -->
+
+
+          <div id="navigation">
+        
+          <div class="region region-navigation">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu__item menu-461 menuparent  menu-path-node-5  first   odd  "><a href="/about" class="menu__link">About</a><ul><li class="menu__item menu-845 menu-path-node-5  first   odd  "><a href="/about" title="" class="menu__link">About AHMA</a></li>
+<li class="menu__item menu-472 menu-path-node-16   even  "><a href="/about/uc-berkeley" class="menu__link">About UC Berkeley</a></li>
+<li class="menu__item menu-479  menu-path-about-news   odd  "><a href="/about/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-522 menu-path-node-49   even   last "><a href="/about/contact" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item menu-462 menuparent  menu-path-node-6   even  "><a href="/program" title="" class="menu__link">Program</a><ul><li class="menu__item menu-868 menu-path-node-1324  first   odd  "><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item menu-513 menu-path-node-45   even  "><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item menu-471 menu-path-node-15   odd  "><a href="/program/student-handbook" class="menu__link">Student Handbook</a></li>
+<li class="menu__item menu-808 menu-path-node-425   even  "><a href="/apply" class="menu__link">Apply</a></li>
+<li class="menu__item menu-470 menu-path-node-14   odd   last "><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></li>
+<li class="menu__item menu-515 menuparent  menu-path-node-47   odd  "><a href="/people" title="" class="menu__link">People</a><ul><li class="menu__item menu-504 menu-path-people-faculty  first   odd  "><a href="/people/faculty" title="" class="menu__link">Participating Faculty</a></li>
+<li class="menu__item menu-507 menu-path-people-emeriti   even  "><a href="/people/emeriti" class="menu__link">Emeriti Faculty</a></li>
+<li class="menu__item menu-509 menu-path-people-students   odd  "><a href="/people/students" class="menu__link">Current Students</a></li>
+<li class="menu__item menu-511 menu-path-people-alumni   even  "><a href="/people/alumni" title="" class="menu__link">Alumni</a></li>
+<li class="menu__item menu-523 menu-path-node-50   odd   last "><a href="/people/staff" title="" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item menu-807 menuparent  menu-path-events active-trail   even  "><a href="/events" title="" class="menu__link">Events</a><ul><li class="menu__item menu-781 menu-path-node-218  first   odd  "><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item menu-780 menu-path-node-217   even  "><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item menu-783 menu-path-node-221   odd  "><a href="/aleshire-seminar" class="menu__link">The Aleshire Seminar</a></li>
+<li class="menu__item menu-784 menu-path-node-222 active-trail   even  "><a href="/nemea-center-seminar" class="menu__link active">The Nemea Center Seminar</a></li>
+<li class="menu__item menu-785 menu-path-node-223   odd  "><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item menu-788 menu-path-node-226   even  "><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item menu-861 menu-path-aleshireberkeleyedu-nacgle-2016   odd   last "><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></li>
+<li class="menu__item menu-463 menuparent  menu-path-ahmaberkeleyedu-node-229   odd  "><a href="http://ahma.berkeley.edu/node/229" title="" class="menu__link">Courses</a><ul><li class="menu__item menu-865 menu-path-node-229  first   odd  "><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item menu-870 menu-path-node-1383   even  "><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item menu-776 menu-path-node-195   odd  "><a href="/courses/past" class="menu__link">Past Courses</a></li>
+<li class="menu__item menu-779 menu-path-node-216   even   last "><a href="/ahma-seminars" class="menu__link">AHMA Seminars</a></li>
+</ul></li>
+<li class="menu__item menu-782 menuparent  menu-path-node-8   even   last "><a href="/research-and-funding" class="menu__link">Research &amp; Funding</a><ul><li class="menu__item menu-465 menu-path-node-9  first   odd  "><a href="/resources/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item menu-466 menu-path-node-10   even  "><a href="/research-and-funding/research-facilities" class="menu__link">Research Facilities</a></li>
+<li class="menu__item menu-467 menu-path-node-11   odd  "><a href="/research-and-funding/research-activities" class="menu__link">Research Activities</a></li>
+<li class="menu__item menu-469 menu-path-node-13   even  "><a href="/research-and-funding/study-abroad" class="menu__link">Study Abroad</a></li>
+<li class="menu__item menu-468 menu-path-node-12   odd  "><a href="/research-and-funding/off-campus-study" class="menu__link">Off-Campus Study—USA</a></li>
+<li class="menu__item menu-546 menu-path-node-53   even   last "><a href="/research-and-funding/funding-opportunities" class="menu__link">Funding Opportunities</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+      </div><!-- /#navigation -->
+    
+      <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-30" class="block block-nodeblock footer-block first last odd">
+
+      
+  <div id="node-30" class="node node-editblock view-mode-full clearfix" about="/blocks/footer-nav-links" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Footer Nav Links" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="nav-links"><a href="/">Home</a> <a href="/about">About</a> <a href="/program">Program</a> <a href="/people/faculty">People</a> <a href="/courses">Courses</a> <a href="/events">Events</a> <a class="last" href="/research-and-funding">Research and Funding</a></p>
+<div class="loc-copy-info clearfix">
+	<p class="location-info">7233 Dwinelle Hall University of California ~ Berkeley, CA 94720 ~ 510-643-8741 (Phone) ~ 510-643-2959 (Fax)</p>
+	<p class="copyright-info">© 2017 UC Regents</p>
+</div>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+  </div><!-- /#page-wrapper -->
+
+</div><!-- /#page -->
+
+  </body>
+</html>
+http://ahma.berkeley.edu/program/student-handbook /n<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://ahma.berkeley.edu/sites/all/themes/ahma/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/15" />
+<link rel="canonical" href="/program/student-handbook" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Student Handbook | Ancient History &amp; Mediterranean Archaeology</title>
+
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_qMSPO_WnyDQ_fIKBwl0BrBL0dFTUJIyAy_8A6FprMTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_RNTD5XbId3f-EzfqNFG0PISgDQsxIj_qhR6txw8gemQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://ahma.berkeley.edu/sites/default/files/css/css_-qw2GPTPiwuoeQ4-P3LZpkaMuutZUWY5R5TXAIMHk2w.css" media="all" />
+<![endif]-->
+  <script src="http://ahma.berkeley.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_gBoSdTsbO5TTeOmqEi5o8yZugwRoJUJi0t2MCEMdSqk.js"></script>
+<script src="http://ahma.berkeley.edu/sites/default/files/js/js_2Val_73yRSV-QKkBsklKs4l0z5F0IkoLYOBZ--jfACI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahma","theme_token":"1So2HPNdU-dliBPM2v0dG0wbNHK_gxUPNpVW8MLyPws","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ahma\/system.menus.css":1,"sites\/all\/themes\/ahma\/css\/normalize.css":1,"sites\/all\/themes\/ahma\/css\/wireframes.css":1,"sites\/all\/themes\/ahma\/css\/layout.css":1,"sites\/all\/themes\/ahma\/css\/tabs.css":1,"sites\/all\/themes\/ahma\/css\/pages.css":1,"sites\/all\/themes\/ahma\/css\/navigation.css":1,"sites\/all\/themes\/ahma\/css\/views-styles.css":1,"sites\/all\/themes\/ahma\/css\/nodes.css":1,"sites\/all\/themes\/ahma\/css\/comments.css":1,"sites\/all\/themes\/ahma\/css\/forms.css":1,"sites\/all\/themes\/ahma\/css\/print.css":1,"sites\/all\/themes\/ahma\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"nice_menus_options":{"delay":"800","speed":"slow"},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/program\/student-handbook":true}});</script>
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-15 node-type-page section-program" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header id="header" role="banner">
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://ahma.berkeley.edu/sites/all/themes/ahma/logo.png" alt="Home" /></a>
+    
+      <p class="university"><a href="http://berkeley.edu">University of California, Berkeley</a></p>
+      <h1 id="site-name">
+        <a href="/" title="Home" rel="home"><span class="sitename-text">Ancient History</span> <span class="sitename-ampersand">&</span> <span class="sitename-text">Mediterranean Archaeology</span></a>
+      </h1>
+
+    
+      <div class="header__region region region-header">
+    <div id="block-nodeblock-48" class="block block-nodeblock give-block first odd">
+
+      
+  <div id="node-48" class="node node-editblock view-mode-full clearfix" about="/blocks/give-ahma" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Give to AHMA" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://givetocal.berkeley.edu/browse/?u=125#.UG8cUo5K8pk">Give to AHMA »</a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form class="search-form" action="/program/student-handbook" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search this site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="19" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input style="display:none;" type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-mtDNZH6YgleIGveWjlSbqubf7y1jbLqAI0oVXuFEKwg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="page-wrapper">
+    <div id="main" class="clearfix">
+      <div id="content" class="column clearfix" role="main">
+                        <a id="main-content"></a>
+                          <h1 class="title" id="page-title">Student Handbook</h1>
+                                                        
+
+
+<article class="node-15 node node-page view-mode-full clearfix" about="/program/student-handbook" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Student Handbook" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-image-opt field-type-image field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><a href="http://ahma.berkeley.edu/sites/default/files/pages/ancient-library.jpg" title="" class="colorbox" rel="gallery-node-15"><img typeof="foaf:Image" src="http://ahma.berkeley.edu/sites/default/files/styles/node_main/public/pages/ancient-library.jpg?itok=JjDfQ7nr" alt="" title="" /></a></div>
+      </div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>For detailed information on admissions and degree requirements, download the <a href="/sites/default/files/uploads/ahma_handbook_2017-18_0.pdf">student handbook</a>. </p>
+<p>For a tabular presentation of the program requirements, click <a href="https://docs.google.com/a/berkeley.edu/spreadsheets/d/1E-es4-B5glyLPsHcUIqk9BJR1sPxoFzkB_NufXc-tTc/edit?usp=sharing">here</a>.</p>
+</div></div></div>
+  
+  
+</article>
+              </div><!-- /#content -->
+
+      
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-menu-block-1" class="block block-menu-block subnav-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-868"><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-513"><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item is-active is-active-trail is-leaf leaf active-trail active menu-mlid-471"><a href="/program/student-handbook" class="menu__link is-active-trail active-trail active">Student Handbook</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-808"><a href="/apply" class="menu__link">Apply</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-470"><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></div>
+
+</div>
+  </section>
+                  </aside><!-- /.sidebars -->
+      
+    </div><!-- /#main -->
+
+
+          <div id="navigation">
+        
+          <div class="region region-navigation">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+      
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu__item menu-461 menuparent  menu-path-node-5  first   odd  "><a href="/about" class="menu__link">About</a><ul><li class="menu__item menu-845 menu-path-node-5  first   odd  "><a href="/about" title="" class="menu__link">About AHMA</a></li>
+<li class="menu__item menu-472 menu-path-node-16   even  "><a href="/about/uc-berkeley" class="menu__link">About UC Berkeley</a></li>
+<li class="menu__item menu-479  menu-path-about-news   odd  "><a href="/about/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-522 menu-path-node-49   even   last "><a href="/about/contact" class="menu__link">Contact</a></li>
+</ul></li>
+<li class="menu__item menu-462 menuparent  menu-path-node-6 active-trail   even  "><a href="/program" title="" class="menu__link">Program</a><ul><li class="menu__item menu-868 menu-path-node-1324  first   odd  "><a href="/staff-and-faculty-advisors" class="menu__link">Staff and Faculty Advisors</a></li>
+<li class="menu__item menu-513 menu-path-node-45   even  "><a href="/program/admissions" class="menu__link">Admissions</a></li>
+<li class="menu__item menu-471 menu-path-node-15 active-trail   odd  "><a href="/program/student-handbook" class="menu__link active">Student Handbook</a></li>
+<li class="menu__item menu-808 menu-path-node-425   even  "><a href="/apply" class="menu__link">Apply</a></li>
+<li class="menu__item menu-470 menu-path-node-14   odd   last "><a href="/program/gruen-prize" title="" class="menu__link">Joan B. Gruen Prize</a></li>
+</ul></li>
+<li class="menu__item menu-515 menuparent  menu-path-node-47   odd  "><a href="/people" title="" class="menu__link">People</a><ul><li class="menu__item menu-504 menu-path-people-faculty  first   odd  "><a href="/people/faculty" title="" class="menu__link">Participating Faculty</a></li>
+<li class="menu__item menu-507 menu-path-people-emeriti   even  "><a href="/people/emeriti" class="menu__link">Emeriti Faculty</a></li>
+<li class="menu__item menu-509 menu-path-people-students   odd  "><a href="/people/students" class="menu__link">Current Students</a></li>
+<li class="menu__item menu-511 menu-path-people-alumni   even  "><a href="/people/alumni" title="" class="menu__link">Alumni</a></li>
+<li class="menu__item menu-523 menu-path-node-50   odd   last "><a href="/people/staff" title="" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item menu-807 menuparent  menu-path-events   even  "><a href="/events" title="" class="menu__link">Events</a><ul><li class="menu__item menu-781 menu-path-node-218  first   odd  "><a href="/pritchett-lecture" class="menu__link">The Pritchett Lecture</a></li>
+<li class="menu__item menu-780 menu-path-node-217   even  "><a href="/ahma-noon-colloquium" class="menu__link">AHMA Noon Colloquium</a></li>
+<li class="menu__item menu-783 menu-path-node-221   odd  "><a href="/aleshire-seminar" class="menu__link">The Aleshire Seminar</a></li>
+<li class="menu__item menu-784 menu-path-node-222   even  "><a href="/nemea-center-seminar" class="menu__link">The Nemea Center Seminar</a></li>
+<li class="menu__item menu-785 menu-path-node-223   odd  "><a href="/ctp-distinguished-visiting-lecturers" class="menu__link">CTP Distinguished Visiting Lecturers</a></li>
+<li class="menu__item menu-788 menu-path-node-226   even  "><a href="/berkeley-ancient-italy-roundtable" class="menu__link">Berkeley Ancient Italy Roundtable</a></li>
+<li class="menu__item menu-861 menu-path-aleshireberkeleyedu-nacgle-2016   odd   last "><a href="http://aleshire.berkeley.edu/nacgle-2016" title="" class="menu__link">2nd North American Congress of Greek and Latin Epigraphy</a></li>
+</ul></li>
+<li class="menu__item menu-463 menuparent  menu-path-ahmaberkeleyedu-node-229   odd  "><a href="http://ahma.berkeley.edu/node/229" title="" class="menu__link">Courses</a><ul><li class="menu__item menu-865 menu-path-node-229  first   odd  "><a href="/node/229" class="menu__link">Spring 2018 Courses</a></li>
+<li class="menu__item menu-870 menu-path-node-1383   even  "><a href="/fall-2017-courses" class="menu__link">Fall 2017 Courses</a></li>
+<li class="menu__item menu-776 menu-path-node-195   odd  "><a href="/courses/past" class="menu__link">Past Courses</a></li>
+<li class="menu__item menu-779 menu-path-node-216   even   last "><a href="/ahma-seminars" class="menu__link">AHMA Seminars</a></li>
+</ul></li>
+<li class="menu__item menu-782 menuparent  menu-path-node-8   even   last "><a href="/research-and-funding" class="menu__link">Research &amp; Funding</a><ul><li class="menu__item menu-465 menu-path-node-9  first   odd  "><a href="/resources/libraries" class="menu__link">Libraries</a></li>
+<li class="menu__item menu-466 menu-path-node-10   even  "><a href="/research-and-funding/research-facilities" class="menu__link">Research Facilities</a></li>
+<li class="menu__item menu-467 menu-path-node-11   odd  "><a href="/research-and-funding/research-activities" class="menu__link">Research Activities</a></li>
+<li class="menu__item menu-469 menu-path-node-13   even  "><a href="/research-and-funding/study-abroad" class="menu__link">Study Abroad</a></li>
+<li class="menu__item menu-468 menu-path-node-12   odd  "><a href="/research-and-funding/off-campus-study" class="menu__link">Off-Campus Study—USA</a></li>
+<li class="menu__item menu-546 menu-path-node-53   even   last "><a href="/research-and-funding/funding-opportunities" class="menu__link">Funding Opportunities</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+      </div><!-- /#navigation -->
+    
+      <footer id="footer" class="region region-footer">
+    <div id="block-nodeblock-30" class="block block-nodeblock footer-block first last odd">
+
+      
+  <div id="node-30" class="node node-editblock view-mode-full clearfix" about="/blocks/footer-nav-links" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Footer Nav Links" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="nav-links"><a href="/">Home</a> <a href="/about">About</a> <a href="/program">Program</a> <a href="/people/faculty">People</a> <a href="/courses">Courses</a> <a href="/events">Events</a> <a class="last" href="/research-and-funding">Research and Funding</a></p>
+<div class="loc-copy-info clearfix">
+	<p class="location-info">7233 Dwinelle Hall University of California ~ Berkeley, CA 94720 ~ 510-643-8741 (Phone) ~ 510-643-2959 (Fax)</p>
+	<p class="copyright-info">© 2017 UC Regents</p>
+</div>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</div>
+  </footer>
+  </div><!-- /#page-wrapper -->
+
+</div><!-- /#page -->
+
+  </body>
+</html>
