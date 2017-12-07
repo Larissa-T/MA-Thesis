@@ -1,0 +1,4263 @@
+http://www.ucl.ac.uk/publishing/studies /n<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+<base href="http://www.ucl.ac.uk/publishing/studies/" />
+
+        <!-- Head injector Script -->
+        <link rel="canonical"
+              href="http://www.ucl.ac.uk/publishing/studies" />
+        
+        <title>Studying at the Centre for Publishing</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+
+
+
+
+<meta name="og:title"
+      content="Studying at the Centre for Publishing" />
+<meta name="contact.name" content="Samantha Rayner" />
+<meta name="contact.email" content="s.rayner@ucl.ac.uk" />
+<meta name="dcterms.created" content="2012-12-19" />
+
+
+
+
+
+
+<meta name="dcterms.modified" content="2016-06-13" />
+
+
+<meta name="ucl.content-hidden" content="do not hide" /> 
+
+<meta name="ucl.content_type" content="Silva Folder" /> 
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+        <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/indigo/css/screen.min.css" />
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/brightpink.min.css">
+
+        
+
+        
+
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css">
+
+
+        <!--[if IE]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie.min.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie.min.css">
+        <![endif]-->
+
+        <!--[if lt IE 8]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie-old.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie-old.min.css">
+
+        <![endif]-->
+
+	<link media="print" rel="stylesheet"
+       href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/print.css" />
+
+        <link rel="shortcut icon"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon.ico">
+        <link rel="apple-touch-icon-precomposed"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-TileImage"
+              content="//cdn.ucl.ac.uk/indigo//images/favicon-144.png">
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script>
+
+       
+
+        <script>
+            var cuttingTheMustard = document.querySelector && window.localStorage && window.addEventListener;
+
+            Modernizr.load({
+                //cutting the mustard as used by the BBC
+                test : cuttingTheMustard
+                //if old browser load the shiv
+                ,nope : [
+                    '//cdn.ucl.ac.uk/indigo/js/lib/html5shiv-printshiv.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.proxy.min.js'
+                ]
+            });
+            //set conditional assets for main.js
+            var globalSiteSpecificVars = {
+                pathToJquery: '//cdn.ucl.ac.uk/indigo/js/lib/jquery-1.9.1.min'
+                ,googleAnalyticsIdsArray: []//specify array of site specific id's NOT UCL generic UA-943297-1
+            }
+            if(cuttingTheMustard){
+                globalSiteSpecificVars.pathToJquery = '//cdn.ucl.ac.uk/indigo/js/lib/jquery-2.1.1.min';
+            }
+        </script> 
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script>
+        <script src='//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/main.js'></script>
+        <script>require(['app/general','theme/indigo-autocomplete-ga','theme/silva','app/searchWithAutoComplete','app/lightbox',]);//load the default stuff</script>
+
+        <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+        <link id="respond-proxy" rel="respond-proxy"
+              href="//cdn.ucl.ac.uk/indigo/js/respond-x-domain/respond-proxy.html" />
+        <link href="/globals/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+
+</head>
+
+
+    <body id="publishing-studies"
+          class="layout-vertical layout-vertical--nav-2col section-publishing section-studies">
+
+     
+     <!--noindex-->
+        	<header class="header header--desktop">
+		<a class="header__close" href="#">
+            <img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X" />Close</a>
+        <div id="top" class="masthead">
+
+			<div class="wrapper clearfix">
+
+				<div class="masthead__search">
+					<form action="//search2.ucl.ac.uk/s/search.html" method="get">
+						<div class="search-form">
+							<input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search" name="query" value="">
+						</div>
+						<input type="hidden" name="collection" value="website-meta">
+		                <input type="hidden" name="profile" value="_website">
+						<input type="hidden" name="tab" value="websites">
+		                <input type="submit" name="submit" value="Go" class="btn search-form__input search-form__input--submit" />
+					</form>
+				</div>
+
+				<nav class="masthead__nav m-clear">
+                    <ul class="masthead__list">
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/" class="masthead__link">UCL Home</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students/" class="masthead__link">Prospective students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/students/" class="masthead__link">Current students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/staff/" class="masthead__link">Staff</a>
+                        </li>
+	                    <li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" class="give-link masthead__link">Give</a>
+	                    </li>
+                    </ul>
+                </nav>
+			</div>
+
+</div><!-- end #global-masthead -->
+
+
+    	<div class="wrapper">
+                       
+               
+		<div class="photograph">
+		
+			<div class="brand">
+				<p class="brand__heading">
+				    UCL Centre for Publishing<br />
+				    
+				</p>
+				<a class="brand__link" href="//www.ucl.ac.uk/"><span class="visually-hidden">Home</span></a>
+					<img alt="UCL logo" id="logo" class="brand__logo"
+          src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg">
+			</div>
+				
+		</div><!-- end .photograph -->
+
+
+		
+
+           
+
+           
+        
+
+          
+    <div class="sidebar">
+        <!-- mobile nav -->
+        <nav class="nav nav--mobile">
+
+
+        </nav>
+
+	
+       <!-- desktop nav -->
+        <nav class="nav nav--left">
+            <ul>
+                <li><a href="http://www.ucl.ac.uk/publishing"
+                       class="navitem">Home</a>
+                </li>
+                
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/dis"
+                      class="navitem">Dept. of Information Studies</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/about-centre"
+                      class="navitem">About the Centre for Publishing</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/events"
+                      class="navitem">Events</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/studies"
+                      class="navitem selectednav selected-section">Studying at the Centre for Publishing</a>
+                            
+                                 <ul>
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing"
+    class="">MA in Publishing</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/scholarships"
+    class="">Scholarships</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/work-placements"
+    class="">Professional Placements</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/short-courses"
+    class="">Short Courses</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/phd"
+    class="">PhD Study</a>
+                                            
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/people"
+                      class="navitem">People</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/research-consultancy"
+                      class="navitem">Research and Consultancy</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/contact"
+                      class="navitem">Contact us</a>
+                            
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div> <!-- end #sidebar -->
+
+    <nav class="nav nav--top">
+        
+        <ul>
+            <li><a href="http://www.ucl.ac.uk/publishing"
+                   class="navitem">Home</a></li>
+            
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/dis"
+    class="navitem">Dept. of Information Studies</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/about-centre"
+    class="navitem">About the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/events"
+    class="navitem">Events</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/studies"
+    class="navitem selectednav">Studying at the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/people"
+    class="navitem">People</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/research-consultancy"
+    class="navitem">Research and Consultancy</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/contact"
+    class="navitem">Contact us</a></li>
+                    
+                
+            
+        </ul>
+    </nav>
+
+
+    
+	</div> <!-- end .wrapper -->
+
+    </header><!-- end #nav-wrap -->
+
+    <!--endnoindex-->
+
+        <div class="wrapper site-content">
+            <!--noindex-->
+            <header class="header header--mobile default-header">
+	<a class="header header__open" href="#">
+				<img src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu">
+			</a>
+</header>
+
+
+            <!--endnoindex-->
+            <div class="site-content__inner clearfix">
+                <div class="site-content__body">
+                    <!--noindex-->
+                    
+    <nav class="breadcrumb clearfix">
+        <ul class="breadcrumb__list">
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk"
+                   data-href="http://www.ucl.ac.uk">UCL Home</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing"
+                   data-href="http://www.ucl.ac.uk/publishing">UCL Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies"
+                   data-href="http://www.ucl.ac.uk/publishing/studies">Studying at the Centre for Publishing</a>
+                
+            </li>
+        </ul>
+    </nav>
+
+                    <!--endnoindex-->
+                    <div class="site-content__main">
+
+                        <article class="article clearfix">
+                            <!-- Start Silva content --> 
+<h1 class="heading">Studying at the Centre for Publishing</h1>
+<img src="http://www.ucl.ac.uk/publishing/studies/Books_are_my_bag.jpg" width="512" height="195" alt="Books are my bag" class="no-respond" title="Books are my bag" /><p class="p">The UCL Centre for Publishing offers various opportunities for post-graduate level study.</p>
+<p class="p">Our <a href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing">MA programme</a> has a record of successfully training new entrants to the profession, and has close connections to the book trade world, nationally and internationally.</p>
+<p class="p">We have a variety of PhD students who are undertaking research with us, and are interested in hearing from those who are considering undertaking <a href="http://www.ucl.ac.uk/publishing/studies/phd">PhD</a> research in Publishing or Book Trade areas. <br /></p>
+<p class="p">We also offer the opportunity to study individual modules from our MA programme as <a href="http://www.ucl.ac.uk/publishing/studies/short-courses">Short Courses</a>, which can contribute to professional development, and count towards the MA should it be pursued further.<br /></p>
+
+
+<!-- End Silva content --> 
+
+                        </article>
+
+                    <div class="content-footer">
+                                        <hr />
+                <div id="content-footer"></div>
+
+                    </div>
+
+                    </div>
+                     <div class="content-sidebar">
+                                        <div class="site-content__sidebar">
+<table class="silvatable plain" width="100%" cellspacing="0" cellpadding="3">
+<col width="100%" class="align-left" />
+<tbody>
+<tr class="odd">
+<td class="align-left">
+  <img src="http://www.ucl.ac.uk/publishing/index_right/logo.jpg" width="276" height="137" alt="UCL Centre for Publishing logo" class="no-respond" title="UCL Centre for Publishing logo" />
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  &nbsp;
+</td>
+</tr>
+<tr class="odd">
+<td class="align-left">
+  Books are my bag: a nationwide campaign to celebrate bookshops:
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  <a class="image" href="http://www.booksaremybag.com/" title="Books Are My Bag logo" target="_self"><img src="http://www.ucl.ac.uk/publishing/images/Facebookprofilesquare.jpg" width="180" height="180" alt="Books Are My Bag logo" class="no-respond" title="Books Are My Bag logo" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+    <style type>
+        .social-buttons--hoz .social-buttons__link--linked {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/linkedin.png);
+        }
+        .workspace .social-buttons__link--linked {
+            background:none;
+        }
+        .social-buttons .social-buttons__list a.social-buttons__link--instagram {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/instagram.png);
+        }
+        .workspace .social-buttons__link--instagram {
+            background:none;
+        }
+    </style>
+    
+    <div class="social-buttons social-buttons--hoz clearfix">
+        <ul class="social-buttons__list">
+            <li class="social-buttons__item">
+                <a href="https://twitter.com/uclpublishing"
+                   class="social-buttons__link social-buttons__link--twitter">Twitter</a>
+            </li>
+            
+            
+            
+            <li class="social-buttons__item">
+                <a href="https://www.youtube.com/channel/UCIfWMgVhFf41BosbybWHMjQ"
+                   class="social-buttons__link social-buttons__link--youtube">YouTube</a>
+            </li>
+            <li class="social-buttons__item">
+                <a href="https://www.instagram.com/publishingucl/"
+                   class="social-buttons__link social-buttons__link--instagram">Instagram</a>
+            </li>
+                        
+        </ul>
+    </div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--noindex-->
+
+         
+
+         
+              
+
+<footer class="footer wrapper"> 
+    <div class="footer__inner clearfix">
+        
+
+
+        
+
+
+        
+
+
+
+        <article class="block block--col-1">
+            <h2 class="as-h5">UCL facilities</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li>
+                <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-2">
+            <h2 class="as-h5">UCL locations</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-3">
+            <h2 class="as-h5">Connect with UCL</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li>
+            </ul>
+        </article>
+
+        <div class="clearfix"></div>
+
+        <ul id="social" class="list-inline">
+            <!-- <li class="follow">Follow UCL's updates on:</li> -->
+            <li><a href="//twitter.com/ucl"><img src="//cdn.ucl.ac.uk/img/twitter.png" alt="Twitter" width="35" height="35" /></a></li>
+            <li><a href="//www.facebook.com/uclofficial"><img src="//cdn.ucl.ac.uk/img/facebook.png" alt="Facebook" width="35" height="35" /></a></li>
+            <li><a href="//www.youtube.com/ucltv"><img src="//cdn.ucl.ac.uk/img/youtube-icon-square.png" alt="YouTube" width="35" height="35" /></a></li>
+            <li><a href="//soundcloud.com/uclsound"><img src="//cdn.ucl.ac.uk/img/soundcloud.png" alt="SoundCloud" width="35" height="35" /></a></li>
+            <li><a href="//www.flickr.com/photos/uclnews"><img src="//cdn.ucl.ac.uk/img/flickr.png" alt="Flickr" width="35" height="35" /></a></li>
+            <li><a href="//www.instagram.com/ucl/"><img src="//cdn.ucl.ac.uk/img/instagram-badge.png" alt="Instagram" width="35" height="35" /></a></li>
+            <li><a href="//medium.com/ucl-antenna"><img src="//cdn.ucl.ac.uk/img/antenna.png" alt="Antenna" width="35" height="35" /></a></li>
+        </ul>
+
+
+        <hr class="clear">
+
+        <ul class="footer__list list-unstyled zero-bottom">
+            <li class="footer__item">
+                University College London, Gower Street, London, WC1E 6BT
+                +44 (0)20 7679 2000
+            </li>
+        </ul>
+
+        <ul class="footer__links list-inline footer__list list-unstyled list-inline--divided">
+            <li class="footer__item">
+                Copyright &copy; 2017 UCL 
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/foi">Freedom of Information</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/accessibility">Accessibility</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a>
+            </li>
+             <li>
+                <a href="http://www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a>
+           </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/contact-list">Contact Us</a>
+            </li>
+            <li class="footer__item">
+                <span class="silva-edit-cross"><a
+    rel="nofollow"
+    href="http://www.ucl.ac.uk/publishing/studies/edit"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/img/blank.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></span>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+         
+        <!--endnoindex-->
+    </body>
+</html>
+http://www.ucl.ac.uk/publishing/studies/ma-in-publishing /n<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+<base href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing/" />
+
+        <!-- Head injector Script -->
+        <link rel="canonical"
+              href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing" />
+        
+        <title>MA in Publishing</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+
+
+
+
+<meta name="og:title" content="MA in Publishing" />
+<meta name="contact.name" content="Samantha Rayner" />
+<meta name="contact.email" content="s.rayner@ucl.ac.uk" />
+<meta name="dcterms.created" content="2011-03-21" />
+
+
+<meta name="dcterms.modified" content="2017-09-17" /> 
+
+
+
+
+
+
+<meta name="ucl.content-hidden" content="do not hide" /> 
+
+<meta name="ucl.content_type" content="Silva Document" /> 
+
+
+        
+    
+
+<meta name="og:article:published_time" content="2017-09-17" />
+<meta property="article:published_time" content="2017-09-17" />
+
+
+
+
+
+
+
+
+
+
+        <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/indigo/css/screen.min.css" />
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/brightpink.min.css">
+
+        
+
+        
+
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css">
+
+
+        <!--[if IE]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie.min.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie.min.css">
+        <![endif]-->
+
+        <!--[if lt IE 8]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie-old.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie-old.min.css">
+
+        <![endif]-->
+
+	<link media="print" rel="stylesheet"
+       href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/print.css" />
+
+        <link rel="shortcut icon"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon.ico">
+        <link rel="apple-touch-icon-precomposed"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-TileImage"
+              content="//cdn.ucl.ac.uk/indigo//images/favicon-144.png">
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script>
+
+       
+
+        <script>
+            var cuttingTheMustard = document.querySelector && window.localStorage && window.addEventListener;
+
+            Modernizr.load({
+                //cutting the mustard as used by the BBC
+                test : cuttingTheMustard
+                //if old browser load the shiv
+                ,nope : [
+                    '//cdn.ucl.ac.uk/indigo/js/lib/html5shiv-printshiv.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.proxy.min.js'
+                ]
+            });
+            //set conditional assets for main.js
+            var globalSiteSpecificVars = {
+                pathToJquery: '//cdn.ucl.ac.uk/indigo/js/lib/jquery-1.9.1.min'
+                ,googleAnalyticsIdsArray: []//specify array of site specific id's NOT UCL generic UA-943297-1
+            }
+            if(cuttingTheMustard){
+                globalSiteSpecificVars.pathToJquery = '//cdn.ucl.ac.uk/indigo/js/lib/jquery-2.1.1.min';
+            }
+        </script> 
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script>
+        <script src='//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/main.js'></script>
+        <script>require(['app/general','theme/indigo-autocomplete-ga','theme/silva','app/searchWithAutoComplete','app/lightbox',]);//load the default stuff</script>
+
+        <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+        <link id="respond-proxy" rel="respond-proxy"
+              href="//cdn.ucl.ac.uk/indigo/js/respond-x-domain/respond-proxy.html" />
+        <link href="/globals/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+
+</head>
+
+
+    <body id="publishing-studies-ma-in-publishing"
+          class="layout-vertical layout-vertical--nav-2col section-publishing section-studies section-ma-in-publishing">
+
+     
+     <!--noindex-->
+        	<header class="header header--desktop">
+		<a class="header__close" href="#">
+            <img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X" />Close</a>
+        <div id="top" class="masthead">
+
+			<div class="wrapper clearfix">
+
+				<div class="masthead__search">
+					<form action="//search2.ucl.ac.uk/s/search.html" method="get">
+						<div class="search-form">
+							<input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search" name="query" value="">
+						</div>
+						<input type="hidden" name="collection" value="website-meta">
+		                <input type="hidden" name="profile" value="_website">
+						<input type="hidden" name="tab" value="websites">
+		                <input type="submit" name="submit" value="Go" class="btn search-form__input search-form__input--submit" />
+					</form>
+				</div>
+
+				<nav class="masthead__nav m-clear">
+                    <ul class="masthead__list">
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/" class="masthead__link">UCL Home</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students/" class="masthead__link">Prospective students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/students/" class="masthead__link">Current students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/staff/" class="masthead__link">Staff</a>
+                        </li>
+	                    <li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" class="give-link masthead__link">Give</a>
+	                    </li>
+                    </ul>
+                </nav>
+			</div>
+
+</div><!-- end #global-masthead -->
+
+
+    	<div class="wrapper">
+                       
+               
+		<div class="photograph">
+		
+			<div class="brand">
+				<p class="brand__heading">
+				    UCL Centre for Publishing<br />
+				    
+				</p>
+				<a class="brand__link" href="//www.ucl.ac.uk/"><span class="visually-hidden">Home</span></a>
+					<img alt="UCL logo" id="logo" class="brand__logo"
+          src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg">
+			</div>
+				
+		</div><!-- end .photograph -->
+
+
+		
+
+           
+
+           
+        
+
+          
+    <div class="sidebar">
+        <!-- mobile nav -->
+        <nav class="nav nav--mobile">
+
+
+        </nav>
+
+	
+       <!-- desktop nav -->
+        <nav class="nav nav--left">
+            <ul>
+                <li><a href="http://www.ucl.ac.uk/publishing"
+                       class="navitem">Home</a>
+                </li>
+                
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/dis"
+                      class="navitem">Dept. of Information Studies</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/about-centre"
+                      class="navitem">About the Centre for Publishing</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/events"
+                      class="navitem">Events</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/studies"
+                      class="selected-section">Studying at the Centre for Publishing</a>
+                            
+                                 <ul>
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing"
+    class="selectednav">MA in Publishing</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/scholarships"
+    class="">Scholarships</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/work-placements"
+    class="">Professional Placements</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/short-courses"
+    class="">Short Courses</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/phd"
+    class="">PhD Study</a>
+                                            
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/people"
+                      class="navitem">People</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/research-consultancy"
+                      class="navitem">Research and Consultancy</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/contact"
+                      class="navitem">Contact us</a>
+                            
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div> <!-- end #sidebar -->
+
+    <nav class="nav nav--top">
+        
+        <ul>
+            <li><a href="http://www.ucl.ac.uk/publishing"
+                   class="navitem">Home</a></li>
+            
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/dis"
+    class="navitem">Dept. of Information Studies</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/about-centre"
+    class="navitem">About the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/events"
+    class="navitem">Events</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/studies"
+    class="navitem selectednav">Studying at the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/people"
+    class="navitem">People</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/research-consultancy"
+    class="navitem">Research and Consultancy</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/contact"
+    class="navitem">Contact us</a></li>
+                    
+                
+            
+        </ul>
+    </nav>
+
+
+    
+	</div> <!-- end .wrapper -->
+
+    </header><!-- end #nav-wrap -->
+
+    <!--endnoindex-->
+
+        <div class="wrapper site-content">
+            <!--noindex-->
+            <header class="header header--mobile default-header">
+	<a class="header header__open" href="#">
+				<img src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu">
+			</a>
+</header>
+
+
+            <!--endnoindex-->
+            <div class="site-content__inner clearfix">
+                <div class="site-content__body">
+                    <!--noindex-->
+                    
+    <nav class="breadcrumb clearfix">
+        <ul class="breadcrumb__list">
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk"
+                   data-href="http://www.ucl.ac.uk">UCL Home</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing"
+                   data-href="http://www.ucl.ac.uk/publishing">UCL Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies"
+                   data-href="http://www.ucl.ac.uk/publishing/studies">Studying at the Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing"
+                   data-href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing">MA in Publishing</a>
+                
+            </li>
+        </ul>
+    </nav>
+
+                    <!--endnoindex-->
+                    <div class="site-content__main">
+
+                        <article class="article clearfix">
+                            <!-- Start Silva content --> 
+<h1 class="heading">MA in Publishing</h1>
+<p class="p"><em>&quot;Publishing people are quirky, creative, unpredictable, exasperating, endearing, infuriating and gloriously diverse...&quot; Professor Iain Stevenson, Book Makers </em></p>
+<p class="p">Our MA course prepares you for a career in the challenging world of publishing. Taught by academics in the fields of Book History and Publishing Studies, and also experts and practitioners in the field, with master classes from industry leaders, the programme includes the knowledge, skills and understanding you need to become a successful publisher. From mass-market fiction to scholarly journals, from editorial to marketing, from e-content management to contracts, UCL’s MA in Publishing offers comprehensive preparation for entry to the industry.</p>
+
+<h2 class="heading">What the course will give you</h2>
+
+
+
+
+
+<p class="p">Today's publishing industry needs graduates with both a practical insight into how this complex industry functions and a range of transferable skills. This is what this course will give you. In particular, on successful completion you will be able to apply and develop:</p>
+<ul class="disc">
+<li>Editorial, sales and marketing skills</li>
+<li>Publishing business plans </li>
+<li>Contract negotiation and copyright management</li>
+<li>Digital publishing awareness</li>
+<li>Global publishing, export and licensing</li>
+<li>Project management skills</li>
+<li>Critical approaches to problem solving in teams</li>
+</ul>
+<p class="p">Further information is available on <a href="http://www.ucl.ac.uk/publishing/how-to-apply">how to apply</a>.</p>
+<p class="p">The Centre for Publishing MA aims to cover a wide spread of publishing disciplines, from fiction and trade to professional, academic, scholarly and educational. Teaching staff possess a range of advanced research knowledge, book trade experience and networks of contacts across all fields in the UK and internationally.</p>
+<p class="p">The aim of the course is to equip you with a clear understanding of how the publishing industry works and to give you the knowledge, confidence and abilities to move quickly in building a successful publishing career. </p>
+
+<h2 class="heading">Publishing teaching</h2>
+
+
+
+
+
+<p class="p">The course is modular with an emphasis on practical skills and exercises based on the real-world and team working. Topics covered include business, law, editorial management, product development, new media and research methods. Students are encouraged to be active in discussion and debate. The research environment of the Centre inspires and informs teaching. Tutors, both academics and practitioners, encourage you to explore and report on major current issues.  You will also produce a supervised research thesis. At the end of the course, taken either full- or part-time, if you have made the most of the opportunities the course offers, you should be a professional publisher ready to launch your career with a qualification from a university that the industry recognises and values.</p>
+<p class="p"><strong>Term One (September - December) Core modules</strong><br /></p>
+<ul class="disc">
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG057" target="_self">INSTG057 - Sales, Marketing and Production<br /></a></li>
+<li><a href="https://www.ucl.ac.uk/dis/taught/pg/INSTG057" target="_self"></a><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG065" target="_blank">INSTG065 - Publishing Contexts</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG067" target="_blank">INSTG067 - Author Management</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG068" target="_blank">INSTG068 - Publishing Skills</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG069" target="_blank">INSTG069 - Publishing Entrepreneurship<br /></a></li>
+</ul>
+<p class="p"><strong>Term Two (January - March) Optional modules, with the exception of INSTG068.  NOTE that optional modules will only run if  there is a quorate amount of sign-ups, and that UCL reserves the right to withdraw any option from year to year.  Check on application if there is a particular module you are interested in taking. </strong></p>
+<ul class="disc">
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG068" target="_blank">INSTG068 - Publishing Skills</a> (core module, continuing from term one)</li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG071" target="_blank">INSTG071 - Academic and Journals Publishing</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG072" target="_blank">INSTG072 - Children's Publishing</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG066" target="_blank">INSTG066 - Book Production</a> </li>
+<li><a href="http://www.ucl.ac.uk/dis/study/postgrad-study/pg/INSTG077" target="_self">INSTG077 - Theories of the Book</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG080" target="_self">INSTG080 - Illustration and Publishing</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/study/pg/INSTG081" target="_self">INSTG081 - Booksellers and Bookselling</a></li>
+</ul>
+<p class="p"><strong>Term Three (May - June)</strong></p>
+<ul class="disc">
+<li>Students are
+encouraged to acquire practical work experience in the publishing
+industry and part time opportunities will be circulated as they
+arise to all students. Students may also organise their own placements
+with the approval of staff. Staff will also assist students with
+applications and writing CVs and covering letters.</li>
+</ul>
+<ul class="disc">
+<li><a href="https://www.ucl.ac.uk/dis/taught/pg/INSTG099" target="_blank">Dissertation</a></li>
+</ul>
+
+<h2 class="heading">Publishing teachers</h2>
+
+
+
+
+
+<p class="p">The course is taught by academic experts, often in collaboration with professional leaders in their field, who between them are connected via various channels with all the leading international publishers.</p>
+<p class="p"><span class="underline">Core Academic Staff:</span></p>
+<ul class="disc">
+<li><a href="https://www.ucl.ac.uk/dis/people/nickcanty" target="_self">Mr Nicholas Canty</a></li>
+<li><a href="https://www.ucl.ac.uk/dis/people/samrayner/" target="_self">Dr Samantha Rayner</a></li>
+<li><a href="http://www.ucl.ac.uk/dis/people/melanie" target="_self">Dr Melanie Ramdarshan Bold</a></li>
+<li><a href="https://www.ucl.ac.uk/dis/people/boswell" target="_blank">Dr Daniel Boswel</a>l</li>
+<li><a href="http://www.ucl.ac.uk/dis/people/newbury" target="_self">Jon Newbury</a></li>
+</ul>
+<p class="p"><span class="underline">Visiting and Honorary Lecturers</span></p>
+<ul class="disc">
+<li>Martin Neild</li>
+<li>Dr Penelope Woolf</li>
+<li>Anthony Watkinson</li>
+<li>Anna Faherty</li>
+<li>Rachel Calder</li>
+<li>Mal Peachey</li>
+<li>Heather O'Connell</li>
+</ul>
+<p class="p">In addition, leading publishers, literary agents, authors, legal experts, booksellers and electronic authorities visit the course to give lectures and presentations. There are ‘master classes’ from industry leaders on current and controversial issues and field visits to retailers, publishers and libraries.</p>
+
+
+<!-- End Silva content --> 
+
+                        </article>
+
+                    <div class="content-footer">
+                                        <hr />
+                <div id="content-footer"></div>
+
+                    </div>
+
+                    </div>
+                     <div class="content-sidebar">
+                                        <div class="site-content__sidebar">
+<table class="silvatable plain" width="100%" cellspacing="0" cellpadding="3">
+<col width="100%" class="align-left" />
+<tbody>
+<tr class="odd">
+<td class="align-left">
+  <img src="http://www.ucl.ac.uk/publishing/index_right/logo.jpg" width="276" height="137" alt="UCL Centre for Publishing logo" class="no-respond" title="UCL Centre for Publishing logo" />
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  &nbsp;
+</td>
+</tr>
+<tr class="odd">
+<td class="align-left">
+  Books are my bag: a nationwide campaign to celebrate bookshops:
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  <a class="image" href="http://www.booksaremybag.com/" title="Books Are My Bag logo" target="_self"><img src="http://www.ucl.ac.uk/publishing/images/Facebookprofilesquare.jpg" width="180" height="180" alt="Books Are My Bag logo" class="no-respond" title="Books Are My Bag logo" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+    <style type>
+        .social-buttons--hoz .social-buttons__link--linked {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/linkedin.png);
+        }
+        .workspace .social-buttons__link--linked {
+            background:none;
+        }
+        .social-buttons .social-buttons__list a.social-buttons__link--instagram {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/instagram.png);
+        }
+        .workspace .social-buttons__link--instagram {
+            background:none;
+        }
+    </style>
+    
+    <div class="social-buttons social-buttons--hoz clearfix">
+        <ul class="social-buttons__list">
+            <li class="social-buttons__item">
+                <a href="https://twitter.com/uclpublishing"
+                   class="social-buttons__link social-buttons__link--twitter">Twitter</a>
+            </li>
+            
+            
+            
+            <li class="social-buttons__item">
+                <a href="https://www.youtube.com/channel/UCIfWMgVhFf41BosbybWHMjQ"
+                   class="social-buttons__link social-buttons__link--youtube">YouTube</a>
+            </li>
+            <li class="social-buttons__item">
+                <a href="https://www.instagram.com/publishingucl/"
+                   class="social-buttons__link social-buttons__link--instagram">Instagram</a>
+            </li>
+                        
+        </ul>
+    </div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--noindex-->
+
+         
+
+         
+              
+
+<footer class="footer wrapper"> 
+    <div class="footer__inner clearfix">
+        
+
+
+        
+
+
+        
+
+
+
+        <article class="block block--col-1">
+            <h2 class="as-h5">UCL facilities</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li>
+                <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-2">
+            <h2 class="as-h5">UCL locations</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-3">
+            <h2 class="as-h5">Connect with UCL</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li>
+            </ul>
+        </article>
+
+        <div class="clearfix"></div>
+
+        <ul id="social" class="list-inline">
+            <!-- <li class="follow">Follow UCL's updates on:</li> -->
+            <li><a href="//twitter.com/ucl"><img src="//cdn.ucl.ac.uk/img/twitter.png" alt="Twitter" width="35" height="35" /></a></li>
+            <li><a href="//www.facebook.com/uclofficial"><img src="//cdn.ucl.ac.uk/img/facebook.png" alt="Facebook" width="35" height="35" /></a></li>
+            <li><a href="//www.youtube.com/ucltv"><img src="//cdn.ucl.ac.uk/img/youtube-icon-square.png" alt="YouTube" width="35" height="35" /></a></li>
+            <li><a href="//soundcloud.com/uclsound"><img src="//cdn.ucl.ac.uk/img/soundcloud.png" alt="SoundCloud" width="35" height="35" /></a></li>
+            <li><a href="//www.flickr.com/photos/uclnews"><img src="//cdn.ucl.ac.uk/img/flickr.png" alt="Flickr" width="35" height="35" /></a></li>
+            <li><a href="//www.instagram.com/ucl/"><img src="//cdn.ucl.ac.uk/img/instagram-badge.png" alt="Instagram" width="35" height="35" /></a></li>
+            <li><a href="//medium.com/ucl-antenna"><img src="//cdn.ucl.ac.uk/img/antenna.png" alt="Antenna" width="35" height="35" /></a></li>
+        </ul>
+
+
+        <hr class="clear">
+
+        <ul class="footer__list list-unstyled zero-bottom">
+            <li class="footer__item">
+                University College London, Gower Street, London, WC1E 6BT
+                +44 (0)20 7679 2000
+            </li>
+        </ul>
+
+        <ul class="footer__links list-inline footer__list list-unstyled list-inline--divided">
+            <li class="footer__item">
+                Copyright &copy; 2017 UCL 
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/foi">Freedom of Information</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/accessibility">Accessibility</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a>
+            </li>
+             <li>
+                <a href="http://www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a>
+           </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/contact-list">Contact Us</a>
+            </li>
+            <li class="footer__item">
+                <span class="silva-edit-cross"><a
+    rel="nofollow"
+    href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing/edit"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/img/blank.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></span>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+         
+        <!--endnoindex-->
+    </body>
+</html>
+http://www.ucl.ac.uk/publishing/studies/phd /n<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+<base href="http://www.ucl.ac.uk/publishing/studies/phd/" />
+
+        <!-- Head injector Script -->
+        <link rel="canonical"
+              href="http://www.ucl.ac.uk/publishing/studies/phd" />
+        
+        <title>PhD Study</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+
+
+
+
+<meta name="og:title" content="PhD Study" />
+<meta name="contact.name" content="Samantha Rayner" />
+<meta name="contact.email" content="s.rayner@ucl.ac.uk" />
+<meta name="dcterms.created" content="2011-03-21" />
+
+
+<meta name="dcterms.modified" content="2016-06-13" /> 
+
+
+
+
+
+
+<meta name="ucl.content-hidden" content="do not hide" /> 
+
+<meta name="ucl.content_type" content="Silva Document" /> 
+
+
+        
+    
+
+<meta name="og:article:published_time" content="2016-06-13" />
+<meta property="article:published_time" content="2016-06-13" />
+
+
+
+
+
+
+
+
+
+
+        <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/indigo/css/screen.min.css" />
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/brightpink.min.css">
+
+        
+
+        
+
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css">
+
+
+        <!--[if IE]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie.min.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie.min.css">
+        <![endif]-->
+
+        <!--[if lt IE 8]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie-old.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie-old.min.css">
+
+        <![endif]-->
+
+	<link media="print" rel="stylesheet"
+       href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/print.css" />
+
+        <link rel="shortcut icon"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon.ico">
+        <link rel="apple-touch-icon-precomposed"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-TileImage"
+              content="//cdn.ucl.ac.uk/indigo//images/favicon-144.png">
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script>
+
+       
+
+        <script>
+            var cuttingTheMustard = document.querySelector && window.localStorage && window.addEventListener;
+
+            Modernizr.load({
+                //cutting the mustard as used by the BBC
+                test : cuttingTheMustard
+                //if old browser load the shiv
+                ,nope : [
+                    '//cdn.ucl.ac.uk/indigo/js/lib/html5shiv-printshiv.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.proxy.min.js'
+                ]
+            });
+            //set conditional assets for main.js
+            var globalSiteSpecificVars = {
+                pathToJquery: '//cdn.ucl.ac.uk/indigo/js/lib/jquery-1.9.1.min'
+                ,googleAnalyticsIdsArray: []//specify array of site specific id's NOT UCL generic UA-943297-1
+            }
+            if(cuttingTheMustard){
+                globalSiteSpecificVars.pathToJquery = '//cdn.ucl.ac.uk/indigo/js/lib/jquery-2.1.1.min';
+            }
+        </script> 
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script>
+        <script src='//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/main.js'></script>
+        <script>require(['app/general','theme/indigo-autocomplete-ga','theme/silva','app/searchWithAutoComplete','app/lightbox',]);//load the default stuff</script>
+
+        <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+        <link id="respond-proxy" rel="respond-proxy"
+              href="//cdn.ucl.ac.uk/indigo/js/respond-x-domain/respond-proxy.html" />
+        <link href="/globals/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+
+</head>
+
+
+    <body id="publishing-studies-phd"
+          class="layout-vertical layout-vertical--nav-2col section-publishing section-studies section-phd">
+
+     
+     <!--noindex-->
+        	<header class="header header--desktop">
+		<a class="header__close" href="#">
+            <img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X" />Close</a>
+        <div id="top" class="masthead">
+
+			<div class="wrapper clearfix">
+
+				<div class="masthead__search">
+					<form action="//search2.ucl.ac.uk/s/search.html" method="get">
+						<div class="search-form">
+							<input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search" name="query" value="">
+						</div>
+						<input type="hidden" name="collection" value="website-meta">
+		                <input type="hidden" name="profile" value="_website">
+						<input type="hidden" name="tab" value="websites">
+		                <input type="submit" name="submit" value="Go" class="btn search-form__input search-form__input--submit" />
+					</form>
+				</div>
+
+				<nav class="masthead__nav m-clear">
+                    <ul class="masthead__list">
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/" class="masthead__link">UCL Home</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students/" class="masthead__link">Prospective students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/students/" class="masthead__link">Current students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/staff/" class="masthead__link">Staff</a>
+                        </li>
+	                    <li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" class="give-link masthead__link">Give</a>
+	                    </li>
+                    </ul>
+                </nav>
+			</div>
+
+</div><!-- end #global-masthead -->
+
+
+    	<div class="wrapper">
+                       
+               
+		<div class="photograph">
+		
+			<div class="brand">
+				<p class="brand__heading">
+				    UCL Centre for Publishing<br />
+				    
+				</p>
+				<a class="brand__link" href="//www.ucl.ac.uk/"><span class="visually-hidden">Home</span></a>
+					<img alt="UCL logo" id="logo" class="brand__logo"
+          src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg">
+			</div>
+				
+		</div><!-- end .photograph -->
+
+
+		
+
+           
+
+           
+        
+
+          
+    <div class="sidebar">
+        <!-- mobile nav -->
+        <nav class="nav nav--mobile">
+
+
+        </nav>
+
+	
+       <!-- desktop nav -->
+        <nav class="nav nav--left">
+            <ul>
+                <li><a href="http://www.ucl.ac.uk/publishing"
+                       class="navitem">Home</a>
+                </li>
+                
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/dis"
+                      class="navitem">Dept. of Information Studies</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/about-centre"
+                      class="navitem">About the Centre for Publishing</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/events"
+                      class="navitem">Events</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/studies"
+                      class="selected-section">Studying at the Centre for Publishing</a>
+                            
+                                 <ul>
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing"
+    class="">MA in Publishing</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/scholarships"
+    class="">Scholarships</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/work-placements"
+    class="">Professional Placements</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/short-courses"
+    class="">Short Courses</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/phd"
+    class="selectednav">PhD Study</a>
+                                            
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/people"
+                      class="navitem">People</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/research-consultancy"
+                      class="navitem">Research and Consultancy</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/contact"
+                      class="navitem">Contact us</a>
+                            
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div> <!-- end #sidebar -->
+
+    <nav class="nav nav--top">
+        
+        <ul>
+            <li><a href="http://www.ucl.ac.uk/publishing"
+                   class="navitem">Home</a></li>
+            
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/dis"
+    class="navitem">Dept. of Information Studies</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/about-centre"
+    class="navitem">About the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/events"
+    class="navitem">Events</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/studies"
+    class="navitem selectednav">Studying at the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/people"
+    class="navitem">People</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/research-consultancy"
+    class="navitem">Research and Consultancy</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/contact"
+    class="navitem">Contact us</a></li>
+                    
+                
+            
+        </ul>
+    </nav>
+
+
+    
+	</div> <!-- end .wrapper -->
+
+    </header><!-- end #nav-wrap -->
+
+    <!--endnoindex-->
+
+        <div class="wrapper site-content">
+            <!--noindex-->
+            <header class="header header--mobile default-header">
+	<a class="header header__open" href="#">
+				<img src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu">
+			</a>
+</header>
+
+
+            <!--endnoindex-->
+            <div class="site-content__inner clearfix">
+                <div class="site-content__body">
+                    <!--noindex-->
+                    
+    <nav class="breadcrumb clearfix">
+        <ul class="breadcrumb__list">
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk"
+                   data-href="http://www.ucl.ac.uk">UCL Home</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing"
+                   data-href="http://www.ucl.ac.uk/publishing">UCL Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies"
+                   data-href="http://www.ucl.ac.uk/publishing/studies">Studying at the Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies/phd"
+                   data-href="http://www.ucl.ac.uk/publishing/studies/phd">PhD Study</a>
+                
+            </li>
+        </ul>
+    </nav>
+
+                    <!--endnoindex-->
+                    <div class="site-content__main">
+
+                        <article class="article clearfix">
+                            <!-- Start Silva content --> 
+<h1 class="heading">PhD Study</h1>
+<img src="http://www.ucl.ac.uk/publishing/images/bench.jpg" width="200" height="160" alt="UCL bench in the courtyard" class="no-respond float-right" title="UCL bench in the courtyard" /><p class="p"><br />In comparison with other sectors of the economy, publishing has historically
+  seriously under-invested in research and development. Old attitudes are changing
+  rapidly as publishers see for themselves the benefits of a more systematic,
+  evidence-based, approach to the some of the big questions facing the industry.
+  High quality publishing research has never been more relevant or more highly
+sought after.</p>
+<p class="p"> Our doctoral programme is open to recent graduates and professional practitioners
+  alike, and aims to provide a learning environment which encourages critical
+  thought, the building of links between theory and practice, and self-direction
+  within a supportive, highly engaged, peer community. Our current
+  students,
+  both full and part-time, come from different parts of the world, and from a
+  range of publishing and information management backgrounds. There are also
+  opportunities, from time to time, for well qualified staff to join the Centre
+as research fellows to work on medium- and longer-term funded projects.</p>
+<p class="p"> PhD students undertake a piece of supervised research, working independently
+  or as part of a larger research team working on externally funded projects.
+  There are also ample opportunities for collaboration with publishers, libraries
+  or other institutions in the London area and with other departments at UCL.
+  The PhD is awarded for a thesis of no more than 100,000 words which must represent
+a distinct and significant contribution to publishing research.</p>
+<p class="p"><a href="https://www.ucl.ac.uk/dis/phd" target="_self">How to apply</a><br /></p>
+
+
+<!-- End Silva content --> 
+
+                        </article>
+
+                    <div class="content-footer">
+                                        <hr />
+                <div id="content-footer"></div>
+
+                    </div>
+
+                    </div>
+                     <div class="content-sidebar">
+                                        <div class="site-content__sidebar">
+<table class="silvatable plain" width="100%" cellspacing="0" cellpadding="3">
+<col width="100%" class="align-left" />
+<tbody>
+<tr class="odd">
+<td class="align-left">
+  <img src="http://www.ucl.ac.uk/publishing/index_right/logo.jpg" width="276" height="137" alt="UCL Centre for Publishing logo" class="no-respond" title="UCL Centre for Publishing logo" />
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  &nbsp;
+</td>
+</tr>
+<tr class="odd">
+<td class="align-left">
+  Books are my bag: a nationwide campaign to celebrate bookshops:
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  <a class="image" href="http://www.booksaremybag.com/" title="Books Are My Bag logo" target="_self"><img src="http://www.ucl.ac.uk/publishing/images/Facebookprofilesquare.jpg" width="180" height="180" alt="Books Are My Bag logo" class="no-respond" title="Books Are My Bag logo" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+    <style type>
+        .social-buttons--hoz .social-buttons__link--linked {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/linkedin.png);
+        }
+        .workspace .social-buttons__link--linked {
+            background:none;
+        }
+        .social-buttons .social-buttons__list a.social-buttons__link--instagram {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/instagram.png);
+        }
+        .workspace .social-buttons__link--instagram {
+            background:none;
+        }
+    </style>
+    
+    <div class="social-buttons social-buttons--hoz clearfix">
+        <ul class="social-buttons__list">
+            <li class="social-buttons__item">
+                <a href="https://twitter.com/uclpublishing"
+                   class="social-buttons__link social-buttons__link--twitter">Twitter</a>
+            </li>
+            
+            
+            
+            <li class="social-buttons__item">
+                <a href="https://www.youtube.com/channel/UCIfWMgVhFf41BosbybWHMjQ"
+                   class="social-buttons__link social-buttons__link--youtube">YouTube</a>
+            </li>
+            <li class="social-buttons__item">
+                <a href="https://www.instagram.com/publishingucl/"
+                   class="social-buttons__link social-buttons__link--instagram">Instagram</a>
+            </li>
+                        
+        </ul>
+    </div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--noindex-->
+
+         
+
+         
+              
+
+<footer class="footer wrapper"> 
+    <div class="footer__inner clearfix">
+        
+
+
+        
+
+
+        
+
+
+
+        <article class="block block--col-1">
+            <h2 class="as-h5">UCL facilities</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li>
+                <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-2">
+            <h2 class="as-h5">UCL locations</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-3">
+            <h2 class="as-h5">Connect with UCL</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li>
+            </ul>
+        </article>
+
+        <div class="clearfix"></div>
+
+        <ul id="social" class="list-inline">
+            <!-- <li class="follow">Follow UCL's updates on:</li> -->
+            <li><a href="//twitter.com/ucl"><img src="//cdn.ucl.ac.uk/img/twitter.png" alt="Twitter" width="35" height="35" /></a></li>
+            <li><a href="//www.facebook.com/uclofficial"><img src="//cdn.ucl.ac.uk/img/facebook.png" alt="Facebook" width="35" height="35" /></a></li>
+            <li><a href="//www.youtube.com/ucltv"><img src="//cdn.ucl.ac.uk/img/youtube-icon-square.png" alt="YouTube" width="35" height="35" /></a></li>
+            <li><a href="//soundcloud.com/uclsound"><img src="//cdn.ucl.ac.uk/img/soundcloud.png" alt="SoundCloud" width="35" height="35" /></a></li>
+            <li><a href="//www.flickr.com/photos/uclnews"><img src="//cdn.ucl.ac.uk/img/flickr.png" alt="Flickr" width="35" height="35" /></a></li>
+            <li><a href="//www.instagram.com/ucl/"><img src="//cdn.ucl.ac.uk/img/instagram-badge.png" alt="Instagram" width="35" height="35" /></a></li>
+            <li><a href="//medium.com/ucl-antenna"><img src="//cdn.ucl.ac.uk/img/antenna.png" alt="Antenna" width="35" height="35" /></a></li>
+        </ul>
+
+
+        <hr class="clear">
+
+        <ul class="footer__list list-unstyled zero-bottom">
+            <li class="footer__item">
+                University College London, Gower Street, London, WC1E 6BT
+                +44 (0)20 7679 2000
+            </li>
+        </ul>
+
+        <ul class="footer__links list-inline footer__list list-unstyled list-inline--divided">
+            <li class="footer__item">
+                Copyright &copy; 2017 UCL 
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/foi">Freedom of Information</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/accessibility">Accessibility</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a>
+            </li>
+             <li>
+                <a href="http://www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a>
+           </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/contact-list">Contact Us</a>
+            </li>
+            <li class="footer__item">
+                <span class="silva-edit-cross"><a
+    rel="nofollow"
+    href="http://www.ucl.ac.uk/publishing/studies/phd/edit"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/img/blank.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></span>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+         
+        <!--endnoindex-->
+    </body>
+</html>
+http://www.ucl.ac.uk/publishing/studies/scholarships /n<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+<base href="http://www.indigo-sandbox.ucl.ac.uk/publishing/how-to-apply/" />
+
+        <!-- Head injector Script -->
+        <link rel="canonical"
+              href="http://www.ucl.ac.uk/publishing/how-to-apply" />
+        
+        <title>How to apply for the MA in Publishing</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+
+
+<meta name="description"
+      content="UCL Centre for Publishing is a policy-led, research-driven Centre for research scholarship and teaching on publishing in all forms and media and for all audiences." />
+
+<meta name="og:title"
+      content="How to apply for the MA in Publishing" />
+<meta name="contact.name" content="Samantha Rayner" />
+<meta name="contact.email" content="s.rayner@ucl.ac.uk" />
+<meta name="dcterms.created" content="2011-03-21" />
+
+
+<meta name="dcterms.modified" content="2017-05-25" /> 
+
+
+
+
+
+
+<meta name="ucl.content-hidden" content="hide" /> 
+
+<meta name="ucl.content_type" content="Silva Document" /> 
+
+
+        
+    
+
+<meta name="og:article:published_time" content="2017-05-25" />
+<meta property="article:published_time" content="2017-05-25" />
+
+
+
+
+
+
+
+
+
+
+        <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/indigo/css/screen.min.css" />
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/brightpink.min.css">
+
+        
+
+        
+
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css">
+
+
+        <!--[if IE]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie.min.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie.min.css">
+        <![endif]-->
+
+        <!--[if lt IE 8]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie-old.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie-old.min.css">
+
+        <![endif]-->
+
+	<link media="print" rel="stylesheet"
+       href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/print.css" />
+
+        <link rel="shortcut icon"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon.ico">
+        <link rel="apple-touch-icon-precomposed"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-TileImage"
+              content="//cdn.ucl.ac.uk/indigo//images/favicon-144.png">
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script>
+
+       
+
+        <script>
+            var cuttingTheMustard = document.querySelector && window.localStorage && window.addEventListener;
+
+            Modernizr.load({
+                //cutting the mustard as used by the BBC
+                test : cuttingTheMustard
+                //if old browser load the shiv
+                ,nope : [
+                    '//cdn.ucl.ac.uk/indigo/js/lib/html5shiv-printshiv.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.proxy.min.js'
+                ]
+            });
+            //set conditional assets for main.js
+            var globalSiteSpecificVars = {
+                pathToJquery: '//cdn.ucl.ac.uk/indigo/js/lib/jquery-1.9.1.min'
+                ,googleAnalyticsIdsArray: []//specify array of site specific id's NOT UCL generic UA-943297-1
+            }
+            if(cuttingTheMustard){
+                globalSiteSpecificVars.pathToJquery = '//cdn.ucl.ac.uk/indigo/js/lib/jquery-2.1.1.min';
+            }
+        </script> 
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script>
+        <script src='//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/main.js'></script>
+        <script>require(['app/general','theme/indigo-autocomplete-ga','theme/silva','app/searchWithAutoComplete','app/lightbox',]);//load the default stuff</script>
+
+        <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+        <link id="respond-proxy" rel="respond-proxy"
+              href="//cdn.ucl.ac.uk/indigo/js/respond-x-domain/respond-proxy.html" />
+        <link href="/globals/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+
+</head>
+
+
+    <body id="publishing-how-to-apply"
+          class="layout-vertical layout-vertical--nav-2col section-publishing section-how-to-apply">
+
+     
+     <!--noindex-->
+        	<header class="header header--desktop">
+		<a class="header__close" href="#">
+            <img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X" />Close</a>
+        <div id="top" class="masthead">
+
+			<div class="wrapper clearfix">
+
+				<div class="masthead__search">
+					<form action="//search2.ucl.ac.uk/s/search.html" method="get">
+						<div class="search-form">
+							<input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search" name="query" value="">
+						</div>
+						<input type="hidden" name="collection" value="website-meta">
+		                <input type="hidden" name="profile" value="_website">
+						<input type="hidden" name="tab" value="websites">
+		                <input type="submit" name="submit" value="Go" class="btn search-form__input search-form__input--submit" />
+					</form>
+				</div>
+
+				<nav class="masthead__nav m-clear">
+                    <ul class="masthead__list">
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/" class="masthead__link">UCL Home</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students/" class="masthead__link">Prospective students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/students/" class="masthead__link">Current students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/staff/" class="masthead__link">Staff</a>
+                        </li>
+	                    <li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" class="give-link masthead__link">Give</a>
+	                    </li>
+                    </ul>
+                </nav>
+			</div>
+
+</div><!-- end #global-masthead -->
+
+
+    	<div class="wrapper">
+                       
+               
+		<div class="photograph">
+		
+			<div class="brand">
+				<p class="brand__heading">
+				    UCL Centre for Publishing<br />
+				    
+				</p>
+				<a class="brand__link" href="//www.ucl.ac.uk/"><span class="visually-hidden">Home</span></a>
+					<img alt="UCL logo" id="logo" class="brand__logo"
+          src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg">
+			</div>
+				
+		</div><!-- end .photograph -->
+
+
+		
+
+           
+
+           
+        
+
+          
+    <div class="sidebar">
+        <!-- mobile nav -->
+        <nav class="nav nav--mobile">
+
+
+        </nav>
+
+	
+       <!-- desktop nav -->
+        <nav class="nav nav--left">
+            <ul>
+                <li><a href="http://www.indigo-sandbox.ucl.ac.uk/publishing"
+                       class="navitem">Home</a>
+                </li>
+                
+                    
+                        <li>
+                        
+			                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/dis"
+                      class="navitem">Dept. of Information Studies</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/about-centre"
+                      class="navitem">About the Centre for Publishing</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/events"
+                      class="navitem">Events</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/studies"
+                      class="navitem">Studying at the Centre for Publishing</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/people"
+                      class="navitem">People</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/research-consultancy"
+                      class="navitem">Research and Consultancy</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/contact"
+                      class="navitem">Contact us</a>
+                            
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div> <!-- end #sidebar -->
+
+    <nav class="nav nav--top">
+        
+        <ul>
+            <li><a href="http://www.indigo-sandbox.ucl.ac.uk/publishing"
+                   class="navitem">Home</a></li>
+            
+                
+                    
+                        <li><a
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/dis"
+    class="navitem">Dept. of Information Studies</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/about-centre"
+    class="navitem">About the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/events"
+    class="navitem">Events</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/studies"
+    class="navitem">Studying at the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/people"
+    class="navitem">People</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/research-consultancy"
+    class="navitem">Research and Consultancy</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/contact"
+    class="navitem">Contact us</a></li>
+                    
+                
+            
+        </ul>
+    </nav>
+
+
+    
+	</div> <!-- end .wrapper -->
+
+    </header><!-- end #nav-wrap -->
+
+    <!--endnoindex-->
+
+        <div class="wrapper site-content">
+            <!--noindex-->
+            <header class="header header--mobile default-header">
+	<a class="header header__open" href="#">
+				<img src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu">
+			</a>
+</header>
+
+
+            <!--endnoindex-->
+            <div class="site-content__inner clearfix">
+                <div class="site-content__body">
+                    <!--noindex-->
+                    
+    <nav class="breadcrumb clearfix">
+        <ul class="breadcrumb__list">
+            <li class="breadcrumb__item">
+                <a href="http://www.indigo-sandbox.ucl.ac.uk"
+                   data-href="http://www.indigo-sandbox.ucl.ac.uk">Indigo sandbox</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing"
+                   data-href="http://www.indigo-sandbox.ucl.ac.uk/publishing">UCL Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.indigo-sandbox.ucl.ac.uk/publishing/how-to-apply"
+                   data-href="http://www.indigo-sandbox.ucl.ac.uk/publishing/how-to-apply">How to apply for the MA in Publishing</a>
+                
+            </li>
+        </ul>
+    </nav>
+
+                    <!--endnoindex-->
+                    <div class="site-content__main">
+
+                        <article class="article clearfix">
+                            <!-- Start Silva content --> 
+<h1 class="heading">How to apply for the MA in Publishing</h1>
+<p class="p"> The Centre for Publishing welcomes applications for the MA course in Publishing,
+  starting in September each year.</p>
+
+<h2 class="heading">Entry requirements</h2>
+
+
+
+
+
+<p class="p"> 
+Normal UCL requirements (second-class Honours or equivalent) for admission to
+a graduate programme apply, but outstanding candidates will exceptionally be considered
+if they can offer significant relevant industry experience. For an informal discussion and for advice, please contact Dr Nick Canty (n.canty@ucl.ac.uk), or see below.<br /></p>
+
+<h2 class="heading">Applications</h2>
+
+
+
+
+
+<p class="p"> Closing date:<strong> 31st of May</strong> each year (to take the course in the September of the same year).  <strong>BE AWARE THAT ONCE WE HAVE OFFERED PLACES TO FILL OUR COHORT, APPLICATIONS MAY CLOSE SOONER:  EARLY APPLICATIONS ARE RECOMMENDED.</strong></p>
+<p class="p"> <strong>Applications should be made using the online or downloadable</strong><strong> <a href="http://www.ucl.ac.uk/prospective-students/graduate/apply" target="_self">application form</a>.<br /></strong></p>
+<p class="p"> For more detailed information on how to apply to UCL see: 
+  <a href="http://www.ucl.ac.uk/prospective-students/graduate-study/">http://www.ucl.ac.uk/prospective-students/graduate-study/</a></p>
+<p class="p">  Information for international students can be found at:
+  <a href="http://www.ucl.ac.uk/prospective-students/international-students/">http://www.ucl.ac.uk/prospective-students/international-students/</a></p>
+
+<h2 class="heading">Fees</h2>
+
+
+
+
+
+<p class="p">Fees can be found <a href="http://www.ucl.ac.uk/current-students/money" target="_self">here</a>.</p>
+
+<h2 class="heading">Advice for Applicants</h2>
+
+
+
+
+
+<p class="p">We select students for places on the MA after carefully reviewing the application form, and then inviting for interview those that we feel would best fit the course demands.  Skype or email interviews are arranged for overseas students. Experience in publishing is not regarded as a pre-requisite - any work experience that demonstrates good people skills, written communication skills, design work, or business sense is useful.  <br /></p>
+<p class="p">A very high level of fluency is vital, and international students should be aware that this is a demanding course, focussing on publishing in the English-speaking world, as it operates within global contexts.  To cope with the challenges the course provides, your English must be of an excellent standard, and you must understand the need for accuracy and good writing style that the publishing industry expects.</p>
+<p class="p">This course does NOT cover journalism, or magazine publishing.  Neither is it a creative writing course.  It is for people who want a career in trade, academic, or STM publishing.  </p>
+<p class="p">Your personal statement should tell us something about your ambitions, and what you like to read.  Don't just tell us you love reading -- everyone says that! -- but be specific.  What genres?  What bestsellers?  We are also looking for people who are genuinely interested in the industry  - there are plenty of free newsfeeds out there, so show us what you follow, and the trends and news items in publishing that you are aware of.  You don't need to know exactly what company you want to work for, or what job role - but we need to see you are keen to learn about the whole process of publishing, and open to engaging with challenging individual and group work tasks.</p>
+<p class="p">Our professional contacts and contexts are crucial parts of the course - and your future working environments.  We are looking for people we feel can work professionally, often under pressure, and represent themselves - and UCL - in a positive light.  We are very proud of our graduates, who have helped build the course's reputation for excellence, and who now work for publishers all over the world, in big companies, in small ones - and in ones they have started themselves.</p>
+<p class="p">Being a part of the UCL MA in Publishing is to be part of a supportive, dynamic, creative, and full programme - if this sounds appealing to you, then we look forward to receiving your application!<br /></p>
+
+<h2 class="heading">Awards</h2>
+
+
+
+
+
+<p class="p">We have a couple of scholarships available for offer holders for
+this coming year. Please note the Wiley
+scholarship is only available to full time Home and EU students. The
+Tebbutt scholarship is open to all Home and EU offer holders. Details of other awards
+suitable for international students, and further opportunities for home and EU
+students, can be found on the UCL Graduate School webpages:<strong> </strong><a href="http://www.ucl.ac.uk/prospective-students/scholarships" target="_self">http://www.ucl.ac.uk/prospective-students/scholarships/</a></p>
+<p class="p"><strong>UCL John Wiley Scholarship</strong></p>
+<p class="p">A UCL Wiley Scholarship has been established by the publishers 
+John Wiley and Sons Ltd to be awarded to an outstanding MA in Publishing student 
+at the UCL Centre for Publishing. The successful candidate will be selected 
+through an interview process by Wiley and UCL representatives. The UCL Wiley 
+Scholarship will cover full tuition fees for the one year course and an 
+internship at Wiley in the UK.
+To Apply:</p>
+<ul class="disc">
+<li>Submit an application for the MA in Publishing in the usual way, 
+signalling on the form your interest in the Wiley Scholarship
+</li>
+<li>If you are invited for an interview and offered a place, you 
+will then be able to apply for the Wiley Scholarship.</li>
+<li>A separate interview for shortlisted candidates for the Wiley 
+Scholarship will take place in early summer, with a panel made up of Wiley 
+representatives and staff from the MA Publishing course. You may be required to 
+prepare a short presentation or piece of written work. </li>
+<li>NOTE: to be eligible to apply for the Wiley Scholarship, you 
+MUST hold an offer of a place on the MA in Publishing, and be intending to take 
+up your place as a full-time student in that year. <strong>This Scholarship is 
+open to UK and EU applicants only.</strong></li>
+</ul>
+
+<h2 class="heading"></h2>
+
+
+
+
+
+<img src="http://www.indigo-sandbox.ucl.ac.uk/publishing/images/students.jpg" width="200" height="160" alt="Students, outside the Centre for Publishing" class="no-respond" title="Students, outside the Centre for Publishing" /><p class="p"><strong>For further information please contact:</strong> Dr Daniel Boswell (d.boswell@ucl.ac.uk)</p>
+<p class="p"><strong>David Tebbutt
+Scholarship</strong><br /></p>
+<p class="p">Faber and Faber and UCL awards a scholarship in memory of the 
+late David Tebbutt, Finance Director of Faber and Faber from 2002 until his 
+untimely death in September 2011.</p>
+<p class="p"> The UCL David Tebbutt Scholarship is awarded annually to fully 
+fund a place on the MA in Publishing programme, and is open to UK and EU 
+applicants.<br /></p>
+<p class="p"> The scholarship is funded by the David Tebbutt Trust, which is 
+jointly administered by Faber and Faber and the Tebbutt family. The principal 
+aim of the Trust is to further the education of those wishing to pursue a career 
+in the publishing, writing and information industries, and related fields of 
+activity. As well as funding a full year's fees, the scholarship will also carry 
+a guaranteed work placement with Faber and Faber.</p>
+<p class="p"> To Apply:</p>
+<ul class="disc">
+<li>Submit an application for the MA in Publishing in the usual way, 
+signalling on the form your interest in the Tebbutt Scholarship
+</li>
+<li>If you are invited for an interview and are offered a place, you 
+will then be able to apply for the Tebbutt Scholarship.</li>
+<li>A separate interview for shortlisted candidates for the Tebbutt 
+Scholarship will take place in late June. You may be required to prepare a 
+short presentation or piece of written work, at the discretion of the Tebbutt 
+Trust. </li>
+<li>NOTE: to be eligible to apply for the Tebbutt Scholarship, you 
+MUST hold an offer of a place on the MA in Publishing, and be intending to take 
+up your place as a full-time student in that year.</li>
+</ul>
+<p class="p"> Please contact Dr Daniel Boswell (d.boswell@ucl.ac.uk) with any queries.</p>
+<p class="p"><strong>The Stationers
+Foundation Bursary </strong></p>
+<p class="p">UK
+offer holders on UCL's MA in Publishing may apply for a £6,000
+bursary from the Stationers Foundation. The student will also be
+offered the opportunity to receive mentoring during their studies from an
+appropriate member of the Stationers’ Company. On successful completion of
+their Masters programme the award winner will be presented with the Freedom of
+the Stationers’ Company and it is expected that they will participate in the
+life of the Company. Dispensation for payment of the annual membership fee will
+be given for the following three years.
+</p>
+<p class="p">To apply for this bursary complete the application form
+available on the Stationers website here (link to this page <a href="https://stationers.org/education-charity/education/postgraduate-bursary-scheme.html">https://stationers.org/education-charity/education/postgraduate-bursary-scheme.html</a>) and
+return to Ian Evans <a href="mailto:ian.evans@ucl.ac.uk">ian.evans@ucl.ac.uk</a>
+by Monday 19th June.</p>
+
+
+<!-- End Silva content --> 
+
+                        </article>
+
+                    <div class="content-footer">
+                                        <hr />
+                <div id="content-footer"></div>
+
+                    </div>
+
+                    </div>
+                     <div class="content-sidebar">
+                                        <div class="site-content__sidebar">
+<table class="silvatable plain" width="100%" cellspacing="0" cellpadding="3">
+<col width="100%" class="align-left" />
+<tbody>
+<tr class="odd">
+<td class="align-left">
+  <img src="http://www.indigo-sandbox.ucl.ac.uk/publishing/index_right/logo.jpg" width="276" height="137" alt="UCL Centre for Publishing logo" class="no-respond" title="UCL Centre for Publishing logo" />
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  &nbsp;
+</td>
+</tr>
+<tr class="odd">
+<td class="align-left">
+  Books are my bag: a nationwide campaign to celebrate bookshops:
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  <a class="image" href="http://www.booksaremybag.com/" title="Books Are My Bag logo" target="_self"><img src="http://www.indigo-sandbox.ucl.ac.uk/publishing/images/Facebookprofilesquare.jpg" width="180" height="180" alt="Books Are My Bag logo" class="no-respond" title="Books Are My Bag logo" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+    <style type>
+        .social-buttons--hoz .social-buttons__link--linked {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/linkedin.png);
+        }
+        .workspace .social-buttons__link--linked {
+            background:none;
+        }
+        .social-buttons .social-buttons__list a.social-buttons__link--instagram {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/instagram.png);
+        }
+        .workspace .social-buttons__link--instagram {
+            background:none;
+        }
+    </style>
+    
+    <div class="social-buttons social-buttons--hoz clearfix">
+        <ul class="social-buttons__list">
+            <li class="social-buttons__item">
+                <a href="https://twitter.com/uclpublishing"
+                   class="social-buttons__link social-buttons__link--twitter">Twitter</a>
+            </li>
+            
+            
+            
+            <li class="social-buttons__item">
+                <a href="https://www.youtube.com/channel/UCIfWMgVhFf41BosbybWHMjQ"
+                   class="social-buttons__link social-buttons__link--youtube">YouTube</a>
+            </li>
+            <li class="social-buttons__item">
+                <a href="https://www.instagram.com/publishingucl/"
+                   class="social-buttons__link social-buttons__link--instagram">Instagram</a>
+            </li>
+                        
+        </ul>
+    </div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--noindex-->
+
+         
+
+         
+              
+
+<footer class="footer wrapper"> 
+    <div class="footer__inner clearfix">
+        
+
+
+        
+
+
+        
+
+
+
+        <article class="block block--col-1">
+            <h2 class="as-h5">UCL facilities</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li>
+                <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-2">
+            <h2 class="as-h5">UCL locations</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-3">
+            <h2 class="as-h5">Connect with UCL</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li>
+            </ul>
+        </article>
+
+        <div class="clearfix"></div>
+
+        <ul id="social" class="list-inline">
+            <!-- <li class="follow">Follow UCL's updates on:</li> -->
+            <li><a href="//twitter.com/ucl"><img src="//cdn.ucl.ac.uk/img/twitter.png" alt="Twitter" width="35" height="35" /></a></li>
+            <li><a href="//www.facebook.com/uclofficial"><img src="//cdn.ucl.ac.uk/img/facebook.png" alt="Facebook" width="35" height="35" /></a></li>
+            <li><a href="//www.youtube.com/ucltv"><img src="//cdn.ucl.ac.uk/img/youtube-icon-square.png" alt="YouTube" width="35" height="35" /></a></li>
+            <li><a href="//soundcloud.com/uclsound"><img src="//cdn.ucl.ac.uk/img/soundcloud.png" alt="SoundCloud" width="35" height="35" /></a></li>
+            <li><a href="//www.flickr.com/photos/uclnews"><img src="//cdn.ucl.ac.uk/img/flickr.png" alt="Flickr" width="35" height="35" /></a></li>
+            <li><a href="//www.instagram.com/ucl/"><img src="//cdn.ucl.ac.uk/img/instagram-badge.png" alt="Instagram" width="35" height="35" /></a></li>
+            <li><a href="//medium.com/ucl-antenna"><img src="//cdn.ucl.ac.uk/img/antenna.png" alt="Antenna" width="35" height="35" /></a></li>
+        </ul>
+
+
+        <hr class="clear">
+
+        <ul class="footer__list list-unstyled zero-bottom">
+            <li class="footer__item">
+                University College London, Gower Street, London, WC1E 6BT
+                +44 (0)20 7679 2000
+            </li>
+        </ul>
+
+        <ul class="footer__links list-inline footer__list list-unstyled list-inline--divided">
+            <li class="footer__item">
+                Copyright &copy; 2017 UCL 
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/foi">Freedom of Information</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/accessibility">Accessibility</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a>
+            </li>
+             <li>
+                <a href="http://www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a>
+           </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/contact-list">Contact Us</a>
+            </li>
+            <li class="footer__item">
+                <span class="silva-edit-cross"><a
+    rel="nofollow"
+    href="http://www.indigo-sandbox.ucl.ac.uk/publishing/how-to-apply/edit"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/img/blank.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></span>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+         
+        <!--endnoindex-->
+    </body>
+</html>
+http://www.ucl.ac.uk/publishing/studies/short-courses /n<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+<base href="http://www.ucl.ac.uk/publishing/studies/short-courses/" />
+
+        <!-- Head injector Script -->
+        <link rel="canonical"
+              href="http://www.ucl.ac.uk/publishing/studies/short-courses" />
+        
+        <title>Short Courses</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+
+
+
+
+<meta name="og:title" content="Short Courses" />
+<meta name="contact.name" content="Samantha Rayner" />
+<meta name="contact.email" content="s.rayner@ucl.ac.uk" />
+<meta name="dcterms.created" content="2012-12-19" />
+
+
+<meta name="dcterms.modified" content="2017-01-09" /> 
+
+
+
+
+
+
+<meta name="ucl.content-hidden" content="do not hide" /> 
+
+<meta name="ucl.content_type" content="Silva Document" /> 
+
+
+        
+    
+
+<meta name="og:article:published_time" content="2017-01-09" />
+<meta property="article:published_time" content="2017-01-09" />
+
+
+
+
+
+
+
+
+
+
+        <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/indigo/css/screen.min.css" />
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/brightpink.min.css">
+
+        
+
+        
+
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css">
+
+
+        <!--[if IE]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie.min.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie.min.css">
+        <![endif]-->
+
+        <!--[if lt IE 8]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie-old.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie-old.min.css">
+
+        <![endif]-->
+
+	<link media="print" rel="stylesheet"
+       href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/print.css" />
+
+        <link rel="shortcut icon"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon.ico">
+        <link rel="apple-touch-icon-precomposed"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-TileImage"
+              content="//cdn.ucl.ac.uk/indigo//images/favicon-144.png">
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script>
+
+       
+
+        <script>
+            var cuttingTheMustard = document.querySelector && window.localStorage && window.addEventListener;
+
+            Modernizr.load({
+                //cutting the mustard as used by the BBC
+                test : cuttingTheMustard
+                //if old browser load the shiv
+                ,nope : [
+                    '//cdn.ucl.ac.uk/indigo/js/lib/html5shiv-printshiv.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.proxy.min.js'
+                ]
+            });
+            //set conditional assets for main.js
+            var globalSiteSpecificVars = {
+                pathToJquery: '//cdn.ucl.ac.uk/indigo/js/lib/jquery-1.9.1.min'
+                ,googleAnalyticsIdsArray: []//specify array of site specific id's NOT UCL generic UA-943297-1
+            }
+            if(cuttingTheMustard){
+                globalSiteSpecificVars.pathToJquery = '//cdn.ucl.ac.uk/indigo/js/lib/jquery-2.1.1.min';
+            }
+        </script> 
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script>
+        <script src='//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/main.js'></script>
+        <script>require(['app/general','theme/indigo-autocomplete-ga','theme/silva','app/searchWithAutoComplete','app/lightbox',]);//load the default stuff</script>
+
+        <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+        <link id="respond-proxy" rel="respond-proxy"
+              href="//cdn.ucl.ac.uk/indigo/js/respond-x-domain/respond-proxy.html" />
+        <link href="/globals/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+
+</head>
+
+
+    <body id="publishing-studies-short-courses"
+          class="layout-vertical layout-vertical--nav-2col section-publishing section-studies section-short-courses">
+
+     
+     <!--noindex-->
+        	<header class="header header--desktop">
+		<a class="header__close" href="#">
+            <img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X" />Close</a>
+        <div id="top" class="masthead">
+
+			<div class="wrapper clearfix">
+
+				<div class="masthead__search">
+					<form action="//search2.ucl.ac.uk/s/search.html" method="get">
+						<div class="search-form">
+							<input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search" name="query" value="">
+						</div>
+						<input type="hidden" name="collection" value="website-meta">
+		                <input type="hidden" name="profile" value="_website">
+						<input type="hidden" name="tab" value="websites">
+		                <input type="submit" name="submit" value="Go" class="btn search-form__input search-form__input--submit" />
+					</form>
+				</div>
+
+				<nav class="masthead__nav m-clear">
+                    <ul class="masthead__list">
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/" class="masthead__link">UCL Home</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students/" class="masthead__link">Prospective students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/students/" class="masthead__link">Current students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/staff/" class="masthead__link">Staff</a>
+                        </li>
+	                    <li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" class="give-link masthead__link">Give</a>
+	                    </li>
+                    </ul>
+                </nav>
+			</div>
+
+</div><!-- end #global-masthead -->
+
+
+    	<div class="wrapper">
+                       
+               
+		<div class="photograph">
+		
+			<div class="brand">
+				<p class="brand__heading">
+				    UCL Centre for Publishing<br />
+				    
+				</p>
+				<a class="brand__link" href="//www.ucl.ac.uk/"><span class="visually-hidden">Home</span></a>
+					<img alt="UCL logo" id="logo" class="brand__logo"
+          src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg">
+			</div>
+				
+		</div><!-- end .photograph -->
+
+
+		
+
+           
+
+           
+        
+
+          
+    <div class="sidebar">
+        <!-- mobile nav -->
+        <nav class="nav nav--mobile">
+
+
+        </nav>
+
+	
+       <!-- desktop nav -->
+        <nav class="nav nav--left">
+            <ul>
+                <li><a href="http://www.ucl.ac.uk/publishing"
+                       class="navitem">Home</a>
+                </li>
+                
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/dis"
+                      class="navitem">Dept. of Information Studies</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/about-centre"
+                      class="navitem">About the Centre for Publishing</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/events"
+                      class="navitem">Events</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/studies"
+                      class="selected-section">Studying at the Centre for Publishing</a>
+                            
+                                 <ul>
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing"
+    class="">MA in Publishing</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/scholarships"
+    class="">Scholarships</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/work-placements"
+    class="">Professional Placements</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/short-courses"
+    class="selectednav">Short Courses</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/phd"
+    class="">PhD Study</a>
+                                            
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/people"
+                      class="navitem">People</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/research-consultancy"
+                      class="navitem">Research and Consultancy</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/contact"
+                      class="navitem">Contact us</a>
+                            
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div> <!-- end #sidebar -->
+
+    <nav class="nav nav--top">
+        
+        <ul>
+            <li><a href="http://www.ucl.ac.uk/publishing"
+                   class="navitem">Home</a></li>
+            
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/dis"
+    class="navitem">Dept. of Information Studies</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/about-centre"
+    class="navitem">About the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/events"
+    class="navitem">Events</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/studies"
+    class="navitem selectednav">Studying at the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/people"
+    class="navitem">People</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/research-consultancy"
+    class="navitem">Research and Consultancy</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/contact"
+    class="navitem">Contact us</a></li>
+                    
+                
+            
+        </ul>
+    </nav>
+
+
+    
+	</div> <!-- end .wrapper -->
+
+    </header><!-- end #nav-wrap -->
+
+    <!--endnoindex-->
+
+        <div class="wrapper site-content">
+            <!--noindex-->
+            <header class="header header--mobile default-header">
+	<a class="header header__open" href="#">
+				<img src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu">
+			</a>
+</header>
+
+
+            <!--endnoindex-->
+            <div class="site-content__inner clearfix">
+                <div class="site-content__body">
+                    <!--noindex-->
+                    
+    <nav class="breadcrumb clearfix">
+        <ul class="breadcrumb__list">
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk"
+                   data-href="http://www.ucl.ac.uk">UCL Home</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing"
+                   data-href="http://www.ucl.ac.uk/publishing">UCL Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies"
+                   data-href="http://www.ucl.ac.uk/publishing/studies">Studying at the Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies/short-courses"
+                   data-href="http://www.ucl.ac.uk/publishing/studies/short-courses">Short Courses</a>
+                
+            </li>
+        </ul>
+    </nav>
+
+                    <!--endnoindex-->
+                    <div class="site-content__main">
+
+                        <article class="article clearfix">
+                            <!-- Start Silva content --> 
+<h1 class="heading">Short Courses</h1>
+<p class="p">Please see the Departmental web page at <a href="http://www.ucl.ac.uk/dis/short-courses-cpd-information-studies" target="_self">http://www.ucl.ac.uk/dis/short-courses-cpd-information-studies</a>. We currently have no vacancies on any of our Publishing modules for short course students. Watch this space for news on short courses in collaboration with the Institute of English Studies which we are developing over 2017. </p>
+<p class="p"><strong>PLEASE NOTE: Availability of these depends on class space, and will vary accordingly from year to year. </strong> Please contact Ian Evans (<a href="mailto:ian.evans@ucl.ac.uk">ian.evans@ucl.ac.uk</a>) if you
+have any queries about the possibilities from Summer 2017 onwards.</p>
+<div class="medium-image image-center"><img src="http://www.ucl.ac.uk/publishing/images/maletplace.jpg" width="482" height="160" alt="Students on Malet Place" class="medium-image image-center" title="Students on Malet Place" /></div>
+
+<!-- End Silva content --> 
+
+                        </article>
+
+                    <div class="content-footer">
+                                        <hr />
+                <div id="content-footer"></div>
+
+                    </div>
+
+                    </div>
+                     <div class="content-sidebar">
+                                        <div class="site-content__sidebar">
+<table class="silvatable plain" width="100%" cellspacing="0" cellpadding="3">
+<col width="100%" class="align-left" />
+<tbody>
+<tr class="odd">
+<td class="align-left">
+  <img src="http://www.ucl.ac.uk/publishing/index_right/logo.jpg" width="276" height="137" alt="UCL Centre for Publishing logo" class="no-respond" title="UCL Centre for Publishing logo" />
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  &nbsp;
+</td>
+</tr>
+<tr class="odd">
+<td class="align-left">
+  Books are my bag: a nationwide campaign to celebrate bookshops:
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  <a class="image" href="http://www.booksaremybag.com/" title="Books Are My Bag logo" target="_self"><img src="http://www.ucl.ac.uk/publishing/images/Facebookprofilesquare.jpg" width="180" height="180" alt="Books Are My Bag logo" class="no-respond" title="Books Are My Bag logo" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+    <style type>
+        .social-buttons--hoz .social-buttons__link--linked {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/linkedin.png);
+        }
+        .workspace .social-buttons__link--linked {
+            background:none;
+        }
+        .social-buttons .social-buttons__list a.social-buttons__link--instagram {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/instagram.png);
+        }
+        .workspace .social-buttons__link--instagram {
+            background:none;
+        }
+    </style>
+    
+    <div class="social-buttons social-buttons--hoz clearfix">
+        <ul class="social-buttons__list">
+            <li class="social-buttons__item">
+                <a href="https://twitter.com/uclpublishing"
+                   class="social-buttons__link social-buttons__link--twitter">Twitter</a>
+            </li>
+            
+            
+            
+            <li class="social-buttons__item">
+                <a href="https://www.youtube.com/channel/UCIfWMgVhFf41BosbybWHMjQ"
+                   class="social-buttons__link social-buttons__link--youtube">YouTube</a>
+            </li>
+            <li class="social-buttons__item">
+                <a href="https://www.instagram.com/publishingucl/"
+                   class="social-buttons__link social-buttons__link--instagram">Instagram</a>
+            </li>
+                        
+        </ul>
+    </div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--noindex-->
+
+         
+
+         
+              
+
+<footer class="footer wrapper"> 
+    <div class="footer__inner clearfix">
+        
+
+
+        
+
+
+        
+
+
+
+        <article class="block block--col-1">
+            <h2 class="as-h5">UCL facilities</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li>
+                <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-2">
+            <h2 class="as-h5">UCL locations</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-3">
+            <h2 class="as-h5">Connect with UCL</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li>
+            </ul>
+        </article>
+
+        <div class="clearfix"></div>
+
+        <ul id="social" class="list-inline">
+            <!-- <li class="follow">Follow UCL's updates on:</li> -->
+            <li><a href="//twitter.com/ucl"><img src="//cdn.ucl.ac.uk/img/twitter.png" alt="Twitter" width="35" height="35" /></a></li>
+            <li><a href="//www.facebook.com/uclofficial"><img src="//cdn.ucl.ac.uk/img/facebook.png" alt="Facebook" width="35" height="35" /></a></li>
+            <li><a href="//www.youtube.com/ucltv"><img src="//cdn.ucl.ac.uk/img/youtube-icon-square.png" alt="YouTube" width="35" height="35" /></a></li>
+            <li><a href="//soundcloud.com/uclsound"><img src="//cdn.ucl.ac.uk/img/soundcloud.png" alt="SoundCloud" width="35" height="35" /></a></li>
+            <li><a href="//www.flickr.com/photos/uclnews"><img src="//cdn.ucl.ac.uk/img/flickr.png" alt="Flickr" width="35" height="35" /></a></li>
+            <li><a href="//www.instagram.com/ucl/"><img src="//cdn.ucl.ac.uk/img/instagram-badge.png" alt="Instagram" width="35" height="35" /></a></li>
+            <li><a href="//medium.com/ucl-antenna"><img src="//cdn.ucl.ac.uk/img/antenna.png" alt="Antenna" width="35" height="35" /></a></li>
+        </ul>
+
+
+        <hr class="clear">
+
+        <ul class="footer__list list-unstyled zero-bottom">
+            <li class="footer__item">
+                University College London, Gower Street, London, WC1E 6BT
+                +44 (0)20 7679 2000
+            </li>
+        </ul>
+
+        <ul class="footer__links list-inline footer__list list-unstyled list-inline--divided">
+            <li class="footer__item">
+                Copyright &copy; 2017 UCL 
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/foi">Freedom of Information</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/accessibility">Accessibility</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a>
+            </li>
+             <li>
+                <a href="http://www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a>
+           </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/contact-list">Contact Us</a>
+            </li>
+            <li class="footer__item">
+                <span class="silva-edit-cross"><a
+    rel="nofollow"
+    href="http://www.ucl.ac.uk/publishing/studies/short-courses/edit"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/img/blank.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></span>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+         
+        <!--endnoindex-->
+    </body>
+</html>
+http://www.ucl.ac.uk/publishing/studies/work-placements /n<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+<base href="http://www.ucl.ac.uk/publishing/studies/work-placements/" />
+
+        <!-- Head injector Script -->
+        <link rel="canonical"
+              href="http://www.ucl.ac.uk/publishing/studies/work-placements" />
+        
+        <title>Professional Placements</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+
+
+
+
+<meta name="og:title" content="Professional Placements" />
+<meta name="contact.name" content="Samantha Rayner" />
+<meta name="contact.email" content="s.rayner@ucl.ac.uk" />
+<meta name="dcterms.created" content="2011-04-01" />
+
+
+<meta name="dcterms.modified" content="2017-09-17" /> 
+
+
+
+
+
+
+<meta name="ucl.content-hidden" content="do not hide" /> 
+
+<meta name="ucl.content_type" content="Silva Document" /> 
+
+
+        
+    
+
+<meta name="og:article:published_time" content="2017-09-17" />
+<meta property="article:published_time" content="2017-09-17" />
+
+
+
+
+
+
+
+
+
+
+        <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/indigo/css/screen.min.css" />
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/brightpink.min.css">
+
+        
+
+        
+
+        <link rel="stylesheet" media="screen, projection"
+              href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css">
+
+
+        <!--[if IE]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie.min.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie.min.css">
+        <![endif]-->
+
+        <!--[if lt IE 8]>
+            <link media="screen, projection"
+                  rel="stylesheet"
+                  href="//cdn.ucl.ac.uk/indigo/css/ie-old.css" />
+            <link rel="stylesheet"
+                  media="screen, projection"
+                  href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/ie-old.min.css">
+
+        <![endif]-->
+
+	<link media="print" rel="stylesheet"
+       href="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/css/print.css" />
+
+        <link rel="shortcut icon"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon.ico">
+        <link rel="apple-touch-icon-precomposed"
+              href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-TileImage"
+              content="//cdn.ucl.ac.uk/indigo//images/favicon-144.png">
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script>
+
+       
+
+        <script>
+            var cuttingTheMustard = document.querySelector && window.localStorage && window.addEventListener;
+
+            Modernizr.load({
+                //cutting the mustard as used by the BBC
+                test : cuttingTheMustard
+                //if old browser load the shiv
+                ,nope : [
+                    '//cdn.ucl.ac.uk/indigo/js/lib/html5shiv-printshiv.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.min.js'
+                    ,'//cdn.ucl.ac.uk/indigo/js/lib/respond.proxy.min.js'
+                ]
+            });
+            //set conditional assets for main.js
+            var globalSiteSpecificVars = {
+                pathToJquery: '//cdn.ucl.ac.uk/indigo/js/lib/jquery-1.9.1.min'
+                ,googleAnalyticsIdsArray: []//specify array of site specific id's NOT UCL generic UA-943297-1
+            }
+            if(cuttingTheMustard){
+                globalSiteSpecificVars.pathToJquery = '//cdn.ucl.ac.uk/indigo/js/lib/jquery-2.1.1.min';
+            }
+        </script> 
+
+        <script src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script>
+        <script src='//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/main.js'></script>
+        <script>require(['app/general','theme/indigo-autocomplete-ga','theme/silva','app/searchWithAutoComplete','app/lightbox',]);//load the default stuff</script>
+
+        <script>
+(function(){
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if (dom) { this.domain = dom; }
+    js.id = "boomr-if-as";
+    js.src = "//c.go-mpulse.net/boomerang/" +
+    "SUWW2-HAKPB-Q4WN7-TQ6VL-GTMT2";
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+        <link id="respond-proxy" rel="respond-proxy"
+              href="//cdn.ucl.ac.uk/indigo/js/respond-x-domain/respond-proxy.html" />
+        <link href="/globals/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+
+</head>
+
+
+    <body id="publishing-studies-work-placements"
+          class="layout-vertical layout-vertical--nav-2col section-publishing section-studies section-work-placements">
+
+     
+     <!--noindex-->
+        	<header class="header header--desktop">
+		<a class="header__close" href="#">
+            <img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X" />Close</a>
+        <div id="top" class="masthead">
+
+			<div class="wrapper clearfix">
+
+				<div class="masthead__search">
+					<form action="//search2.ucl.ac.uk/s/search.html" method="get">
+						<div class="search-form">
+							<input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search" name="query" value="">
+						</div>
+						<input type="hidden" name="collection" value="website-meta">
+		                <input type="hidden" name="profile" value="_website">
+						<input type="hidden" name="tab" value="websites">
+		                <input type="submit" name="submit" value="Go" class="btn search-form__input search-form__input--submit" />
+					</form>
+				</div>
+
+				<nav class="masthead__nav m-clear">
+                    <ul class="masthead__list">
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/" class="masthead__link">UCL Home</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students/" class="masthead__link">Prospective students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/students/" class="masthead__link">Current students</a>
+                        </li>
+                        <li class="masthead__item"><a href="//www.ucl.ac.uk/staff/" class="masthead__link">Staff</a>
+                        </li>
+	                    <li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" class="give-link masthead__link">Give</a>
+	                    </li>
+                    </ul>
+                </nav>
+			</div>
+
+</div><!-- end #global-masthead -->
+
+
+    	<div class="wrapper">
+                       
+               
+		<div class="photograph">
+		
+			<div class="brand">
+				<p class="brand__heading">
+				    UCL Centre for Publishing<br />
+				    
+				</p>
+				<a class="brand__link" href="//www.ucl.ac.uk/"><span class="visually-hidden">Home</span></a>
+					<img alt="UCL logo" id="logo" class="brand__logo"
+          src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg">
+			</div>
+				
+		</div><!-- end .photograph -->
+
+
+		
+
+           
+
+           
+        
+
+          
+    <div class="sidebar">
+        <!-- mobile nav -->
+        <nav class="nav nav--mobile">
+
+
+        </nav>
+
+	
+       <!-- desktop nav -->
+        <nav class="nav nav--left">
+            <ul>
+                <li><a href="http://www.ucl.ac.uk/publishing"
+                       class="navitem">Home</a>
+                </li>
+                
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/dis"
+                      class="navitem">Dept. of Information Studies</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/about-centre"
+                      class="navitem">About the Centre for Publishing</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/events"
+                      class="navitem">Events</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/studies"
+                      class="selected-section">Studying at the Centre for Publishing</a>
+                            
+                                 <ul>
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/ma-in-publishing"
+    class="">MA in Publishing</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/scholarships"
+    class="">Scholarships</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/work-placements"
+    class="selectednav">Professional Placements</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/short-courses"
+    class="">Short Courses</a>
+                                            
+                                        </li>
+                                    
+                                     
+                                         <li>
+                                            <a
+    href="http://www.ucl.ac.uk/publishing/studies/phd"
+    class="">PhD Study</a>
+                                            
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/people"
+                      class="navitem">People</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/research-consultancy"
+                      class="navitem">Research and Consultancy</a>
+                            
+                        </li>
+                    
+                    
+                        <li>
+                        
+			                <a href="http://www.ucl.ac.uk/publishing/contact"
+                      class="navitem">Contact us</a>
+                            
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div> <!-- end #sidebar -->
+
+    <nav class="nav nav--top">
+        
+        <ul>
+            <li><a href="http://www.ucl.ac.uk/publishing"
+                   class="navitem">Home</a></li>
+            
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/dis"
+    class="navitem">Dept. of Information Studies</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/about-centre"
+    class="navitem">About the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/events"
+    class="navitem">Events</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/studies"
+    class="navitem selectednav">Studying at the Centre for Publishing</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/people"
+    class="navitem">People</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/research-consultancy"
+    class="navitem">Research and Consultancy</a></li>
+                    
+                
+                
+                    
+                        <li><a
+    href="http://www.ucl.ac.uk/publishing/contact"
+    class="navitem">Contact us</a></li>
+                    
+                
+            
+        </ul>
+    </nav>
+
+
+    
+	</div> <!-- end .wrapper -->
+
+    </header><!-- end #nav-wrap -->
+
+    <!--endnoindex-->
+
+        <div class="wrapper site-content">
+            <!--noindex-->
+            <header class="header header--mobile default-header">
+	<a class="header header__open" href="#">
+				<img src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu">
+			</a>
+</header>
+
+
+            <!--endnoindex-->
+            <div class="site-content__inner clearfix">
+                <div class="site-content__body">
+                    <!--noindex-->
+                    
+    <nav class="breadcrumb clearfix">
+        <ul class="breadcrumb__list">
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk"
+                   data-href="http://www.ucl.ac.uk">UCL Home</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing"
+                   data-href="http://www.ucl.ac.uk/publishing">UCL Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies"
+                   data-href="http://www.ucl.ac.uk/publishing/studies">Studying at the Centre for Publishing</a>
+                <!--[if lte IE 7]>&raquo;<![endif]-->
+            </li>
+            <li class="breadcrumb__item">
+                <a href="http://www.ucl.ac.uk/publishing/studies/work-placements"
+                   data-href="http://www.ucl.ac.uk/publishing/studies/work-placements">Professional Placements</a>
+                
+            </li>
+        </ul>
+    </nav>
+
+                    <!--endnoindex-->
+                    <div class="site-content__main">
+
+                        <article class="article clearfix">
+                            <!-- Start Silva content --> 
+<h1 class="heading">Professional Placements</h1>
+<p class="p">
+
+    All students have the opportunity to try and gain work experience in the publishing
+    industry, giving them the chance to see at first hand how the
+    industry operates and to apply knowledge gained from the course.  </p>
+<p class="p"><strong>Placements are not a compulsory part of the MA, but students will have access to opportunities offered by our publishing partners, and be assisted by tutors in creating cvs and in interview preparation. </strong></p>
+<p class="p">Placements come from across the publishing industry and
+    include literary scouts and agents, trade and mass market publishers
+    and more specialist academic and reference publishers. </p>
+<p class="p">Placement hosts have recently (2016-2017) included:</p>
+<ul class="disc">
+<li>Phaidon</li>
+<li>Bloomsbury Publishing</li>
+<li>Unbound</li>
+<li>Plexus</li>
+<li>Rising Stars</li>
+<li>Ubiquity Press</li>
+<li>V&amp;A Publishing</li>
+<li>Sage Publishing</li>
+<li>Curtis Brown </li>
+<li>Harper Collins</li>
+<li>Colman Getty</li>
+<li>Carlton Books</li>
+<li>Head of Zeus</li>
+<li>Clays </li>
+<li>Duncan Baird / Watkins</li>
+<li>Faber and Faber</li>
+<li>Egmont</li>
+<li>Working Partners</li>
+<li>Whitefox</li>
+<li>Bounce </li>
+<li>Granta</li>
+<li>Walker Books</li>
+<li>LAW Agency</li>
+<li>Laurence King</li>
+<li>ICE Publishing</li>
+<li>Thomson Reuters</li>
+<li>BMJ Publishing</li>
+<li>Blake Friedmann </li>
+<li>Rogers, Coleridge &amp; Wright</li>
+<li>Wiley </li>
+<li>IB Tauris</li>
+</ul>
+
+
+<!-- End Silva content --> 
+
+                        </article>
+
+                    <div class="content-footer">
+                                        <hr />
+                <div id="content-footer"></div>
+
+                    </div>
+
+                    </div>
+                     <div class="content-sidebar">
+                                        <div class="site-content__sidebar">
+<table class="silvatable plain" width="100%" cellspacing="0" cellpadding="3">
+<col width="100%" class="align-left" />
+<tbody>
+<tr class="odd">
+<td class="align-left">
+  <img src="http://www.ucl.ac.uk/publishing/index_right/logo.jpg" width="276" height="137" alt="UCL Centre for Publishing logo" class="no-respond" title="UCL Centre for Publishing logo" />
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  &nbsp;
+</td>
+</tr>
+<tr class="odd">
+<td class="align-left">
+  Books are my bag: a nationwide campaign to celebrate bookshops:
+</td>
+</tr>
+<tr class="even">
+<td class="align-left">
+  <a class="image" href="http://www.booksaremybag.com/" title="Books Are My Bag logo" target="_self"><img src="http://www.ucl.ac.uk/publishing/images/Facebookprofilesquare.jpg" width="180" height="180" alt="Books Are My Bag logo" class="no-respond" title="Books Are My Bag logo" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+    <style type>
+        .social-buttons--hoz .social-buttons__link--linked {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/linkedin.png);
+        }
+        .workspace .social-buttons__link--linked {
+            background:none;
+        }
+        .social-buttons .social-buttons__list a.social-buttons__link--instagram {
+            background-image: url(//cdn.ucl.ac.uk/indigo/images/social-buttons/instagram.png);
+        }
+        .workspace .social-buttons__link--instagram {
+            background:none;
+        }
+    </style>
+    
+    <div class="social-buttons social-buttons--hoz clearfix">
+        <ul class="social-buttons__list">
+            <li class="social-buttons__item">
+                <a href="https://twitter.com/uclpublishing"
+                   class="social-buttons__link social-buttons__link--twitter">Twitter</a>
+            </li>
+            
+            
+            
+            <li class="social-buttons__item">
+                <a href="https://www.youtube.com/channel/UCIfWMgVhFf41BosbybWHMjQ"
+                   class="social-buttons__link social-buttons__link--youtube">YouTube</a>
+            </li>
+            <li class="social-buttons__item">
+                <a href="https://www.instagram.com/publishingucl/"
+                   class="social-buttons__link social-buttons__link--instagram">Instagram</a>
+            </li>
+                        
+        </ul>
+    </div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--noindex-->
+
+         
+
+         
+              
+
+<footer class="footer wrapper"> 
+    <div class="footer__inner clearfix">
+        
+
+
+        
+
+
+        
+
+
+
+        <article class="block block--col-1">
+            <h2 class="as-h5">UCL facilities</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li>
+                <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-2">
+            <h2 class="as-h5">UCL locations</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li>
+            </ul>
+        </article>
+
+
+
+        <article class="block block--col-3">
+            <h2 class="as-h5">Connect with UCL</h2>
+            <ul class="footer__list list-unstyled">
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li>
+                <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li>
+            </ul>
+        </article>
+
+        <div class="clearfix"></div>
+
+        <ul id="social" class="list-inline">
+            <!-- <li class="follow">Follow UCL's updates on:</li> -->
+            <li><a href="//twitter.com/ucl"><img src="//cdn.ucl.ac.uk/img/twitter.png" alt="Twitter" width="35" height="35" /></a></li>
+            <li><a href="//www.facebook.com/uclofficial"><img src="//cdn.ucl.ac.uk/img/facebook.png" alt="Facebook" width="35" height="35" /></a></li>
+            <li><a href="//www.youtube.com/ucltv"><img src="//cdn.ucl.ac.uk/img/youtube-icon-square.png" alt="YouTube" width="35" height="35" /></a></li>
+            <li><a href="//soundcloud.com/uclsound"><img src="//cdn.ucl.ac.uk/img/soundcloud.png" alt="SoundCloud" width="35" height="35" /></a></li>
+            <li><a href="//www.flickr.com/photos/uclnews"><img src="//cdn.ucl.ac.uk/img/flickr.png" alt="Flickr" width="35" height="35" /></a></li>
+            <li><a href="//www.instagram.com/ucl/"><img src="//cdn.ucl.ac.uk/img/instagram-badge.png" alt="Instagram" width="35" height="35" /></a></li>
+            <li><a href="//medium.com/ucl-antenna"><img src="//cdn.ucl.ac.uk/img/antenna.png" alt="Antenna" width="35" height="35" /></a></li>
+        </ul>
+
+
+        <hr class="clear">
+
+        <ul class="footer__list list-unstyled zero-bottom">
+            <li class="footer__item">
+                University College London, Gower Street, London, WC1E 6BT
+                +44 (0)20 7679 2000
+            </li>
+        </ul>
+
+        <ul class="footer__links list-inline footer__list list-unstyled list-inline--divided">
+            <li class="footer__item">
+                Copyright &copy; 2017 UCL 
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/foi">Freedom of Information</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/accessibility">Accessibility</a>
+            </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a>
+            </li>
+             <li>
+                <a href="http://www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a>
+           </li>
+            <li class="footer__item">
+                <a href="http://www.ucl.ac.uk/contact-list">Contact Us</a>
+            </li>
+            <li class="footer__item">
+                <span class="silva-edit-cross"><a
+    rel="nofollow"
+    href="http://www.ucl.ac.uk/publishing/studies/work-placements/edit"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/img/blank.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></span>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+         
+        <!--endnoindex-->
+    </body>
+</html>
